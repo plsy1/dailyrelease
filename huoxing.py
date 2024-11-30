@@ -38,18 +38,21 @@ class Item:
 
 class ImdbData:
     def __init__(self, title):
-        self.id = title['id']
-        self.type = title['type']
-        self.primary_title = title['primary_title']
-        self.original_title = title['original_title']
-        self.runtime_minutes = title['runtime_minutes']
-        self.plot = title['plot']
-        self.genres = title['genres']
-        self.poster_urls = [p['url'] for p in title['posters']] 
-        self.spoken_language_codes = [l['code'] for l in title['spoken_languages']]
-        self.spoken_language_names = [l['name'] for l in title['spoken_languages']] 
-        self.origin_country_codes = [c['code'] for c in title['origin_countries']]  
-        self.origin_country_names = [c['name'] for c in title['origin_countries']] 
+        if not title:
+            raise ValueError("Title data is None or invalid.") 
+
+        self.id = title.get('id', None)
+        self.type = title.get('type', None)
+        self.primary_title = title.get('primary_title', None)
+        self.original_title = title.get('original_title', None)
+        self.runtime_minutes = title.get('runtime_minutes', None)
+        self.plot = title.get('plot', None)
+        self.genres = title.get('genres', [])
+        self.poster_urls = [p['url'] for p in title.get('posters', [])] 
+        self.spoken_language_codes = [l['code'] for l in title.get('spoken_languages', [])]
+        self.spoken_language_names = [l['name'] for l in title.get('spoken_languages', [])] 
+        self.origin_country_codes = [c['code'] for c in title.get('origin_countries', [])]  
+        self.origin_country_names = [c['name'] for c in title.get('origin_countries', [])]
 
 # 解析单条条目
 def parse_item(div):
