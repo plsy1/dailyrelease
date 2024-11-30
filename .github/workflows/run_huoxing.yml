@@ -27,11 +27,9 @@ jobs:
       run: python huoxing.py
 
     - name: Commit and push JSON result
-      env:
-        GITHUBACTIONTOKEN: ${{ secrets.GITHUBACTIONTOKEN }}
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "github-actions@github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         git add *.json
         git commit -m "Add daily JSON result"
-        git push https://$GITHUBACTIONTOKEN@github.com/${{ github.repository }}.git HEAD:main
+        git push
