@@ -111,18 +111,17 @@ def parse_item(div):
         description = ""
         
     try:
-        if href:
-            url = f"https://huo720.com{href}"  
-            response = get_html(url) 
-            if response and response.status_code == 200:
-                soup = BeautifulSoup(response.text, "html.parser")
-                div_imdb = soup.find("div", class_="rounded-3 text-bg-warning d-inline p-1", string="IMDb")
-                h3_tag = div_imdb.find_next("h3", class_="mb-0 pt-2 text-light")
-                a_tag = h3_tag.find("a") if h3_tag else None
-                imdb_id = a_tag['href']
-                pattern = r"/title/tt(\d+)"
-                match = re.search(pattern, imdb_id)
-                imdb_id = f'tt{match.group(1)}'
+        url = f"https://huo720.com{href}"
+        print(f'正在处理 {url}')  
+        response = get_html(url) 
+        soup = BeautifulSoup(response.text, "html.parser")
+        div_imdb = soup.find("div", class_="rounded-3 text-bg-warning d-inline p-1", string="IMDb")
+        h3_tag = div_imdb.find_next("h3", class_="mb-0 pt-2 text-light")
+        a_tag = h3_tag.find("a") if h3_tag else None
+        imdb_id = a_tag['href']
+        pattern = r"/title/tt(\d+)"
+        match = re.search(pattern, imdb_id)
+        imdb_id = f'tt{match.group(1)}'
     except Exception as e:
         imdb_id = ''
         print(f"发生错误: {e}")
@@ -249,11 +248,16 @@ if __name__ == "__main__":
     response = get_html("https://huo720.com/calendar/upcoming")
     if response:
         items = parse_items(response.text)
-        items_dict = [item.to_dict() for item in items]
         current_year = datetime.now().year
+        unique_items = []
+        seen = set()
         for item in items:
-            replace_imdb_info(item)
-            convert_country_name_to_chinese(item)
-            item_date = datetime.strptime(item.date, "%m月%d日").replace(year=current_year)
-            formatted_date = item_date.strftime("%Y%m%d")  
-            save_to_json([item.to_dict()], formatted_date)
+            item_key = (item.title, item.date)
+            if item_key not in seen:
+                seen.add(item_key) 
+                unique_items.append(item)  
+                replace_imdb_info(item)
+                convert_country_name_to_chinese(item)
+                item_date = datetime.strptime(item.date, "%m月%d日").replace(year=current_year)
+                formatted_date = item_date.strftime("%Y%m%d")  
+                save_to_json([item.to_dict()], formatted_date)
