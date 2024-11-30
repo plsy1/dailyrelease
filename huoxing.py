@@ -135,8 +135,11 @@ def parse_items(html):
         return []
 
     item_divs = soup.find_all("div", class_="bg-white rounded-3 border mb-3")
-    #items = [parse_item(div) for div in item_divs]
-    items = [parse_item(item_divs[0])]
+    items = [parse_item(div) for div in item_divs]
+    
+    # 测试用
+    #items = [parse_item(item_divs[0])]
+    
     return items
 
 
