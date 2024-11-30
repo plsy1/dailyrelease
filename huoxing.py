@@ -182,39 +182,43 @@ def save_to_json(data, date):
         print(f"保存 JSON 文件时出错: {e}")
 
 def replace_imdb_info(item: Item):
-    imdb_id = item.imdb_id
-    url = 'https://graph.imdbapi.dev/v1'
-    query = f"""
-    query titleById {{
-      title(id: "{imdb_id}") {{
-        id
-        type
-        primary_title
-        original_title
-        runtime_minutes
-        plot
-        genres
-        posters {{
-          url
+    try:
+        imdb_id = item.imdb_id
+        url = 'https://graph.imdbapi.dev/v1'
+        query = f"""
+        query titleById {{
+        title(id: "{imdb_id}") {{
+            id
+            type
+            primary_title
+            original_title
+            runtime_minutes
+            plot
+            genres
+            posters {{
+            url
+            }}
+            spoken_languages {{
+            code
+            name
+            }}
+            origin_countries {{
+            code
+            name
+            }}
         }}
-        spoken_languages {{
-          code
-          name
         }}
-        origin_countries {{
-          code
-          name
-        }}
-      }}
-    }}
-    """
+        """
 
-    response = requests.post(url, json={'query': query})
-    data = response.json().get('data', {})
-    imdbData = ImdbData(data['title'])
-    
-    item.poster_url = imdbData.poster_urls[0] if imdbData.poster_urls else item.poster_url
-    item.description = imdbData.plot if imdbData.plot else item.description
+        response = requests.post(url, json={'query': query})
+        data = response.json().get('data', {})
+        
+        imdbData = ImdbData(data['title'])
+        
+        item.poster_url = imdbData.poster_urls[0] if imdbData.poster_urls else item.poster_url
+        item.description = imdbData.plot if imdbData.plot else item.description
+    except Exception:
+        return
 
 def load_country_data(file_path="country-code.json"):
     with open(file_path, "r", encoding="utf-8") as f:
