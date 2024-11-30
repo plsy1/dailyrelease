@@ -28,10 +28,10 @@ jobs:
 
     - name: Commit and push JSON result
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUBACTIONTOKEN }}
+        GITHUBACTIONTOKEN: ${{ secrets.GITHUBACTIONTOKEN }}
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions@github.com"
         git add *.json
         git commit -m "Add daily JSON result"
-        git push https://github.com/${{ github.repository }}.git HEAD:main
+        git push https://$GITHUBACTIONTOKEN@github.com/${{ github.repository }}.git HEAD:main
