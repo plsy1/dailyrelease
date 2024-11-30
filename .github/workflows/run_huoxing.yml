@@ -30,10 +30,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p api/huoxing
+          mkdir -p data/huoxing
           if ls *.json 1> /dev/null 2>&1; then
-            mv *.json api/huoxing/
-            git add api/huoxing/*.json
+            mv *.json data/huoxing/
+            git add data/huoxing/*.json
             git commit -m "Add daily JSON result"
             git push
           else
