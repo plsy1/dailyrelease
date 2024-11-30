@@ -26,20 +26,25 @@ jobs:
       - name: Run huoxing.py
         run: python huoxing.py
 
-      - name: Commit and push JSON result
+      - name: Commit and push JSON result to gh-pages
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin gh-pages
+          git checkout gh-pages
+
           mkdir -p data/huoxing
+
           if ls *.json 1> /dev/null 2>&1; then
-            rm -f data/huoxing/*.json
+            rm -f data/huoxing/*.json 
             mv *.json data/huoxing/
             git add data/huoxing/*.json
             if git diff --cached --quiet; then
               echo "No changes to commit."
             else
               git commit -m "Update daily JSON result"
-              git push
+              git push origin gh-pages
             fi
           else
             echo "No JSON files found to move."
