@@ -32,4 +32,4 @@ jobs:
         git config --global user.email "github-actions@github.com"
         git add *.json
         git commit -m "Add daily JSON result"
-        git push
+        git push https://github.com/${{ github.repository }}.git "HEAD:main" --token ${{ secrets.GITHUBACTIONTOKEN }}
