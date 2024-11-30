@@ -2,6 +2,7 @@ import json
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
+import os
 
 
 class Item:
@@ -102,26 +103,42 @@ def get_source():
         return None
 
 
-def save_to_json(data):
-    date_str = datetime.now().strftime("%Y%m%d")
-    file_name = f"{date_str}.json"
+def save_to_json(data, date):
+    # 将日期格式化为 YYYYMMDD
+    file_name = f"{date}.json"
+    
+    # 如果文件已经存在，加载现有数据并追加新条目
+    if os.path.exists(file_name):
+        try:
+            with open(file_name, "r", encoding="utf-8") as file:
+                existing_data = json.load(file)
+        except Exception as e:
+            print(f"读取现有 JSON 文件时出错: {e}")
+            existing_data = []
+    else:
+        existing_data = []
+
+    # 合并现有数据和新数据
+    existing_data.extend(data)
+
+    # 保存合并后的数据到对应的文件
     try:
         with open(file_name, "w", encoding="utf-8") as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
+            json.dump(existing_data, file, ensure_ascii=False, indent=4)
         print(f"数据已保存到 {file_name}")
     except Exception as e:
         print(f"保存 JSON 文件时出错: {e}")
-
-
-def filter_items_by_today(items):
-    today_str = datetime.now().strftime("%m月%d日") 
-    return [item for item in items if item.date == today_str]  
 
 
 if __name__ == "__main__":
     response = get_source()
     if response:
         items = parse_items(response.text)
-        filtered_items = filter_items_by_today(items)  
-        items_dict = [item.to_dict() for item in filtered_items]
-        save_to_json(items_dict)
+        items_dict = [item.to_dict() for item in items]
+        current_year = datetime.now().year
+        # 根据条目日期保存数据
+        for item in items:
+            # 将日期中的 "月" 和 "日" 提取并转换为 YYYYMMDD 格式
+            item_date = datetime.strptime(item.date, "%m月%d日").replace(year=current_year)
+            formatted_date = item_date.strftime("%Y%m%d")  # 格式化为 YYYYMMDD
+            save_to_json([item.to_dict()], formatted_date)  # 保存每个条目到对应的日期文件
