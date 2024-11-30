@@ -32,10 +32,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p data/huoxing
           if ls *.json 1> /dev/null 2>&1; then
+            rm -f data/huoxing/*.json
             mv *.json data/huoxing/
             git add data/huoxing/*.json
-            git commit -m "Add daily JSON result"
-            git push
+            if git diff --cached --quiet; then
+              echo "No changes to commit."
+            else
+              git commit -m "Update daily JSON result"
+              git push
+            fi
           else
-              echo "No JSON files found to move."
+            echo "No JSON files found to move."
           fi
