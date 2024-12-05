@@ -238,40 +238,51 @@ def replace_genre_ids(genre_ids):
 
 def save_filtered_shows(data):
     """
-    根据 first_air_date 与当前日期比较，过滤结果并保存到 JSON 文件，避免重复 ID。
+    根据 first_air_date 与当前日期比较，过滤结果并保存到按日期命名的 JSON 文件，避免重复 ID。
 
     Args:
         data (dict): 包含节目列表的 API 响应数据。
     """
-    today_date = datetime.now().date()
-
+    
     # 过滤出符合条件的节目
     filtered_results = [
         show for show in data.get("results", [])
-        if "first_air_date" in show and 
-           datetime.strptime(show["first_air_date"], "%Y-%m-%d").date() == today_date
+        if "first_air_date" in show
     ]
 
-    filename = f"{today_date.strftime('%Y%m%d')}.json"
+    # 根据 first_air_date 进行分组
+    grouped_by_date = {}
+    for show in filtered_results:
+        first_air_date = datetime.strptime(show["first_air_date"], "%Y-%m-%d").date()
+        date_str = first_air_date.strftime("%Y%m%d")  # 格式化为 yyyymmdd
+        
+        # 使用字典分组，根据日期存储
+        if date_str not in grouped_by_date:
+            grouped_by_date[date_str] = []
+        grouped_by_date[date_str].append(show)
 
-    # 加载现有数据
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as file:
-            try:
-                existing_data = json.load(file)
-            except json.JSONDecodeError:
-                existing_data = []
-    else:
-        existing_data = []
+    # 遍历分组并保存每个日期的 JSON 文件
+    for date_str, shows in grouped_by_date.items():
+        filename = f"{date_str}.json"
 
-    # 合并并去重（基于 id）
-    combined_data = {item["id"]: item for item in existing_data + filtered_results}.values()
+        # 加载现有数据
+        if os.path.exists(filename):
+            with open(filename, "r", encoding="utf-8") as file:
+                try:
+                    existing_data = json.load(file)
+                except json.JSONDecodeError:
+                    existing_data = []
+        else:
+            existing_data = []
 
-    # 保存去重后的结果
-    with open(filename, "w", encoding="utf-8") as file:
-        json.dump(list(combined_data), file, ensure_ascii=False, indent=4)
+        # 合并并去重（基于 id）
+        combined_data = {item["id"]: item for item in existing_data + shows}.values()
 
-    print(f"Filtered results saved to {filename}")
+        # 保存去重后的结果
+        with open(filename, "w", encoding="utf-8") as file:
+            json.dump(list(combined_data), file, ensure_ascii=False, indent=4)
+
+        print(f"Filtered results for {date_str} saved to {filename}")
 
 
 def get_tv_shows(with_networks):
