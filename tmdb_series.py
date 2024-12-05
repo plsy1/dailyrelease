@@ -318,7 +318,7 @@ def get_tv_shows(with_networks):
         print("Request TMDB API ERROR", e)
 
 
-networks = ['1330', '2007', '97898', '1363', '521','1631','213','2552','49','2739','1024','6','16','2','2334']
+networks = ['1330', '2007', '97898', '1363', '521','1631','213','2552','49','2739','1024','6','16','2','2334','94']
 for network in networks:
     result = get_tv_shows(network)
     save_filtered_shows(result)
