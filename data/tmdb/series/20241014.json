@@ -1,6 +1,29 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            "动画",
+            10765,
+            "剧情"
+        ],
+        "id": 274149,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "中文",
+        "original_name": "宗门里除了我都是卧底",
+        "overview": "传奇黑客为拯救人类被系统AI追杀身死，意外成为异界第一宗门的宗主，但为了应对宗内全是卧底的局面和随身而来的系统危机，陈宁只想低调的再观望看看。但如锥处囊中，纵使他冷面无双心系世人，也是万花丛中过，朵朵都沾身，最后在系统代理人姜雀的帮助下，陈宁王霸之躯一抖，敌我双方纳头便拜！世界隐秘争先恐后对他打开，最终破解灭世危机。",
+        "popularity": 21.803,
+        "poster_path": "/sjP0lPdidA8TSBSeUX3aE1pa04j.jpg",
+        "first_air_date": "2024-10-14",
+        "name": "宗门里除了我都是卧底",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "network_id": "1605"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rekMV1lnLVXBYfDUO6XzKS0sOTQ.jpg",
         "genre_ids": [
             "剧情",
@@ -42,5 +65,24 @@
         "vote_average": 7.8,
         "vote_count": 19,
         "network_id": "16"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 274389,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "日语",
+        "original_name": "ときめき♡超音波!!",
+        "overview": "",
+        "popularity": 1.179,
+        "poster_path": "/z3PyK9zLajfHLBngXUPdfgWBYMl.jpg",
+        "first_air_date": "2024-10-14",
+        "name": "ときめき♡超音波!!",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "network_id": "57"
     }
 ]

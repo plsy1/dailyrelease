@@ -1,6 +1,29 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/lWPhvPlwRrGkpmpEi60x1grDcT.jpg",
+        "genre_ids": [
+            "动画",
+            10759,
+            10765
+        ],
+        "id": 272930,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "中文",
+        "original_name": "虎鹤妖师录",
+        "overview": "人妖共存又相争的世界，修炼术法、以斩妖除魔为己任的人们被称为妖师。国御妖师队长祁晓轩因一次意外结识了浪子虎子，二人共同踏上除魔卫道的旅途。现如今，世间已历经五百年的平静，妖魔们早已蠢蠢欲动，为他们的前路蒙上阴霾……",
+        "popularity": 24.678,
+        "poster_path": "/6QmJU4dyxDWjGhqqzxR8IxtX5du.jpg",
+        "first_air_date": "2024-10-05",
+        "name": "虎鹤妖师录",
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "network_id": "1605"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/5sB6tSr5ZorVjdXTV4SoNZ9qgeN.jpg",
         "genre_ids": [
             "动画",
@@ -43,5 +66,26 @@
         "vote_average": 7.5,
         "vote_count": 2,
         "network_id": "94"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A4o2jMCPVV3843sDl6P6jBsBXCM.jpg",
+        "genre_ids": [
+            "剧情"
+        ],
+        "id": 271330,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "日语",
+        "original_name": "潜入兄妹 特殊詐欺特命捜査官",
+        "overview": "本剧讲述了兄妹俩的父亲贵司作为警察在工作中被人杀害，不久后，他们得知犯人是日本最大级别的特殊诈骗组织“幻兽”的干部后，两人决定为父报仇。哥哥渡良濑贵一曾是警察，充满正义感和行动力，妹妹渡良濑优贵是国立大学的工程师，也是优秀的白帽黑客。两人利用各自的特长潜入组织，与巨恶对峙。",
+        "popularity": 20.803,
+        "poster_path": "/9VQalm9NQJLOb1uNzW9llWGQKSO.jpg",
+        "first_air_date": "2024-10-05",
+        "name": "潜入兄妹 特殊诈欺特命搜查官",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "network_id": "57"
     }
 ]

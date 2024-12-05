@@ -1,27 +1,6 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/n7F84aHbOPmkz1nJC6pB0fKs9yJ.jpg",
-        "genre_ids": [
-            "纪录"
-        ],
-        "id": 223518,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "英语",
-        "original_name": "Breath of Fire",
-        "overview": "",
-        "popularity": 13.783,
-        "poster_path": "/52BdtBXtn7Io5YKZ9B9bGtgsmVi.jpg",
-        "first_air_date": "2024-10-23",
-        "name": "Breath of Fire",
-        "vote_average": 7.0,
-        "vote_count": 3,
-        "network_id": "49"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/uMjHSU8uZqwgaqwDSLOOdaowtHs.jpg",
         "genre_ids": [
             "剧情"
@@ -40,5 +19,26 @@
         "vote_average": 6.7,
         "vote_count": 8,
         "network_id": "2739"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n7F84aHbOPmkz1nJC6pB0fKs9yJ.jpg",
+        "genre_ids": [
+            "纪录"
+        ],
+        "id": 223518,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "英语",
+        "original_name": "Breath of Fire",
+        "overview": "",
+        "popularity": 13.783,
+        "poster_path": "/52BdtBXtn7Io5YKZ9B9bGtgsmVi.jpg",
+        "first_air_date": "2024-10-23",
+        "name": "Breath of Fire",
+        "vote_average": 7.0,
+        "vote_count": 3,
+        "network_id": "49"
     }
 ]
