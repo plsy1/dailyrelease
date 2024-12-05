@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 
-accessToken = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYmE3ZTA0MWYyOGY5ZDAyNzNhMDIyYjc3NjRlZjgzZCIsIm5iZiI6MTY5NTE0NzY5OS4wNDYwMDAyLCJzdWIiOiI2NTA5ZTZiM2NhZGI2YjAwYzRmNmYzZTQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ISi9GUXPRsWXnqBf6jR6TZBvgzdwozUmOXDESCQPSuI'
+accessToken = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYmE3ZTA0MWYyOGY5ZDAyNzNhMDIyYjc3NjRlZjgzZCIsIm5iZiI6MTY5NTE0NzY5OS4wNDYwMDAyLCJzdWIiOiI2NTA5ZTZiM2NhZGI2YjAwYzRmNmYzZTQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ISi9GUXPRsWXnqBf6jR6TZBvgzdwozUmOXDESCQPSuI"
 
 
 def replace_language_codes(code):
@@ -95,10 +95,11 @@ def replace_language_codes(code):
         "xh": "班图语",
         "zh": "中文",
         "cn": "中文",
-        "zu": "祖鲁语"
+        "zu": "祖鲁语",
     }
-    
+
     return language_mapping.get(code, code)
+
 
 def replace_country_codes(origin_country):
     country_mapping = {
@@ -196,10 +197,11 @@ def replace_country_codes(origin_country):
         "ZW": "津巴布韦",
         "MO": "澳门",
         "TW": "台湾",
-        "HK": "香港"
+        "HK": "香港",
     }
 
     return [country_mapping.get(id, id) for id in origin_country]
+
 
 def replace_genre_ids(genre_ids):
     """
@@ -230,11 +232,12 @@ def replace_genre_ids(genre_ids):
         10770: "电视电影",
         53: "惊悚",
         10752: "战争",
-        37: "西部"
+        37: "西部",
     }
-    
+
     # 获取 genre_ids 对应的中文名称
     return [genre_mapping.get(id, id) for id in genre_ids]
+
 
 def save_filtered_shows(data):
     """
@@ -243,11 +246,10 @@ def save_filtered_shows(data):
     Args:
         data (dict): 包含节目列表的 API 响应数据。
     """
-    
+
     # 过滤出符合条件的节目
     filtered_results = [
-        show for show in data.get("results", [])
-        if "first_air_date" in show
+        show for show in data.get("results", []) if "first_air_date" in show
     ]
 
     # 根据 first_air_date 进行分组
@@ -255,7 +257,7 @@ def save_filtered_shows(data):
     for show in filtered_results:
         first_air_date = datetime.strptime(show["first_air_date"], "%Y-%m-%d").date()
         date_str = first_air_date.strftime("%Y%m%d")  # 格式化为 yyyymmdd
-        
+
         # 使用字典分组，根据日期存储
         if date_str not in grouped_by_date:
             grouped_by_date[date_str] = []
@@ -290,7 +292,7 @@ def get_tv_shows(with_networks):
         url = f"https://api.themoviedb.org/3/discover/tv"
         headers = {
             "Authorization": f"Bearer {accessToken}",
-            "accept": "application/json"
+            "accept": "application/json",
         }
         params = {
             "include_adult": "false",
@@ -299,17 +301,19 @@ def get_tv_shows(with_networks):
             "page": 1,
             "sort_by": "first_air_date.desc",
             "timezone": "Asia/Shanghai",
-            "with_networks": with_networks
+            "with_networks": with_networks,
         }
 
         response = requests.get(url, headers=headers, params=params)
-        
+
         if response.status_code == 200:
             data = response.json()
             for show in data.get("results", []):
                 show["network_id"] = with_networks
                 show["genre_ids"] = replace_genre_ids(show["genre_ids"])
-                show["original_language"] = replace_language_codes(show["original_language"])
+                show["original_language"] = replace_language_codes(
+                    show["original_language"]
+                )
                 show["origin_country"] = replace_country_codes(show["origin_country"])
             return data
         else:
@@ -318,7 +322,35 @@ def get_tv_shows(with_networks):
         print("Request TMDB API ERROR", e)
 
 
-networks = ['1330', '2007', '97898', '1363', '521','1631','213','2552','49','2739','1024','6','16','2','2334','94']
+networks = [
+    "97898",
+    "1330",
+    "2007",
+    "1631",
+    "1605",
+    "1363",
+    "521",
+    "213",
+    "2552",
+    "2739",
+    "1024",
+    "49",
+    "453",
+    "3353",
+    "4330",
+    "64",
+    "6",
+    "16",
+    "2",
+    "2334",
+    "160",
+    "3341",
+    "103",
+    "98",
+    "57",
+    "94",
+]
+
 for network in networks:
     result = get_tv_shows(network)
     save_filtered_shows(result)
