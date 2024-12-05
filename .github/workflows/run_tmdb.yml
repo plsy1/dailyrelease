@@ -1,0 +1,51 @@
+name: Run TMDB Script
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tmdb_series.py
+        run: python tmdb_series.py
+
+      - name: Commit and push JSON result to gh-pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin gh-pages
+          git checkout gh-pages
+
+          mkdir -p data/tmdb/series
+
+          if ls *.json 1> /dev/null 2>&1; then
+            rm -f data/tmdb/series/*.json 
+            mv *.json data/tmdb/series/
+            git add data/tmdb/series/*.json
+            if git diff --cached --quiet; then
+              echo "No changes to commit."
+            else
+              git commit -m "Update daily JSON result"
+              git push origin gh-pages
+            fi
+          else
+            echo "No JSON files found to move."
+          fi
