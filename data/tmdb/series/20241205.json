@@ -87,6 +87,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/r2KuXtZWoq9DxFdUEWNiK8lMfRo.jpg",
+        "genre_ids": [
+            "动画",
+            10765,
+            10759
+        ],
+        "id": 219543,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "英语",
+        "original_name": "Creature Commandos",
+        "overview": "讲述一支由被监禁的怪物组成的秘密小队，他们被招募执行对人类来说过于危险的任务。",
+        "popularity": 165.283,
+        "poster_path": "/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg",
+        "first_air_date": "2024-12-05",
+        "name": "生物突击队",
+        "vote_average": 6.2,
+        "vote_count": 18,
+        "network_id": "6783"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10764
