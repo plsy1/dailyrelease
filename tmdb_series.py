@@ -233,6 +233,14 @@ def replace_genre_ids(genre_ids):
         53: "惊悚",
         10752: "战争",
         37: "西部",
+        10759: "动作与冒险",   # Action & Adventure
+        10762: "儿童",       # Kids
+        10763: "新闻",       # News
+        10764: "真人秀",     # Reality
+        10765: "科幻与奇幻", # Sci-Fi & Fantasy
+        10766: "肥皂剧",     # Soap
+        10767: "脱口秀",     # Talk
+        10768: "战争与政治", # War & Politics
     }
 
     # 获取 genre_ids 对应的中文名称
