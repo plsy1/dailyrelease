@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from datetime import datetime
+import pytz
 
 accessToken = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYmE3ZTA0MWYyOGY5ZDAyNzNhMDIyYjc3NjRlZjgzZCIsIm5iZiI6MTY5NTE0NzY5OS4wNDYwMDAyLCJzdWIiOiI2NTA5ZTZiM2NhZGI2YjAwYzRmNmYzZTQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ISi9GUXPRsWXnqBf6jR6TZBvgzdwozUmOXDESCQPSuI"
 base_url = "https://api.themoviedb.org/3/discover/movie"
@@ -248,8 +249,8 @@ def save_filtered_movies(data):
  
     if not isinstance(data, list):
         raise ValueError(f"Expected a list of movie data, but got {type(data).__name__}")
-
-    today_date = datetime.now().strftime("%Y%m%d")
+    tz = pytz.timezone('Asia/Shanghai')
+    today_date = datetime.now(tz).strftime("%Y%m%d")
     filename = f"{today_date}.json"
 
 
@@ -295,7 +296,8 @@ def fetch_all_movies_for_today(language):
         list: 包含当天所有电影信息的列表。
     """
     
-    today_date = datetime.now().strftime("%Y-%m-%d")
+    tz = pytz.timezone('Asia/Shanghai')
+    today_date = datetime.now(tz).strftime("%Y-%m-%d")
 
     params = {
         "include_adult": "false",
