@@ -134,6 +134,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            "喜剧"
+        ],
+        "id": 1399528,
+        "original_language": "en",
+        "original_title": "Work Hard or Die Trying",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ufY9gUqqU7RkzdeAY2tdcMhbmRp.jpg",
+        "release_date": "2024-12-09",
+        "title": "Work Hard or Die Trying",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3eEVd4qT2fm7YzIxGUoBYxEHUgo.jpg",
         "genre_ids": [
             "纪录",
@@ -401,5 +420,26 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            "悬疑",
+            "剧情",
+            "惊悚"
+        ],
+        "id": 1399633,
+        "original_language": "ru",
+        "original_title": "Хорошие девочки",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/i0oM9dVsS2MKXADib8ApYuKGzG.jpg",
+        "release_date": "2024-12-09",
+        "title": "Хорошие девочки",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "俄语"
     }
 ]
