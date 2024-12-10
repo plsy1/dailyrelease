@@ -3,8 +3,8 @@
         "adult": false,
         "backdrop_path": "/6MV6hmZwULd1o5d0956OJhX0yvh.jpg",
         "genre_ids": [
-            "剧情",
-            "爱情"
+            18,
+            10749
         ],
         "id": 1030204,
         "original_language": "zh",
@@ -17,14 +17,18 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
         "original_language_zh": "汉语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "动作",
-            "犯罪"
+            28,
+            80
         ],
         "id": 1399964,
         "original_language": "zh",
@@ -37,13 +41,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "犯罪"
+        ],
         "original_language_zh": "汉语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "剧情"
+            18
         ],
         "id": 1398960,
         "original_language": "zh",
@@ -56,13 +64,16 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
         "adult": false,
         "backdrop_path": "/zPJlbTENntLjFP8LfkdZlomqNlw.jpg",
         "genre_ids": [
-            "喜剧"
+            35
         ],
         "id": 1353311,
         "original_language": "en",
@@ -75,6 +86,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -92,13 +106,14 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1384679,
         "original_language": "en",
@@ -111,14 +126,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/hgOH7sDI9N69ZXyUmrNtc8pxZUy.jpg",
         "genre_ids": [
-            "爱情",
-            "剧情"
+            10749,
+            18
         ],
         "id": 1386814,
         "original_language": "en",
@@ -131,13 +149,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1396663,
         "original_language": "en",
@@ -150,15 +172,18 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/djL5etJetVmrolqgivmrrV6ckd6.jpg",
         "genre_ids": [
-            "恐怖",
-            "剧情",
-            "惊悚"
+            27,
+            18,
+            53
         ],
         "id": 1327535,
         "original_language": "en",
@@ -171,14 +196,19 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "惊悚"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "恐怖",
-            "惊悚"
+            27,
+            53
         ],
         "id": 1397504,
         "original_language": "en",
@@ -191,6 +221,10 @@
         "video": false,
         "vote_average": 10.0,
         "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -208,6 +242,7 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -225,13 +260,14 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "恐怖"
+            27
         ],
         "id": 1397155,
         "original_language": "en",
@@ -244,14 +280,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/5X0k593t5NgNCPVVQW6tOR39c9t.jpg",
         "genre_ids": [
-            "剧情",
-            "奇幻"
+            18,
+            14
         ],
         "id": 1148301,
         "original_language": "en",
@@ -264,6 +303,10 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -281,13 +324,14 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/rl54plGEqF8f01MRw8NVTVYwipJ.jpg",
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1398383,
         "original_language": "en",
@@ -300,13 +344,16 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/aDY5k4RcDRiwD6PNQ4vfMQUpjg6.jpg",
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1399107,
         "original_language": "en",
@@ -319,15 +366,18 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/cCFusRrvcrvzZgsFTxNuRNsWzeU.jpg",
         "genre_ids": [
-            "剧情",
-            "喜剧",
-            "恐怖"
+            18,
+            35,
+            27
         ],
         "id": 1398650,
         "original_language": "en",
@@ -340,13 +390,18 @@
         "video": false,
         "vote_average": 7.0,
         "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "科幻"
+            878
         ],
         "id": 1395799,
         "original_language": "en",
@@ -359,14 +414,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "奇幻",
-            "冒险"
+            14,
+            12
         ],
         "id": 1395791,
         "original_language": "en",
@@ -379,6 +437,10 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "冒险"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -396,6 +458,7 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -413,14 +476,15 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/5FYUPyJzqGFoMMXc1zoaXRLwmEu.jpg",
         "genre_ids": [
-            "爱情",
-            "剧情"
+            10749,
+            18
         ],
         "id": 1203968,
         "original_language": "en",
@@ -433,13 +497,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/dioI7hb1luGQlZNgWBnkV3yfwrg.jpg",
         "genre_ids": [
-            "剧情"
+            18
         ],
         "id": 1400033,
         "original_language": "en",
@@ -452,14 +520,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/9BUvfjsDBsxDAh9YJTrHvyfiDqW.jpg",
         "genre_ids": [
-            "科幻",
-            "惊悚"
+            878,
+            53
         ],
         "id": 1399903,
         "original_language": "en",
@@ -472,14 +543,18 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "惊悚"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/gOpFniz5Wn7AxWSmV8nH5AQnGmz.jpg",
         "genre_ids": [
-            "恐怖",
-            "喜剧"
+            27,
+            35
         ],
         "id": 1288175,
         "original_language": "th",
@@ -492,13 +567,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
         "original_language_zh": "泰语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1264359,
         "original_language": "fr",
@@ -511,15 +590,18 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "喜剧",
-            "剧情",
-            "惊悚"
+            35,
+            18,
+            53
         ],
         "id": 1398352,
         "original_language": "fr",
@@ -532,13 +614,18 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "惊悚"
+        ],
         "original_language_zh": "法语"
     },
     {
         "adult": false,
         "backdrop_path": "/mULU9mJdvsMfr2zE0zHK3nNDdE9.jpg",
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1400085,
         "original_language": "fr",
@@ -551,13 +638,16 @@
         "video": false,
         "vote_average": 8.0,
         "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
         "adult": false,
         "backdrop_path": "/9Aw7RTjUClpCSuXSik0tu5Fdf2n.jpg",
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1395621,
         "original_language": "es",
@@ -570,14 +660,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "悬疑",
-            "剧情"
+            9648,
+            18
         ],
         "id": 1379969,
         "original_language": "es",
@@ -590,13 +683,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1384891,
         "original_language": "pt",
@@ -609,14 +706,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
         "backdrop_path": "/eVx43qo47SGUG3NYPf26vi52jCy.jpg",
         "genre_ids": [
-            "剧情",
-            "爱情"
+            18,
+            10749
         ],
         "id": 1397457,
         "original_language": "pt",
@@ -629,13 +729,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 1398628,
         "original_language": "pt",
@@ -648,14 +752,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "恐怖",
-            "惊悚"
+            27,
+            53
         ],
         "id": 1373338,
         "original_language": "pt",
@@ -668,13 +775,17 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
         "backdrop_path": "/gCmxH4O9i6NNvDiSDtO51iv288C.jpg",
         "genre_ids": [
-            "剧情"
+            18
         ],
         "id": 1400009,
         "original_language": "pt",
@@ -687,6 +798,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
@@ -704,13 +818,14 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     },
     {
         "adult": false,
         "backdrop_path": "/hcJtTSkeDvGO1AFLjl7y0G0NfDC.jpg",
         "genre_ids": [
-            "恐怖"
+            27
         ],
         "id": 1367212,
         "original_language": "fi",
@@ -723,6 +838,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
         "original_language_zh": "芬兰语"
     }
 ]
