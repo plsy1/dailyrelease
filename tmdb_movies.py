@@ -274,7 +274,7 @@ def save_filtered_movies(data):
             continue
         if movie["original_language"] == 'cn':
             movie["original_language"] = 'zh'
-        movie["genre_ids"] = replace_genre_ids(movie["genre_ids"])
+        movie["genre_ids_zh"] = replace_genre_ids(movie["genre_ids"])
         movie["original_language_zh"] = replace_language_codes(
             movie["original_language"]
         )
