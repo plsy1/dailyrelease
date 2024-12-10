@@ -279,7 +279,7 @@ def save_filtered_series(data,today_date):
             continue
         if series["original_language"] == 'cn':
             series["original_language"] = 'zh'
-        series["genre_ids"] = replace_genre_ids(series["genre_ids"])
+        series["genre_ids_zh"] = replace_genre_ids(series["genre_ids"])
         series["origin_country"] = replace_country_codes(series["origin_country"])
         series["original_language_zh"] = replace_language_codes(
             series["original_language"]
