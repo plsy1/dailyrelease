@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 import pytz
 
 accessToken = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYmE3ZTA0MWYyOGY5ZDAyNzNhMDIyYjc3NjRlZjgzZCIsIm5iZiI6MTY5NTE0NzY5OS4wNDYwMDAyLCJzdWIiOiI2NTA5ZTZiM2NhZGI2YjAwYzRmNmYzZTQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ISi9GUXPRsWXnqBf6jR6TZBvgzdwozUmOXDESCQPSuI"
@@ -239,7 +239,7 @@ def replace_genre_ids(genre_ids):
     # 获取 genre_ids 对应的中文名称
     return [genre_mapping.get(id, id) for id in genre_ids]
 
-def save_filtered_movies(data):
+def save_filtered_movies(data, today_date):
     """
     根据传入的数据过滤并保存到按日期命名的 JSON 文件中，避免重复 ID。
 
@@ -249,8 +249,7 @@ def save_filtered_movies(data):
  
     if not isinstance(data, list):
         raise ValueError(f"Expected a list of movie data, but got {type(data).__name__}")
-    tz = pytz.timezone('Asia/Shanghai')
-    today_date = datetime.now(tz).strftime("%Y%m%d")
+    
     filename = f"{today_date}.json"
 
 
@@ -285,7 +284,7 @@ def save_filtered_movies(data):
 
     print(f"Movies results saved to {filename}")
         
-def fetch_all_movies_for_today(language):
+def fetch_all_movies_for_today(language, today_date):
     """
     分页获取当天的电影信息，直到没有更多结果为止。
 
@@ -296,9 +295,6 @@ def fetch_all_movies_for_today(language):
         list: 包含当天所有电影信息的列表。
     """
     
-    tz = pytz.timezone('Asia/Shanghai')
-    today_date = datetime.now(tz).strftime("%Y-%m-%d")
-
     params = {
         "include_adult": "false",
         "include_video": "false",
@@ -341,6 +337,13 @@ def fetch_all_movies_for_today(language):
     return all_results  
 
 languages = ['zh','cn','en','ja','ko','th','de','fr','es','pt','ru','it','nl','pl','hi','tr','sv','no','fi']
+
+tz = pytz.timezone('Asia/Shanghai')
 for language in languages:
-    result = fetch_all_movies_for_today(language)
-    save_filtered_movies(result)
+    for day_offset in range(2): 
+        current_date = datetime.now(tz) + timedelta(days=day_offset)
+        today_date_one = current_date.strftime("%Y-%m-%d")  
+        today_date_two = current_date.strftime("%Y%m%d")  
+        
+        result = fetch_all_movies_for_today(language, today_date_one)
+        save_filtered_movies(result, today_date_two)
