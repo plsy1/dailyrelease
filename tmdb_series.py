@@ -287,7 +287,9 @@ def save_filtered_shows(data):
 
         # 合并并去重（基于 id）
         combined_data = {item["id"]: item for item in existing_data + shows}.values()
-
+        for series in combined_data:
+            if series["original_language"] == 'cn':
+                series["original_language"] = 'zh'
         # 保存去重后的结果
         with open(filename, "w", encoding="utf-8") as file:
             json.dump(list(combined_data), file, ensure_ascii=False, indent=4)
