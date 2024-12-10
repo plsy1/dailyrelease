@@ -1,11 +1,10 @@
 import requests
 import json
 import os
-from datetime import datetime, timedelta
-import pytz
+from datetime import datetime
 
 accessToken = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmYmE3ZTA0MWYyOGY5ZDAyNzNhMDIyYjc3NjRlZjgzZCIsIm5iZiI6MTY5NTE0NzY5OS4wNDYwMDAyLCJzdWIiOiI2NTA5ZTZiM2NhZGI2YjAwYzRmNmYzZTQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ISi9GUXPRsWXnqBf6jR6TZBvgzdwozUmOXDESCQPSuI"
-base_url = "https://api.themoviedb.org/3/discover/tv"
+
 
 def replace_language_codes(code):
     """
@@ -244,112 +243,131 @@ def replace_genre_ids(genre_ids):
         10768: "战争与政治", # War & Politics
     }
 
+    # 获取 genre_ids 对应的中文名称
     return [genre_mapping.get(id, id) for id in genre_ids]
 
-def save_filtered_series(data,today_date):
+
+def save_filtered_shows(data):
     """
-    根据传入的数据过滤并保存到按日期命名的 JSON 文件中，避免重复 ID。
+    根据 first_air_date 与当前日期比较，过滤结果并保存到按日期命名的 JSON 文件，避免重复 ID。
 
     Args:
-        data (list): 包含电影信息的列表，每部电影应包含 "id" 和 "first_air_date"。
+        data (dict): 包含节目列表的 API 响应数据。
     """
-    if not isinstance(data, list):
-        raise ValueError(f"Expected a list of movie data, but got {type(data).__name__}")
 
-    filename = f"{today_date}.json"
+    # 过滤出符合条件的节目
+    filtered_results = [
+        show for show in data.get("results", []) if "first_air_date" in show
+    ]
 
+    # 根据 first_air_date 进行分组
+    grouped_by_date = {}
+    for show in filtered_results:
+        first_air_date = datetime.strptime(show["first_air_date"], "%Y-%m-%d").date()
+        date_str = first_air_date.strftime("%Y%m%d")  # 格式化为 yyyymmdd
 
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as file:
-            try:
-                existing_data = json.load(file)
-            except json.JSONDecodeError:
-                existing_data = []
-    else:
-        existing_data = []
+        # 使用字典分组，根据日期存储
+        if date_str not in grouped_by_date:
+            grouped_by_date[date_str] = []
+        grouped_by_date[date_str].append(show)
 
+    # 遍历分组并保存每个日期的 JSON 文件
+    for date_str, shows in grouped_by_date.items():
+        filename = f"{date_str}.json"
 
-    if not isinstance(existing_data, list):
-        raise ValueError(f"Invalid JSON format in {filename}: expected a list")
+        # 加载现有数据
+        if os.path.exists(filename):
+            with open(filename, "r", encoding="utf-8") as file:
+                try:
+                    existing_data = json.load(file)
+                except json.JSONDecodeError:
+                    existing_data = []
+        else:
+            existing_data = []
 
-    all_data = {item["id"]: item for item in existing_data if isinstance(item, dict)}
-    for series in data:
-        if not isinstance(series, dict) or "id" not in series:
-            print(f"Skipping invalid movie entry: {series}")
-            continue
-        if series["original_language"] == 'cn':
-            series["original_language"] = 'zh'
-        series["genre_ids"] = replace_genre_ids(series["genre_ids"])
-        series["origin_country"] = replace_country_codes(series["origin_country"])
-        series["original_language_zh"] = replace_language_codes(
-            series["original_language"]
-        )
-        all_data[series["id"]] = series 
-
-    with open(filename, "w", encoding="utf-8") as file:
-        json.dump(list(all_data.values()), file, ensure_ascii=False, indent=4)
-
-    print(f"Series results saved to {filename}")
+        # 合并并去重（基于 id）
+        combined_data = {item["id"]: item for item in existing_data + shows}.values()
         
-def fetch_all_series_for_today(language, today_date):
-    """
-    分页获取当天的电影信息，直到没有更多结果为止。
+        # 保存去重后的结果
+        with open(filename, "w", encoding="utf-8") as file:
+            json.dump(list(combined_data), file, ensure_ascii=False, indent=4)
 
-    Args:
-        language (str): 语言代码，例如 "zh-CN" 或 "en-US"。
+        print(f"Filtered results for {date_str} saved to {filename}")
 
-    Returns:
-        list: 包含当天所有电影信息的列表。
-    """
-    
-    params = {
-        "include_adult": "false",
-        "include_null_first_air_dates": "false",
-        "language": "zh-CN",
-        "first_air_date.gte": today_date,
-        "first_air_date.lte": today_date,
-        "sort_by": "popularity.desc",
-        "with_original_language": language,
-        "timezone": "Asia/Shanghai",
-        "page": 1,  
-    }
 
-    headers = {
-        "Authorization": f"Bearer {accessToken}",
-        "accept": "application/json",
-    }
+def get_tv_shows(with_networks):
+    try:
+        url = f"https://api.themoviedb.org/3/discover/tv"
+        headers = {
+            "Authorization": f"Bearer {accessToken}",
+            "accept": "application/json",
+        }
+        params = {
+            "include_adult": "false",
+            "include_null_first_air_dates": "false",
+            "language": "zh-CN",
+            "page": 1,
+            "sort_by": "first_air_date.desc",
+            "timezone": "CN",
+            "with_networks": with_networks,
+        }
 
-    all_results = [] 
+        response = requests.get(url, headers=headers, params=params)
 
-    while True:
-        try:
-            response = requests.get(base_url, headers=headers, params=params)
-            response.raise_for_status()
+        if response.status_code == 200:
             data = response.json()
-            results = data.get("results", [])
-            if not results:  
-                break
+            for show in data.get("results", []):
+                show["network_id"] = with_networks
+                show["genre_ids"] = replace_genre_ids(show["genre_ids"])
+                show["original_language_zh"] = replace_language_codes(
+                    show["original_language"]
+                )
+                show["origin_country"] = replace_country_codes(show["origin_country"])
+                if show["original_language"] == 'cn':
+                    show["original_language"] = 'zh'
+            return data
+        else:
+            return {"error": f"Request failed with status code {response.status_code}"}
+    except Exception as e:
+        print("Request TMDB API ERROR", e)
 
-            all_results.extend(results)
 
-            if params["page"] >= data.get("total_pages", 1):
-                break
+networks = [
+    "1419",
+    "1330",
+    "2007",
+    "1631",
+    "1605",
+    "1363",
+    "521",
+    "213",
+    "2552",
+    "2739",
+    "1024",
+    "49",
+    '6783',
+    "453",
+    "3353",
+    "4330",
+    "64",
+    "6",
+    "16",
+    "2",
+    "2334",
+    "160",
+    "1",
+    "103",
+    "98",
+    "57",
+    "94",
+    "4",
+    "332",
+    "3",
+    "100",
+    "26",
+    "99",
+]
 
-            params["page"] += 1
-
-        except requests.RequestException as e:
-            print(f"请求出错: {e}")
-            break
-
-    return all_results  
-
-languages = ['zh','cn','en','ja','ko','th','hi','de','fr','es','pt','ru','it']
-tz = pytz.timezone('Asia/Shanghai')
-for language in languages:
-    for day_offset in range(2): 
-        current_date = datetime.now(tz) + timedelta(days=day_offset)
-        today_date_one = current_date.strftime("%Y-%m-%d")  
-        today_date_two = current_date.strftime("%Y%m%d")  
-        
-        result = fetch_all_series_for_today(language, today_date_one)
-        save_filtered_series(result, today_date_two)
+for network in networks:
+    result = get_tv_shows(network)
+    save_filtered_shows(result)
