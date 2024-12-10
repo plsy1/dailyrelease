@@ -52,7 +52,7 @@ def replace_language_codes(code):
         "ka": "格鲁吉亚语",
         "kk": "哈萨克语",
         "kn": "卡纳拉语",
-        "ko": "朝鲜语",
+        "ko": "韩语",
         "kok": "孔卡尼语",
         "ky": "吉尔吉斯语",
         "lt": "立陶宛语",
