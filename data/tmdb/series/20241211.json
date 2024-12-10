@@ -3,7 +3,7 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "剧情"
+            18
         ],
         "id": 276524,
         "origin_country": [
@@ -18,15 +18,18 @@
         "name": "如意",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
         "adult": false,
         "backdrop_path": "/bsDgqLeu9QriM5yuIv1d3nbTezo.jpg",
         "genre_ids": [
-            "动画",
-            "喜剧",
-            "家庭"
+            16,
+            35,
+            10751
         ],
         "id": 255868,
         "origin_country": [
@@ -41,14 +44,19 @@
         "name": "梦境制片厂",
         "vote_average": 6.0,
         "vote_count": 2,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧",
+            "家庭"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/o0KDgFdmbFVNeAI1XwVHhZRZQnD.jpg",
         "genre_ids": [
-            "剧情",
-            "动作与冒险"
+            18,
+            10759
         ],
         "id": 240456,
         "origin_country": [
@@ -64,14 +72,18 @@
         "name": "The Count of Monte Cristo",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "动作与冒险"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/4CK2YqSXEipBexIokiMFf6rMDI.jpg",
         "genre_ids": [
-            "纪录",
-            "犯罪"
+            99,
+            80
         ],
         "id": 277789,
         "origin_country": [
@@ -86,14 +98,18 @@
         "name": "The Kings of Tupelo: A Southern Crime Saga",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "犯罪"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/enKPruSHRYlqwNWaoBTd16ZnNdb.jpg",
         "genre_ids": [
-            "动作与冒险",
-            "悬疑"
+            10759,
+            9648
         ],
         "id": 276026,
         "origin_country": [
@@ -108,13 +124,17 @@
         "name": "A Tippling Adventure",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "动作与冒险",
+            "悬疑"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": "/c80QBrs2Ec0CiRcBTaUocXuSAyh.jpg",
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 278535,
         "origin_country": [
@@ -129,6 +149,9 @@
         "name": "Guy Martin: Artic Warrior",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -148,13 +171,14 @@
         "name": "Swiped: The School That Banned Smartphones",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            "剧情"
+            18
         ],
         "id": 279144,
         "origin_country": [
@@ -169,14 +193,17 @@
         "name": "令和的三英雄！",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "日语"
     },
     {
         "adult": false,
         "backdrop_path": "/rMDkB14yfs5HEZ2LpvSDQxXsRn0.jpg",
         "genre_ids": [
-            "剧情",
-            "动作与冒险"
+            18,
+            10759
         ],
         "id": 274986,
         "origin_country": [
@@ -192,13 +219,17 @@
         "name": "เพื่อเธอ",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "动作与冒险"
+        ],
         "original_language_zh": "泰语"
     },
     {
         "adult": false,
         "backdrop_path": "/afq55a6k1rltytOZsKRRQ6PxMiM.jpg",
         "genre_ids": [
-            "纪录"
+            99
         ],
         "id": 278991,
         "origin_country": [
@@ -213,14 +244,17 @@
         "name": "Demain j'arrête !",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
         "adult": false,
         "backdrop_path": "/wdq21siXo8CSKVhXqAu5BEZY6Wa.jpg",
         "genre_ids": [
-            "剧情",
-            "科幻与奇幻"
+            18,
+            10765
         ],
         "id": 207333,
         "origin_country": [
@@ -235,6 +269,10 @@
         "name": "百年孤独",
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻与奇幻"
+        ],
         "original_language_zh": "西班牙语"
     }
 ]
