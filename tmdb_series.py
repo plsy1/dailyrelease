@@ -287,9 +287,7 @@ def save_filtered_shows(data):
 
         # 合并并去重（基于 id）
         combined_data = {item["id"]: item for item in existing_data + shows}.values()
-        for series in combined_data:
-            if series["original_language"] == 'cn':
-                series["original_language"] = 'zh'
+        
         # 保存去重后的结果
         with open(filename, "w", encoding="utf-8") as file:
             json.dump(list(combined_data), file, ensure_ascii=False, indent=4)
@@ -325,6 +323,8 @@ def get_tv_shows(with_networks):
                     show["original_language"]
                 )
                 show["origin_country"] = replace_country_codes(show["origin_country"])
+                if show["original_language"] == 'cn':
+                    show["original_language"] = 'zh'
             return data
         else:
             return {"error": f"Request failed with status code {response.status_code}"}
