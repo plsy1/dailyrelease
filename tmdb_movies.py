@@ -64,7 +64,7 @@ def replace_language_codes(code):
         "mr": "马拉地语",
         "ms": "马来语",
         "mt": "马耳他语",
-        "nb": "挪威语(伯克梅尔)",
+        "no": "挪威语",
         "nl": "荷兰语",
         "ns": "北梭托语",
         "pa": "旁遮普语",
@@ -94,8 +94,8 @@ def replace_language_codes(code):
         "uz": "乌兹别克语",
         "vi": "越南语",
         "xh": "班图语",
-        "zh": "中文",
-        "cn": "中文",
+        "zh": "汉语",
+        "cn": "汉语",
         "zu": "祖鲁语",
     }
 
@@ -340,7 +340,7 @@ def fetch_all_movies_for_today(language):
 
     return all_results  
 
-languages = ['zh','cn','en','ja','ko','th','hi','de','fr','es','pt','ru','it']
+languages = ['zh','cn','en','ja','ko','th','de','fr','es','pt','ru','it','nl','pl','hi','tr','sv','no','fi']
 for language in languages:
     result = fetch_all_movies_for_today(language)
     save_filtered_movies(result)
