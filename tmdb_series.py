@@ -319,7 +319,7 @@ def get_tv_shows(with_networks):
             for show in data.get("results", []):
                 show["network_id"] = with_networks
                 show["genre_ids"] = replace_genre_ids(show["genre_ids"])
-                show["original_language"] = replace_language_codes(
+                show["original_language_zh"] = replace_language_codes(
                     show["original_language"]
                 )
                 show["origin_country"] = replace_country_codes(show["origin_country"])
