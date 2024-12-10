@@ -18,54 +18,7 @@
         "name": "如意",
         "vote_average": 0.0,
         "vote_count": 0,
-        "network_id": "1330",
         "original_language_zh": "中文"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4CK2YqSXEipBexIokiMFf6rMDI.jpg",
-        "genre_ids": [
-            "纪录",
-            "犯罪"
-        ],
-        "id": 277789,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "The Kings of Tupelo: A Southern Crime Saga",
-        "overview": "",
-        "popularity": 19.552,
-        "poster_path": null,
-        "first_air_date": "2024-12-11",
-        "name": "The Kings of Tupelo: A Southern Crime Saga",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "network_id": "213",
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/wdq21siXo8CSKVhXqAu5BEZY6Wa.jpg",
-        "genre_ids": [
-            "剧情",
-            "科幻与奇幻"
-        ],
-        "id": 207333,
-        "origin_country": [
-            "哥伦比亚"
-        ],
-        "original_language": "es",
-        "original_name": "Cien años de soledad",
-        "overview": "何塞·阿卡蒂奥·布恩迪亚和乌苏拉·伊瓜兰这对表兄妹不顾父母的反对结婚了，他们离开了村庄，踏上了寻找新家园的漫长旅程。在朋友和冒险家的陪伴下，他们最终在一条有史前石头的河岸旁建立了一座乌托邦小镇，并将其命名为马孔多。布恩迪亚家族的几代人将决定这座神话小镇的未来，他们饱受疯狂、不可能的爱情、血腥荒谬的战争以及对可怕诅咒的恐惧的折磨，而诅咒将让他们绝望地度过百年孤独。",
-        "popularity": 56.413,
-        "poster_path": "/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg",
-        "first_air_date": "2024-12-11",
-        "name": "百年孤独",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "network_id": "213",
-        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
@@ -88,27 +41,73 @@
         "name": "梦境制片厂",
         "vote_average": 6.0,
         "vote_count": 2,
-        "network_id": "2739",
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/yUIPy78uAXcvRZC5tPcN5UGMEbw.jpg",
-        "genre_ids": [],
-        "id": 278872,
+        "backdrop_path": "/o0KDgFdmbFVNeAI1XwVHhZRZQnD.jpg",
+        "genre_ids": [
+            "剧情",
+            "动作与冒险"
+        ],
+        "id": 240456,
         "origin_country": [
-            "英国"
+            "法国",
+            "意大利"
         ],
         "original_language": "en",
-        "original_name": "Swiped: The School That Banned Smartphones",
+        "original_name": "The Count of Monte Cristo",
         "overview": "",
-        "popularity": 5.379,
-        "poster_path": "/eRhbeuZF9SvA7550VkEyR652tsV.jpg",
+        "popularity": 40.06,
+        "poster_path": "/23Q0gkdtMNdpeAsQLqdzqXhhonf.jpg",
         "first_air_date": "2024-12-11",
-        "name": "Swiped: The School That Banned Smartphones",
+        "name": "The Count of Monte Cristo",
         "vote_average": 0.0,
         "vote_count": 0,
-        "network_id": "26",
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4CK2YqSXEipBexIokiMFf6rMDI.jpg",
+        "genre_ids": [
+            "纪录",
+            "犯罪"
+        ],
+        "id": 277789,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "The Kings of Tupelo: A Southern Crime Saga",
+        "overview": "",
+        "popularity": 19.552,
+        "poster_path": null,
+        "first_air_date": "2024-12-11",
+        "name": "The Kings of Tupelo: A Southern Crime Saga",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/enKPruSHRYlqwNWaoBTd16ZnNdb.jpg",
+        "genre_ids": [
+            "动作与冒险",
+            "悬疑"
+        ],
+        "id": 276026,
+        "origin_country": [
+            "加拿大"
+        ],
+        "original_language": "en",
+        "original_name": "A Tippling Adventure",
+        "overview": "",
+        "popularity": 15.764,
+        "poster_path": "/zsECEJpGSbLEYW7VYEJiFCuAPGJ.jpg",
+        "first_air_date": "2024-12-11",
+        "name": "A Tippling Adventure",
+        "vote_average": 0.0,
+        "vote_count": 0,
         "original_language_zh": "英语"
     },
     {
@@ -130,7 +129,112 @@
         "name": "Guy Martin: Artic Warrior",
         "vote_average": 0.0,
         "vote_count": 0,
-        "network_id": "26",
         "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yUIPy78uAXcvRZC5tPcN5UGMEbw.jpg",
+        "genre_ids": [],
+        "id": 278872,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "Swiped: The School That Banned Smartphones",
+        "overview": "",
+        "popularity": 5.379,
+        "poster_path": "/eRhbeuZF9SvA7550VkEyR652tsV.jpg",
+        "first_air_date": "2024-12-11",
+        "name": "Swiped: The School That Banned Smartphones",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            "剧情"
+        ],
+        "id": 279144,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "令和の三英傑!",
+        "overview": "本剧是以名古屋爱为主题的离奇角色喜剧大集合。400年前在日本展开的织田信长、丰臣秀吉、德川家康，通称战国三英杰的战斗在令和复苏，坚信自己是三英杰直系子孙的人们，围绕着傲气、自尊心和血统而展开的斗争将何去何从？",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2024-12-11",
+        "name": "令和的三英雄！",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rMDkB14yfs5HEZ2LpvSDQxXsRn0.jpg",
+        "genre_ids": [
+            "剧情",
+            "动作与冒险"
+        ],
+        "id": 274986,
+        "origin_country": [
+            "香港",
+            "泰国"
+        ],
+        "original_language": "th",
+        "original_name": "เพื่อเธอ",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/gb653GccBRQLD3piyKoISgL1j70.jpg",
+        "first_air_date": "2024-12-11",
+        "name": "เพื่อเธอ",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/afq55a6k1rltytOZsKRRQ6PxMiM.jpg",
+        "genre_ids": [
+            "纪录"
+        ],
+        "id": 278991,
+        "origin_country": [
+            "法国"
+        ],
+        "original_language": "fr",
+        "original_name": "Demain j'arrête !",
+        "overview": "",
+        "popularity": 2.744,
+        "poster_path": "/8X5e6D2Ur8Fx2eveGB4ixGL4B1I.jpg",
+        "first_air_date": "2024-12-11",
+        "name": "Demain j'arrête !",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wdq21siXo8CSKVhXqAu5BEZY6Wa.jpg",
+        "genre_ids": [
+            "剧情",
+            "科幻与奇幻"
+        ],
+        "id": 207333,
+        "origin_country": [
+            "哥伦比亚"
+        ],
+        "original_language": "es",
+        "original_name": "Cien años de soledad",
+        "overview": "何塞·阿卡蒂奥·布恩迪亚和乌苏拉·伊瓜兰这对表兄妹不顾父母的反对结婚了，他们离开了村庄，踏上了寻找新家园的漫长旅程。在朋友和冒险家的陪伴下，他们最终在一条有史前石头的河岸旁建立了一座乌托邦小镇，并将其命名为马孔多。布恩迪亚家族的几代人将决定这座神话小镇的未来，他们饱受疯狂、不可能的爱情、血腥荒谬的战争以及对可怕诅咒的恐惧的折磨，而诅咒将让他们绝望地度过百年孤独。",
+        "popularity": 56.413,
+        "poster_path": "/vYtbH9Q5DaCDqzkB483dmYjfkA3.jpg",
+        "first_air_date": "2024-12-11",
+        "name": "百年孤独",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "original_language_zh": "西班牙语"
     }
 ]
