@@ -312,7 +312,7 @@
         "original_title": "\"ACES\"",
         "overview": "",
         "popularity": 10.543,
-        "poster_path": null,
+        "poster_path": "/l6QGhxU7JB1B1ZcbH1HX8j0qlsO.jpg",
         "release_date": "2024-12-11",
         "title": "\"ACES\"",
         "video": false,
@@ -449,6 +449,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1384757,
+        "original_language": "en",
+        "original_title": "The Pick Up",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": null,
+        "release_date": "2024-12-11",
+        "title": "The Pick Up",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35
         ],
         "id": 1141519,
@@ -459,28 +483,6 @@
         "poster_path": null,
         "release_date": "2024-12-11",
         "title": "Perfection",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/y6peDgtspgzMqrXTZ9GMGZf5W00.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1400367,
-        "original_language": "en",
-        "original_title": "Hamlet’s Office",
-        "overview": "",
-        "popularity": 1.4,
-        "poster_path": "/t30zP0YiwF1orWGZNX9pJprJOjj.jpg",
-        "release_date": "2024-12-11",
-        "title": "Hamlet’s Office",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -598,8 +600,8 @@
         "release_date": "2024-12-11",
         "title": "Saint-Ex",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "历史",
@@ -827,7 +829,8 @@
         "genre_ids": [
             16,
             878,
-            10749
+            10749,
+            35
         ],
         "id": 1396673,
         "original_language": "es",
@@ -843,7 +846,8 @@
         "genre_ids_zh": [
             "动画",
             "科幻",
-            "爱情"
+            "爱情",
+            "喜剧"
         ],
         "original_language_zh": "西班牙语"
     },
