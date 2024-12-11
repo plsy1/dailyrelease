@@ -494,6 +494,116 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1400574,
+        "original_language": "en",
+        "original_title": "A Motown Christmas",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2024-12-11",
+        "title": "A Motown Christmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1400554,
+        "original_language": "en",
+        "original_title": "Nuance",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mGYLmR7vFiyuMlZ11Zt78EZaSKc.jpg",
+        "release_date": "2024-12-11",
+        "title": "Nuance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1400492,
+        "original_language": "en",
+        "original_title": "The Monster That School Forgot (学校が忘れた怪物)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/nP45aVF7Y6mJVHHmTW7GSt9gWpe.jpg",
+        "release_date": "2024-12-11",
+        "title": "The Monster That School Forgot (学校が忘れた怪物)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1400468,
+        "original_language": "en",
+        "original_title": "Shadow Boxing",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/drGZc1Vf9XMgefN9PHF21axQ7oF.jpg",
+        "release_date": "2024-12-11",
+        "title": "Shadow Boxing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6peDgtspgzMqrXTZ9GMGZf5W00.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1400367,
+        "original_language": "en",
+        "original_title": "Hamlet’s Office",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/t30zP0YiwF1orWGZNX9pJprJOjj.jpg",
+        "release_date": "2024-12-11",
+        "title": "Hamlet’s Office",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             35
         ],
@@ -961,6 +1071,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/prjUoAPFZBk7uG4gg4EdKfg0rYe.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1400477,
+        "original_language": "pt",
+        "original_title": "Selma Light: Para os aplausos do público",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dJOVxGJ7c9kVCoRcSYfJccaPzLy.jpg",
+        "release_date": "2024-12-11",
+        "title": "Selma Light: Para os aplausos do público",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
