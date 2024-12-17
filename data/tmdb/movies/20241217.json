@@ -10,7 +10,7 @@
         "original_language": "zh",
         "original_title": "孤勇毒战",
         "overview": "20世纪三四十年代的上海，黑帮横行，毒品交易猖獗。毒贩琛哥势力强大，警方难以获取证据。在一次交易中，阿仁和阿美意外重逢，背后却隐藏着鬼哥、琛哥与警方三方的算计。在重重怀疑与考验中，阿仁做为警方卧底，深入虎穴，成功协助警方缉拿琛哥与国际毒贩。",
-        "popularity": 7.531,
+        "popularity": 10.543,
         "poster_path": "/rEA9qrPhF10jnViSOZsFUQsEtEL.jpg",
         "release_date": "2024-12-17",
         "title": "孤勇毒战",
@@ -355,7 +355,7 @@
         "original_language": "ko",
         "original_title": "섬.망(望)",
         "overview": "",
-        "popularity": 16.503,
+        "popularity": 23.104,
         "poster_path": "/mYIAWkld9ukfM0JDiBOTlJNXoIH.jpg",
         "release_date": "2024-12-17",
         "title": "섬.망(望)",
@@ -378,13 +378,13 @@
         "original_language": "fr",
         "original_title": "Père Noël à domicile",
         "overview": "",
-        "popularity": 21.808,
+        "popularity": 30.531,
         "poster_path": "/BJ4lxA1b1sfFGk8uh8mo2cYMQA.jpg",
         "release_date": "2024-12-17",
         "title": "Père Noël à domicile",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.5,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧",
             "电视电影"
@@ -401,7 +401,7 @@
         "original_language": "fr",
         "original_title": "Dans l’ombre",
         "overview": "",
-        "popularity": 16.415,
+        "popularity": 22.981,
         "poster_path": "/hWjghhVVbDIR006xRYKUhnjS3W5.jpg",
         "release_date": "2024-12-17",
         "title": "Dans l’ombre",
@@ -417,13 +417,101 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1403554,
+        "original_language": "es",
+        "original_title": "El Secreto del Silbido",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4g46TdpvPLrYQQgHuuqUvQHWlMS.jpg",
+        "release_date": "2024-12-17",
+        "title": "El Secreto del Silbido",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1403371,
+        "original_language": "es",
+        "original_title": "Ciclos IV",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/tj8ov2RuE3aIrBCpEvO3QqJTUcr.jpg",
+        "release_date": "2024-12-17",
+        "title": "Ciclos IV",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1403367,
+        "original_language": "es",
+        "original_title": "Ciclos III",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/5Q5o8p4BDsMb01I5eHJGGVmKcXS.jpg",
+        "release_date": "2024-12-17",
+        "title": "Ciclos III",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1403363,
+        "original_language": "es",
+        "original_title": "Ciclos II",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/oUhjUUmzxQDUq0hW6XdLHfpHOBY.jpg",
+        "release_date": "2024-12-17",
+        "title": "Ciclos II",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             10749
         ],
         "id": 1403345,
         "original_language": "es",
         "original_title": "Ciclos I",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 1.4,
         "poster_path": "/sBpGaCe5QKEZ9CRz5Hco3UW4TMc.jpg",
         "release_date": "2024-12-17",
         "title": "Ciclos I",
