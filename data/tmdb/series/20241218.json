@@ -51,7 +51,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8uSALUeWbRN2CjZXNhW65RQf2nG.jpg",
+        "backdrop_path": "/cYB6NrLDAYbjb6NM4IbviPYpgfU.jpg",
         "genre_ids": [
             99
         ],
@@ -61,11 +61,11 @@
         ],
         "original_language": "en",
         "original_name": "The Secret Lives of Animals",
-        "overview": "",
+        "overview": "探索动物以何种聪明而有创意的方法，应对生命中从离家到求偶等等意想不到的挑战。",
         "popularity": 26.419,
         "poster_path": "/uH3uuCHmfeJoG8b2mgK2jJ5CzKr.jpg",
         "first_air_date": "2024-12-18",
-        "name": "The Secret Lives of Animals",
+        "name": "动物生活大解密",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -208,5 +208,33 @@
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10768,
+            10766,
+            18
+        ],
+        "id": 251647,
+        "origin_country": [
+            "波兰"
+        ],
+        "original_language": "pl",
+        "original_name": "Królowie",
+        "overview": "",
+        "popularity": 19.422,
+        "poster_path": null,
+        "first_air_date": "2024-12-18",
+        "name": "Królowie",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "战争与政治",
+            "肥皂剧",
+            "剧情"
+        ],
+        "original_language_zh": "波兰语"
     }
 ]
