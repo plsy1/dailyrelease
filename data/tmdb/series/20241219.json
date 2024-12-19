@@ -215,7 +215,9 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            9648
+            9648,
+            18,
+            10765
         ],
         "id": 279803,
         "origin_country": [
@@ -224,14 +226,16 @@
         "original_language": "ru",
         "original_name": "13 клиническая. Начало",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 1.4,
         "poster_path": "/7e0gRLG7cgyqavS0fKRwNjnIeFV.jpg",
         "first_air_date": "2024-12-19",
         "name": "13 клиническая. Начало",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "悬疑"
+            "悬疑",
+            "剧情",
+            "科幻与奇幻"
         ],
         "original_language_zh": "俄语"
     },
