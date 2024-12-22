@@ -3,6 +3,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            28
+        ],
+        "id": 1406169,
+        "original_language": "zh",
+        "original_title": "震撼擂台",
+        "overview": "杨震是私生子，生父不认母亲病逝，是个充满愤恨、内心孤寂的彷徨少年。他在一场格斗中惨败，却遇见了一位失志失意的落魄大叔秦憾。两人都很倔强，但内心都是伤痕，他们彼此扶持，齐上擂台，挑战有着完美人生的拳王。",
+        "popularity": 0.0,
+        "poster_path": "/bULaAMaeeo9kHiGCBQ0vHJ2nTQj.jpg",
+        "release_date": "2024-12-23",
+        "title": "震撼擂台",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             10770
         ],
         "id": 1386665,
@@ -176,7 +200,7 @@
         "original_title": "A Celebration of Hanukkah",
         "overview": "",
         "popularity": 1.4,
-        "poster_path": null,
+        "poster_path": "/oKFLtBe4nqX4ycOnZjKx6XdROSF.jpg",
         "release_date": "2024-12-23",
         "title": "A Celebration of Hanukkah",
         "video": false,
