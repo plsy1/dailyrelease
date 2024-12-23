@@ -213,6 +213,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/19XzkQJyg8W7EscVwcWHwTSOqby.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1406658,
+        "original_language": "en",
+        "original_title": "Critico",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/pvHLPpGTN4LqbD0PWRhtsedlqgF.jpg",
+        "release_date": "2024-12-23",
+        "title": "Critico",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            53
+        ],
+        "id": 1406597,
+        "original_language": "en",
+        "original_title": "Mnemosyne's Paradox",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cX4FM0ncs2u3dH1STetwYnSytAd.jpg",
+        "release_date": "2024-12-23",
+        "title": "Mnemosyne's Paradox",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -281,6 +327,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/7PJS4nQHhLj3VwwYQc3BdT2yjrI.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1406640,
+        "original_language": "fr",
+        "original_title": "David Voinson",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wD2q3QG4fBUXat5iXwarUadah9K.jpg",
+        "release_date": "2024-12-23",
+        "title": "David Voinson",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             12
@@ -320,6 +388,34 @@
         "vote_count": 2,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lhM8FfhyKwVWCc6bJKsZKQS86BO.jpg",
+        "genre_ids": [
+            27,
+            53,
+            9648,
+            18
+        ],
+        "id": 1338016,
+        "original_language": "it",
+        "original_title": "The Pen's Curse",
+        "overview": "",
+        "popularity": 0.708,
+        "poster_path": "/ziRX0dYiG8hUGzAsX8b6wWsvx6r.jpg",
+        "release_date": "2024-12-23",
+        "title": "The Pen's Curse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "悬疑",
+            "剧情"
         ],
         "original_language_zh": "意大利语"
     }
