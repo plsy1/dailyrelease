@@ -201,7 +201,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/j6SIZ2Xree71fPqz2e4YthTQ4xd.jpg",
         "genre_ids": [],
         "id": 1393864,
         "original_language": "en",
@@ -587,6 +587,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/blfT4FVAQhug3spWnp2N14UwEoz.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1380868,
+        "original_language": "en",
+        "original_title": "Her",
+        "overview": "",
+        "popularity": 0.1,
+        "poster_path": "/xK0dddVx9QMUsEGlFqUmwbWeOo9.jpg",
+        "release_date": "2024-12-25",
+        "title": "Her",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/9FMDDXqEEoIZ1KvYFpBi7n1WFE.jpg",
         "genre_ids": [
             35
@@ -609,7 +631,55 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/teuC0PLedGlLawb9bi3ykFiner8.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1407470,
+        "original_language": "en",
+        "original_title": "The Worm",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gpfCvEKD9Go4WWYYYLF9gzdIXWe.jpg",
+        "release_date": "2024-12-25",
+        "title": "The Worm",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            99,
+            12
+        ],
+        "id": 1407382,
+        "original_language": "en",
+        "original_title": "Sea to the City",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dBMq6ERnuVEALwdErgq2WErU3yB.jpg",
+        "release_date": "2024-12-25",
+        "title": "Sea to the City",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oIeO9ws888pzFCsPIv4QKlVgfoJ.jpg",
         "genre_ids": [
             18
         ],
@@ -706,7 +776,7 @@
         "original_title": "Holiday Fever",
         "overview": "",
         "popularity": 1.4,
-        "poster_path": null,
+        "poster_path": "/wvYgfucn0nnI2pEqtDkqzxHIofN.jpg",
         "release_date": "2024-12-25",
         "title": "Holiday Fever",
         "video": false,
@@ -975,7 +1045,7 @@
         "original_title": "Mortelle raclette",
         "overview": "",
         "popularity": 23.678,
-        "poster_path": "/cOxq34YpaHS47M1dKPV0dJGQhP0.jpg",
+        "poster_path": "/2ntFwZprAIZ3eZv4MlOWUe7Myzr.jpg",
         "release_date": "2024-12-25",
         "title": "Mortelle raclette",
         "video": false,
@@ -1289,7 +1359,7 @@
         "original_title": "बेबी जॉन",
         "overview": "",
         "popularity": 49.028,
-        "poster_path": "/nVObdsX7eYD52Si7dRvAw0CNS2K.jpg",
+        "poster_path": "/qCz6iKUEcRiwyRU7LLkvLCY3K9y.jpg",
         "release_date": "2024-12-25",
         "title": "बेबी जॉन",
         "video": false,
@@ -1300,6 +1370,30 @@
             "剧情",
             "惊悚",
             "犯罪"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nN4wrfWVAWAVBsFSgk4xteuE1oh.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 1407450,
+        "original_language": "hi",
+        "original_title": "Qismat Express",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/w0tsStDiOrw2C2YFZEp5xr2IRNC.jpg",
+        "release_date": "2024-12-25",
+        "title": "Qismat Express",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "喜剧"
         ],
         "original_language_zh": "印地语"
     },
