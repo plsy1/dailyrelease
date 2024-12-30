@@ -183,6 +183,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1408570,
+        "original_language": "en",
+        "original_title": "Self In Title",
+        "overview": "",
+        "popularity": 0.84,
+        "poster_path": "/4NSpjbk3j46uyZ3z8Vl0yJNtOca.jpg",
+        "release_date": "2024-12-30",
+        "title": "Self In Title",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1409315,
@@ -321,7 +345,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/zWVYO6dO69vEmb0zhrLCqHMRAYU.jpg",
         "genre_ids": [
             99
         ],
@@ -330,7 +354,7 @@
         "original_title": "Mein Name ist Otto",
         "overview": "",
         "popularity": 2.744,
-        "poster_path": null,
+        "poster_path": "/1NTZY1FEKgv7NvBdnHGsZ1kKfbR.jpg",
         "release_date": "2024-12-30",
         "title": "Mein Name ist Otto",
         "video": false,
@@ -362,6 +386,28 @@
         "genre_ids_zh": [
             "喜剧",
             "电视电影"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eJSvufpDlGJEminKZsiDroiwDkI.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1409576,
+        "original_language": "fr",
+        "original_title": "Les trésors des ambassades parisiennes",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yStENC0AATG9IDPsCjcoyDRQ3mq.jpg",
+        "release_date": "2024-12-30",
+        "title": "Les trésors des ambassades parisiennes",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
