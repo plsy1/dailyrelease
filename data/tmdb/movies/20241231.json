@@ -47,28 +47,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vjctWjNpo7NVAQvlN1o2GVAUrFw.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1401905,
-        "original_language": "en",
-        "original_title": "Don't Die: The Man Who Wants to Live Forever",
-        "overview": "　　探讨了一名男子对永生的追求以及他为抗拒衰老所付出的种种努力。",
-        "popularity": 20.35,
-        "poster_path": "/b6AFAplNTGpPH5VCgkDwuWQhXQ9.jpg",
-        "release_date": "2024-12-31",
-        "title": "长生不死：硅谷富豪的逆龄人生",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10770,
@@ -90,6 +68,28 @@
             "电视电影",
             "喜剧",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vjctWjNpo7NVAQvlN1o2GVAUrFw.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1401905,
+        "original_language": "en",
+        "original_title": "Don't Die: The Man Who Wants to Live Forever",
+        "overview": "　　探讨了一名男子对永生的追求以及他为抗拒衰老所付出的种种努力。",
+        "popularity": 20.35,
+        "poster_path": "/b6AFAplNTGpPH5VCgkDwuWQhXQ9.jpg",
+        "release_date": "2024-12-31",
+        "title": "长生不死：硅谷富豪的逆龄人生",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -2021,7 +2021,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/zXAJZrlKAQWOmD2Rc0w1ucFYG6Z.jpg",
         "genre_ids": [
             9648,
             35
