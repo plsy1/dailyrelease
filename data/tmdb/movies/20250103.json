@@ -46,19 +46,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 1410407,
         "original_language": "zh",
         "original_title": "小城季风",
         "overview": "摄影师万叶从法国回到阔别多年故乡，昔日恋人阿胜与闺蜜阿北已组建了一个幸福的家庭，万叶的到来，让三个人的生活和情感都逐渐微妙了起来。与此同时，万叶偶遇想要前往法国寻梦小镇姑娘小虎，在一座叫“海豚屿”的小岛上，两人开启了一段新的旅程。",
-        "popularity": 0.0,
-        "poster_path": null,
+        "popularity": 1.4,
+        "poster_path": "/kwZWd7qEixiW47MzerIzUK6TLhL.jpg",
         "release_date": "2025-01-03",
         "title": "小城季风",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -282,7 +286,7 @@
         "original_language": "en",
         "original_title": "Limbo",
         "overview": "",
-        "popularity": 5.379,
+        "popularity": 7.531,
         "poster_path": "/hfnWmGZe2FgteqDeDiXgaLMgJ9W.jpg",
         "release_date": "2025-01-03",
         "title": "Limbo",
@@ -305,10 +309,32 @@
         "original_language": "en",
         "original_title": "Video Track Annual 2025",
         "overview": "",
-        "popularity": 1.96,
+        "popularity": 2.744,
         "poster_path": "/snnziUJm9l9zIWMhF92RTX73hzW.jpg",
         "release_date": "2025-01-03",
         "title": "Video Track Annual 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1219630,
+        "original_language": "en",
+        "original_title": "পরমা: A Journey with Aparna Sen",
+        "overview": "",
+        "popularity": 0.703,
+        "poster_path": "/wy6bTbI8h73tvoUH4uQzJCwTfh2.jpg",
+        "release_date": "2025-01-03",
+        "title": "পরমা: A Journey with Aparna Sen",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -327,7 +353,7 @@
         "original_language": "en",
         "original_title": "Toxic",
         "overview": "",
-        "popularity": 0.54,
+        "popularity": 0.756,
         "poster_path": "/3PeRZeCpuHH6EMdpO80CgjVqqyq.jpg",
         "release_date": "2025-01-03",
         "title": "Toxic",
@@ -365,7 +391,7 @@
         "original_language": "ja",
         "original_title": "ぼくらのふしだら",
         "overview": "",
-        "popularity": 5.379,
+        "popularity": 7.531,
         "poster_path": "/75Jq8n9lKt1W9Bj3P9nZGSyesfv.jpg",
         "release_date": "2025-01-03",
         "title": "ぼくらのふしだら",
@@ -451,7 +477,7 @@
         "original_language": "sv",
         "original_title": "RAW 20 år",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 1.4,
         "poster_path": "/8PmbCK3P0IAfyRYk5asdzivoWmW.jpg",
         "release_date": "2025-01-03",
         "title": "RAW 20 år",
