@@ -196,36 +196,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2Fi1IRNripElbkCFKsx6AlHh5JL.jpg",
-        "genre_ids": [
-            16,
-            10765,
-            10759,
-            35
-        ],
-        "id": 258912,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "マジック・メイカー －異世界魔法の作り方－",
-        "overview": "",
-        "popularity": 33.645,
-        "poster_path": "/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
-        "first_air_date": "2025-01-08",
-        "name": "魔法制造者 ～异世界魔法的制作方法～",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "科幻与奇幻",
-            "动作与冒险",
-            "喜剧"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/x5NnnLQepESXd5tdLHAAmHPzGeQ.jpg",
         "genre_ids": [
             16,
@@ -237,9 +207,9 @@
         ],
         "original_language": "ja",
         "original_name": "花は咲く、修羅の如く",
-        "overview": "故事发生在一个人口只有 600 的小岛 —— 十鸣岛。居住在岛上的高中女生春山花奈热爱朗诵，并经常为岛上的孩子们举办读书会。广播部部长薄頼瑞希注意到花奈通过朗读吸引人心的能力，于是邀请她加入广播部。在加入广播部后，花奈与其他成员一起经历了许多人生中的第一次，开始了全新的成长之旅。",
+        "overview": "故事发生在一个人口只有600的小岛——十鸣岛。居住在岛上的高中女生春山花奈热爱朗诵，并经常为岛上的孩子们举办读书会。广播部部长薄頼瑞希注意到花奈通过朗读吸引人心的能力，于是邀请她加入广播部。在加入广播部后，花奈与其他成员一起经历了许多人生中的第一次，开始了全新的成长之旅。",
         "popularity": 33.503,
-        "poster_path": "/bONF3kiKK7BafTG7B9fdEQNtaWb.jpg",
+        "poster_path": "/bRTcOBKQ0YTJ4Osx5Oj0izwfoe3.jpg",
         "first_air_date": "2025-01-08",
         "name": "群花绽放，仿如修罗",
         "vote_average": 0.0,
@@ -324,6 +294,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/hmMvFDgXgOFmWkHyQ1QzjyZj7vE.jpg",
+        "genre_ids": [
+            16,
+            9648,
+            18
+        ],
+        "id": 258229,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "誰ソ彼ホテル",
+        "overview": "没有昼夜之分，无论何时都染满暮色的「黄昏旅店」。这里是彷徨在彼世与现世间的灵魂暂作休息的地方。徘徊在「黄昏旅店」的是失去了记忆的主角「冢原音子」，不清楚自己是谁，也不知道自己为何来到这里。在旅店服务员的引导下，来到了住宿的房间。「房间里会有和客人记忆连结的物品，或许您有机会依照这些线索重拾自己的记忆。」为了回到现世，她决定在此帮助造访旅店的客人们恢复记忆，并同时找回自己的记忆。然而，在某次的邂逅和事件，却改变了她的命运……",
+        "popularity": 0.001,
+        "poster_path": "/uzbRIMQ0sUGhIAJKTRUOy1CrEcv.jpg",
+        "first_air_date": "2025-01-08",
+        "name": "黄昏旅店",
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动画",
+            "悬疑",
+            "剧情"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lgWpdFVtieXnfbcTs9PHO931FrN.jpg",
         "genre_ids": [
             10764
@@ -348,9 +346,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4yBYfx8QEZ4bBgDOQRhBbVLeSa4.jpg",
+        "backdrop_path": "/jpfvwDpbtioRys1tIyqeZLC4Bec.jpg",
         "genre_ids": [
-            9648
+            9648,
+            80,
+            18
         ],
         "id": 230127,
         "origin_country": [
@@ -358,15 +358,17 @@
         ],
         "original_language": "pl",
         "original_name": "Wzgórze psów",
-        "overview": "",
+        "overview": "一名成功的知名小说家受到创伤和神秘勒索者的困扰，于是回到家乡正视尚未解决的过往。",
         "popularity": 33.247,
         "poster_path": "/45DPO2eiNIrREdug02DE73OG4L7.jpg",
         "first_air_date": "2025-01-08",
-        "name": "Wzgórze psów",
+        "name": "猎犬山",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "悬疑"
+            "悬疑",
+            "犯罪",
+            "剧情"
         ],
         "original_language_zh": "波兰语"
     }
