@@ -581,32 +581,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            80,
-            18,
-            53
-        ],
-        "id": 1168401,
-        "original_language": "en",
-        "original_title": "Laws of Man",
-        "overview": "",
-        "popularity": 7.123,
-        "poster_path": "/2mq3hCol5j4cLBnqbKHkqfTJo8B.jpg",
-        "release_date": "2025-01-10",
-        "title": "Laws of Man",
-        "video": false,
-        "vote_average": 7.0,
-        "vote_count": 2,
-        "genre_ids_zh": [
-            "犯罪",
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             18
         ],
@@ -624,6 +598,32 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1168401,
+        "original_language": "en",
+        "original_title": "Laws of Man",
+        "overview": "",
+        "popularity": 7.123,
+        "poster_path": "/2mq3hCol5j4cLBnqbKHkqfTJo8B.jpg",
+        "release_date": "2025-01-10",
+        "title": "Laws of Man",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -691,6 +691,52 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            36,
+            18
+        ],
+        "id": 1414367,
+        "original_language": "en",
+        "original_title": "my generic christian movie",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/igbEFMJabBb81UZE9B4G0TL9quE.jpg",
+        "release_date": "2025-01-10",
+        "title": "my generic christian movie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "历史",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m5enxedoyDVxfJzdXoLBVpz9J1g.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1406907,
+        "original_language": "en",
+        "original_title": "A Nice View",
+        "overview": "",
+        "popularity": 0.014,
+        "poster_path": "/chFVUcxozjH1swpE1ewit15b7mB.jpg",
+        "release_date": "2025-01-10",
+        "title": "A Nice View",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53,
             9648
         ],
@@ -737,26 +783,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            36,
-            18
-        ],
-        "id": 1414367,
+        "backdrop_path": "/osPoMXs15eZpkiiDZRtYV2gd3Bt.jpg",
+        "genre_ids": [],
+        "id": 1414700,
         "original_language": "en",
-        "original_title": "my generic christian movie",
+        "original_title": "Lost in Galactic Translation",
         "overview": "",
-        "popularity": 1.4,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/nQVzcG2hn4XDeje0PU2BuM3vHy7.jpg",
         "release_date": "2025-01-10",
-        "title": "my generic christian movie",
+        "title": "Lost in Galactic Translation",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "历史",
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
