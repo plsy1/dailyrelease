@@ -75,32 +75,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/e6DI9oLwbroAJuA49dXbwZpKk9G.jpg",
-        "genre_ids": [
-            80,
-            18
-        ],
-        "id": 236429,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "On Call",
-        "overview": "",
-        "popularity": 67.495,
-        "poster_path": "/tfWoYSoacYT5kXyA21kzZUAnes.jpg",
-        "first_air_date": "2025-01-09",
-        "name": "热线警报",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
         "genre_ids": [
             37,
@@ -118,8 +92,8 @@
         "poster_path": "/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
         "first_air_date": "2025-01-09",
         "name": "驯荒记",
-        "vote_average": 1.5,
-        "vote_count": 2,
+        "vote_average": 4.4,
+        "vote_count": 7,
         "genre_ids_zh": [
             "西部",
             "剧情",
@@ -148,6 +122,34 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sMhDkrG904UcMJyrUtTuJVlsBJq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10759
+        ],
+        "id": 236429,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "On Call",
+        "overview": "跟随长滩市警察到街头上巡逻，透过资深教官特蕾西·哈蒙和菜鸟警察亚历克斯·迪亚兹的视角，该剧探讨了警察工作的复杂性，以及这份工作对人性产生的深远影响。街头上的年轻人让哈蒙获得启发，而迪亚兹将学到警察这份工作并不是非黑即白，而是游走在灰色地带。",
+        "popularity": 67.495,
+        "poster_path": "/tfWoYSoacYT5kXyA21kzZUAnes.jpg",
+        "first_air_date": "2025-01-09",
+        "name": "热线警报",
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
+            "动作与冒险"
         ],
         "original_language_zh": "英语"
     },
@@ -210,6 +212,26 @@
         "poster_path": null,
         "first_air_date": "2025-01-09",
         "name": "مدينة الاسماك",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fZhF8CCU4SUx7WVTqmSFOqBLCCN.jpg",
+        "genre_ids": [],
+        "id": 281510,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "El Fashionista",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cB3gDwegMZtTOSzY0D6vtOWfuNx.jpg",
+        "first_air_date": "2025-01-09",
+        "name": "El Fashionista",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
