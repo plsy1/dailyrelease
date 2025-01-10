@@ -713,6 +713,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/sGMMVaDFj0uzNnlNbOQEdQKh7TQ.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1415174,
+        "original_language": "en",
+        "original_title": "ブレグ・アタック2",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/7fSaG0sSjAH3ZO2cxxfNdfbp5E4.jpg",
+        "release_date": "2025-01-10",
+        "title": "ブレグ・アタック2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/m5enxedoyDVxfJzdXoLBVpz9J1g.jpg",
         "genre_ids": [
             18
@@ -778,6 +802,28 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1415223,
+        "original_language": "en",
+        "original_title": "Laemmle's List",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-01-10",
+        "title": "Laemmle's List",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
