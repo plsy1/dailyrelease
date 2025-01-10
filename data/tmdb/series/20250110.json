@@ -423,32 +423,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/frVCVjVB4LDUMVpN0ADgAirfC6V.jpg",
-        "genre_ids": [
-            16,
-            10759
-        ],
-        "id": 257609,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "FARMAGIA (ファーマギア)",
-        "overview": "",
-        "popularity": 0.001,
-        "poster_path": "/9b3WxClXnOud4JwHeWttX0sHOJV.jpg",
-        "first_air_date": "2025-01-10",
-        "name": "魔农传记",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "动作与冒险"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/h43mZg2MldKFRpMHD1KKTBx8Phc.jpg",
         "genre_ids": [
             16,
@@ -472,6 +446,32 @@
             "动画",
             "动作与冒险",
             "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/frVCVjVB4LDUMVpN0ADgAirfC6V.jpg",
+        "genre_ids": [
+            16,
+            10759
+        ],
+        "id": 257609,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "FARMAGIA (ファーマギア)",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/9b3WxClXnOud4JwHeWttX0sHOJV.jpg",
+        "first_air_date": "2025-01-10",
+        "name": "魔农传记",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "动作与冒险"
         ],
         "original_language_zh": "日语"
     },
