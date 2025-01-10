@@ -133,28 +133,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zjPOZtbAZPjF70dLUN2NWT3Tl1J.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1091862,
-        "original_language": "en",
-        "original_title": "Black Diamond",
-        "overview": "",
-        "popularity": 41.355,
-        "poster_path": "/cw8ep8S8Hxa5LJd55DtygWbL1Kq.jpg",
-        "release_date": "2025-01-10",
-        "title": "Black Diamond",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/kLrtbKmTkbMed3GoSWc4Go7Y7Xh.jpg",
         "genre_ids": [
             28,
@@ -174,6 +152,28 @@
         "genre_ids_zh": [
             "动作",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zjPOZtbAZPjF70dLUN2NWT3Tl1J.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1091862,
+        "original_language": "en",
+        "original_title": "Black Diamond",
+        "overview": "",
+        "popularity": 41.355,
+        "poster_path": "/cw8ep8S8Hxa5LJd55DtygWbL1Kq.jpg",
+        "release_date": "2025-01-10",
+        "title": "Black Diamond",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -369,7 +369,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hT8HgX9kvPI3RWHkTcdtJK27Gss.jpg",
         "genre_ids": [
             12,
             53
@@ -981,6 +981,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80,
+            28
+        ],
+        "id": 1261501,
+        "original_language": "fr",
+        "original_title": "Ad Vitam",
+        "overview": "弗兰克·拉扎雷夫差点遭人谋杀，捡回一命后，开始搜寻被神秘武装组织绑架的妻子里奥。他过去曾是法国国家宪兵特勤队 (GIGN) 的一员，如今过去再度找上门来，情势完全超乎掌控，将他卷入国家层级的风暴。",
+        "popularity": 41.198,
+        "poster_path": "/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg",
+        "release_date": "2025-01-10",
+        "title": "救命行动",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情",
+            "犯罪",
+            "动作"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ic82PQy0hixc6wA5vOaK80lUCDw.jpg",
         "genre_ids": [
             28,
@@ -1000,34 +1028,6 @@
         "genre_ids_zh": [
             "动作",
             "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rMkbqIWdlMhSFH0MGTj10SzSJkN.jpg",
-        "genre_ids": [
-            53,
-            18,
-            80,
-            28
-        ],
-        "id": 1261501,
-        "original_language": "fr",
-        "original_title": "Ad Vitam",
-        "overview": "弗兰克·拉扎雷夫差点遭人谋杀，捡回一命后，开始搜寻被神秘武装组织绑架的妻子里奥。他过去曾是法国国家宪兵特勤队 (GIGN) 的一员，如今过去再度找上门来，情势完全超乎掌控，将他卷入国家层级的风暴。",
-        "popularity": 41.198,
-        "poster_path": "/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg",
-        "release_date": "2025-01-10",
-        "title": "救命行动",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情",
-            "犯罪",
-            "动作"
         ],
         "original_language_zh": "法语"
     },
@@ -1273,6 +1273,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            53,
+            27
+        ],
+        "id": 1415382,
+        "original_language": "it",
+        "original_title": "Bloodpay",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ko6sIgAyCXI43Zx50R02adv8BLt.jpg",
+        "release_date": "2025-01-10",
+        "title": "Bloodpay",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wzpIOpn1ZMycCGcT4YAslnRSEG3.jpg",
         "genre_ids": [],
         "id": 1413624,
@@ -1319,7 +1345,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6ZSgQoMZc93zxwG3P9BHFG86Rqe.jpg",
+        "backdrop_path": "/3SEY9FIycVneH7T8uWp7FLBmR2e.jpg",
         "genre_ids": [
             28,
             80,
@@ -1330,7 +1356,7 @@
         "original_title": "फ़तेह",
         "overview": "",
         "popularity": 44.177,
-        "poster_path": "/8M9h1adIVGwnSsbY1NPNh7xgzMc.jpg",
+        "poster_path": "/koj6YOGltFo8L42NFldJMw5M0dU.jpg",
         "release_date": "2025-01-10",
         "title": "फ़तेह",
         "video": false,
