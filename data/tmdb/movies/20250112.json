@@ -2,6 +2,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            28,
+            37
+        ],
+        "id": 1293286,
+        "original_language": "en",
+        "original_title": "The Gunslingers",
+        "overview": "",
+        "popularity": 31.788,
+        "poster_path": "/jhLahYFJbnTFNroXZb7snlGwtr9.jpg",
+        "release_date": "2025-01-12",
+        "title": "The Gunslingers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "西部"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1362953,
         "original_language": "en",
@@ -160,6 +184,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1416026,
+        "original_language": "fr",
+        "original_title": "La Fille de 3e B",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-01-12",
+        "title": "La Fille de 3e B",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
