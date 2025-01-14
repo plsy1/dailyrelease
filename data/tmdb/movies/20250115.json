@@ -37,8 +37,8 @@
         "release_date": "2025-01-15",
         "title": "狼人",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 2,
+        "vote_average": 8.2,
+        "vote_count": 3,
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
@@ -489,6 +489,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1416835,
+        "original_language": "en",
+        "original_title": "Candè",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/7271nn3cIyIzsidf84mH5vy8zm6.jpg",
+        "release_date": "2025-01-15",
+        "title": "Candè",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/67cb18cp7sda6Kwre4pGuul8XZO.jpg",
         "genre_ids": [
             35,
@@ -527,28 +549,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1416835,
-        "original_language": "en",
-        "original_title": "Candè",
-        "overview": "",
-        "popularity": 1.4,
-        "poster_path": "/7271nn3cIyIzsidf84mH5vy8zm6.jpg",
-        "release_date": "2025-01-15",
-        "title": "Candè",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "英语"
     },
     {
