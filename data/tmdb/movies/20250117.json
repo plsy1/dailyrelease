@@ -45,6 +45,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "id": 1418494,
+        "original_language": "zh",
+        "original_title": "重返侏罗纪",
+        "overview": "为了研究抗癌特效药，探险团队前往失落的孤岛寻找一种远古植物-火狱蔓莲，却在岛上遭遇了远古生物的袭击并发现了侏罗纪遗址，在经历万难，获得花蕊之后，众人再次遭到了迅猛龙追击，最终团队四散，只有三人在危机之中逃了出来，乘船离开了孤岛。",
+        "popularity": 0.0,
+        "poster_path": "/ct5i2j09kAXK4NKjPYuSDRPphJr.jpg",
+        "release_date": "2025-01-17",
+        "title": "重返侏罗纪",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "动作",
+            "科幻"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/xZm5YUNY3PlYD1Q4k7X8zd2V4AK.jpg",
         "genre_ids": [
             28,
@@ -659,6 +685,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            28,
+            14
+        ],
+        "id": 1417992,
+        "original_language": "fr",
+        "original_title": "Juste un Nom de Plus",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/qDk6n1HWNgpN7pKanzu0bIXKx32.jpg",
+        "release_date": "2025-01-17",
+        "title": "Juste un Nom de Plus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "奇幻"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99,
             10402
         ],
@@ -698,30 +748,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            14
-        ],
-        "id": 1417992,
-        "original_language": "fr",
-        "original_title": "Juste un Nom de Plus",
-        "overview": "",
-        "popularity": 1.4,
-        "poster_path": "/qDk6n1HWNgpN7pKanzu0bIXKx32.jpg",
-        "release_date": "2025-01-17",
-        "title": "Juste un Nom de Plus",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "奇幻"
         ],
         "original_language_zh": "法语"
     },
@@ -878,6 +904,24 @@
             "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zv984TTb48ObvsVaXzsbXgJ4s54.jpg",
+        "genre_ids": [],
+        "id": 1418706,
+        "original_language": "nl",
+        "original_title": "Clouseau 40",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/uk5uxsFPKBELXowxmW5XAcwRCOM.jpg",
+        "release_date": "2025-01-17",
+        "title": "Clouseau 40",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
     },
     {
         "adult": false,
