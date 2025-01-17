@@ -64,7 +64,7 @@
         "original_language": "en",
         "original_name": "Robogobo",
         "overview": "",
-        "popularity": 26.247,
+        "popularity": 36.746,
         "poster_path": "/iSZRF6HMVKKYZmMJOa4mx3dSueH.jpg",
         "first_air_date": "2025-01-17",
         "name": "Robogobo",
@@ -88,8 +88,8 @@
         "original_language": "en",
         "original_name": "Molly Mae: Behind It All",
         "overview": "",
-        "popularity": 16.825,
-        "poster_path": null,
+        "popularity": 23.555,
+        "poster_path": "/hh64SI1ZC86yCJE4GhRxQpQfazZ.jpg",
         "first_air_date": "2025-01-17",
         "name": "Molly Mae: Behind It All",
         "vote_average": 0.0,
@@ -114,7 +114,7 @@
         "original_language": "en",
         "original_name": "Transformers One: New Adventures",
         "overview": "",
-        "popularity": 1.4,
+        "popularity": 1.96,
         "poster_path": "/zmEp4c9UiW4DixFejN6q4t1koJh.jpg",
         "first_air_date": "2025-01-17",
         "name": "Transformers One: New Adventures",
@@ -125,6 +125,26 @@
             "家庭",
             "动作与冒险"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5RkcMRUH0nIeg1iRRpygvezwxkC.jpg",
+        "genre_ids": [],
+        "id": 282247,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Power of Paanch",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-01-17",
+        "name": "Power of Paanch",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -173,8 +193,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/igDVXuhw2G2izAl2rh640XDoMdC.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/gMofA99nAMJXypktfD67pzgqEWA.jpg",
+        "genre_ids": [
+            18
+        ],
         "id": 261217,
         "origin_country": [
             "墨西哥"
@@ -182,13 +204,15 @@
         "original_language": "es",
         "original_name": "La liberación",
         "overview": "",
-        "popularity": 25.736,
-        "poster_path": "/d6NUDvqHDbCpcNduvb37dwKg5tL.jpg",
+        "popularity": 36.03,
+        "poster_path": "/tgS5SqTpinL6yN1kS77ayD2l6fE.jpg",
         "first_air_date": "2025-01-17",
         "name": "La liberación",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
