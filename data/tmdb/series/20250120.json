@@ -1,6 +1,30 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/8QNhMj89fGasqYrFPHyH9Kmfqcs.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 229213,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "相思令",
+        "overview": "焱南城邦君家长女君绮罗在一次行商过程中，意外与北泫城邦玄部首领玄烈相遇相知、共经生死、最终相爱的故事。男女主人公虽身处南北两大城邦，有着文化差异，但经长期接触与了解，消除对彼此的偏见，发现对方的优点，进而相爱。他们的爱情虽不被世人看好，但他们依旧小心翼翼守护这份来之不易的感情，排除万难，终成眷属，成就了一段美好的爱情传奇，并通过两人的不懈努力，发展了丝绸商贸，从而富民强邦，化干戈为玉帛，维护南北两地的繁荣与和平。",
+        "popularity": 6.519,
+        "poster_path": "/qtXdhe8c1UzlePKU5PY91K2KEsg.jpg",
+        "first_air_date": "2025-01-20",
+        "name": "相思令",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -302,7 +326,10 @@
     {
         "adult": false,
         "backdrop_path": "/qbw6Na0VaNHYjcd7loV20Blh82X.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            35,
+            18
+        ],
         "id": 282490,
         "origin_country": [
             "俄罗斯"
@@ -316,7 +343,10 @@
         "name": "Купцы и дети",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
         "original_language_zh": "俄语"
     },
     {
