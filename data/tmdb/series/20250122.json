@@ -1,6 +1,30 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 282511,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "再见十八班",
+        "overview": "曾经的不良少年宋宸受恩师的影响决心成为一名教师，改变更多垫底学生的命运。回校实习时，他却被分配到尖子班1班，成为学霸们的班主任。恩师之女、脾气火爆的优等生谭舒同对教师职业充满抗拒，却因求职失手无奈地回到高中，成为吊车尾18班的班主任。菜鸟老师 vs 不想改变的学生，互相瞧不起对方的两组人被迫朝夕相处，交锋之后，对彼此的偏见也在悄悄瓦解……与此同时，宋宸的老同学们、上一代的18班也在此时踏上社会，租住在一起的他们成为了两位菜鸟教师的狗头军师。尽管后青春期的他们已经成人，却也面临着和中学生相似的烦恼。一屋子的“95后”社会菜鸟与新一届“05后”少年们的故事相互交织，他（她）们能成为理想中的大人吗？",
+        "popularity": 0.84,
+        "poster_path": "/acVfWjkcD1MOiknq4Rc25GK2tiZ.jpg",
+        "first_air_date": "2025-01-22",
+        "name": "再见十八班",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/bWZFMAEaO2Yfmy0ojRhsd39865U.jpg",
         "genre_ids": [
             18,
@@ -100,7 +124,10 @@
     {
         "adult": false,
         "backdrop_path": "/qEPU8CMYE9wNMbkws3ZDwiLI23L.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10765,
+            9648
+        ],
         "id": 282023,
         "origin_country": [
             "泰国"
@@ -114,7 +141,10 @@
         "name": "คุณพี่เจ้าขา...ดิฉันเป็นห่านมิใช่หงส์",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "科幻与奇幻",
+            "悬疑"
+        ],
         "original_language_zh": "泰语"
     },
     {
