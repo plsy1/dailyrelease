@@ -23,6 +23,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            9648
+        ],
+        "id": 1422236,
+        "original_language": "zh",
+        "original_title": "秦岭诡事之守护者",
+        "overview": "本故事描绘了寻宝人荀爷、凤瑶、蔡青云、王鸭子等  　　人为救济灾民，进秦岭凤凰山寻宝遭遇了重重险境，众人齐心协力，最终化险为夷，通过与旧官僚、当地豪绅、洋人等多方势力的斗争，最终摧毁洋人染指我国国宝的险恶用心的故事。",
+        "popularity": 0.0,
+        "poster_path": "/mkxZ2dZPowd3qhLMavZc2mBRBig.jpg",
+        "release_date": "2025-01-24",
+        "title": "秦岭诡事之守护者",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "悬疑"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
         "genre_ids": [
             10751,
@@ -667,17 +693,39 @@
         ],
         "id": 1201149,
         "original_language": "en",
-        "original_title": "Björk's Cornucopia",
+        "original_title": "Apple Music Live: Björk Cornucopia",
         "overview": "",
         "popularity": 2.827,
-        "poster_path": "/A45HrYXWtLPDVWFEUmbaY17ntd4.jpg",
+        "poster_path": "/rTYLf0bfgkpyZzdBCPddreZiBmh.jpg",
         "release_date": "2025-01-24",
-        "title": "Björk's Cornucopia",
+        "title": "Apple Music Live: Björk Cornucopia",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ywzmSktuEOOK7EiH8sp357o8Wfw.jpg",
+        "genre_ids": [
+            878
+        ],
+        "id": 1223275,
+        "original_language": "en",
+        "original_title": "Myth of Man",
+        "overview": "",
+        "popularity": 2.562,
+        "poster_path": "/yBENQduzArjujwKBM7EXyPRcPML.jpg",
+        "release_date": "2025-01-24",
+        "title": "Myth of Man",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -1093,7 +1141,7 @@
         "popularity": 23.402,
         "poster_path": "/dhNASjOD5iNVW7bKi5TvvhPZ9L4.jpg",
         "release_date": "2025-01-24",
-        "title": "아이유 콘서트 : 더 위닝",
+        "title": "IU演唱会：胜利时刻",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1228,7 +1276,7 @@
         "original_title": "Galaxi Urnäsch 3000",
         "overview": "",
         "popularity": 15.581,
-        "poster_path": "/arSFI6FPcfHMsWsNulBOYw2HJYd.jpg",
+        "poster_path": "/sDKiVXhV1mwL9LbqzW71LaF0jde.jpg",
         "release_date": "2025-01-24",
         "title": "Galaxi Urnäsch 3000",
         "video": false,
