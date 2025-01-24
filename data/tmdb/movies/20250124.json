@@ -66,8 +66,8 @@
         "release_date": "2025-01-24",
         "title": "神探狗狗",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "家庭",
             "动画",
@@ -135,7 +135,7 @@
         "original_title": "If I Had Legs I’d Kick You",
         "overview": "",
         "popularity": 29.753,
-        "poster_path": "/6JM667mTr1RGGJEhxYD9itpo20T.jpg",
+        "poster_path": "/bFEbh8WjU0ZKFkZ2cFM6OTeqs1l.jpg",
         "release_date": "2025-01-24",
         "title": "If I Had Legs I’d Kick You",
         "video": false,
@@ -1061,6 +1061,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1387790,
+        "original_language": "ja",
+        "original_title": "ありきたりな言葉じゃなくて",
+        "overview": "",
+        "popularity": 24.256,
+        "poster_path": "/5g2rlBX33OX4r0dBOw5CvKlgoXw.jpg",
+        "release_date": "2025-01-24",
+        "title": "ありきたりな言葉じゃなくて",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/uGnpqdt6eRqTVITuWR5bJOzpQwi.jpg",
         "genre_ids": [],
         "id": 1363439,
@@ -1167,24 +1185,6 @@
             "悬疑",
             "恐怖"
         ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1387790,
-        "original_language": "ja",
-        "original_title": "ありきたりな言葉じゃなくて",
-        "overview": "",
-        "popularity": 24.256,
-        "poster_path": "/5g2rlBX33OX4r0dBOw5CvKlgoXw.jpg",
-        "release_date": "2025-01-24",
-        "title": "ありきたりな言葉じゃなくて",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "日语"
     },
     {
@@ -1484,6 +1484,32 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14,
+            10402,
+            35
+        ],
+        "id": 1421716,
+        "original_language": "de",
+        "original_title": "Instant Coffee",
+        "overview": "",
+        "popularity": 0.84,
+        "poster_path": "/eYKlQxgJd8Kdr3swAEtklvs0keL.jpg",
+        "release_date": "2025-01-24",
+        "title": "Instant Coffee",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "音乐",
+            "喜剧"
         ],
         "original_language_zh": "德语"
     },
@@ -1810,7 +1836,8 @@
         "backdrop_path": "/j1wudEiCGZQBI4roXKGfAkFaCx5.jpg",
         "genre_ids": [
             18,
-            53
+            53,
+            35
         ],
         "id": 1389152,
         "original_language": "hi",
@@ -1825,7 +1852,8 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
-            "惊悚"
+            "惊悚",
+            "喜剧"
         ],
         "original_language_zh": "印地语"
     },
@@ -1833,8 +1861,8 @@
         "adult": false,
         "backdrop_path": "/pYU35lHyG4UHoArxFtWu4bIhVcH.jpg",
         "genre_ids": [
-            35,
-            10749
+            10749,
+            18
         ],
         "id": 1400553,
         "original_language": "hi",
@@ -1848,8 +1876,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "爱情"
+            "爱情",
+            "剧情"
         ],
         "original_language_zh": "印地语"
     },
