@@ -28,7 +28,9 @@
     {
         "adult": false,
         "backdrop_path": "/o6QrWHLDKGWapwolkQJTETTgHl7.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10762
+        ],
         "id": 282238,
         "origin_country": [
             "美国"
@@ -42,7 +44,9 @@
         "name": "Ms. Rachel",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "儿童"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -73,7 +77,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hOGFjA9ZtqSHMQIOWIxSeXDOlg6.jpg",
         "genre_ids": [
             99
         ],
