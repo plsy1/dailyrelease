@@ -26,6 +26,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1424991,
+        "original_language": "zh",
+        "original_title": "笑傲江湖（2025）",
+        "overview": "　影片改编自金庸小说《笑傲江湖》，讲述了想退出江湖的令狐冲（黄曦彦 饰）被迫卷入武林正邪风波中，意外邂逅了魔教教主东方不败（张雨绮 饰），就此开启共赴修罗场的江湖之旅的故事。",
+        "popularity": 0.0,
+        "poster_path": "/i98PVNyxZmqhlzVQ41Tm3misKEM.jpg",
+        "release_date": "2025-01-28",
+        "title": "笑傲江湖（2025）",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             35
         ],
@@ -68,6 +86,28 @@
             "喜剧"
         ],
         "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1400288,
+        "original_language": "en",
+        "original_title": "Deaf President Now!",
+        "overview": "",
+        "popularity": 23.845,
+        "poster_path": null,
+        "release_date": "2025-01-28",
+        "title": "Deaf President Now!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -283,28 +323,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1400288,
-        "original_language": "en",
-        "original_title": "Deaf President Now!",
-        "overview": "",
-        "popularity": 23.845,
-        "poster_path": null,
-        "release_date": "2025-01-28",
-        "title": "Deaf President Now!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/aQPx2jIdqyjEDvDp0nYUFgpWaph.jpg",
         "genre_ids": [
             99
@@ -403,28 +421,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5l8O7GnuxpiHNLk9SEQZwbt5kUc.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1323911,
-        "original_language": "en",
-        "original_title": "Drained",
-        "overview": "",
-        "popularity": 3.377,
-        "poster_path": "/hE6CaGEcWES0BCSVC8kLgpOYt83.jpg",
-        "release_date": "2025-01-28",
-        "title": "Drained",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -447,7 +443,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/m15w4UDiGj4iNCXEAXXq7h9Gr18.jpg",
         "genre_ids": [
             35
         ],
@@ -459,6 +455,28 @@
         "poster_path": null,
         "release_date": "2025-01-28",
         "title": "Liza Treyger: Night Owl",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1387702,
+        "original_language": "en",
+        "original_title": "Confessions of a Romance Narrator",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": null,
+        "release_date": "2025-01-28",
+        "title": "Confessions of a Romance Narrator",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
