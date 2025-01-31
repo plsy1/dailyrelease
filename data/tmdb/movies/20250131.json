@@ -187,6 +187,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/l2Fr2gpyXYYFPefH09X5ldlE0Mp.jpg",
+        "genre_ids": [
+            28,
+            14,
+            53
+        ],
+        "id": 915010,
+        "original_language": "en",
+        "original_title": "The Devil and the Daylong Brothers",
+        "overview": "",
+        "popularity": 30.576,
+        "poster_path": "/hMKQcWitLfNJbgROVvSePemVCCT.jpg",
+        "release_date": "2025-01-31",
+        "title": "The Devil and the Daylong Brothers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "奇幻",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mGh4jKe50kp92Li589eevjQhcZ8.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1400514,
+        "original_language": "en",
+        "original_title": "Like Father Like Son",
+        "overview": "",
+        "popularity": 28.865,
+        "poster_path": "/IKip5WIBx5UVud9aM7WR74WdaQ.jpg",
+        "release_date": "2025-01-31",
+        "title": "Like Father Like Son",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/yFR9O5I1r1lenDZd2bEtZYTNiN2.jpg",
         "genre_ids": [
             18
@@ -233,32 +283,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/l2Fr2gpyXYYFPefH09X5ldlE0Mp.jpg",
-        "genre_ids": [
-            28,
-            14,
-            53
-        ],
-        "id": 915010,
-        "original_language": "en",
-        "original_title": "The Devil and the Daylong Brothers",
-        "overview": "",
-        "popularity": 30.576,
-        "poster_path": "/hMKQcWitLfNJbgROVvSePemVCCT.jpg",
-        "release_date": "2025-01-31",
-        "title": "The Devil and the Daylong Brothers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "奇幻",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             80,
@@ -284,30 +308,6 @@
             "剧情",
             "动作",
             "冒险"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mGh4jKe50kp92Li589eevjQhcZ8.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1400514,
-        "original_language": "en",
-        "original_title": "Like Father Like Son",
-        "overview": "",
-        "popularity": 28.865,
-        "poster_path": "/IKip5WIBx5UVud9aM7WR74WdaQ.jpg",
-        "release_date": "2025-01-31",
-        "title": "Like Father Like Son",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -833,7 +833,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/xzgWuomC6ABfhI8ePMHazNZ0y4i.jpg",
         "genre_ids": [
             18
         ],
@@ -842,7 +842,7 @@
         "original_title": "6 More Weeks of Winter",
         "overview": "",
         "popularity": 1.646,
-        "poster_path": null,
+        "poster_path": "/3iTsrjVJzvW5kufc0twr128QSMO.jpg",
         "release_date": "2025-01-31",
         "title": "6 More Weeks of Winter",
         "video": false,
@@ -880,6 +880,34 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            10749,
+            27
+        ],
+        "id": 1419942,
+        "original_language": "en",
+        "original_title": "Blood Moon",
+        "overview": "",
+        "popularity": 0.03,
+        "poster_path": "/buDEExuxlHShY4Ao1rWR6lH8daq.jpg",
+        "release_date": "2025-01-31",
+        "title": "Blood Moon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "爱情",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1420533,
         "original_language": "en",
@@ -897,18 +925,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/jt3gf9Y9zycDTxnKnoBlcqOevZ8.jpg",
         "genre_ids": [
             99
         ],
         "id": 1397478,
         "original_language": "en",
-        "original_title": "Love Poems Part II",
+        "original_title": "قصائد حب الجزء الثاني",
         "overview": "",
         "popularity": 0.001,
         "poster_path": "/2wFx9eZODpP7nS6VniL4PQJaghp.jpg",
         "release_date": "2025-01-31",
-        "title": "Love Poems Part II",
+        "title": "قصائد حب الجزء الثاني",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -936,6 +964,58 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "id": 1426730,
+        "original_language": "en",
+        "original_title": "The Secrets of the Shiledars",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-01-31",
+        "title": "The Secrets of the Shiledars",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35,
+            10749
+        ],
+        "id": 1426664,
+        "original_language": "en",
+        "original_title": "Green Grass, Yellow Sun",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lvaaa4bkpPSvCGRU0iNPpQfdFHm.jpg",
+        "release_date": "2025-01-31",
+        "title": "Green Grass, Yellow Sun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1219,6 +1299,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/sgG03kcWZ19lrY5kxwSbzTX6LJd.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1383749,
+        "original_language": "fr",
+        "original_title": "Quand le rideau se lève",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/jwUJPIfTcPoPGkEe44OxVSBHx4I.jpg",
+        "release_date": "2025-01-31",
+        "title": "Quand le rideau se lève",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sxCwdTaRFoW8Fz5DJbJxbqgpCZa.jpg",
         "genre_ids": [
             18,
@@ -1238,6 +1340,50 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1426736,
+        "original_language": "fr",
+        "original_title": "Kaboul Chaos",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/oMvmuTLXJvCinPqOCfPTCGVDIC0.jpg",
+        "release_date": "2025-01-31",
+        "title": "Kaboul Chaos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1M2j7HlLDH69tf6PDyfe3djSBhH.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1426639,
+        "original_language": "fr",
+        "original_title": "Jimmy Goes to Tropico",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/n7ozOY4kD2YkyCfcuGpkn2SPe5y.jpg",
+        "release_date": "2025-01-31",
+        "title": "Jimmy Goes to Tropico",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
