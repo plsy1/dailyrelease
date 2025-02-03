@@ -25,6 +25,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1428406,
+        "original_language": "zh",
+        "original_title": "祝你好运",
+        "overview": "本片讲述了即将毕业大学生江大龙，为了装腔赌气，立誓加入腾飞救援队的故事。在经历了打击与考验后，成长为一个合格的救援队员，不仅帮助了别人，也意识到了自己的能力与价值所在，找到了人生的方向，收获了过命的友情与一段即将到来的爱情的故事。",
+        "popularity": 0.0,
+        "poster_path": "/i9NCRNnyqH7avlzgjO4c666zHKL.jpg",
+        "release_date": "2025-02-04",
+        "title": "祝你好运",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/5d5SOM7AuXm9XstOOK12B677VDD.jpg",
         "genre_ids": [
             35
@@ -266,6 +288,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1428510,
+        "original_language": "pt",
+        "original_title": "Entre a Chave e a Parede",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eWBUPkzTuQk6MVT7LTHMc80pRGR.jpg",
+        "release_date": "2025-02-04",
+        "title": "Entre a Chave e a Parede",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "葡萄牙语"
     },
