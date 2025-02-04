@@ -25,29 +25,31 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5d5SOM7AuXm9XstOOK12B677VDD.jpg",
+        "backdrop_path": "/hZSOdJFLECTBO8PpYkVI3rPsY2D.jpg",
         "genre_ids": [
-            35
+            35,
+            10749
         ],
         "id": 1212142,
         "original_language": "en",
         "original_title": "Kinda Pregnant",
-        "overview": "",
+        "overview": "莱妮本打算安定下来并成家，但计划泡汤。于是，她戴上假孕肚，撒了个谎，却意外邂逅了梦中情郎。",
         "popularity": 45.816,
         "poster_path": "/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
         "release_date": "2025-02-05",
-        "title": "Kinda Pregnant",
+        "title": "肚假情真",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/eFKjiLPzx8m82lx0JonXOQE3QEp.jpg",
+        "backdrop_path": "/mmPzE3buVaALB9E3zDXOzoTW9oC.jpg",
         "genre_ids": [
             99,
             10402
@@ -508,6 +510,30 @@
             "纪录"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8GWlJLJfcsKB5CmTnq7azPjmkNJ.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1428902,
+        "original_language": "de",
+        "original_title": "Du + Ich",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/a9ANPLFIDX3kOon9Bju5evtiCoh.jpg",
+        "release_date": "2025-02-05",
+        "title": "Du + Ich",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
