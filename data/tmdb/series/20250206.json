@@ -25,30 +25,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/AudKvfBRgiBHc3mMuBvcgovp2rP.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 253977,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "The Z-Suite",
-        "overview": "",
-        "popularity": 57.124,
-        "poster_path": "/Z14TzABOa8AJamgoupgTwEy2Bj.jpg",
-        "first_air_date": "2025-02-06",
-        "name": "The Z-Suite",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/c2r31iNC052gj1noKDntFEh1VHX.jpg",
         "genre_ids": [
             18,
@@ -70,6 +46,30 @@
         "genre_ids_zh": [
             "剧情",
             "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AudKvfBRgiBHc3mMuBvcgovp2rP.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 253977,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "The Z-Suite",
+        "overview": "",
+        "popularity": 57.124,
+        "poster_path": "/Z14TzABOa8AJamgoupgTwEy2Bj.jpg",
+        "first_air_date": "2025-02-06",
+        "name": "The Z-Suite",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -266,8 +266,8 @@
         "poster_path": "/dJDrH6O8ei4Sw4YFgIqmkGnjKre.jpg",
         "first_air_date": "2025-02-06",
         "name": "奥勒谋杀案",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 2,
         "genre_ids_zh": [
             "悬疑",
             "犯罪",
