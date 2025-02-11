@@ -89,7 +89,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/goYHnucz95Q4bsWpowDwJhkeCJh.jpg",
         "genre_ids": [
             35
         ],
@@ -111,7 +111,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/ybkyheLoR9GQz93EJZHIhiucNHd.jpg",
         "genre_ids": [
             35
         ],
@@ -207,6 +207,28 @@
         "genre_ids": [
             27
         ],
+        "id": 1432366,
+        "original_language": "en",
+        "original_title": "Closer",
+        "overview": "",
+        "popularity": 0.9,
+        "poster_path": "/vL8uNS3tHgzYLIzXfdBROVUia0p.jpg",
+        "release_date": "2025-02-11",
+        "title": "Closer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
         "id": 1414473,
         "original_language": "fr",
         "original_title": "Slasher",
@@ -266,6 +288,34 @@
             "纪录"
         ],
         "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            27,
+            35,
+            878
+        ],
+        "id": 1432132,
+        "original_language": "es",
+        "original_title": "Ecos y otros relatos asombrosos",
+        "overview": "",
+        "popularity": 0.847,
+        "poster_path": "/4ApkaxocGRhYry7IWyuHJrPXhHC.jpg",
+        "release_date": "2025-02-11",
+        "title": "Ecos y otros relatos asombrosos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖",
+            "喜剧",
+            "科幻"
+        ],
+        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
