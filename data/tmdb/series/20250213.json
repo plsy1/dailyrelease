@@ -147,8 +147,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/r23FhbMOdtrikSoAADS4QO9NJo0.jpg",
+        "genre_ids": [
+            99
+        ],
         "id": 283736,
         "origin_country": [
             "美国"
@@ -162,12 +164,14 @@
         "name": "James May's Great Explorers",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/HgwXAM3A8exOjWRoDD7LEkmelN.jpg",
+        "backdrop_path": "/91ApZGQQOTTNd0hZy0KEysJrxza.jpg",
         "genre_ids": [
             99,
             10764
