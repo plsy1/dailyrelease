@@ -58,14 +58,40 @@
         "popularity": 763.951,
         "poster_path": "/psHIF8qX6g2RfxBHGKmAWenlPo8.jpg",
         "release_date": "2025-02-12",
-        "title": "美国队长4",
+        "title": "美国队长4：新世界秩序",
         "video": false,
-        "vote_average": 7.5,
-        "vote_count": 15,
+        "vote_average": 7.3,
+        "vote_count": 20,
         "genre_ids_zh": [
             "科幻",
             "动作",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+        "genre_ids": [
+            35,
+            18,
+            10749
+        ],
+        "id": 1272149,
+        "original_language": "en",
+        "original_title": "Bridget Jones: Mad About the Boy",
+        "overview": "《BJ單身日記》系列第四集，《致蕾絲莉》麥克莫里斯執導，芮妮齊薇格再度回歸飾演跨越世代的愛情喜劇女主人翁。",
+        "popularity": 141.729,
+        "poster_path": "/A8a4LDJ1AfQGFGNXnwg336a0Xuq.jpg",
+        "release_date": "2025-02-12",
+        "title": "BJ单身日记4",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 4,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -95,27 +121,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+        "backdrop_path": "/srhJpE41HURtT0XJ4zN4rmWop4V.jpg",
         "genre_ids": [
+            16,
             35,
-            18,
-            10749
+            10770,
+            878
         ],
-        "id": 1272149,
+        "id": 1428438,
         "original_language": "en",
-        "original_title": "Bridget Jones: Mad About the Boy",
-        "overview": "《BJ單身日記》系列第四集，《致蕾絲莉》麥克莫里斯執導，芮妮齊薇格再度回歸飾演跨越世代的愛情喜劇女主人翁。",
-        "popularity": 141.729,
-        "poster_path": "/A8a4LDJ1AfQGFGNXnwg336a0Xuq.jpg",
+        "original_title": "The Simpsons: The Past and the Furious",
+        "overview": "",
+        "popularity": 20.664,
+        "poster_path": "/o4u3ohFxXndHicLXgddxS5UyjBm.jpg",
         "release_date": "2025-02-12",
-        "title": "BJ单身日记4",
+        "title": "The Simpsons: The Past and the Furious",
         "video": false,
-        "vote_average": 7.8,
-        "vote_count": 4,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
+            "动画",
             "喜剧",
-            "剧情",
-            "爱情"
+            "电视电影",
+            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -307,34 +335,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/srhJpE41HURtT0XJ4zN4rmWop4V.jpg",
-        "genre_ids": [
-            16,
-            35,
-            10770,
-            878
-        ],
-        "id": 1428438,
-        "original_language": "en",
-        "original_title": "The Simpsons: The Past and the Furious",
-        "overview": "",
-        "popularity": 20.664,
-        "poster_path": "/o4u3ohFxXndHicLXgddxS5UyjBm.jpg",
-        "release_date": "2025-02-12",
-        "title": "The Simpsons: The Past and the Furious",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "喜剧",
-            "电视电影",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10402
@@ -435,6 +435,48 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1433033,
+        "original_language": "en",
+        "original_title": "Life.. and..",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/rOz2R0bECVMUuRoP1HexwbLUKBU.jpg",
+        "release_date": "2025-02-12",
+        "title": "Life.. and..",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aSkdhOHbmc4sNNIPshn7lJzRwzs.jpg",
+        "genre_ids": [
+            878,
+            18
+        ],
+        "id": 1433022,
+        "original_language": "en",
+        "original_title": "Removal",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gRtu8qvbCSiLgoCtgl5JMJB83UC.jpg",
+        "release_date": "2025-02-12",
+        "title": "Removal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -598,10 +640,32 @@
         "release_date": "2025-02-12",
         "title": "蜜月我的妈",
         "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bNdBhnS0bab2D5bC4ynC2P73r4s.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1358082,
+        "original_language": "fr",
+        "original_title": "Strip-Tease, intégral",
+        "overview": "",
+        "popularity": 24.949,
+        "poster_path": "/n1WDe4XNAGzm6lrwyo5PvX61U96.jpg",
+        "release_date": "2025-02-12",
+        "title": "Strip-Tease, intégral",
+        "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
@@ -631,28 +695,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bNdBhnS0bab2D5bC4ynC2P73r4s.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1358082,
-        "original_language": "fr",
-        "original_title": "Strip tease Intégral",
-        "overview": "",
-        "popularity": 24.949,
-        "poster_path": "/n1WDe4XNAGzm6lrwyo5PvX61U96.jpg",
-        "release_date": "2025-02-12",
-        "title": "Strip tease Intégral",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -666,8 +708,8 @@
         "release_date": "2025-02-12",
         "title": "Haut les mains",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧"
         ],
@@ -722,6 +764,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1362344,
+        "original_language": "nl",
+        "original_title": "House Trap",
+        "overview": "",
+        "popularity": 21.909,
+        "poster_path": "/pbqcW9EvvM8w4s1qz1noYEPV3Xp.jpg",
+        "release_date": "2025-02-12",
+        "title": "House Trap",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             10751,
             18
@@ -741,24 +801,6 @@
             "家庭",
             "剧情"
         ],
-        "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1362344,
-        "original_language": "nl",
-        "original_title": "House Trap",
-        "overview": "",
-        "popularity": 21.909,
-        "poster_path": "/pbqcW9EvvM8w4s1qz1noYEPV3Xp.jpg",
-        "release_date": "2025-02-12",
-        "title": "House Trap",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "荷兰语"
     },
     {
@@ -795,12 +837,12 @@
         "original_title": "Zgon przed weselem",
         "overview": "当地乳品厂经理去世后，小镇居民的生活从此天翻地覆。在争夺乳品厂经营权的过程中，一对父母无预警接获一个天大消息，女儿居然要回来结婚了，而且她的到来和不同的价值观将为小镇掀起男女大战！",
         "popularity": 24.55,
-        "poster_path": "/qZeyHx0WRIOmiwgtYbZRBDwyKdJ.jpg",
+        "poster_path": "/4TtNHMcPVcHEHH8wHdxVzlyUa1k.jpg",
         "release_date": "2025-02-12",
         "title": "婚前救急",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧",
             "爱情"
