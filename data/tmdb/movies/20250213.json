@@ -1,6 +1,32 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            10752
+        ],
+        "id": 1356229,
+        "original_language": "zh",
+        "original_title": "天虎突击队",
+        "overview": "本片讲述了在中国人民解放军某战区的一场红蓝军事演习中，红军王牌特种作战小队“天虎突击队”在执行深入敌后侦察任务时，不慎陷入了蓝军设计好的陷阱，经过一番苦战后才惊险逃脱。逃出重重包围后，天虎突击队还将接收什么绝密任务，红蓝方两支特战部队激燃对决，究竟谁能胜出！",
+        "popularity": 0.424,
+        "poster_path": "/4UVRGeWKnmLQKRF0bktaVBwSOgv.jpg",
+        "release_date": "2025-02-13",
+        "title": "天虎突击队",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "战争"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ntQ1Y9fr7IFT1XN9NfdIFomSKHg.jpg",
         "genre_ids": [
             28,
