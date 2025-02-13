@@ -754,30 +754,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            35,
-            10402
-        ],
-        "id": 1430141,
-        "original_language": "en",
-        "original_title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
-        "overview": "",
-        "popularity": 10.543,
-        "poster_path": "/aRDDLRQE6nbNw4Dp1RGqut70RKh.jpg",
-        "release_date": "2025-02-14",
-        "title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1429618,
         "original_language": "en",
@@ -855,6 +831,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            10402
+        ],
+        "id": 1430141,
+        "original_language": "en",
+        "original_title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
+        "overview": "",
+        "popularity": 10.543,
+        "poster_path": "/8pucnsNM7XmExg4OJGC8TEvbPB0.jpg",
+        "release_date": "2025-02-14",
+        "title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             878,
             10749
         ],
@@ -923,28 +923,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fV2i8NLucmpRZ9JKF9C6SeAlYWA.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1432927,
-        "original_language": "en",
-        "original_title": "Freshman",
-        "overview": "",
-        "popularity": 1.96,
-        "poster_path": "/ajd7u0SKgFoSRLpH602rqhDZ7tH.jpg",
-        "release_date": "2025-02-14",
-        "title": "Freshman",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qHOy9p2BuJgOg5IS0Els6hr4Q7U.jpg",
         "genre_ids": [
             10751,
@@ -990,6 +968,28 @@
             "电视电影",
             "喜剧",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fV2i8NLucmpRZ9JKF9C6SeAlYWA.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1432927,
+        "original_language": "en",
+        "original_title": "Freshman",
+        "overview": "",
+        "popularity": 1.96,
+        "poster_path": "/ajd7u0SKgFoSRLpH602rqhDZ7tH.jpg",
+        "release_date": "2025-02-14",
+        "title": "Freshman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
