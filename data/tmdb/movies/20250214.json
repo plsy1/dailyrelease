@@ -95,6 +95,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28
+        ],
+        "id": 1433611,
+        "original_language": "zh",
+        "original_title": "谍徒迷局",
+        "overview": "宋·皇祐三年，涿郡府泗水县，因人口大量走失而引起民怨发生叛乱，县令宗朝虽将叛乱镇压，但走失的人口始终无法找回，刑部卧底遒辛治受太尉陆判官之命，顶替被暗杀的周广泗水帮帮主，通过卧底身份帮派搜集情报，从而调查人口走失案。  　　遒辛治凭借酷似周广的外貌混入泗水帮，始终感觉杀机四伏。果不其然，遒辛治刚着手调查就遭遇暗杀，于是，卧底遒辛治与总铺头霄离渊一明一暗联手查案。但因案件错踪复杂，而遒辛治天马行空，乱拳打死老师傅似的破案方案，令霄离渊头痛不已。历经冲冲危险，最终案件终于得以侦破，遒辛治却放弃恢复身份，选择继续卧底生涯，踏上侦破新案件的征途。",
+        "popularity": 0.0,
+        "poster_path": "/wAsRdo7gXN1TMvnyRSt7tYgz2oj.jpg",
+        "release_date": "2025-02-14",
+        "title": "谍徒迷局",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6dC7ULfiutxwEAs7LjWHL2Tc7Zv.jpg",
         "genre_ids": [
             27,
@@ -732,6 +754,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35,
+            10402
+        ],
+        "id": 1430141,
+        "original_language": "en",
+        "original_title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
+        "overview": "",
+        "popularity": 10.543,
+        "poster_path": "/aRDDLRQE6nbNw4Dp1RGqut70RKh.jpg",
+        "release_date": "2025-02-14",
+        "title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1429618,
         "original_language": "en",
@@ -808,24 +854,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1430141,
-        "original_language": "en",
-        "original_title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
-        "overview": "",
-        "popularity": 10.543,
-        "poster_path": null,
-        "release_date": "2025-02-14",
-        "title": "Jim E. Brown In: I Miss You But I Don't Want You Back",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             878,
             10749
@@ -890,6 +918,28 @@
         "genre_ids_zh": [
             "恐怖",
             "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fV2i8NLucmpRZ9JKF9C6SeAlYWA.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1432927,
+        "original_language": "en",
+        "original_title": "Freshman",
+        "overview": "",
+        "popularity": 1.96,
+        "poster_path": "/ajd7u0SKgFoSRLpH602rqhDZ7tH.jpg",
+        "release_date": "2025-02-14",
+        "title": "Freshman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1460,7 +1510,7 @@
         "original_title": "Sirens Call",
         "overview": "",
         "popularity": 0.001,
-        "poster_path": null,
+        "poster_path": "/pf5mNzIFCSky092JpGqUvbWnShG.jpg",
         "release_date": "2025-02-14",
         "title": "Sirens Call",
         "video": false,
@@ -1663,7 +1713,7 @@
         "original_title": "छावा",
         "overview": "",
         "popularity": 60.406,
-        "poster_path": "/7AeohlqamcLL1diMusV28eTngvg.jpg",
+        "poster_path": "/wkI6B0xQCSLAcS9N5oDWPeAqeXL.jpg",
         "release_date": "2025-02-14",
         "title": "छावा",
         "video": false,
