@@ -549,6 +549,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/lE0OK9rHklpMGrfRlihoKAdgM4q.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1425481,
+        "original_language": "en",
+        "original_title": "Our Warrior: The Story of Robbie Thorpe",
+        "overview": "",
+        "popularity": 1.253,
+        "poster_path": "/206xKM2mYyNOgMkQVgxxisDeIVV.jpg",
+        "release_date": "2025-02-15",
+        "title": "Our Warrior: The Story of Robbie Thorpe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/senybHYAMX2d4OC1eKB1h0t2Ic9.jpg",
         "genre_ids": [
             18,
@@ -724,6 +746,48 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gb72gY3enNHTBVgCllhWU7EK0Fb.jpg",
+        "genre_ids": [],
+        "id": 1434586,
+        "original_language": "en",
+        "original_title": "Trapped in the Spotlight",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-02-15",
+        "title": "Trapped in the Spotlight",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1434550,
+        "original_language": "en",
+        "original_title": "Tree Roots Through Concrete",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/AdthUxQ2Ulc60HK6ZodT2wBUVF6.jpg",
+        "release_date": "2025-02-15",
+        "title": "Tree Roots Through Concrete",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1136,7 +1200,7 @@
         "original_title": "Punku",
         "overview": "",
         "popularity": 2.029,
-        "poster_path": "/skjAyhjttmIIksWXohwNgeePWFI.jpg",
+        "poster_path": "/69FSyiitRJB1Ei4EQCSXooibbzB.jpg",
         "release_date": "2025-02-15",
         "title": "Punku",
         "video": false,
