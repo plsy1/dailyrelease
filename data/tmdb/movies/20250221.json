@@ -522,7 +522,7 @@
         "original_title": "Northlore",
         "overview": "",
         "popularity": 15.719,
-        "poster_path": null,
+        "poster_path": "/oJsNHDmmp9UBhsJZT4qnfTcLh12.jpg",
         "release_date": "2025-02-21",
         "title": "Northlore",
         "video": false,
@@ -583,32 +583,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vHgV2NubbkKQ2JsCrefDe6XU6aC.jpg",
-        "genre_ids": [
-            53,
-            18,
-            27
-        ],
-        "id": 1417573,
-        "original_language": "en",
-        "original_title": "Dark Road",
-        "overview": "",
-        "popularity": 7.75,
-        "poster_path": "/jfj58TnGZMPXQLjLkYt0OLxVXsl.jpg",
-        "release_date": "2025-02-21",
-        "title": "Dark Road",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/oAGzeMNtjSyBs8EzKpbuedcq8du.jpg",
         "genre_ids": [
             9648,
@@ -630,6 +604,32 @@
             "悬疑",
             "惊悚",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vHgV2NubbkKQ2JsCrefDe6XU6aC.jpg",
+        "genre_ids": [
+            53,
+            18,
+            27
+        ],
+        "id": 1417573,
+        "original_language": "en",
+        "original_title": "Dark Road",
+        "overview": "",
+        "popularity": 7.75,
+        "poster_path": "/jfj58TnGZMPXQLjLkYt0OLxVXsl.jpg",
+        "release_date": "2025-02-21",
+        "title": "Dark Road",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1314,6 +1314,32 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            878
+        ],
+        "id": 1437321,
+        "original_language": "pt",
+        "original_title": "Você Continua",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hhM1zPbMwQRDWNgw6iXCKhLBCwn.jpg",
+        "release_date": "2025-02-21",
+        "title": "Você Continua",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "科幻"
+        ],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
