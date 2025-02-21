@@ -159,7 +159,9 @@
     {
         "adult": false,
         "backdrop_path": "/hxZ4JjSaAGiSeRCUdDnVwz9On4Z.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10764
+        ],
         "id": 284235,
         "origin_country": [
             "美国"
@@ -173,7 +175,9 @@
         "name": "The Baldwins",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -214,8 +218,8 @@
         "poster_path": "/g1KCckaXfjnik92oRc4VZPF4Vft.jpg",
         "first_air_date": "2025-02-23",
         "name": "David Frost vs",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录",
             "脱口秀"
