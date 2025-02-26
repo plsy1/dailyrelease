@@ -367,7 +367,9 @@
     {
         "adult": false,
         "backdrop_path": "/qbSMZc8q0Q2vMpRAfortIztyzbJ.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 285245,
         "origin_country": [
             "俄罗斯"
@@ -381,7 +383,9 @@
         "name": "Атом",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "俄语"
     },
     {
