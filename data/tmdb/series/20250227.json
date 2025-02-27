@@ -42,10 +42,60 @@
         "poster_path": "/o46T1xQUGGBZIqF7QN8YfW2MBha.jpg",
         "first_air_date": "2025-02-27",
         "name": "大卫王朝",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wQ7HMQ2Yfxecw7AVrpMOrr5ZPPf.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 241274,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "Small Town, Big Story",
+        "overview": "",
+        "popularity": 21.197,
+        "poster_path": "/nvMArio4918aYO2X4l2BlZg6oJf.jpg",
+        "first_air_date": "2025-02-27",
+        "name": "Small Town, Big Story",
+        "vote_average": 5.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xY3RLTXgV0IHmyPAE97p3ePWY1R.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 244623,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Running Point",
+        "overview": "丑闻导致兄长下台后，艾拉·戈登临危受命，接任洛杉矶浪潮队的总裁。这支职业篮球队不只有着深厚历史，更是家族苦心经营的事业。艾拉企图心满满，却经常被人轻视，这次她要向不看好她的兄弟、董事会和广大体育界证明她绝对能胜任这份工作。",
+        "popularity": 21.134,
+        "poster_path": "/xHpfi2dBdsgnFIx7DzfMd0DwTXo.jpg",
+        "first_air_date": "2025-02-27",
+        "name": "男篮女主",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -94,57 +144,6 @@
         "vote_count": 3,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/wQ7HMQ2Yfxecw7AVrpMOrr5ZPPf.jpg",
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 241274,
-        "origin_country": [
-            "英国",
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Small Town, Big Story",
-        "overview": "",
-        "popularity": 21.197,
-        "poster_path": "/nvMArio4918aYO2X4l2BlZg6oJf.jpg",
-        "first_air_date": "2025-02-27",
-        "name": "Small Town, Big Story",
-        "vote_average": 5.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xY3RLTXgV0IHmyPAE97p3ePWY1R.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 244623,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Running Point",
-        "overview": "丑闻导致兄长下台后，艾拉·戈登临危受命，接任洛杉矶浪潮队的总裁。这支职业篮球队不只有着深厚历史，更是家族苦心经营的事业。艾拉企图心满满，却经常被人轻视，这次她要向不看好她的兄弟、董事会和广大体育界证明她绝对能胜任这份工作。",
-        "popularity": 21.134,
-        "poster_path": "/xHpfi2dBdsgnFIx7DzfMd0DwTXo.jpg",
-        "first_air_date": "2025-02-27",
-        "name": "男篮女主",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
