@@ -1383,6 +1383,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/pVcRLMKZEBaRNe6DJqRwXZZ5XKd.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1441569,
+        "original_language": "tr",
+        "original_title": "Ağlamak Serbest Gülmek Yasak!",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/o49ZwHRo2UAlb5Chejgs35p0fVG.jpg",
+        "release_date": "2025-03-01",
+        "title": "Ağlamak Serbest Gülmek Yasak!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/z3CXHcT9itVCAXyk4x1nNAvMG1X.jpg",
         "genre_ids": [
             9648
@@ -1446,5 +1470,27 @@
             "纪录"
         ],
         "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sVfnTr8j6zXBLaEkAH9jP6R9kYE.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1441532,
+        "original_language": "no",
+        "original_title": "Røykende Gravplass",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9xtnOjWxssB29mek7axzYA50sGH.jpg",
+        "release_date": "2025-03-01",
+        "title": "Røykende Gravplass",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "挪威语"
     }
 ]
