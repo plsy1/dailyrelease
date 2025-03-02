@@ -86,7 +86,7 @@
         "original_language": "en",
         "original_name": "Nine Bodies in a Mexican Morgue",
         "overview": "",
-        "popularity": 21.137,
+        "popularity": 29.592,
         "poster_path": "/uG2Zvj4jBu8fnNCcuvW2QsxMOmp.jpg",
         "first_air_date": "2025-03-02",
         "name": "Nine Bodies in a Mexican Morgue",
@@ -111,7 +111,7 @@
         "original_language": "en",
         "original_name": "Towards Zero",
         "overview": "",
-        "popularity": 21.071,
+        "popularity": 29.499,
         "poster_path": "/xbCC6AQmazSnxSDuquc943ArSLd.jpg",
         "first_air_date": "2025-03-02",
         "name": "Towards Zero",
@@ -152,7 +152,10 @@
     {
         "adult": false,
         "backdrop_path": "/1lmpsyrU0JnWorJN6UnCuH2Y6Mn.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            99,
+            18
+        ],
         "id": 284708,
         "origin_country": [
             "挪威"
@@ -160,13 +163,16 @@
         "original_language": "no",
         "original_name": "Katastrofe",
         "overview": "",
-        "popularity": 15.823,
+        "popularity": 22.152,
         "poster_path": "/zw58HTXXQxSWE5qp5DBVh2HspLt.jpg",
         "first_air_date": "2025-03-02",
         "name": "Katastrofe",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录",
+            "剧情"
+        ],
         "original_language_zh": "挪威语"
     }
 ]
