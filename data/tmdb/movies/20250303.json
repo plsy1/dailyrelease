@@ -3,6 +3,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            36,
+            10752,
+            28
+        ],
+        "id": 1442105,
+        "original_language": "zh",
+        "original_title": "深山狙击",
+        "overview": "1938年春，日军侵占了我国胶东地区，昆嵛山深处的天道村被日军选为中心据点区，日军派少佐渡边太郎率领一支日军前去天道村清除障碍，一个世代以打猎为生的村庄，面对日军的突然入侵，浴血反击，上演一场血与火的青春史诗。",
+        "popularity": 0.0,
+        "poster_path": "/8IalbY2J8NrAFJXvue6Q3asF2HH.jpg",
+        "release_date": "2025-03-03",
+        "title": "深山狙击",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "历史",
+            "战争",
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             10751,
             14
         ],
@@ -382,5 +408,29 @@
             "剧情"
         ],
         "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1442063,
+        "original_language": "sv",
+        "original_title": "Lyckokakan",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7Ut2fKjrmov0lqCWQUi7ZsrUxoV.jpg",
+        "release_date": "2025-03-03",
+        "title": "Lyckokakan",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
