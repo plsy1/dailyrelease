@@ -27,7 +27,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/A0SZvemVSRS40C1imfDURzPznM5.jpg",
         "genre_ids": [
             10751,
             14
@@ -37,7 +37,7 @@
         "original_title": "Tale of the Forest Unicorn",
         "overview": "",
         "popularity": 23.747,
-        "poster_path": "/tT0jI1MXGFvPlox4pFgpWkunaAz.jpg",
+        "poster_path": "/xAg4fd89Ya97a6QvgBQClEjdL9y.jpg",
         "release_date": "2025-03-03",
         "title": "Tale of the Forest Unicorn",
         "video": false,
@@ -278,6 +278,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1442411,
+        "original_language": "en",
+        "original_title": "The Haunted Casino: Noir Version",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-03-03",
+        "title": "The Haunted Casino: Noir Version",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             18,
             37
@@ -460,6 +478,30 @@
         "backdrop_path": null,
         "genre_ids": [
             53,
+            28
+        ],
+        "id": 1442469,
+        "original_language": "es",
+        "original_title": "Tensión",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/bNKJsHDH2dd3gYexJlstG0wmcl3.jpg",
+        "release_date": "2025-03-03",
+        "title": "Tensión",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "动作"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zp1rEVGD9m8GavbgATUXmuz8Kj.jpg",
+        "genre_ids": [
+            53,
             18
         ],
         "id": 1299430,
@@ -467,7 +509,7 @@
         "original_title": "Carcaça",
         "overview": "",
         "popularity": 5.194,
-        "poster_path": "/u0T100rm3zEgZzbwVvBKLh0obu0.jpg",
+        "poster_path": "/kAZAt4qEOeBsprW0QwrArqe417W.jpg",
         "release_date": "2025-03-03",
         "title": "Carcaça",
         "video": false,
