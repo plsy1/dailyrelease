@@ -49,8 +49,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/uPaKnJ1alJS1706cdnCoHYplcAz.jpg",
+        "genre_ids": [
+            10764,
+            99
+        ],
         "id": 285290,
         "origin_country": [
             "美国"
@@ -64,7 +67,10 @@
         "name": "Visionaries",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀",
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -266,7 +272,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/a0qviSPJKPjZl1Ix8DusQmF5Dvj.jpg",
         "genre_ids": [
             10765
         ],
@@ -278,7 +284,7 @@
         "original_name": "Paradis City",
         "overview": "",
         "popularity": 19.947,
-        "poster_path": "/vOwfwNURpCgt3SUbqmzPsrbqHBv.jpg",
+        "poster_path": "/gt2Y8XiBYE9c7njy0V5xYxXouE.jpg",
         "first_air_date": "2025-03-07",
         "name": "Paradis City",
         "vote_average": 0.0,
