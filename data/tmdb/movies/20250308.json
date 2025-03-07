@@ -971,6 +971,52 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1422596,
+        "original_language": "en",
+        "original_title": "Take No Prisoners",
+        "overview": "",
+        "popularity": 17.06,
+        "poster_path": null,
+        "release_date": "2025-03-08",
+        "title": "Take No Prisoners",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qHG4esTJbayfBjMNErecf7qiNvC.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1416914,
+        "original_language": "en",
+        "original_title": "Nervous Energy",
+        "overview": "",
+        "popularity": 17.053,
+        "poster_path": "/pdL9yAeYGvPgLnFDLXGpNPRknxa.jpg",
+        "release_date": "2025-03-08",
+        "title": "Nervous Energy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35
         ],
         "id": 1430137,
