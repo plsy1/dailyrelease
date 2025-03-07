@@ -106,12 +106,12 @@
         "original_title": "Plankton: The Movie",
         "overview": "皮老板的电脑妻子凯伦因为不满被冷落漠视，于是气得决定要夺走皮老板毕生最远大、却也始终无法实现的梦想：统治世界！比奇堡和陆地上的人类，都因此面临了意想不到的重大威胁，这迫使皮老板在完成统治世界的大业之前，必须先将世界从凯伦的魔掌之中给救回来。",
         "popularity": 52.664,
-        "poster_path": "/a4FGmWBAXcB5OReAVceyKoUpqve.jpg",
+        "poster_path": "/ySkJpizP1iAK4fPGRtbqMy0dOAN.jpg",
         "release_date": "2025-03-08",
         "title": "海绵宝宝：皮老板大电影",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动画",
             "冒险",
@@ -140,52 +140,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xHQ33AbOWDgf7lqBzRPpJu2gdup.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1422019,
-        "original_language": "en",
-        "original_title": "Assembly",
-        "overview": "",
-        "popularity": 16.855,
-        "poster_path": "/jylc1QoNl7ByFoQccSkEq0QNEda.jpg",
-        "release_date": "2025-03-08",
-        "title": "Assembly",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            14
-        ],
-        "id": 1385169,
-        "original_language": "en",
-        "original_title": "Rumpelstiltskin",
-        "overview": "",
-        "popularity": 16.743,
-        "poster_path": "/2irI6Bx5dU754W52rReruUj3RI2.jpg",
-        "release_date": "2025-03-08",
-        "title": "Rumpelstiltskin",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -1017,52 +971,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1422596,
-        "original_language": "en",
-        "original_title": "Take No Prisoners",
-        "overview": "",
-        "popularity": 17.06,
-        "poster_path": null,
-        "release_date": "2025-03-08",
-        "title": "Take No Prisoners",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/qHG4esTJbayfBjMNErecf7qiNvC.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1416914,
-        "original_language": "en",
-        "original_title": "Nervous Energy",
-        "overview": "",
-        "popularity": 17.053,
-        "poster_path": "/pdL9yAeYGvPgLnFDLXGpNPRknxa.jpg",
-        "release_date": "2025-03-08",
-        "title": "Nervous Energy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35
         ],
         "id": 1430137,
@@ -1095,6 +1003,28 @@
         "poster_path": null,
         "release_date": "2025-03-08",
         "title": "The Spies Among Us",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xHQ33AbOWDgf7lqBzRPpJu2gdup.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1422019,
+        "original_language": "en",
+        "original_title": "Assembly",
+        "overview": "",
+        "popularity": 16.855,
+        "poster_path": "/jylc1QoNl7ByFoQccSkEq0QNEda.jpg",
+        "release_date": "2025-03-08",
+        "title": "Assembly",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1160,7 +1090,7 @@
         "original_title": "The Makings of Curtis Mayfield",
         "overview": "",
         "popularity": 16.786,
-        "poster_path": null,
+        "poster_path": "/lhmoIiINuCkorLc6QubYMj6e9JG.jpg",
         "release_date": "2025-03-08",
         "title": "The Makings of Curtis Mayfield",
         "video": false,
@@ -1168,6 +1098,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            14
+        ],
+        "id": 1385169,
+        "original_language": "en",
+        "original_title": "Rumpelstiltskin",
+        "overview": "",
+        "popularity": 16.743,
+        "poster_path": "/2irI6Bx5dU754W52rReruUj3RI2.jpg",
+        "release_date": "2025-03-08",
+        "title": "Rumpelstiltskin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -1469,28 +1423,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1426379,
-        "original_language": "en",
-        "original_title": "Per Amore Dei Gatti",
-        "overview": "",
-        "popularity": 0.001,
-        "poster_path": "/vWkMGBuS91fRsCRE0LtqHifgZZI.jpg",
-        "release_date": "2025-03-08",
-        "title": "Per Amore Dei Gatti",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             27
         ],
@@ -1508,6 +1440,28 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1426379,
+        "original_language": "en",
+        "original_title": "Per Amore Dei Gatti",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/vWkMGBuS91fRsCRE0LtqHifgZZI.jpg",
+        "release_date": "2025-03-08",
+        "title": "Per Amore Dei Gatti",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
