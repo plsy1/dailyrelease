@@ -93,7 +93,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jBwu7y34LOpuxTJZruQHloJme5j.jpg",
+        "backdrop_path": "/xfIyxfxakrdpzvcQ9kUT0vmp0Um.jpg",
         "genre_ids": [
             16,
             12,
@@ -140,6 +140,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xHQ33AbOWDgf7lqBzRPpJu2gdup.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1422019,
+        "original_language": "en",
+        "original_title": "Assembly",
+        "overview": "",
+        "popularity": 16.855,
+        "poster_path": "/jylc1QoNl7ByFoQccSkEq0QNEda.jpg",
+        "release_date": "2025-03-08",
+        "title": "Assembly",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -545,28 +567,6 @@
         "genre_ids_zh": [
             "家庭",
             "音乐",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/A8Vp7kFlNK4gaHL5GFlCdxVg4Ei.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1422008,
-        "original_language": "en",
-        "original_title": "Fucktoys",
-        "overview": "",
-        "popularity": 18.347,
-        "poster_path": "/ixKG8f4Iai0pYOAr2jP2Ks0o9Vh.jpg",
-        "release_date": "2025-03-08",
-        "title": "Fucktoys",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -1083,28 +1083,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xHQ33AbOWDgf7lqBzRPpJu2gdup.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1422019,
-        "original_language": "en",
-        "original_title": "Assembly",
-        "overview": "",
-        "popularity": 16.855,
-        "poster_path": "/jylc1QoNl7ByFoQccSkEq0QNEda.jpg",
-        "release_date": "2025-03-08",
-        "title": "Assembly",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -1579,7 +1557,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/3RS7sLpRKa3N5GD67Q4XrdwaOhK.jpg",
         "genre_ids": [
             99,
             36
@@ -1589,7 +1567,7 @@
         "original_title": "LIBREVILLE, LA NÔTRE",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/c7RBZ8VsxNWB8XOEjhc5SJ3r7SJ.jpg",
         "release_date": "2025-03-08",
         "title": "LIBREVILLE, LA NÔTRE",
         "video": false,
@@ -1680,7 +1658,7 @@
         "original_title": "Dicen por ahí",
         "overview": "",
         "popularity": 2.744,
-        "poster_path": null,
+        "poster_path": "/pWZyjtRrezqufrTfqFBLgk2GrLk.jpg",
         "release_date": "2025-03-08",
         "title": "Dicen por ahí",
         "video": false,
