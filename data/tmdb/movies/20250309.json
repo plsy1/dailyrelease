@@ -25,7 +25,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tW4L8P4ENwSXO9vN89EXlG4S803.jpg",
+        "backdrop_path": "/w7qYvzZfCrc1FBq34mZAYjBycEW.jpg",
         "genre_ids": [],
         "id": 1401599,
         "original_language": "en",
@@ -39,6 +39,32 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cgvF5uJkZkjgjAHSo7ckJHMcoQG.jpg",
+        "genre_ids": [
+            35,
+            99,
+            12
+        ],
+        "id": 1432028,
+        "original_language": "en",
+        "original_title": "Dillans Night In",
+        "overview": "",
+        "popularity": 19.765,
+        "poster_path": "/q07yGEppgxsu90W7RtOvo9HQwD2.jpg",
+        "release_date": "2025-03-09",
+        "title": "Dillans Night In",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录",
+            "冒险"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -337,6 +363,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/qTmKIxcDpdArO7XP88Bpe6mGZGT.jpg",
+        "genre_ids": [],
+        "id": 1445537,
+        "original_language": "en",
+        "original_title": "Hello Again",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7H2EIhY6MG2BstoHbQ4P52C6jH1.jpg",
+        "release_date": "2025-03-09",
+        "title": "Hello Again",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hK2Mot0jt4Sxs1UjQQTKAlnwtz3.jpg",
         "genre_ids": [
             99
@@ -551,6 +595,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lodSXhbaq0L5aFpyqCHniD289hz.jpg",
+        "genre_ids": [
+            10402,
+            35
+        ],
+        "id": 1445293,
+        "original_language": "es",
+        "original_title": "Balada Para Un Loco",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": "/ooa4lCDKfHKcwh0f7SlxOoD8M1Y.jpg",
+        "release_date": "2025-03-09",
+        "title": "Balada Para Un Loco",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "音乐",
+            "喜剧"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
