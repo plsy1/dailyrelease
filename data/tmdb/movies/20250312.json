@@ -557,6 +557,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1446480,
+        "original_language": "es",
+        "original_title": "Romance",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/k4HfTMmXC5YnamOo6mxNM7dhfet.jpg",
+        "release_date": "2025-03-12",
+        "title": "Romance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rDXrXDCH5BgNu9IDwKkIT69rVES.jpg",
         "genre_ids": [
             18,
