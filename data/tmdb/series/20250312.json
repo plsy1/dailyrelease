@@ -127,9 +127,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/qBe94ZwYRfkiuaTwuqKtsuE9MNd.jpg",
         "genre_ids": [
-            35
+            35,
+            18
         ],
         "id": 285042,
         "origin_country": [
@@ -145,7 +146,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
