@@ -191,8 +191,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/8hz1bwaS2UdeblbGF15BYKB3Az1.jpg",
+        "genre_ids": [
+            10764
+        ],
         "id": 285115,
         "origin_country": [
             "挪威"
@@ -201,12 +203,14 @@
         "original_name": "Først til verdens ende",
         "overview": "",
         "popularity": 20.912,
-        "poster_path": null,
+        "poster_path": "/zXdheJSfTPiPPoRGSasmYq1p7lw.jpg",
         "first_air_date": "2025-03-12",
         "name": "Først til verdens ende",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "挪威语"
     }
 ]
