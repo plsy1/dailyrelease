@@ -1024,6 +1024,32 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            35,
+            27
+        ],
+        "id": 1447063,
+        "original_language": "en",
+        "original_title": "The Rise of the Deermageddon",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/mLfJBB1VLPubpBqjYD9Kazzxgxd.jpg",
+        "release_date": "2025-03-14",
+        "title": "The Rise of the Deermageddon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1151358,
         "original_language": "en",
@@ -1097,32 +1123,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402,
-            35,
-            27
-        ],
-        "id": 1447063,
-        "original_language": "en",
-        "original_title": "The Rise of the Deermageddon",
-        "overview": "",
-        "popularity": 1.4,
-        "poster_path": "/mLfJBB1VLPubpBqjYD9Kazzxgxd.jpg",
-        "release_date": "2025-03-14",
-        "title": "The Rise of the Deermageddon",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "喜剧",
-            "恐怖"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1286,6 +1286,56 @@
             "喜剧",
             "奇幻",
             "冒险"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            27,
+            14,
+            35
+        ],
+        "id": 1447932,
+        "original_language": "ja",
+        "original_title": "TEN EASY PIECES",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tIUuZDewZPBVRCFIi9kVPmgorfR.jpg",
+        "release_date": "2025-03-14",
+        "title": "TEN EASY PIECES",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖",
+            "奇幻",
+            "喜剧"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1447889,
+        "original_language": "ja",
+        "original_title": "また逢いましょう",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/Ao2H1sHzEQL5tNNAZFx1trbqpYJ.jpg",
+        "release_date": "2025-03-14",
+        "title": "また逢いましょう",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
@@ -1503,6 +1553,28 @@
         "poster_path": "/jMxx7REMXRufzabUKcvtUMGYfZK.jpg",
         "release_date": "2025-03-14",
         "title": "Discordia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ch2AO0wVw2wnkL697WOyAiBjAJj.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1387389,
+        "original_language": "es",
+        "original_title": "Después del final",
+        "overview": "",
+        "popularity": 0.224,
+        "poster_path": "/xOJAP0uzZbFmiDozB10cY72hqNV.jpg",
+        "release_date": "2025-03-14",
+        "title": "Después del final",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
