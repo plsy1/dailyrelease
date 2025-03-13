@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hna6fKv5X0HqpwamISSa0DENHiJ.jpg",
         "genre_ids": [
             28,
             80
@@ -22,6 +22,46 @@
             "犯罪"
         ],
         "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1438546,
+        "original_language": "en",
+        "original_title": "Angler",
+        "overview": "",
+        "popularity": 21.14,
+        "poster_path": "/c21YwjiFsVP0xYw6kx1msNmBRMX.jpg",
+        "release_date": "2025-03-13",
+        "title": "Angler",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zdNiCWClNFjFvl8KQ5sTlOKmBAB.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1286663,
+        "original_language": "en",
+        "original_title": "Control Freak",
+        "overview": "　　讲述了一位励志演说家感染了一种源自她家乡的神秘病毒后拼命试图阻止这种寄生生物对她身心的折磨和控制。",
+        "popularity": 21.113,
+        "poster_path": "/kmQb07CrOddVGV0Q73aeU4e8I18.jpg",
+        "release_date": "2025-03-13",
+        "title": "控制狂",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -214,24 +254,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1438546,
-        "original_language": "en",
-        "original_title": "Angler",
-        "overview": "",
-        "popularity": 21.14,
-        "poster_path": "/c21YwjiFsVP0xYw6kx1msNmBRMX.jpg",
-        "release_date": "2025-03-13",
-        "title": "Angler",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -248,28 +270,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/zdNiCWClNFjFvl8KQ5sTlOKmBAB.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1286663,
-        "original_language": "en",
-        "original_title": "Control Freak",
-        "overview": "　　讲述了一位励志演说家感染了一种源自她家乡的神秘病毒后拼命试图阻止这种寄生生物对她身心的折磨和控制。",
-        "popularity": 21.113,
-        "poster_path": "/kmQb07CrOddVGV0Q73aeU4e8I18.jpg",
-        "release_date": "2025-03-13",
-        "title": "控制狂",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -323,7 +323,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/wmPrLkzFavPbzZJOR2mDaCXX8eE.jpg",
         "genre_ids": [
             18,
             10770,
@@ -334,7 +334,7 @@
         "original_title": "Signed, Sealed, Delivered: To The Moon And Back",
         "overview": "",
         "popularity": 7.126,
-        "poster_path": null,
+        "poster_path": "/rV4SBTZpaKYQJrv9vKiWExSACz.jpg",
         "release_date": "2025-03-13",
         "title": "Signed, Sealed, Delivered: To The Moon And Back",
         "video": false,
@@ -438,6 +438,28 @@
         "genre_ids_zh": [
             "剧情",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xDVEArrlGacxo0bU26AIeYfx1Vc.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1420585,
+        "original_language": "en",
+        "original_title": "Johns' Lament",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/tse5kwO47oDEkvFkunLBQsNEO0y.jpg",
+        "release_date": "2025-03-13",
+        "title": "Johns' Lament",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
