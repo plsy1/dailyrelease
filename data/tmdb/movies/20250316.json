@@ -182,6 +182,32 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            27,
+            18,
+            9648
+        ],
+        "id": 1448662,
+        "original_language": "en",
+        "original_title": "Absent",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8iKqPf7dXj8ZTCIJzCTXSEQaepz.jpg",
+        "release_date": "2025-03-16",
+        "title": "Absent",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nHCEf4DG2CgaCfKVMozOBGJAw7e.jpg",
         "genre_ids": [],
         "id": 1445505,
         "original_language": "ja",
