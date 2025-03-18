@@ -69,6 +69,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 286693,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "アニソン大百科",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-03-19",
+        "name": "アニソン大百科",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/j9ePe55sT530Dpz9YEdjYktUSG3.jpg",
         "genre_ids": [
             10764,
@@ -95,32 +115,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3vEDddOCR481i6OxEkRMh6tjGCg.jpg",
-        "genre_ids": [
-            80,
-            18
-        ],
-        "id": 245079,
-        "origin_country": [
-            "韩国"
-        ],
-        "original_language": "ko",
-        "original_name": "하이퍼나이프",
-        "overview": "剧情讲述过去备受瞩目的天才医生郑世玉和将她推向深渊的老师崔德熙重逢后，两个超级天才的对决与成长。",
-        "popularity": 14.916,
-        "poster_path": "/xno1kV9IoMoa42UlCavLopQ16GR.jpg",
-        "first_air_date": "2025-03-19",
-        "name": "狂医魔徒",
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "犯罪",
-            "剧情"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/hZMTgi7KcbkZAudRhilHEUBvsyX.jpg",
         "genre_ids": [
             10751,
@@ -143,6 +137,32 @@
         "genre_ids_zh": [
             "家庭",
             "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3vEDddOCR481i6OxEkRMh6tjGCg.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 245079,
+        "origin_country": [
+            "韩国"
+        ],
+        "original_language": "ko",
+        "original_name": "하이퍼나이프",
+        "overview": "剧情讲述过去备受瞩目的天才医生郑世玉和将她推向深渊的老师崔德熙重逢后，两个超级天才的对决与成长。",
+        "popularity": 14.916,
+        "poster_path": "/xno1kV9IoMoa42UlCavLopQ16GR.jpg",
+        "first_air_date": "2025-03-19",
+        "name": "狂医魔徒",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "犯罪",
             "剧情"
         ],
         "original_language_zh": "韩语"
