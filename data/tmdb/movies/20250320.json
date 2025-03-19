@@ -823,6 +823,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            10752
+        ],
+        "id": 1373723,
+        "original_language": "en",
+        "original_title": "The Codes of War",
+        "overview": "关于家庭、道德与荣誉的战争故事，其中包括两个美国海军陆战队员的真实事迹：在六秒之内，他们必须坚守阵地，阻止一辆自杀式炸弹卡车；还有一位海军医务兵，他努力坚守自己的人性；以及一位二战士兵，他与部队失散，被迫重新审视自己的准则。",
+        "popularity": 0.001,
+        "poster_path": "/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
+        "release_date": "2025-03-20",
+        "title": "烈焰战士",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "战争"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mCbW9jr06EicGgnlWi6qsNQKKIM.jpg",
         "genre_ids": [
             99
@@ -840,6 +864,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1450779,
+        "original_language": "en",
+        "original_title": "Cabin Fever",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/rsSdP1AZaXywbPp0qu6CU9lFHhB.jpg",
+        "release_date": "2025-03-20",
+        "title": "Cabin Fever",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1887,6 +1935,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1450866,
+        "original_language": "it",
+        "original_title": "Il Gattopardo: dietro le quinte",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-03-20",
+        "title": "Il Gattopardo: dietro le quinte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/tuTjxEHUQWqbFkuoSY3RWu7lSob.jpg",
         "genre_ids": [
             35,
@@ -1990,7 +2060,7 @@
         "original_title": "Gajar Ka Halwa",
         "overview": "",
         "popularity": 5.379,
-        "poster_path": null,
+        "poster_path": "/xnrazJ5FcC0hUxbojwk86X8IemY.jpg",
         "release_date": "2025-03-20",
         "title": "Gajar Ka Halwa",
         "video": false,
