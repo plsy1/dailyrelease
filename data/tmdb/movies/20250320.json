@@ -515,8 +515,8 @@
         "release_date": "2025-03-20",
         "title": "Bob Trevino Likes It",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧",
             "剧情"
@@ -781,6 +781,74 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1450741,
+        "original_language": "en",
+        "original_title": "Late Night with Chris Beaunest",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": null,
+        "release_date": "2025-03-20",
+        "title": "Late Night with Chris Beaunest",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1450660,
+        "original_language": "en",
+        "original_title": "Valle Lindo",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/3R1pVAscxHepYPyedmI191Wc6HD.jpg",
+        "release_date": "2025-03-20",
+        "title": "Valle Lindo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1450658,
+        "original_language": "en",
+        "original_title": "Reset",
+        "overview": "",
+        "popularity": 1.4,
+        "poster_path": "/yTtlU1CBePbTGgBRLhkwgztKWQe.jpg",
+        "release_date": "2025-03-20",
+        "title": "Reset",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1438938,
@@ -801,23 +869,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7uuJoa8yTIVAvMHbdYMk9qH6il.jpg",
+        "backdrop_path": "/2VGfjnT3RpjOKADbwgbmXCFSbH.jpg",
         "genre_ids": [
-            18
+            27,
+            53
         ],
-        "id": 1414523,
+        "id": 1443260,
         "original_language": "en",
-        "original_title": "Hard Luck",
+        "original_title": "ROB1N",
         "overview": "",
-        "popularity": 0.001,
-        "poster_path": "/fCMuO9K9B4ofqMZQS9bFK7ypPRo.jpg",
+        "popularity": 0.002,
+        "poster_path": "/X7CTu8zwOh2lXcj9CDpJczoeyj.jpg",
         "release_date": "2025-03-20",
-        "title": "Hard Luck",
+        "title": "ROB1N",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -903,7 +973,7 @@
         "original_title": "SHOGUN’S NINJA-将軍乃忍者-",
         "overview": "",
         "popularity": 15.121,
-        "poster_path": null,
+        "poster_path": "/yYlePTFBWKpypkEh2Z13jzr2rY0.jpg",
         "release_date": "2025-03-20",
         "title": "SHOGUN’S NINJA-将軍乃忍者-",
         "video": false,
