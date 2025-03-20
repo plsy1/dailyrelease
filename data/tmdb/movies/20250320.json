@@ -1147,28 +1147,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402
-        ],
-        "id": 1442438,
-        "original_language": "ko",
-        "original_title": "SEVENTEEN in CARAT LAND",
-        "overview": "",
-        "popularity": 21.176,
-        "poster_path": "/g8sem3NfBaVrwXEZ7axcvoAZKOm.jpg",
-        "release_date": "2025-03-20",
-        "title": "SEVENTEEN in CARAT LAND",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ljaRxXl7XzffsQU4LxFnaiIhglv.jpg",
         "genre_ids": [
             53,
@@ -1190,6 +1168,28 @@
             "惊悚",
             "恐怖",
             "悬疑"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402
+        ],
+        "id": 1442438,
+        "original_language": "ko",
+        "original_title": "SEVENTEEN in CARAT LAND",
+        "overview": "",
+        "popularity": 21.176,
+        "poster_path": "/g8sem3NfBaVrwXEZ7axcvoAZKOm.jpg",
+        "release_date": "2025-03-20",
+        "title": "SEVENTEEN in CARAT LAND",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
         ],
         "original_language_zh": "韩语"
     },
@@ -1421,6 +1421,28 @@
         "poster_path": "/70yErcNxYc9pl1gTJprj7zxsNqg.jpg",
         "release_date": "2025-03-20",
         "title": "Spuren von Bewegung vor dem Eis",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Bs7c49TrPtEBZ71Xt7luvirlo6.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1408737,
+        "original_language": "de",
+        "original_title": "100 Jahre Grüne Hölle",
+        "overview": "",
+        "popularity": 0.001,
+        "poster_path": "/nvEAjGUVWyPyoPDLNsodA0H1BSo.jpg",
+        "release_date": "2025-03-20",
+        "title": "100 Jahre Grüne Hölle",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
