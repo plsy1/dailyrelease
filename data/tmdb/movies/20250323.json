@@ -509,28 +509,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
-        ],
-        "id": 1441434,
-        "original_language": "de",
-        "original_title": "Neyasno",
-        "overview": "",
-        "popularity": 0.35,
-        "poster_path": "/nPH6CEOqoPExXbPlfCzJaW4ukjc.jpg",
-        "release_date": "2025-03-23",
-        "title": "Neyasno",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             53
         ],
         "id": 1416462,
@@ -546,6 +524,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1441434,
+        "original_language": "de",
+        "original_title": "Neyasno",
+        "overview": "",
+        "popularity": 0.35,
+        "poster_path": "/nPH6CEOqoPExXbPlfCzJaW4ukjc.jpg",
+        "release_date": "2025-03-23",
+        "title": "Neyasno",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "德语"
     },
