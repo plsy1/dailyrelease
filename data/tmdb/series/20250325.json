@@ -178,7 +178,7 @@
         "original_language": "ja",
         "original_name": "ＮＨＫ高校講座　書道Ｉ",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071428571428571435,
         "poster_path": null,
         "first_air_date": "2025-03-25",
         "name": "ＮＨＫ高校講座　書道Ｉ",
@@ -198,12 +198,12 @@
             "泰国"
         ],
         "original_language": "th",
-        "original_name": "Mue Tawan Lub Fah Gor Ja Pen Wayla Khong Duangdao -Hasta que el sol encuentre la estrella",
+        "original_name": "เมื่อตะวันลับฟ้า ก็จะเป็นเวลาของดวงดาว",
         "overview": "",
-        "popularity": 2.27325,
+        "popularity": 0.5588714285714286,
         "poster_path": "/kEbtFwv8VMQ9OtD8IOqRc16iO5y.jpg",
         "first_air_date": "2025-03-25",
-        "name": "Mue Tawan Lub Fah Gor Ja Pen Wayla Khong Duangdao -Hasta que el sol encuentre la estrella",
+        "name": "เมื่อตะวันลับฟ้า ก็จะเป็นเวลาของดวงดาว",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -214,21 +214,25 @@
     {
         "adult": false,
         "backdrop_path": "/w3ADrTtZIkUvYyEKD3sfXw8CVbq.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 286086,
         "origin_country": [
-            "西班牙"
+            "泰国"
         ],
         "original_language": "th",
-        "original_name": "MUE TAWAN LUB FAH GOR JA PEN WAYLA KHONG DUANGDAO-HASTA QUE  EL SOL ENCUENTRE LA ESTRELLA",
+        "original_name": "Mue Tawan Lub Fah Gor Ja Pen Wela Khong Duangdao -Hasta que el sol encuentre la estrella",
         "overview": "",
-        "popularity": 0.556,
+        "popularity": 0.6398223214285714,
         "poster_path": "/yfIZWoXNMdbb9kQ4zV8hPtcrXqU.jpg",
         "first_air_date": "2025-03-25",
-        "name": "MUE TAWAN LUB FAH GOR JA PEN WAYLA KHONG DUANGDAO-HASTA QUE  EL SOL ENCUENTRE LA ESTRELLA",
+        "name": "Mue Tawan Lub Fah Gor Ja Pen Wela Khong Duangdao -Hasta que el sol encuentre la estrella",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "泰语"
     },
     {
@@ -244,7 +248,7 @@
         "original_language": "de",
         "original_name": "Weltwunder in Hessen",
         "overview": "",
-        "popularity": 0.35775,
+        "popularity": 0.08215803571428572,
         "poster_path": null,
         "first_air_date": "2025-03-25",
         "name": "Weltwunder in Hessen",
