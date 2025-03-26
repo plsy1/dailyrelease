@@ -367,7 +367,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qeUQgQuE5CeZvnlPjwBOr9TKusK.jpg",
+        "backdrop_path": "/3dZSdoJNuIljCmdG6wvLzpacRG6.jpg",
         "genre_ids": [
             18
         ],
@@ -375,7 +375,7 @@
         "original_language": "ko",
         "original_title": "승부",
         "overview": "",
-        "popularity": 0.9595160714285714,
+        "popularity": 1.2926,
         "poster_path": "/x1xHVv5rdvvCjF5wmGhtbHrlUgo.jpg",
         "release_date": "2025-03-26",
         "title": "승부",
@@ -401,7 +401,7 @@
         "original_language": "ko",
         "original_title": "스즈메의 문단속-하이라이트 필름콘서트",
         "overview": "",
-        "popularity": 0.12548214285714285,
+        "popularity": 0.1432,
         "poster_path": "/iY2kOLpsxhicWhC784mFzfRWDT5.jpg",
         "release_date": "2025-03-26",
         "title": "스즈메의 문단속-하이라이트 필름콘서트",
@@ -429,7 +429,7 @@
         "original_language": "ko",
         "original_title": "연극 빵야",
         "overview": "",
-        "popularity": 0.021428571428571432,
+        "popularity": 0.0621,
         "poster_path": "/pLjjAytWAedUjH9RRPafFC1xucJ.jpg",
         "release_date": "2025-03-26",
         "title": "연극 빵야",
@@ -453,7 +453,7 @@
         "original_language": "ko",
         "original_title": "장흥1950: 마을로 간 전쟁",
         "overview": "",
-        "popularity": 0.02142857142857143,
+        "popularity": 0.0311,
         "poster_path": "/eOSKk5DZhugzH3fayPe38TN3oew.jpg",
         "release_date": "2025-03-26",
         "title": "장흥1950: 마을로 간 전쟁",
@@ -467,6 +467,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/p240jg7qVUfM6lDgiU1vAIzvAvL.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1211467,
+        "original_language": "de",
+        "original_title": "Kein Tier. So Wild.",
+        "overview": "",
+        "popularity": 0.1924,
+        "poster_path": "/nUTP4Uvzsb7WlTdKUQ84OCoKHyM.jpg",
+        "release_date": "2025-03-26",
+        "title": "Kein Tier. So Wild.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -475,7 +499,7 @@
         "original_language": "de",
         "original_title": "Game Over - Der Fall der Credit Suisse",
         "overview": "",
-        "popularity": 0.1041044642857143,
+        "popularity": 0.1146,
         "poster_path": "/qOCDfnuidJaFAWWZwasJeWzJd0R.jpg",
         "release_date": "2025-03-26",
         "title": "Game Over - Der Fall der Credit Suisse",
@@ -489,26 +513,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/p240jg7qVUfM6lDgiU1vAIzvAvL.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1211467,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1453995,
         "original_language": "de",
-        "original_title": "Kein Tier. So Wild.",
+        "original_title": "Wurzeln und Triebe",
         "overview": "",
-        "popularity": 0.13152232142857143,
-        "poster_path": "/nUTP4Uvzsb7WlTdKUQ84OCoKHyM.jpg",
+        "popularity": 0.0071,
+        "poster_path": null,
         "release_date": "2025-03-26",
-        "title": "Kein Tier. So Wild.",
+        "title": "Wurzeln und Triebe",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "德语"
     },
     {
@@ -795,7 +813,7 @@
         "original_language": "pt",
         "original_title": "Manas",
         "overview": "",
-        "popularity": 0.14850982142857141,
+        "popularity": 0.3176,
         "poster_path": "/f8qcbesrQekpKdAowScGBIeQ08M.jpg",
         "release_date": "2025-03-26",
         "title": "Manas",
@@ -818,13 +836,13 @@
         "original_language": "pt",
         "original_title": "A Savana e a Montanha",
         "overview": "",
-        "popularity": 0.10729821428571429,
+        "popularity": 0.3524,
         "poster_path": "/7clAV6R1jJurHRhiJKnwF3TH6nw.jpg",
         "release_date": "2025-03-26",
         "title": "A Savana e a Montanha",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "纪录"
@@ -864,7 +882,7 @@
         "original_language": "hi",
         "original_title": "Zewel",
         "overview": "",
-        "popularity": 0.046232142857142854,
+        "popularity": 0.0605,
         "poster_path": "/6q0G1Q0WADGtFKYkVDg0REzvVFZ.jpg",
         "release_date": "2025-03-26",
         "title": "Zewel",
