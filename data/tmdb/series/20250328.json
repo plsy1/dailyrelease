@@ -134,7 +134,7 @@
         "original_language": "en",
         "original_name": "Mid-Century Modern",
         "overview": "",
-        "popularity": 1.5374,
+        "popularity": 1.7058,
         "poster_path": "/tiOqjhKjaxXlkKs5IPlmvR02ELv.jpg",
         "first_air_date": "2025-03-28",
         "name": "Mid-Century Modern",
@@ -148,7 +148,9 @@
     {
         "adult": false,
         "backdrop_path": "/anzG494OKItFJamKhCFj5sdqMu9.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            35
+        ],
         "id": 287381,
         "origin_country": [
             "XI"
@@ -156,13 +158,15 @@
         "original_language": "en",
         "original_name": "How's She Cuttin’?",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0714,
         "poster_path": null,
         "first_air_date": "2025-03-28",
         "name": "How's She Cuttin’?",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -199,7 +203,7 @@
         "original_language": "ko",
         "original_name": "2반 이희수",
         "overview": "一个邻家男孩般平凡，却有着秘密的18岁少年「熙秀」，他的初恋与友情故事。",
-        "popularity": 3.1285,
+        "popularity": 2.9488,
         "poster_path": "/78PHlTpwNz7iCjUgMnJoYC7v20N.jpg",
         "first_air_date": "2025-03-28",
         "name": "2班李熙秀",
@@ -225,7 +229,7 @@
         "original_language": "th",
         "original_name": "Homeroom 29 ตัวประกัน",
         "overview": "",
-        "popularity": 0.7787,
+        "popularity": 0.9782,
         "poster_path": "/tTXeodecw6hBwhwzQTT6ZJDXQYE.jpg",
         "first_air_date": "2025-03-28",
         "name": "Homeroom 29 ตัวประกัน",
@@ -251,7 +255,7 @@
         "original_language": "fr",
         "original_name": "Le Sens des Choses",
         "overview": "",
-        "popularity": 0.1639,
+        "popularity": 0.2067,
         "poster_path": "/7ahMwE0lsktj4ffMYFJsIBlMf8W.jpg",
         "first_air_date": "2025-03-28",
         "name": "Le Sens des Choses",
@@ -278,7 +282,7 @@
         "original_language": "es",
         "original_name": "Punto Nemo",
         "overview": "",
-        "popularity": 1.4156,
+        "popularity": 1.4265,
         "poster_path": "/pP5IrXxaci06jNHkPfu7WuqD5sX.jpg",
         "first_air_date": "2025-03-28",
         "name": "Punto Nemo",
@@ -305,7 +309,7 @@
         "original_language": "es",
         "original_name": "Manual para señoritas",
         "overview": "",
-        "popularity": 1.2442,
+        "popularity": 1.3101,
         "poster_path": "/clCQOw82aWU97H4FdYDHFHZ317P.jpg",
         "first_air_date": "2025-03-28",
         "name": "Manual para señoritas",
