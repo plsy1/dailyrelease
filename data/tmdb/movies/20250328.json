@@ -115,6 +115,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/d2OGYd30cOqk4uBbfOxwF8Q6G32.jpg",
+        "genre_ids": [
+            878,
+            14,
+            10749,
+            18
+        ],
+        "id": 1447182,
+        "original_language": "en",
+        "original_title": "Brighter Days Ahead",
+        "overview": "",
+        "popularity": 1.2795,
+        "poster_path": "/f4YJzSKptbbB6wIaYVhKIifpG2p.jpg",
+        "release_date": "2025-03-28",
+        "title": "Brighter Days Ahead",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "奇幻",
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/bcbeDrYlBrR3fzEb4UqwSKSivy7.jpg",
         "genre_ids": [
             18
@@ -158,34 +186,6 @@
             "喜剧",
             "剧情",
             "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/d2OGYd30cOqk4uBbfOxwF8Q6G32.jpg",
-        "genre_ids": [
-            878,
-            14,
-            10749,
-            18
-        ],
-        "id": 1447182,
-        "original_language": "en",
-        "original_title": "Brighter Days Ahead",
-        "overview": "",
-        "popularity": 1.2795,
-        "poster_path": "/f4YJzSKptbbB6wIaYVhKIifpG2p.jpg",
-        "release_date": "2025-03-28",
-        "title": "Brighter Days Ahead",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "奇幻",
-            "爱情",
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1347,6 +1347,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/g9YMThb24WTduPwlMAVoZb3CtYJ.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1455406,
+        "original_language": "en",
+        "original_title": "Those Who Long To Be Held Closer",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vgCcQnbVYYfGThVNC8z8koKHDaY.jpg",
+        "release_date": "2025-03-28",
+        "title": "Those Who Long To Be Held Closer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1441738,
@@ -1447,6 +1471,34 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bbh7jbL2Wv0lRHddcIAxzy2wJx6.jpg",
+        "genre_ids": [
+            16,
+            18,
+            12,
+            14
+        ],
+        "id": 1455360,
+        "original_language": "ja",
+        "original_title": "ノモの国",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mGsedfVujcGiilW82cb2LNTT7IQ.jpg",
+        "release_date": "2025-03-28",
+        "title": "ノモの国",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情",
+            "冒险",
+            "奇幻"
+        ],
         "original_language_zh": "日语"
     },
     {
@@ -1647,28 +1699,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1lIdYSTnOEGVYaMbaeRGrrcS3OW.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1224668,
-        "original_language": "es",
-        "original_title": "La furia",
-        "overview": "",
-        "popularity": 0.6911,
-        "poster_path": "/nybZxNpkRIxDTiqLT9iYhjixYtR.jpg",
-        "release_date": "2025-03-28",
-        "title": "La furia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/z8SuVktPSc9qgyK3cO7yaRTgULP.jpg",
         "genre_ids": [
             35
@@ -1686,6 +1716,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1lIdYSTnOEGVYaMbaeRGrrcS3OW.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1224668,
+        "original_language": "es",
+        "original_title": "La furia",
+        "overview": "",
+        "popularity": 0.6911,
+        "poster_path": "/nybZxNpkRIxDTiqLT9iYhjixYtR.jpg",
+        "release_date": "2025-03-28",
+        "title": "La furia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
