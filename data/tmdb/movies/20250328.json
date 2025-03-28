@@ -955,24 +955,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1434329,
-        "original_language": "en",
-        "original_title": "Fool's Gold",
-        "overview": "",
-        "popularity": 0.0479,
-        "poster_path": null,
-        "release_date": "2025-03-28",
-        "title": "Fool's Gold",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 1435327,
         "original_language": "en",
         "original_title": "Stuck in Muskogee",
@@ -1917,6 +1899,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/nsjrf8IXanXOTBZNI496bqHiGfj.jpg",
+        "genre_ids": [],
+        "id": 1455353,
+        "original_language": "pt",
+        "original_title": "Cine Frenesi",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lji0pOX8vYjD5eUo6yMndWwVX2v.jpg",
+        "release_date": "2025-03-28",
+        "title": "Cine Frenesi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/uzDawb75E3z5sin5ThHmckNfWUo.jpg",
         "genre_ids": [
             18,
@@ -2083,7 +2083,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/1fwZBpbfD81uSn9pl5Uwx2VvqNl.jpg",
         "genre_ids": [
             28
         ],
