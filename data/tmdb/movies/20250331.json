@@ -17,8 +17,8 @@
         "release_date": "2025-03-31",
         "title": "我的世界大电影",
         "video": false,
-        "vote_average": 6.8,
-        "vote_count": 13,
+        "vote_average": 7.1,
+        "vote_count": 14,
         "genre_ids_zh": [
             "家庭",
             "喜剧",
@@ -596,6 +596,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1456416,
+        "original_language": "es",
+        "original_title": "Maldito espírito",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-03-31",
+        "title": "Maldito espírito",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/db6nLJDhANQTSwgwsu9d96XrMHM.jpg",
         "genre_ids": [
             18
         ],
@@ -604,7 +622,7 @@
         "original_title": "Elegia",
         "overview": "",
         "popularity": 0.1568,
-        "poster_path": null,
+        "poster_path": "/2aOZ1Di3Mn2r3JH48QDyWxYrB6i.jpg",
         "release_date": "2025-03-31",
         "title": "Elegia",
         "video": false,
