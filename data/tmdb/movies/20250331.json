@@ -501,30 +501,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/nYv0AsBXjMLPaV6gYwHKlaFqJnQ.jpg",
-        "genre_ids": [
-            18,
-            878
-        ],
-        "id": 1453408,
-        "original_language": "fr",
-        "original_title": "Kairos",
-        "overview": "",
-        "popularity": 0.105,
-        "poster_path": "/sMrk94bkwaFwfArfo8zN0wy6ZXy.jpg",
-        "release_date": "2025-03-31",
-        "title": "Kairos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "科幻"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/f1Q0aGwQTXzBjVVy4q8tL7G7nsU.jpg",
         "genre_ids": [
             10749,
@@ -544,6 +520,30 @@
         "genre_ids_zh": [
             "爱情",
             "动画"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nYv0AsBXjMLPaV6gYwHKlaFqJnQ.jpg",
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1453408,
+        "original_language": "fr",
+        "original_title": "Kairos",
+        "overview": "",
+        "popularity": 0.105,
+        "poster_path": "/sMrk94bkwaFwfArfo8zN0wy6ZXy.jpg",
+        "release_date": "2025-03-31",
+        "title": "Kairos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
         ],
         "original_language_zh": "法语"
     },
