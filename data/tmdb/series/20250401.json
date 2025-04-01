@@ -245,6 +245,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bAboX3cV3fFpZTy1mQEpqJUkxee.jpg",
+        "genre_ids": [
+            16,
+            10762
+        ],
+        "id": 287928,
+        "origin_country": [
+            "韩国"
+        ],
+        "original_language": "ko",
+        "original_name": "핑크퐁 생활습관동요",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/wlQaPpRBlHrKYTTlUcoG4utITHa.jpg",
+        "first_air_date": "2025-04-01",
+        "name": "핑크퐁 생활습관동요",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "儿童"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/y68HVMhys4PLZ4xy7sp0VhFN2a8.jpg",
         "genre_ids": [
             18,
@@ -257,7 +283,7 @@
         "original_language": "th",
         "original_name": "วันแก้ตาย",
         "overview": "Day（小面包饰）和Night（Dew饰）分别出生在闰日（2.29）的正午和午夜，他们是被诅咒之人，每四年一次的闰日不仅标志着自己的诞生，也预示着所爱之人的死亡。",
-        "popularity": 1.168,
+        "popularity": 1.1475,
         "poster_path": "/9NP7S7NlmAx52NZ31WRkIey8Tan.jpg",
         "first_air_date": "2025-04-01",
         "name": "闰日夺魂",
@@ -317,5 +343,25 @@
             "喜剧"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 287930,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Läckbergs",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6iJ3IcvY82A5XSwPxTnlKz0H8bV.jpg",
+        "first_air_date": "2025-04-01",
+        "name": "Läckbergs",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
     }
 ]
