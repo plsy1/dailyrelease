@@ -97,26 +97,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 287947,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Fear Agent",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "first_air_date": "2025-04-01",
-        "name": "Fear Agent",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qjhNRnarbkiJZjMRwIOGpRwqMaQ.jpg",
         "genre_ids": [],
         "id": 287880,
@@ -159,6 +139,52 @@
             "纪录",
             "悬疑"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 287968,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Skig Bloody Serial",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-04-01",
+        "name": "Skig Bloody Serial",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 287947,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Fear Agent",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-04-01",
+        "name": "Fear Agent",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
