@@ -301,7 +301,7 @@
         "original_language": "ja",
         "original_title": "投稿 怨霊映像 Vol.119 断篇",
         "overview": "",
-        "popularity": 0.1349,
+        "popularity": 0.114,
         "poster_path": "/k8lrFtAIVlmW8DvC61MW4Zby652.jpg",
         "release_date": "2025-04-02",
         "title": "投稿 怨霊映像 Vol.119 断篇",
@@ -345,7 +345,7 @@
         "original_language": "ko",
         "original_title": "공포특급",
         "overview": "",
-        "popularity": 1.7644,
+        "popularity": 1.9143,
         "poster_path": "/iyXMTZsCt9zFo0tTYu2KGucNeyL.jpg",
         "release_date": "2025-04-02",
         "title": "공포특급",
@@ -354,6 +354,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yIeXwARkF55ejr7LkXifmwYzYO.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1268798,
+        "original_language": "ko",
+        "original_title": "목소리들",
+        "overview": "",
+        "popularity": 0.7918,
+        "poster_path": "/6KMfVJdyL8RDJLLFvKnuE419jBK.jpg",
+        "release_date": "2025-04-02",
+        "title": "목소리들",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "韩语"
     },
@@ -368,7 +390,7 @@
         "original_language": "ko",
         "original_title": "로비",
         "overview": "",
-        "popularity": 0.8554,
+        "popularity": 0.8772,
         "poster_path": "/9fFSXOoqiUi7bhEs1jt24SsPmpx.jpg",
         "release_date": "2025-04-02",
         "title": "로비",
@@ -392,7 +414,7 @@
         "original_language": "ko",
         "original_title": "세븐틴 [라잇 히어] 월드 투어 인 시네마",
         "overview": "",
-        "popularity": 0.432,
+        "popularity": 0.5272,
         "poster_path": "/4VuIdZxvnXaWLzKqgO7C34UGo91.jpg",
         "release_date": "2025-04-02",
         "title": "세븐틴 [라잇 히어] 월드 투어 인 시네마",
@@ -401,28 +423,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐",
-            "纪录"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/yIeXwARkF55ejr7LkXifmwYzYO.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1268798,
-        "original_language": "ko",
-        "original_title": "목소리들",
-        "overview": "",
-        "popularity": 1.6931,
-        "poster_path": "/6KMfVJdyL8RDJLLFvKnuE419jBK.jpg",
-        "release_date": "2025-04-02",
-        "title": "목소리들",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "纪录"
         ],
         "original_language_zh": "韩语"
@@ -438,7 +438,7 @@
         "original_language": "ko",
         "original_title": "김동하 : 커넥트",
         "overview": "",
-        "popularity": 0.123,
+        "popularity": 0.1444,
         "poster_path": "/uT61RfZyTiI48JLq9HJEQInEdWy.jpg",
         "release_date": "2025-04-02",
         "title": "김동하 : 커넥트",
@@ -461,7 +461,7 @@
         "original_language": "ko",
         "original_title": "장흥1950: 마을로 간 전쟁",
         "overview": "",
-        "popularity": 0.0735,
+        "popularity": 0.1124,
         "poster_path": "/eOSKk5DZhugzH3fayPe38TN3oew.jpg",
         "release_date": "2025-04-02",
         "title": "장흥1950: 마을로 간 전쟁",
@@ -542,7 +542,7 @@
         "original_language": "fr",
         "original_title": "Natacha (presque) hôtesse de l’air",
         "overview": "",
-        "popularity": 1.2349,
+        "popularity": 1.4205,
         "poster_path": "/nLLXpTvudnfhC9uD97gYZ0uSOp1.jpg",
         "release_date": "2025-04-02",
         "title": "Natacha (presque) hôtesse de l’air",
@@ -565,7 +565,7 @@
         "original_language": "fr",
         "original_title": "Le Routard",
         "overview": "",
-        "popularity": 0.7594,
+        "popularity": 0.7754,
         "poster_path": "/7E8HJfSIjGKwz9qpu9zouAX10bV.jpg",
         "release_date": "2025-04-02",
         "title": "Le Routard",
@@ -579,25 +579,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5cElW3YH4qgm224qLdhUiTtc8Nn.jpg",
+        "backdrop_path": "/mtQabVhd3V7IVsaQKk7PeiMPek8.jpg",
         "genre_ids": [
-            53,
             35,
             10402
         ],
         "id": 1265623,
         "original_language": "fr",
         "original_title": "Banger",
-        "overview": "",
-        "popularity": 0.7222,
+        "overview": "斯科尔佩克斯曾是红极一时的DJ，如今全世界都知道他走下坡了，只有他还傻傻沉浸在往日的辉煌之中。某天，法国情报局 (DGSI) 的古怪特工罗丝给了他一个机会，让他有望除掉正当红的后辈维斯塔克斯，而他也打算借此机会用一首劲曲重回巅峰。",
+        "popularity": 1.371,
         "poster_path": "/5boTARNEddfrihsKRBhyvHwoC7Z.jpg",
         "release_date": "2025-04-02",
-        "title": "Banger",
+        "title": "DJ特工",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚",
             "喜剧",
             "音乐"
         ],
@@ -616,7 +614,7 @@
         "original_language": "fr",
         "original_title": "Stella Anyways",
         "overview": "",
-        "popularity": 0.6346,
+        "popularity": 0.7159,
         "poster_path": "/63mz7Mte6QjO6o3sI3gNkN97k7Y.jpg",
         "release_date": "2025-04-02",
         "title": "Stella Anyways",
@@ -641,7 +639,7 @@
         "original_language": "fr",
         "original_title": "Cassandre",
         "overview": "",
-        "popularity": 0.3204,
+        "popularity": 0.4556,
         "poster_path": "/bdEtON7g4fIfPdhvZJhdnFgvKDD.jpg",
         "release_date": "2025-04-02",
         "title": "Cassandre",
@@ -663,7 +661,7 @@
         "original_language": "fr",
         "original_title": "Lads",
         "overview": "",
-        "popularity": 0.2438,
+        "popularity": 0.4267,
         "poster_path": "/gVDel3jezR5VJd4dvXgXrAwae0c.jpg",
         "release_date": "2025-04-02",
         "title": "Lads",
@@ -685,7 +683,7 @@
         "original_language": "fr",
         "original_title": "Hyacinthe",
         "overview": "",
-        "popularity": 0.1764,
+        "popularity": 0.2542,
         "poster_path": "/y07XpbwLbkInWiWDna0dwvqwloy.jpg",
         "release_date": "2025-04-02",
         "title": "Hyacinthe",
@@ -707,7 +705,7 @@
         "original_language": "fr",
         "original_title": "Le voyage d'Anton",
         "overview": "",
-        "popularity": 0.1126,
+        "popularity": 0.1306,
         "poster_path": "/drti9i2T5Cw0nIHEP4zLMrxFIll.jpg",
         "release_date": "2025-04-02",
         "title": "Le voyage d'Anton",
@@ -730,7 +728,7 @@
         "original_language": "fr",
         "original_title": "Mara à minuit",
         "overview": "",
-        "popularity": 0.0534,
+        "popularity": 0.0866,
         "poster_path": "/oyBPpSuAJYo9nsHJ1B2V8WUwati.jpg",
         "release_date": "2025-04-02",
         "title": "Mara à minuit",
@@ -746,19 +744,47 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            878
+        ],
         "id": 1374102,
         "original_language": "fr",
         "original_title": "La fin de l'âge de fer",
         "overview": "",
-        "popularity": 0.0478,
+        "popularity": 0.1176,
         "poster_path": "/kOz9UJodPXx6nWgIABfNdOQzpFb.jpg",
         "release_date": "2025-04-02",
         "title": "La fin de l'âge de fer",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "科幻"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            10751
+        ],
+        "id": 1446583,
+        "original_language": "fr",
+        "original_title": "Nous voilà grands !",
+        "overview": "",
+        "popularity": 0.0996,
+        "poster_path": "/8a0GBKzTggSr21X1OrFGjByeMVz.jpg",
+        "release_date": "2025-04-02",
+        "title": "Nous voilà grands !",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "家庭"
+        ],
         "original_language_zh": "法语"
     },
     {
@@ -986,7 +1012,7 @@
         "original_language": "it",
         "original_title": "Il Complottista",
         "overview": "",
-        "popularity": 0.251,
+        "popularity": 0.3294,
         "poster_path": "/hzAIH5B9q1U507XSP0hy81EMaER.jpg",
         "release_date": "2025-04-02",
         "title": "Il Complottista",
