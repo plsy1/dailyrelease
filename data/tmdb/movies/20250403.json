@@ -455,7 +455,7 @@
         "original_language": "th",
         "original_title": "เดอะ สโตน พระแท้ คนเก๊",
         "overview": "",
-        "popularity": 0.8297,
+        "popularity": 0.9348,
         "poster_path": "/9u5kyHB7NkRtBW4LVaJLLOL8iT.jpg",
         "release_date": "2025-04-03",
         "title": "เดอะ สโตน พระแท้ คนเก๊",
@@ -481,7 +481,7 @@
         "original_language": "th",
         "original_title": "ฮาลาบาลา ป่าจิตหลุด",
         "overview": "",
-        "popularity": 0.6414,
+        "popularity": 0.7526,
         "poster_path": "/iIUR85ReCKMleRe0v1bJ93eKmY8.jpg",
         "release_date": "2025-04-03",
         "title": "ฮาลาบาลา ป่าจิตหลุด",
@@ -507,7 +507,7 @@
         "original_language": "th",
         "original_title": "Master1002 The Battle Of Banana Grove 4K REMASTERED",
         "overview": "",
-        "popularity": 0.1203,
+        "popularity": 0.1418,
         "poster_path": "/oATZNE59A9RlCMHZFjeiZaHFRgD.jpg",
         "release_date": "2025-04-03",
         "title": "Master1002 The Battle Of Banana Grove 4K REMASTERED",
@@ -1229,6 +1229,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1440783,
+        "original_language": "pt",
+        "original_title": "Menarca",
+        "overview": "",
+        "popularity": 0.1867,
+        "poster_path": "/tfqGCxDB4iX54dwtWMyuJLO4Ls2.jpg",
+        "release_date": "2025-04-03",
+        "title": "Menarca",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/gFr5UhbMoW5DmbvD9uAvWwriY5k.jpg",
         "genre_ids": [
             99
@@ -1237,7 +1259,7 @@
         "original_language": "pt",
         "original_title": "Viva Marília!",
         "overview": "",
-        "popularity": 0.3305,
+        "popularity": 0.4015,
         "poster_path": "/13pzkz6ePwXuYKH0VsVijtRWjUR.jpg",
         "release_date": "2025-04-03",
         "title": "Viva Marília!",
@@ -1259,7 +1281,7 @@
         "original_language": "pt",
         "original_title": "Os Ruminantes",
         "overview": "",
-        "popularity": 0.228,
+        "popularity": 0.2746,
         "poster_path": "/7pdPD1OOVUbvCqRcLCSn13CJ6DP.jpg",
         "release_date": "2025-04-03",
         "title": "Os Ruminantes",
@@ -1273,6 +1295,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/udlAemmPFs51Rmc3hvXEMTRQVtf.jpg",
+        "genre_ids": [
+            878,
+            14
+        ],
+        "id": 1425600,
+        "original_language": "pt",
+        "original_title": "SERTÃO 2138",
+        "overview": "",
+        "popularity": 0.1301,
+        "poster_path": "/qmaBIhaUXVbjqiBmgaEcOmVRL7v.jpg",
+        "release_date": "2025-04-03",
+        "title": "SERTÃO 2138",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "奇幻"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -1281,7 +1327,7 @@
         "original_language": "pt",
         "original_title": "Rua do Pescador, nº6",
         "overview": "",
-        "popularity": 0.1192,
+        "popularity": 0.1141,
         "poster_path": "/8sfaE7Z2Vf1Rua1I1Vr1J6VWOSW.jpg",
         "release_date": "2025-04-03",
         "title": "Rua do Pescador, nº6",
@@ -1303,7 +1349,7 @@
         "original_language": "pt",
         "original_title": "Um Olhar Inquieto: o Cinema de Jorge Bodanzky",
         "overview": "",
-        "popularity": 0.1183,
+        "popularity": 0.0973,
         "poster_path": "/r3eT6SvRhYzvcZtppqjCFrmcMB.jpg",
         "release_date": "2025-04-03",
         "title": "Um Olhar Inquieto: o Cinema de Jorge Bodanzky",
@@ -1325,7 +1371,7 @@
         "original_language": "pt",
         "original_title": "Mundurukuyü - A Floresta das Mulheres Peixe",
         "overview": "",
-        "popularity": 0.1183,
+        "popularity": 0.1554,
         "poster_path": "/x1dQGWOPBSm8AYlbFQRW7MAEyES.jpg",
         "release_date": "2025-04-03",
         "title": "Mundurukuyü - A Floresta das Mulheres Peixe",
@@ -1341,45 +1387,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1440783,
+        "id": 985142,
         "original_language": "pt",
-        "original_title": "Menarca",
+        "original_title": "Pele Fina",
         "overview": "",
-        "popularity": 0.341,
-        "poster_path": "/tfqGCxDB4iX54dwtWMyuJLO4Ls2.jpg",
+        "popularity": 0.3084,
+        "poster_path": "/1bVE2TTn7f8ekbKauqaLJqiW0Gy.jpg",
         "release_date": "2025-04-03",
-        "title": "Menarca",
+        "title": "Pele Fina",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/udlAemmPFs51Rmc3hvXEMTRQVtf.jpg",
-        "genre_ids": [
-            878,
-            14
-        ],
-        "id": 1425600,
-        "original_language": "pt",
-        "original_title": "SERTÃO 2138",
-        "overview": "",
-        "popularity": 0.1322,
-        "poster_path": "/qmaBIhaUXVbjqiBmgaEcOmVRL7v.jpg",
-        "release_date": "2025-04-03",
-        "title": "SERTÃO 2138",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "奇幻"
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1393,7 +1415,7 @@
         "original_language": "pt",
         "original_title": "Quando o Brasil Era Moderno",
         "overview": "",
-        "popularity": 0.0891,
+        "popularity": 0.072,
         "poster_path": "/bmBjH9SsJTs4p2qMhwL6A5qbl1M.jpg",
         "release_date": "2025-04-03",
         "title": "Quando o Brasil Era Moderno",
@@ -1415,7 +1437,7 @@
         "original_language": "pt",
         "original_title": "Bruscky: Um Autorretrato",
         "overview": "",
-        "popularity": 0.0891,
+        "popularity": 0.072,
         "poster_path": "/qQafOV8Kk1J531j0R1lv3nTmEOI.jpg",
         "release_date": "2025-04-03",
         "title": "Bruscky: Um Autorretrato",
@@ -1437,7 +1459,7 @@
         "original_language": "pt",
         "original_title": "Fragmentos",
         "overview": "",
-        "popularity": 0.0843,
+        "popularity": 0.1817,
         "poster_path": "/xobIveroh5KuXn6USlBnYWWEDaL.jpg",
         "release_date": "2025-04-03",
         "title": "Fragmentos",
@@ -1459,10 +1481,56 @@
         "original_language": "pt",
         "original_title": "Reconhecidos",
         "overview": "",
-        "popularity": 0.0639,
+        "popularity": 0.0594,
         "poster_path": "/aCU6ToLdU5lGZ5TefEjWW8wmEY6.jpg",
         "release_date": "2025-04-03",
         "title": "Reconhecidos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6TP8GbhTfGnkvbem3dKhP0dEJGc.jpg",
+        "genre_ids": [
+            18,
+            27
+        ],
+        "id": 1457483,
+        "original_language": "pt",
+        "original_title": "Georgia",
+        "overview": "",
+        "popularity": 0.0882,
+        "poster_path": "/r2vxDUIVeVJKqMqwSpdWsB9cdgA.jpg",
+        "release_date": "2025-04-03",
+        "title": "Georgia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1449004,
+        "original_language": "pt",
+        "original_title": "Pau D'Arco",
+        "overview": "",
+        "popularity": 0.0338,
+        "poster_path": null,
+        "release_date": "2025-04-03",
+        "title": "Pau D'Arco",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1501,57 +1569,13 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 985142,
-        "original_language": "pt",
-        "original_title": "Pele Fina",
-        "overview": "",
-        "popularity": 0.094,
-        "poster_path": "/1bVE2TTn7f8ekbKauqaLJqiW0Gy.jpg",
-        "release_date": "2025-04-03",
-        "title": "Pele Fina",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1449004,
-        "original_language": "pt",
-        "original_title": "Pau D'Arco",
-        "overview": "",
-        "popularity": 0.0453,
-        "poster_path": null,
-        "release_date": "2025-04-03",
-        "title": "Pau D'Arco",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1449458,
         "original_language": "pt",
         "original_title": "Retrato de Classe – A Vida, A Pessoa e as Coisas",
         "overview": "",
-        "popularity": 0.0214,
+        "popularity": 0.0286,
         "poster_path": "/r6JZgqE2VJRedlwImPWnpbNBaA9.jpg",
         "release_date": "2025-04-03",
         "title": "Retrato de Classe – A Vida, A Pessoa e as Coisas",
@@ -1573,7 +1597,7 @@
         "original_language": "pt",
         "original_title": "Lan - O Cartunista",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0214,
         "poster_path": "/7fQL1oxWYa6mwO65XkYTfqwMbnI.jpg",
         "release_date": "2025-04-03",
         "title": "Lan - O Cartunista",
@@ -1605,30 +1629,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6TP8GbhTfGnkvbem3dKhP0dEJGc.jpg",
-        "genre_ids": [
-            18,
-            27
-        ],
-        "id": 1457483,
-        "original_language": "pt",
-        "original_title": "Georgia",
-        "overview": "",
-        "popularity": 0.05,
-        "poster_path": "/r2vxDUIVeVJKqMqwSpdWsB9cdgA.jpg",
-        "release_date": "2025-04-03",
-        "title": "Georgia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "恐怖"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/7N1Mv9qg5oeQ2xcOM1nz4rUqaAq.jpg",
         "genre_ids": [
             35,
@@ -1638,7 +1638,7 @@
         "original_language": "ru",
         "original_title": "Батя 2: Дед",
         "overview": "",
-        "popularity": 0.4245,
+        "popularity": 0.2935,
         "poster_path": "/nJXVFPNVnWKqPWBzbAgO8UZaLdk.jpg",
         "release_date": "2025-04-03",
         "title": "Батя 2: Дед",
@@ -1661,7 +1661,7 @@
         "original_language": "ru",
         "original_title": "Укради мою мечту",
         "overview": "",
-        "popularity": 0.1478,
+        "popularity": 0.2598,
         "poster_path": null,
         "release_date": "2025-04-03",
         "title": "Укради мою мечту",
@@ -1684,7 +1684,7 @@
         "original_language": "it",
         "original_title": "La vita da grandi",
         "overview": "",
-        "popularity": 0.5518,
+        "popularity": 0.7269,
         "poster_path": "/2K9yD3JCL00kzWPwWAqapnyq8VV.jpg",
         "release_date": "2025-04-03",
         "title": "La vita da grandi",
@@ -1707,7 +1707,7 @@
         "original_language": "it",
         "original_title": "L'ultima sfida",
         "overview": "",
-        "popularity": 0.2717,
+        "popularity": 0.3494,
         "poster_path": "/myRev07NRJHzlVPRsCb738QSPVb.jpg",
         "release_date": "2025-04-03",
         "title": "L'ultima sfida",
@@ -1729,7 +1729,7 @@
         "original_language": "it",
         "original_title": "Tu Quoque",
         "overview": "",
-        "popularity": 0.2519,
+        "popularity": 0.3226,
         "poster_path": "/kqQSNsWoQqg4WkmBzmv3NtbDOgk.jpg",
         "release_date": "2025-04-03",
         "title": "Tu Quoque",
@@ -1752,7 +1752,7 @@
         "original_language": "it",
         "original_title": "Nosferalupo",
         "overview": "",
-        "popularity": 0.1357,
+        "popularity": 0.0593,
         "poster_path": "/7HECgelWrhQkVb7TyAfcNyNQdbc.jpg",
         "release_date": "2025-04-03",
         "title": "Nosferalupo",
