@@ -493,6 +493,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/1mkGD9YZKiNPBcvD1PfnIdG4XxL.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1138621,
+        "original_language": "en",
+        "original_title": "Fog of War",
+        "overview": "",
+        "popularity": 0.3264,
+        "poster_path": "/cvKfxdKaV20YikapsiYA23ETXG.jpg",
+        "release_date": "2025-04-04",
+        "title": "Fog of War",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/uXvmKuJ1ihhdZG7xmkROFOT1GZ1.jpg",
         "genre_ids": [
             18,
@@ -1031,28 +1053,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1454092,
-        "original_language": "en",
-        "original_title": "The Fuckup",
-        "overview": "",
-        "popularity": 0.0311,
-        "poster_path": null,
-        "release_date": "2025-04-04",
-        "title": "The Fuckup",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             10749,
             14
@@ -1251,25 +1251,47 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            35
+            18
         ],
-        "id": 1458315,
-        "original_language": "ru",
-        "original_title": "Лудоман",
+        "id": 1458572,
+        "original_language": "en",
+        "original_title": "The F*ckup",
         "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/u0aVkRMekHBR3JYshUoITlip2g7.jpg",
+        "popularity": 0.0,
+        "poster_path": "/xTeh6mLFPOLYUhmrp5fcO0mmIr.jpg",
         "release_date": "2025-04-04",
-        "title": "Лудоман",
+        "title": "The F*ckup",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "喜剧"
+            "剧情"
         ],
-        "original_language_zh": "俄语"
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ug74FtNqKRx1pD8t8va4IlHHMjF.jpg",
+        "genre_ids": [
+            27,
+            14
+        ],
+        "id": 1458570,
+        "original_language": "en",
+        "original_title": "Lost Flower",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3ejCztN3BvDNPHCpnLfaHbbeFuq.jpg",
+        "release_date": "2025-04-04",
+        "title": "Lost Flower",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -2416,6 +2438,30 @@
             "纪录"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1458315,
+        "original_language": "ru",
+        "original_title": "Лудоман",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": "/u0aVkRMekHBR3JYshUoITlip2g7.jpg",
+        "release_date": "2025-04-04",
+        "title": "Лудоман",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,

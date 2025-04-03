@@ -27,6 +27,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            99
+        ],
+        "id": 1458423,
+        "original_language": "zh",
+        "original_title": "生于罗曼",
+        "overview": "《汪苏泷2024十万伏特演唱会纪录片》2024年，罗曼城有了12个分城 因为有爱，所以罗曼城真实存在 希望我们一起，在罗曼城做最快乐的人 2025年，继续罗曼到底吧!",
+        "popularity": 0.0,
+        "poster_path": "/t20WwSnke7UBYuox5ONDZOj7y3x.jpg",
+        "release_date": "2025-04-03",
+        "title": "生于罗曼",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "音乐",
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vYysExnLxsavtVpSGYc7zUvm0QJ.jpg",
         "genre_ids": [
             14,
@@ -427,7 +451,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/tJ9gt6ScwV8jaXMeWvBud8USOq6.jpg",
         "genre_ids": [
             27,
             53
@@ -470,6 +494,30 @@
         "genre_ids_zh": [
             "动作",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            27
+        ],
+        "id": 1458569,
+        "original_language": "en",
+        "original_title": "A Wrong Turn",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5K6eRTVf8VI9aREDemmaDAQSEap.jpg",
+        "release_date": "2025-04-03",
+        "title": "A Wrong Turn",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1837,6 +1885,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1136980,
+        "original_language": "pt",
+        "original_title": "Cinzas da Floresta",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6iPRrewQauXstHsZA575ebcLYsJ.jpg",
+        "release_date": "2025-04-03",
+        "title": "Cinzas da Floresta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
