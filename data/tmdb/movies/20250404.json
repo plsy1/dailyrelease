@@ -123,6 +123,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878
+        ],
+        "id": 1458986,
+        "original_language": "zh",
+        "original_title": "shen ye shu dian 4",
+        "overview": "该片为深夜书店系列电影第四部,讲述通过未来科技迷途知返的三个年轻人的励志故事。故事以深夜书店为引线,通过问题少年，被老板、网贷为切入点,体验身临其境的脑洞世界,营造\"接地气\"式的真实感,讲述了三个不同的爱情故事。",
+        "popularity": 0.0,
+        "poster_path": "/xECZKJFVaNNSuseGYsw7DZwJhH4.jpg",
+        "release_date": "2025-04-04",
+        "title": "深夜书店4",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            12
+        ],
+        "id": 1458947,
+        "original_language": "zh",
+        "original_title": "观山太保",
+        "overview": "上世纪80年代，胡八一、雪莉杨、王凯旋三人的好友大金牙去往四川巫峡收古玩，他回来后却意外中毒。为救好友，三人启程前往巫峡寻找解毒草药。令三人没想到的是卷入了一场阴暗的杀人计划之中，又开启了一段未知的探险之旅。",
+        "popularity": 0.0,
+        "poster_path": "/2ORrd32KAhazU3ezfaqIYJ6uhcK.jpg",
+        "release_date": "2025-04-04",
+        "title": "观山太保",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "冒险"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
         "genre_ids": [
             12,
@@ -149,6 +195,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mQcpIE8vmkpA1eOS9tjrkShn9ts.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1288070,
+        "original_language": "en",
+        "original_title": "The Luckiest Man in America",
+        "overview": "",
+        "popularity": 2.1345,
+        "poster_path": "/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
+        "release_date": "2025-04-04",
+        "title": "The Luckiest Man in America",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jiKwojRdwMYsDEMxQp5NFS3sOKb.jpg",
         "genre_ids": [
             27
@@ -166,30 +236,6 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mQcpIE8vmkpA1eOS9tjrkShn9ts.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1288070,
-        "original_language": "en",
-        "original_title": "The Luckiest Man in America",
-        "overview": "",
-        "popularity": 2.1345,
-        "poster_path": "/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
-        "release_date": "2025-04-04",
-        "title": "The Luckiest Man in America",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -371,6 +417,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8zcAFl8oys90n8oMbl7QD0oW7jV.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1138621,
+        "original_language": "en",
+        "original_title": "Fog of War",
+        "overview": "",
+        "popularity": 0.5812,
+        "poster_path": "/iQGxsFTdjS9wr6J9HYckE8cB7Co.jpg",
+        "release_date": "2025-04-04",
+        "title": "Fog of War",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -466,28 +534,6 @@
             "悬疑",
             "惊悚",
             "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/1mkGD9YZKiNPBcvD1PfnIdG4XxL.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1138621,
-        "original_language": "en",
-        "original_title": "Fog of War",
-        "overview": "",
-        "popularity": 0.5812,
-        "poster_path": "/cvKfxdKaV20YikapsiYA23ETXG.jpg",
-        "release_date": "2025-04-04",
-        "title": "Fog of War",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1208,6 +1254,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1458885,
+        "original_language": "en",
+        "original_title": "Dancing with the Devil",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/bGFP3G3UjymXur5esaLW781jbhY.jpg",
+        "release_date": "2025-04-04",
+        "title": "Dancing with the Devil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1457945,
         "original_language": "en",
@@ -1221,6 +1289,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1458778,
+        "original_language": "en",
+        "original_title": "Iris and Asriel",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/sZaakbiEI74SOpc8Ke0STJtD6gH.jpg",
+        "release_date": "2025-04-04",
+        "title": "Iris and Asriel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1275,6 +1365,90 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            9648,
+            18
+        ],
+        "id": 1459137,
+        "original_language": "en",
+        "original_title": "Chimera",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5CmZsWYywpL2QaQqDdSQwwbqy5j.jpg",
+        "release_date": "2025-04-04",
+        "title": "Chimera",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1459127,
+        "original_language": "en",
+        "original_title": "Death²",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-04-04",
+        "title": "Death²",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1459122,
+        "original_language": "en",
+        "original_title": "Renascence",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-04-04",
+        "title": "Renascence",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l5Z5CHFrfQvGhkThQp6dveo7hGU.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1459050,
+        "original_language": "en",
+        "original_title": "The Sabbath",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-04-04",
+        "title": "The Sabbath",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1350,28 +1524,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            53
-        ],
-        "id": 1458885,
-        "original_language": "en",
-        "original_title": "Dancing with the Devil",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/bGFP3G3UjymXur5esaLW781jbhY.jpg",
-        "release_date": "2025-04-04",
-        "title": "Dancing with the Devil",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1467,28 +1619,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "科幻",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1458778,
-        "original_language": "en",
-        "original_title": "Iris and Asriel",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/sZaakbiEI74SOpc8Ke0STJtD6gH.jpg",
-        "release_date": "2025-04-04",
-        "title": "Iris and Asriel",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -1704,7 +1834,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 1458162,
         "original_language": "ja",
         "original_title": "アンジーのBARで逢いましょう",
@@ -1716,7 +1848,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "日语"
     },
     {
