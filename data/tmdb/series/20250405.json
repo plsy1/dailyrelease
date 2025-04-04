@@ -105,34 +105,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7EDiFma8CrnbT9F05xNd50CZZrr.jpg",
-        "genre_ids": [
-            16,
-            10765,
-            10759
-        ],
-        "id": 282666,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "GUILTY GEAR STRIVE: DUAL RULERS",
-        "overview": "",
-        "popularity": 1.3576,
-        "poster_path": "/tpRogsdGkXhog9q80I0XrOuEA4K.jpg",
-        "first_air_date": "2025-04-05",
-        "name": "罪恶装备斗争：双重指标",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "科幻与奇幻",
-            "动作与冒险"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/8anbNuU3e5PAvpfa8r26aZG7ubP.jpg",
         "genre_ids": [
             10759,
@@ -163,29 +135,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hkn5Ak14LyZf7PeZPXYnSDWCaDO.jpg",
+        "backdrop_path": "/7EDiFma8CrnbT9F05xNd50CZZrr.jpg",
         "genre_ids": [
             16,
-            18,
-            10751
+            10765,
+            10759
         ],
-        "id": 277665,
+        "id": 282666,
         "origin_country": [
             "日本"
         ],
         "original_language": "ja",
-        "original_name": "アン・シャーリー",
+        "original_name": "GUILTY GEAR STRIVE: DUAL RULERS",
         "overview": "",
-        "popularity": 1.1788,
-        "poster_path": "/4RS2iYLNTJhLmFdfrehIUdybHj5.jpg",
+        "popularity": 1.3576,
+        "poster_path": "/tpRogsdGkXhog9q80I0XrOuEA4K.jpg",
         "first_air_date": "2025-04-05",
-        "name": "安妮·雪莉",
+        "name": "罪恶装备斗争：双重指标",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "动画",
-            "剧情",
-            "家庭"
+            "科幻与奇幻",
+            "动作与冒险"
         ],
         "original_language_zh": "日语"
     },
@@ -212,6 +184,34 @@
         "genre_ids_zh": [
             "动画",
             "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hkn5Ak14LyZf7PeZPXYnSDWCaDO.jpg",
+        "genre_ids": [
+            16,
+            18,
+            10751
+        ],
+        "id": 277665,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "アン・シャーリー",
+        "overview": "",
+        "popularity": 1.1788,
+        "poster_path": "/4RS2iYLNTJhLmFdfrehIUdybHj5.jpg",
+        "first_air_date": "2025-04-05",
+        "name": "安妮·雪莉",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情",
+            "家庭"
         ],
         "original_language_zh": "日语"
     },
