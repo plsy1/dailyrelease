@@ -15,7 +15,7 @@
         "original_language": "zh",
         "original_name": "凸变英雄X",
         "overview": "这是一个由人们的信赖造就英雄的世界，而获得最多信赖的英雄被誉为——X。在这个世界里，人们的信赖是可以被数据统计出来的，并且这些数值会反映在每个人的手腕上。只要获得足够多的信赖值，普通人也能拥有超能力，成为拯救世界的超级英雄。然而，持续变化的信赖值让英雄之路充满未知……",
-        "popularity": 3.7874,
+        "popularity": 3.5938,
         "poster_path": "/vVlfq4Gu09QrcspXiGyJAEKYRgj.jpg",
         "first_air_date": "2025-04-06",
         "name": "凸变英雄X",
@@ -145,32 +145,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            18
-        ],
-        "id": 262700,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "ウマ娘 シンデレラグレイ",
-        "overview": "于《周刊YOUNG JUMP》火爆连载中，总销量突破650万部！！以跨媒体作品《赛马娘》中的角色・小栗帽为主角的漫画，终于改编为动画！！\n\n笠松特雷森学园，这所衰颓的地方赛区学园，迎来了一名赛马娘，其名为小栗帽。她以压倒性的奔跑，颠覆所有常识。这名终将被称为“怪物”的灰色少女，此刻开始书写全新的传说……\n\n驰骋青春的灰姑娘故事，终于开跑！！",
-        "popularity": 1.2324,
-        "poster_path": "/rtixC4leK95pethd4brah2PzAwh.jpg",
-        "first_air_date": "2025-04-06",
-        "name": "赛马娘 芦毛灰姑娘",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/pB3zSiAJCPtpfRfOFnmjNPLna2k.jpg",
         "genre_ids": [
             16,
@@ -196,6 +170,32 @@
             "动作与冒险",
             "科幻与奇幻",
             "儿童"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ubkn5MKjE6vpVuwqtcKVOvWMskA.jpg",
+        "genre_ids": [
+            16,
+            18
+        ],
+        "id": 262700,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "ウマ娘 シンデレラグレイ",
+        "overview": "于《周刊YOUNG JUMP》火爆连载中，总销量突破650万部！！以跨媒体作品《赛马娘》中的角色・小栗帽为主角的漫画，终于改编为动画！！\n\n笠松特雷森学园，这所衰颓的地方赛区学园，迎来了一名赛马娘，其名为小栗帽。她以压倒性的奔跑，颠覆所有常识。这名终将被称为“怪物”的灰色少女，此刻开始书写全新的传说……\n\n驰骋青春的灰姑娘故事，终于开跑！！",
+        "popularity": 1.2324,
+        "poster_path": "/rtixC4leK95pethd4brah2PzAwh.jpg",
+        "first_air_date": "2025-04-06",
+        "name": "赛马娘 芦毛灰姑娘",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
