@@ -151,32 +151,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4GuRFIuWrVow086ZZOnmavgr3zq.jpg",
-        "genre_ids": [
-            99,
-            10764
-        ],
-        "id": 282628,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "The Clubhouse: A Year with the Red Sox",
-        "overview": "",
-        "popularity": 0.7702,
-        "poster_path": "/c979XKQRO7T5FTRyFSioPNcOFus.jpg",
-        "first_air_date": "2025-04-08",
-        "name": "The Clubhouse: A Year with the Red Sox",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "真人秀"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/9O91jUY4GMjd1xth76sh5miWK8u.jpg",
         "genre_ids": [
             99,
@@ -188,16 +162,42 @@
         ],
         "original_language": "en",
         "original_name": "Spy High",
-        "overview": "",
+        "overview": "一名高中生因发现自己的笔记本电脑上有监控软件而与宾夕法尼亚州学区对簿公堂，引发了一场关于学生隐私权和数字监控的争论。",
         "popularity": 0.7868,
         "poster_path": "/pgIZg92JEtKMh4Vp6FEYcHWLsQP.jpg",
         "first_air_date": "2025-04-08",
-        "name": "Spy High",
+        "name": "监控高中",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录",
             "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4GuRFIuWrVow086ZZOnmavgr3zq.jpg",
+        "genre_ids": [
+            99,
+            10764
+        ],
+        "id": 282628,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "The Clubhouse: A Year with the Red Sox",
+        "overview": "这部沉浸式剧集让观众以空前深入的视角认识体育界最具历史意义的球队之一：波士顿红袜队。跟随 2024 赛季的红袜队，深入了解美国职业棒球大联盟球员们在赛场内外的个人与职业生活，见证他们如何应对 162 场比赛的艰苦赛季带来的心理压力和身体挑战。",
+        "popularity": 0.7702,
+        "poster_path": "/c979XKQRO7T5FTRyFSioPNcOFus.jpg",
+        "first_air_date": "2025-04-08",
+        "name": "MLB休息室：波士顿红袜队的一年",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "真人秀"
         ],
         "original_language_zh": "英语"
     },
@@ -281,7 +281,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/G5adGGcJEppsStgEDhQL09KZ9c.jpg",
         "genre_ids": [
             16,
             35
@@ -294,7 +294,7 @@
         "original_name": "紫雲寺家の子供たち",
         "overview": "有一栋坐落于东京都世田谷高级住宅区的顶级豪宅紫云寺家。住在这里的7位兄弟姊妹以才色兼备闻名，其中年龄相仿的五姊妹「万里、清叶、讴华、南、琴乃」更是被誉为绝世美女。虽然与众人梦寐以求的美女姊妹同住一个屋檐下，然而其长子——新，却被这5位有着独特个性的姊妹耍得团团转，以至于面对其他女性时总是畏畏缩缩。\n\n尽管新很珍惜这个家，但他总忍不住会想，要是没有这五姊妹的话，自己将会有何种不同人生……\n\n「其实你们并非真正的兄弟姊妹。」\n\n某天，父亲说出的冲击事实改变了命运！曾经深信永不会变的家族羁绊，稍稍地开始发生了变化……\n\n这份爱意的最终归宿是家人，是兄弟姊妹，又或者是？\n\n在这由命运交织而成的特殊家庭里所展开的「禁忌×纯爱的恋爱喜剧」，即将揭开帷幕！",
         "popularity": 2.6749,
-        "poster_path": "/iSSYooLNjjNvbGSqAxnL8LgtSMP.jpg",
+        "poster_path": "/8YdjvU8ehv0nU5jVWuhihu7Adfr.jpg",
         "first_air_date": "2025-04-08",
         "name": "紫云寺家的孩子们",
         "vote_average": 0.0,
