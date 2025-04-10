@@ -41,8 +41,8 @@
         "release_date": "2025-04-10",
         "title": "战·争",
         "video": false,
-        "vote_average": 8.0,
-        "vote_count": 1,
+        "vote_average": 8.667,
+        "vote_count": 3,
         "genre_ids_zh": [
             "战争",
             "动作"
@@ -215,30 +215,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
-        "genre_ids": [
-            10749,
-            35
-        ],
-        "id": 1450863,
-        "original_language": "en",
-        "original_title": "Meet the Khumalos",
-        "overview": "",
-        "popularity": 0.33,
-        "poster_path": "/dEZHHgL1g4oA6OCntHGudDIgQlb.jpg",
-        "release_date": "2025-04-10",
-        "title": "Meet the Khumalos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10749,
@@ -286,6 +262,30 @@
             "犯罪",
             "剧情",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
+        "genre_ids": [
+            10749,
+            35
+        ],
+        "id": 1450863,
+        "original_language": "en",
+        "original_title": "Meet the Khumalos",
+        "overview": "",
+        "popularity": 0.33,
+        "poster_path": "/dEZHHgL1g4oA6OCntHGudDIgQlb.jpg",
+        "release_date": "2025-04-10",
+        "title": "Meet the Khumalos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -630,6 +630,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1462224,
+        "original_language": "en",
+        "original_title": "Dendam Dalam Dosa",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7Al4M7ptX786XNyORGNuIAXRcPo.jpg",
+        "release_date": "2025-04-10",
+        "title": "Dendam Dalam Dosa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1462148,
         "original_language": "en",
@@ -687,7 +709,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qY68yOIDy3Bso03yWeEMzhpQ4HE.jpg",
+        "backdrop_path": "/dU8AiVmPfhKGUHNcnK6hBC1nYzZ.jpg",
         "genre_ids": [
             18,
             35
@@ -699,7 +721,7 @@
         "popularity": 0.6592,
         "poster_path": "/3ScTCGjCuGyN3PcnasJ5ji7OmaU.jpg",
         "release_date": "2025-04-10",
-        "title": "แก๊งหิมะเดือด",
+        "title": "热血雪雕队",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1198,6 +1220,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1462202,
+        "original_language": "pt",
+        "original_title": "Efeito Maré",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wV55DX3vRn8WN6QJHd8RuKTtHjA.jpg",
+        "release_date": "2025-04-10",
+        "title": "Efeito Maré",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
