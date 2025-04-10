@@ -195,32 +195,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fORLNCDa26sNXHPGYgTqhEIyzOX.jpg",
-        "genre_ids": [
-            16,
-            35
-        ],
-        "id": 278050,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "忍者と殺し屋のふたりぐらし",
-        "overview": "从忍者之村逃出来的女忍者里子，在城镇中因体力不支倒下，被路过的女高中生木叶所救。然而，好景不长，里子很快就被来自忍者之村的追兵发现。但令人意想不到的是，这些追兵竟被木叶轻松击退——原来，这名女高中生的真正身份竟是杀手！",
-        "popularity": 1.4866,
-        "poster_path": "/29oiAPdPlANeUyVRVfkX2bFk7fU.jpg",
-        "first_air_date": "2025-04-10",
-        "name": "忍者与杀手二人组的日常生活",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "喜剧"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/lDd6p25scbIlJwuf8oN8pVxbRDe.jpg",
         "genre_ids": [
             16,
@@ -244,6 +218,32 @@
             "动画",
             "喜剧",
             "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fORLNCDa26sNXHPGYgTqhEIyzOX.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 278050,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "忍者と殺し屋のふたりぐらし",
+        "overview": "从忍者之村逃出来的女忍者里子，在城镇中因体力不支倒下，被路过的女高中生木叶所救。然而，好景不长，里子很快就被来自忍者之村的追兵发现。但令人意想不到的是，这些追兵竟被木叶轻松击退——原来，这名女高中生的真正身份竟是杀手！",
+        "popularity": 1.4866,
+        "poster_path": "/29oiAPdPlANeUyVRVfkX2bFk7fU.jpg",
+        "first_air_date": "2025-04-10",
+        "name": "忍者与杀手二人组的日常生活",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧"
         ],
         "original_language_zh": "日语"
     },
@@ -350,7 +350,7 @@
         "original_language": "es",
         "original_name": "La caza del solitario",
         "overview": "",
-        "popularity": 0.0568,
+        "popularity": 0.0707,
         "poster_path": "/mFq4fODyBzhj77yJ8E3o0sdlj3z.jpg",
         "first_air_date": "2025-04-10",
         "name": "La caza del solitario",
