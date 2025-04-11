@@ -480,6 +480,82 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35,
+            53
+        ],
+        "id": 1456641,
+        "original_language": "en",
+        "original_title": "The Act",
+        "overview": "",
+        "popularity": 0.121,
+        "poster_path": "/k1BCkOF1Z5V3OVf4ssLM852N1FN.jpg",
+        "release_date": "2025-04-12",
+        "title": "The Act",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iDLnimqE7bA8cm6puyS2cMel2lS.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            18
+        ],
+        "id": 1430979,
+        "original_language": "en",
+        "original_title": "Rosa’s Dilemma",
+        "overview": "",
+        "popularity": 0.0912,
+        "poster_path": null,
+        "release_date": "2025-04-12",
+        "title": "Rosa’s Dilemma",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fnY6PYagLL6yunzWou2RYzwZSYA.jpg",
+        "genre_ids": [
+            27,
+            53,
+            18
+        ],
+        "id": 1386734,
+        "original_language": "en",
+        "original_title": "Spiral",
+        "overview": "",
+        "popularity": 0.0876,
+        "poster_path": "/c9eu1QidEhtOPoIayxdbJhyaYqA.jpg",
+        "release_date": "2025-04-12",
+        "title": "Spiral",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1457346,
         "original_language": "en",
@@ -493,6 +569,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1456583,
+        "original_language": "en",
+        "original_title": "Are You Coming to my Birthday?",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/eny654xtTS0cMMgYgQbigNTtEhW.jpg",
+        "release_date": "2025-04-12",
+        "title": "Are You Coming to my Birthday?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -519,25 +619,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/fnrRaApFQ1AopvrXe1JzQe55Dsk.jpg",
         "genre_ids": [
-            35,
-            27
+            18,
+            35
         ],
-        "id": 1456583,
+        "id": 1462938,
         "original_language": "en",
-        "original_title": "Are You Coming to my Birthday?",
+        "original_title": "Sourdough",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/eny654xtTS0cMMgYgQbigNTtEhW.jpg",
+        "popularity": 0.0,
+        "poster_path": "/aCdni9Ujl9jfnFEW8IwOdpXDrKV.jpg",
         "release_date": "2025-04-12",
-        "title": "Are You Coming to my Birthday?",
+        "title": "Sourdough",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "恐怖"
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
