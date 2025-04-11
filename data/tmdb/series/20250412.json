@@ -246,7 +246,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            10762
+        ],
         "id": 288487,
         "origin_country": [
             "韩国"
@@ -260,7 +262,9 @@
         "name": "지구의 주인은 고양이다",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "儿童"
+        ],
         "original_language_zh": "韩语"
     },
     {
