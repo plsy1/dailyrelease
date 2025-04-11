@@ -444,7 +444,7 @@
         "original_title": "Blood & Wine",
         "overview": "",
         "popularity": 0.1618,
-        "poster_path": "/awSUidX2mlRtdrck76kdfSgJCVI.jpg",
+        "poster_path": "/kRn2iL0o13OoYo345WamvfB96fD.jpg",
         "release_date": "2025-04-11",
         "title": "Blood & Wine",
         "video": false,
@@ -957,6 +957,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6b0SfkF8nt6VV63vrFQzhsctNuI.jpg",
+        "genre_ids": [
+            18,
+            53,
+            27
+        ],
+        "id": 1453610,
+        "original_language": "en",
+        "original_title": "Evil Eye",
+        "overview": "",
+        "popularity": 0.0956,
+        "poster_path": "/rHDXXCnJUiJw3nspLDhAyPYNxak.jpg",
+        "release_date": "2025-04-11",
+        "title": "Evil Eye",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/uD7c8b3ni5RVy3FBAR0kYBl0Rfe.jpg",
         "genre_ids": [
             35
@@ -1036,6 +1062,52 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1462743,
+        "original_language": "en",
+        "original_title": "The Lost Music of Auschwitz",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-04-11",
+        "title": "The Lost Music of Auschwitz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iEyhrXwaxayEE46HrYQUi1ZfaKW.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1462689,
+        "original_language": "en",
+        "original_title": "Miss O'Dell",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/epFpFxLBJP66WvDnwOhgu4eFkPL.jpg",
+        "release_date": "2025-04-11",
+        "title": "Miss O'Dell",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1351,6 +1423,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/csc1VlXev2jmsRokWPsljnTA0RT.jpg",
+        "genre_ids": [
+            18,
+            99
+        ],
+        "id": 1417078,
+        "original_language": "pt",
+        "original_title": "A Rua do Abismo e o Cinema da Luz",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/f4DuKIKWbEodGBIAc0Yz9dn8QrF.jpg",
+        "release_date": "2025-04-11",
+        "title": "A Rua do Abismo e o Cinema da Luz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1397,6 +1493,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            16
+        ],
+        "id": 1460847,
+        "original_language": "ru",
+        "original_title": "Коллектив",
+        "overview": "",
+        "popularity": 0.0704,
+        "poster_path": null,
+        "release_date": "2025-04-11",
+        "title": "Коллектив",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1458812,
@@ -1421,14 +1539,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1458818,
+        "id": 1459580,
         "original_language": "ru",
-        "original_title": "Узор",
+        "original_title": "Поцелуй на 5+",
         "overview": "",
-        "popularity": 0.0496,
-        "poster_path": null,
+        "popularity": 0.0655,
+        "poster_path": "/m5qZbnfjXcJmMdWCyH6MtOhkPfZ.jpg",
         "release_date": "2025-04-11",
-        "title": "Узор",
+        "title": "Поцелуй на 5+",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1463,38 +1581,16 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            16
-        ],
-        "id": 1460847,
-        "original_language": "ru",
-        "original_title": "Коллектив",
-        "overview": "",
-        "popularity": 0.0704,
-        "poster_path": null,
-        "release_date": "2025-04-11",
-        "title": "Коллектив",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
-        "id": 1459580,
+        "id": 1458695,
         "original_language": "ru",
-        "original_title": "Поцелуй на 5+",
+        "original_title": "Черти",
         "overview": "",
-        "popularity": 0.0655,
-        "poster_path": "/m5qZbnfjXcJmMdWCyH6MtOhkPfZ.jpg",
+        "popularity": 0.0368,
+        "poster_path": "/93klwlU9aP1noAVdMp8Z4ifmjHm.jpg",
         "release_date": "2025-04-11",
-        "title": "Поцелуй на 5+",
+        "title": "Черти",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1509,14 +1605,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1458695,
+        "id": 1458818,
         "original_language": "ru",
-        "original_title": "Черти",
+        "original_title": "Узор",
         "overview": "",
-        "popularity": 0.0368,
-        "poster_path": "/93klwlU9aP1noAVdMp8Z4ifmjHm.jpg",
+        "popularity": 0.0496,
+        "poster_path": null,
         "release_date": "2025-04-11",
-        "title": "Черти",
+        "title": "Узор",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1619,14 +1715,36 @@
         "genre_ids": [
             18
         ],
-        "id": 1458650,
+        "id": 1459089,
         "original_language": "ru",
-        "original_title": "Эне",
+        "original_title": "Смена",
         "overview": "",
-        "popularity": 0.0311,
+        "popularity": 0.0404,
         "poster_path": null,
         "release_date": "2025-04-11",
-        "title": "Эне",
+        "title": "Смена",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1459870,
+        "original_language": "ru",
+        "original_title": "Папа, я люблю тебя",
+        "overview": "",
+        "popularity": 0.0387,
+        "poster_path": null,
+        "release_date": "2025-04-11",
+        "title": "Папа, я люблю тебя",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1751,36 +1869,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1459534,
+        "id": 1458650,
         "original_language": "ru",
-        "original_title": "Пусть всегда буду я",
+        "original_title": "Эне",
         "overview": "",
-        "popularity": 0.0306,
-        "poster_path": "/3eRwhvlV4cP2megiOrO8wdxGlxq.jpg",
+        "popularity": 0.0311,
+        "poster_path": null,
         "release_date": "2025-04-11",
-        "title": "Пусть всегда буду я",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1460880,
-        "original_language": "ru",
-        "original_title": "Как в кино",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/54IzjNGmRw7CU1grGdNXp65bnuM.jpg",
-        "release_date": "2025-04-11",
-        "title": "Как в кино",
+        "title": "Эне",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2169,28 +2265,6 @@
         "genre_ids": [
             18
         ],
-        "id": 1459870,
-        "original_language": "ru",
-        "original_title": "Папа, я люблю тебя",
-        "overview": "",
-        "popularity": 0.0387,
-        "poster_path": null,
-        "release_date": "2025-04-11",
-        "title": "Папа, я люблю тебя",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
         "id": 1459037,
         "original_language": "ru",
         "original_title": "Спать хочется",
@@ -2375,28 +2449,6 @@
         "poster_path": null,
         "release_date": "2025-04-11",
         "title": "Облепиховый морс",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1459089,
-        "original_language": "ru",
-        "original_title": "Смена",
-        "overview": "",
-        "popularity": 0.0404,
-        "poster_path": null,
-        "release_date": "2025-04-11",
-        "title": "Смена",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
