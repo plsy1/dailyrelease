@@ -296,5 +296,31 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10751
+        ],
+        "id": 288972,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "Aye Dil Jee Le Zara",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-04-14",
+        "name": "Aye Dil Jee Le Zara",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭"
+        ],
+        "original_language_zh": "印地语"
     }
 ]
