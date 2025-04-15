@@ -89,8 +89,8 @@
         "poster_path": "/7K1HAVNCPig4zY7uuZ71OAMsSJT.jpg",
         "first_air_date": "2025-04-15",
         "name": "Government Cheese",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "喜剧"
@@ -148,26 +148,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 288124,
-        "origin_country": [
-            "英国"
-        ],
-        "original_language": "en",
-        "original_name": "Barristers",
-        "overview": "",
-        "popularity": 0.082,
-        "poster_path": null,
-        "first_air_date": "2025-04-15",
-        "name": "Barristers",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99,
             10759,
@@ -190,6 +170,50 @@
             "纪录",
             "动作与冒险",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 288124,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "Barristers",
+        "overview": "",
+        "popularity": 0.082,
+        "poster_path": null,
+        "first_air_date": "2025-04-15",
+        "name": "Barristers",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 289013,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "The Carters",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-04-15",
+        "name": "The Carters",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
