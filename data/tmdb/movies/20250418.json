@@ -1121,6 +1121,50 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1465837,
+        "original_language": "en",
+        "original_title": "Briefcase",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7DN8jXpi0nsaUGuFKfhhvSTW7c2.jpg",
+        "release_date": "2025-04-18",
+        "title": "Briefcase",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1465829,
+        "original_language": "en",
+        "original_title": "Drag Race",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aLn7CsFK0sYMvmkst44SoL1efqo.jpg",
+        "release_date": "2025-04-18",
+        "title": "Drag Race",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             16
         ],
@@ -1238,68 +1282,6 @@
         "genre_ids_zh": [
             "剧情",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1465344,
-        "original_language": "en",
-        "original_title": "Cycles",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/j9ehbE3E5u2iDYNgyJWK5LBnRI1.jpg",
-        "release_date": "2025-04-18",
-        "title": "Cycles",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1465311,
-        "original_language": "en",
-        "original_title": "Spider Grandmother",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/y4zbSrCmoAk4BRSoY7y0FMwTjlx.jpg",
-        "release_date": "2025-04-18",
-        "title": "Spider Grandmother",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1465306,
-        "original_language": "en",
-        "original_title": "Hidden",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/aaK55OlSVUIuARxIIf1cqlmsSbZ.jpg",
-        "release_date": "2025-04-18",
-        "title": "Hidden",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
