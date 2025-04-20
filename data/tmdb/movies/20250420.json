@@ -78,7 +78,7 @@
         "original_title": "傾斜的秤",
         "overview": "",
         "popularity": 0.0414,
-        "poster_path": null,
+        "poster_path": "/Al2ndxAv1yyWMnEVpNjG8pM5TUB.jpg",
         "release_date": "2025-04-20",
         "title": "傾斜的秤",
         "video": false,
@@ -133,28 +133,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            10751
-        ],
-        "id": 1453792,
-        "original_language": "en",
-        "original_title": "Bluey’s Big Play",
-        "overview": "",
-        "popularity": 0.4722,
-        "poster_path": "/1sZI5uVZlOs8agD6xEDcLgJAce7.jpg",
-        "release_date": "2025-04-20",
-        "title": "Bluey’s Big Play",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1454483,
@@ -170,6 +148,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10751
+        ],
+        "id": 1453792,
+        "original_language": "en",
+        "original_title": "Bluey’s Big Play",
+        "overview": "",
+        "popularity": 0.4722,
+        "poster_path": "/1sZI5uVZlOs8agD6xEDcLgJAce7.jpg",
+        "release_date": "2025-04-20",
+        "title": "Bluey’s Big Play",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭"
         ],
         "original_language_zh": "英语"
     },
@@ -921,6 +921,46 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1467651,
+        "original_language": "en",
+        "original_title": "Kartoon Channel Gaming Challenge UK",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aAqJlB959LJJMzhv6jGicx9fUL8.jpg",
+        "release_date": "2025-04-20",
+        "title": "Kartoon Channel Gaming Challenge UK",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vgEjSsH4e8qZtWjkzJqpgXSlKbc.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1467621,
+        "original_language": "en",
+        "original_title": "Last Minute",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/r8zBdNjn6SM6hS5fQLq6HhFWfZH.jpg",
+        "release_date": "2025-04-20",
+        "title": "Last Minute",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1467161,
         "original_language": "en",
         "original_title": "RevPro High Stakes 2025",
@@ -1093,7 +1133,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/a1tMeC4uVmq0v9yEw7ZkyyZCgRo.jpg",
         "genre_ids": [
             18
         ],
@@ -1102,12 +1142,12 @@
         "original_title": "Путешествие на солнце и обратно",
         "overview": "",
         "popularity": 0.3554,
-        "poster_path": null,
+        "poster_path": "/bRkjZVjAEnIRhL1UmdfsuRcJilk.jpg",
         "release_date": "2025-04-20",
         "title": "Путешествие на солнце и обратно",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
         ],
@@ -1360,6 +1400,24 @@
             "纪录"
         ],
         "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1467702,
+        "original_language": "nl",
+        "original_title": "Hou Je Nog Steeds Van Mij?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/svw4j2cjCMswF7LTEi13LRrypnr.jpg",
+        "release_date": "2025-04-20",
+        "title": "Hou Je Nog Steeds Van Mij?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
     },
     {
         "adult": false,
