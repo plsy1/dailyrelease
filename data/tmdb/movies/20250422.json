@@ -23,6 +23,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1468642,
+        "original_language": "zh",
+        "original_title": "愤怒的耗牛",
+        "overview": "公路喜剧电影《愤怒的牦牛》讲述了以自我为中心的娱乐主持人何一在一次访谈节目中出现失误，因此事业生涯断送，并且背负上巨额债务，感情事业此时遭遇双重危机，为了拿到钱还债，何一只能硬着头皮帮朋友的火锅店从拉萨运牦牛，但因为托运手续出现问题，何一只能连哄带骗的让牦牛主人郝凡陪自己自驾将牦牛带回重庆，本应该是一场简单的运输，途中却频频遭遇意外，两人在川藏之路上演另类无厘头喜剧。",
+        "popularity": 0.0,
+        "poster_path": "/vuzI050a6vjKz7bn8CGEHjcpnmj.jpg",
+        "release_date": "2025-04-22",
+        "title": "愤怒的耗牛",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
         "genre_ids": [
             12,
@@ -49,21 +73,21 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rG6R8plyEnq8u16oRxMde034Pat.jpg",
+        "backdrop_path": "/8gu4tKzGjFOgNRVe6BalwF8jrDW.jpg",
         "genre_ids": [
             99
         ],
         "id": 1452827,
         "original_language": "en",
         "original_title": "Sea Lions of the Galapagos",
-        "overview": "",
+        "overview": "　　远赴南太平洋加拉帕戈斯群岛，带你见证海狮宝宝Leo成长过程。从游水、捕鱼到寻找自己的新地盘，还要应对其他动物的威胁。",
         "popularity": 0.7942,
-        "poster_path": "/ldEM5gpHMZN8yfjTOWEVzalMQCJ.jpg",
+        "poster_path": "/mvL8P5lTIlrNdi20xQKZgez1NAP.jpg",
         "release_date": "2025-04-22",
-        "title": "Sea Lions of the Galapagos",
+        "title": "海狮利奥环岛记",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
@@ -106,28 +130,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2hi2bArDuyOL461CLA2oL010YeA.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1452829,
-        "original_language": "en",
-        "original_title": "Guardians of the Galapagos",
-        "overview": "",
-        "popularity": 0.4268,
-        "poster_path": null,
-        "release_date": "2025-04-22",
-        "title": "Guardians of the Galapagos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -410,25 +412,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10751
-        ],
-        "id": 1468317,
+        "genre_ids": [],
+        "id": 1468685,
         "original_language": "en",
-        "original_title": "Sulyap sa Pahina",
+        "original_title": "The Simpsons: Yellow Planet",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/5TjugJghYwh3ALb7FWMrX7RwMzc.jpg",
+        "popularity": 0.0,
+        "poster_path": "/4sWvxSA5W9Ld9yAhgBr51X0rOcY.jpg",
         "release_date": "2025-04-22",
-        "title": "Sulyap sa Pahina",
+        "title": "The Simpsons: Yellow Planet",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "家庭"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
