@@ -61,6 +61,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mb4faeVhHm5Rxhb64YHZ8obSuip.jpg",
+        "genre_ids": [
+            10764
+        ],
+        "id": 287366,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Battle Camp",
+        "overview": "在这档冒险刺激的比赛节目中，Netflix 真人秀明星不仅要在惊险的体能挑战中一决胜负，还要想方设法免遭淘汰，以赢取 25 万美元大奖。",
+        "popularity": 1.1828,
+        "poster_path": "/iSnoWD68sbcGWIqq75LaZ6WMM2M.jpg",
+        "first_air_date": "2025-04-23",
+        "name": "超激战斗营",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eDB1CCNcxnFANadgiWyFlzaqvK6.jpg",
         "genre_ids": [
             80,
@@ -89,30 +113,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mb4faeVhHm5Rxhb64YHZ8obSuip.jpg",
-        "genre_ids": [
-            10764
-        ],
-        "id": 287366,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Battle Camp",
-        "overview": "",
-        "popularity": 1.1828,
-        "poster_path": "/iSnoWD68sbcGWIqq75LaZ6WMM2M.jpg",
-        "first_air_date": "2025-04-23",
-        "name": "Battle Camp",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "真人秀"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -134,30 +134,6 @@
             "纪录"
         ],
         "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rsG1DJoWbR1E8O2CnGYPPgfO7cu.jpg",
-        "genre_ids": [
-            80
-        ],
-        "id": 289656,
-        "origin_country": [
-            "印度"
-        ],
-        "original_language": "hi",
-        "original_name": "Kodai Diaries",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/sG90D0atz26PcWVFcUYSbL2mUtu.jpg",
-        "first_air_date": "2025-04-23",
-        "name": "Kodai Diaries",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪"
-        ],
-        "original_language_zh": "印地语"
     },
     {
         "adult": false,
@@ -300,6 +276,30 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rsG1DJoWbR1E8O2CnGYPPgfO7cu.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 289656,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "Kodai Diaries",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/sG90D0atz26PcWVFcUYSbL2mUtu.jpg",
+        "first_air_date": "2025-04-23",
+        "name": "Kodai Diaries",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪"
+        ],
+        "original_language_zh": "印地语"
     },
     {
         "adult": false,
