@@ -401,6 +401,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/wcnniPi6vllpUsPk964tAt4viGy.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 1450555,
+        "original_language": "en",
+        "original_title": "Meta Take One",
+        "overview": "",
+        "popularity": 0.2032,
+        "poster_path": "/jCApWxr6xF2ZAMNF39JRfXmkeI1.jpg",
+        "release_date": "2025-04-25",
+        "title": "Meta Take One",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "犯罪",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/1l2lBECbg6S6CVgjDTU5z8vWDJg.jpg",
         "genre_ids": [
             878,
@@ -1017,6 +1043,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1468572,
+        "original_language": "en",
+        "original_title": "A Promise Written in Blood",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/sfE4Lc2L6kZt4Jiudc9XaO7fZRv.jpg",
+        "release_date": "2025-04-25",
+        "title": "A Promise Written in Blood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3ikz6kPY7QVHZCR2k2jeSJTMXKO.jpg",
         "genre_ids": [],
         "id": 1468516,
@@ -1035,23 +1083,55 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/1p7ruLNODkSETrvxz6MPYuYpIHW.jpg",
         "genre_ids": [
-            18
+            28,
+            18,
+            37,
+            9648,
+            53
         ],
-        "id": 1468572,
+        "id": 1469873,
         "original_language": "en",
-        "original_title": "A Promise Written in Blood",
+        "original_title": "Blackboots",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/sfE4Lc2L6kZt4Jiudc9XaO7fZRv.jpg",
+        "popularity": 0.0,
+        "poster_path": "/95fPqA8FwDroZ4jHGZiv86rZrKH.jpg",
         "release_date": "2025-04-25",
-        "title": "A Promise Written in Blood",
+        "title": "Blackboots",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "动作",
+            "剧情",
+            "西部",
+            "悬疑",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r5onLO9H4r8PflPCJYY3w18vHw6.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1469735,
+        "original_language": "en",
+        "original_title": "Hold Me, Softly",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wESLzzeXIigI4sHgFim7WfDNb3w.jpg",
+        "release_date": "2025-04-25",
+        "title": "Hold Me, Softly",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1587,6 +1667,24 @@
             "剧情",
             "爱情"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i8vwFMJhCsO8Tqpnaw7IqW8G2vd.jpg",
+        "genre_ids": [],
+        "id": 1385918,
+        "original_language": "es",
+        "original_title": "El tiempo de la espuma",
+        "overview": "",
+        "popularity": 0.2733,
+        "poster_path": "/m8mw9hsJQhqcN2I5ppONKHGJp5V.jpg",
+        "release_date": "2025-04-25",
+        "title": "El tiempo de la espuma",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
