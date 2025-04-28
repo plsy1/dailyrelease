@@ -1,6 +1,56 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/9NpZnEeOojaiGH51V7pwlRsjOcv.jpg",
+        "genre_ids": [
+            53,
+            18,
+            14,
+            9648
+        ],
+        "id": 1152534,
+        "original_language": "en",
+        "original_title": "Purgatory Jack",
+        "overview": "",
+        "popularity": 8.6328,
+        "poster_path": "/wwGC2JxgIqT7DJfBOX0sT5QLKtl.jpg",
+        "release_date": "2025-04-28",
+        "title": "Purgatory Jack",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情",
+            "奇幻",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1453967,
+        "original_language": "en",
+        "original_title": "Shamed",
+        "overview": "",
+        "popularity": 0.3333,
+        "poster_path": null,
+        "release_date": "2025-04-28",
+        "title": "Shamed",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -9,7 +59,7 @@
         "original_language": "en",
         "original_title": "The Film Festival",
         "overview": "",
-        "popularity": 0.4879,
+        "popularity": 0.4736,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "The Film Festival",
@@ -31,7 +81,7 @@
         "original_language": "en",
         "original_title": "Bikini Nuns",
         "overview": "",
-        "popularity": 0.4231,
+        "popularity": 0.5093,
         "poster_path": "/fP3vvRzkGp22ipsrlDD3IpfgTgR.jpg",
         "release_date": "2025-04-28",
         "title": "Bikini Nuns",
@@ -41,6 +91,48 @@
         "genre_ids_zh": [
             "犯罪"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1468706,
+        "original_language": "en",
+        "original_title": "Project MKHEXE",
+        "overview": "",
+        "popularity": 0.3909,
+        "poster_path": "/6J009JU81D2QbTgCRZ8MQrRXpeL.jpg",
+        "release_date": "2025-04-28",
+        "title": "Project MKHEXE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1470234,
+        "original_language": "en",
+        "original_title": "Meat Police",
+        "overview": "",
+        "popularity": 0.2596,
+        "poster_path": "/qcN9ZQTomdRc0OEqKBHEulitOtd.jpg",
+        "release_date": "2025-04-28",
+        "title": "Meat Police",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -56,7 +148,7 @@
         "original_language": "en",
         "original_title": "Stitched",
         "overview": "",
-        "popularity": 0.279,
+        "popularity": 0.3063,
         "poster_path": "/zJQgL6Vz6JsphE9QglWriCMltPt.jpg",
         "release_date": "2025-04-28",
         "title": "Stitched",
@@ -74,58 +166,12 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1468706,
-        "original_language": "en",
-        "original_title": "Project MKHEXE",
-        "overview": "",
-        "popularity": 0.4158,
-        "poster_path": "/6J009JU81D2QbTgCRZ8MQrRXpeL.jpg",
-        "release_date": "2025-04-28",
-        "title": "Project MKHEXE",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1453967,
-        "original_language": "en",
-        "original_title": "Shamed",
-        "overview": "",
-        "popularity": 0.6469,
-        "poster_path": null,
-        "release_date": "2025-04-28",
-        "title": "Shamed",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1463606,
         "original_language": "en",
         "original_title": "One Minute Remaining",
         "overview": "",
-        "popularity": 0.2153,
+        "popularity": 0.243,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "One Minute Remaining",
@@ -143,7 +189,7 @@
         "original_language": "en",
         "original_title": "Crown of Shadows",
         "overview": "",
-        "popularity": 0.1489,
+        "popularity": 0.2114,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "Crown of Shadows",
@@ -163,7 +209,7 @@
         "original_language": "en",
         "original_title": "P Diddy: The Rise and Fall",
         "overview": "",
-        "popularity": 0.1393,
+        "popularity": 0.2149,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "P Diddy: The Rise and Fall",
@@ -177,24 +223,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1470234,
-        "original_language": "en",
-        "original_title": "Meat Police",
-        "overview": "",
-        "popularity": 0.325,
-        "poster_path": "/qcN9ZQTomdRc0OEqKBHEulitOtd.jpg",
-        "release_date": "2025-04-28",
-        "title": "Meat Police",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1Ey9ZlJoZsDG302uqP7QM1TUk9E.jpg",
         "genre_ids": [
             35,
@@ -204,7 +232,7 @@
         "original_language": "en",
         "original_title": "Origami Club",
         "overview": "",
-        "popularity": 0.1075,
+        "popularity": 0.1289,
         "poster_path": "/wWYhBbHPFOI6Q8TU8Vq6LD5qtd7.jpg",
         "release_date": "2025-04-28",
         "title": "Origami Club",
@@ -244,24 +272,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1465621,
-        "original_language": "en",
-        "original_title": "Ideal Failure",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-04-28",
-        "title": "Ideal Failure",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             27,
             18,
@@ -271,7 +281,7 @@
         "original_language": "en",
         "original_title": "Parasocial",
         "overview": "",
-        "popularity": 0.0387,
+        "popularity": 0.0363,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "Parasocial",
@@ -282,46 +292,6 @@
             "恐怖",
             "剧情",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1470798,
-        "original_language": "en",
-        "original_title": "In Love with Another",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/O1he1RtdghMow6M5VcJluCGLVk.jpg",
-        "release_date": "2025-04-28",
-        "title": "In Love with Another",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1471205,
-        "original_language": "en",
-        "original_title": "Fade to Ben or The Final Film Club",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-04-28",
-        "title": "Fade to Ben or The Final Film Club",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -349,6 +319,126 @@
             "喜剧",
             "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1465621,
+        "original_language": "en",
+        "original_title": "Ideal Failure",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-04-28",
+        "title": "Ideal Failure",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1471205,
+        "original_language": "en",
+        "original_title": "Fade to Ben or The Final Film Club",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/rvYSNBaZaAKMPtixEj1EAZ15Vhd.jpg",
+        "release_date": "2025-04-28",
+        "title": "Fade to Ben or The Final Film Club",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1470798,
+        "original_language": "en",
+        "original_title": "In Love with Another",
+        "overview": "",
+        "popularity": 0.0806,
+        "poster_path": "/O1he1RtdghMow6M5VcJluCGLVk.jpg",
+        "release_date": "2025-04-28",
+        "title": "In Love with Another",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            35,
+            18
+        ],
+        "id": 1471993,
+        "original_language": "en",
+        "original_title": "Uncovering Masques",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-04-28",
+        "title": "Uncovering Masques",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1471874,
+        "original_language": "en",
+        "original_title": "Imagination",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/aaWe7mJ3IKnxY8OG4GBW05PIciF.jpg",
+        "release_date": "2025-04-28",
+        "title": "Imagination",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1471707,
+        "original_language": "en",
+        "original_title": "Creepy Nuts Live at TOKYO DOME",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": null,
+        "release_date": "2025-04-28",
+        "title": "Creepy Nuts Live at TOKYO DOME",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -470,7 +560,7 @@
         "original_language": "es",
         "original_title": "Islandia",
         "overview": "",
-        "popularity": 0.2777,
+        "popularity": 0.378,
         "poster_path": "/4okanERgWaxZDBkWRsbS152yl4U.jpg",
         "release_date": "2025-04-28",
         "title": "Islandia",
@@ -491,7 +581,7 @@
         "original_language": "es",
         "original_title": "La Mayordomia",
         "overview": "",
-        "popularity": 0.0777,
+        "popularity": 0.0667,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "La Mayordomia",
@@ -533,7 +623,7 @@
         "original_language": "es",
         "original_title": "Buenas noches, mamá",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0714,
         "poster_path": "/mvlrlmbavIfSdJ4tDg3v7VE9U2s.jpg",
         "release_date": "2025-04-28",
         "title": "Buenas noches, mamá",
@@ -557,7 +647,7 @@
         "original_language": "pt",
         "original_title": "Coisa de Novela",
         "overview": "",
-        "popularity": 0.9987,
+        "popularity": 0.8732,
         "poster_path": "/5hgQfncHgkqY87dg8II6sLAQFhX.jpg",
         "release_date": "2025-04-28",
         "title": "Coisa de Novela",
@@ -582,7 +672,7 @@
         "original_language": "pt",
         "original_title": "Show 60 Anos",
         "overview": "",
-        "popularity": 0.5216,
+        "popularity": 0.6033,
         "poster_path": null,
         "release_date": "2025-04-28",
         "title": "Show 60 Anos",
@@ -603,7 +693,7 @@
         "original_language": "pt",
         "original_title": "Santo Graal",
         "overview": "",
-        "popularity": 0.0627,
+        "popularity": 0.0506,
         "poster_path": "/mJknZ2ym1Y4w05CJ6yDk4fraTlh.jpg",
         "release_date": "2025-04-28",
         "title": "Santo Graal",
