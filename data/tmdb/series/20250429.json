@@ -186,7 +186,10 @@
     {
         "adult": false,
         "backdrop_path": "/q6kbYExT7jvVfh1B7r4H9R2fz8T.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            35,
+            10764
+        ],
         "id": 289361,
         "origin_country": [
             "瑞典"
@@ -200,7 +203,10 @@
         "name": "Mauri och Morberg - på en liten resa",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧",
+            "真人秀"
+        ],
         "original_language_zh": "瑞典语"
     }
 ]
