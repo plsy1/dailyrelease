@@ -23,7 +23,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4Q5MsyODWIMiIPQbVdXQuUt9y1U.jpg",
+        "backdrop_path": "/vgfoc68kjAk5Nkkgp41BNV1GNKb.jpg",
         "genre_ids": [
             16,
             14,
@@ -32,12 +32,12 @@
         ],
         "id": 1431009,
         "original_language": "zh",
-        "original_title": "神印王座剧场版 伊莱克斯传奇",
-        "overview": "伊莱克斯的传奇史诗，重现伟大的死灵圣法神·亡灵天灾伊莱克斯的荣光之路。",
+        "original_title": "神印王座剧场版：伊莱克斯传奇",
+        "overview": "六千年前的圣魔大陆上，人类繁盛，天才纵横，整个大陆上唯有三大帝国与辉煌教廷相互制衡，然而在这样一个全盛的时代，阴谋与欲望也悄然滋生，逐渐侵蚀着整个世界。在帝国利益与教廷算计下，光明之子伊莱克斯从光明信仰中走出，化身亡灵天灾，凭借一己之力，对世界，对人类发动了一场毁天灭地的复仇。",
         "popularity": 0.7304,
-        "poster_path": "/jKNwvLhOiWUsq5LCeSTiEco9Srl.jpg",
+        "poster_path": "/aTIdqfXjVbJ7b4o1Y34Yg1BVuKE.jpg",
         "release_date": "2025-04-30",
-        "title": "神印王座剧场版 伊莱克斯传奇",
+        "title": "神印王座剧场版：伊莱克斯传奇",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -132,8 +132,8 @@
         "release_date": "2025-04-30",
         "title": "雷霆特攻队*",
         "video": false,
-        "vote_average": 7.7,
-        "vote_count": 13,
+        "vote_average": 7.647,
+        "vote_count": 17,
         "genre_ids_zh": [
             "动作",
             "冒险",
@@ -613,6 +613,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            27,
+            99
+        ],
+        "id": 1471481,
+        "original_language": "en",
+        "original_title": "Ghost Odyssey",
+        "overview": "",
+        "popularity": 0.1441,
+        "poster_path": "/vaYYHUhzv6cvhMQSlSoFkf3twbk.jpg",
+        "release_date": "2025-04-30",
+        "title": "Ghost Odyssey",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1455317,
@@ -790,32 +816,6 @@
         "genre_ids_zh": [
             "犯罪",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            27,
-            99
-        ],
-        "id": 1471481,
-        "original_language": "en",
-        "original_title": "Ghost Odyssey",
-        "overview": "",
-        "popularity": 0.1441,
-        "poster_path": "/vaYYHUhzv6cvhMQSlSoFkf3twbk.jpg",
-        "release_date": "2025-04-30",
-        "title": "Ghost Odyssey",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "恐怖",
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -1796,6 +1796,30 @@
         "genre_ids_zh": [
             "惊悚",
             "恐怖"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            16
+        ],
+        "id": 1473089,
+        "original_language": "hi",
+        "original_title": "Khana aur Sangeet",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vYO7YMDPvP0HR5ARmQVctqMk56H.jpg",
+        "release_date": "2025-04-30",
+        "title": "Khana aur Sangeet",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "动画"
         ],
         "original_language_zh": "印地语"
     }
