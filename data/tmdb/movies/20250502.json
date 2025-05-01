@@ -987,6 +987,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1468298,
+        "original_language": "en",
+        "original_title": "I Can Be Killed",
+        "overview": "",
+        "popularity": 0.1015,
+        "poster_path": "/ea2xxyCPWKZjpk8Gbk2SfL9pTLt.jpg",
+        "release_date": "2025-05-02",
+        "title": "I Can Be Killed",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             35,
             27
@@ -1399,24 +1421,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/cjsX8wKqqmiSDHyB65Jw4rlMY51.jpg",
-        "genre_ids": [],
-        "id": 1465821,
-        "original_language": "en",
-        "original_title": "Leaving Channel 2",
-        "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/pccaZxrweRbPdL0ydpHfiUPsaGl.jpg",
-        "release_date": "2025-05-02",
-        "title": "Leaving Channel 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -1730,7 +1734,7 @@
         "original_title": "무색무취",
         "overview": "",
         "popularity": 0.6128,
-        "poster_path": null,
+        "poster_path": "/d4scvtVWrTeUwfmMAKpN446B0MG.jpg",
         "release_date": "2025-05-02",
         "title": "무색무취",
         "video": false,
@@ -1752,7 +1756,7 @@
         "original_title": "빈집의 연인들",
         "overview": "",
         "popularity": 0.2424,
-        "poster_path": null,
+        "poster_path": "/7QeOj2OBaUWvSs27g0NaIlBGgGG.jpg",
         "release_date": "2025-05-02",
         "title": "빈집의 연인들",
         "video": false,
@@ -1775,7 +1779,7 @@
         "original_title": "저 구석 자리로 주세요",
         "overview": "",
         "popularity": 0.2301,
-        "poster_path": null,
+        "poster_path": "/mCEfaqvlabLq2lRC7lbLJatndWP.jpg",
         "release_date": "2025-05-02",
         "title": "저 구석 자리로 주세요",
         "video": false,
@@ -1798,7 +1802,7 @@
         "original_title": "캐리어를 끄는 소녀",
         "overview": "",
         "popularity": 0.3267,
-        "poster_path": null,
+        "poster_path": "/hpO8TY2ZOfNUEbqFArrq3uFSVo7.jpg",
         "release_date": "2025-05-02",
         "title": "캐리어를 끄는 소녀",
         "video": false,
@@ -1837,28 +1841,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/v2Y0r0HeIYwubUvDBu7wecmRRCb.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1454818,
-        "original_language": "ko",
-        "original_title": "기억 샤워 바다",
-        "overview": "",
-        "popularity": 0.159,
-        "poster_path": null,
-        "release_date": "2025-05-02",
-        "title": "기억 샤워 바다",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/10uJUMuuxMzIMpwDvRR88Wjdw7u.jpg",
         "genre_ids": [
             18
@@ -1868,7 +1850,7 @@
         "original_title": "삼희: The Adventure of 3 Joys",
         "overview": "",
         "popularity": 0.1725,
-        "poster_path": null,
+        "poster_path": "/e79fJLEi88ZGxZxff3cjaV6EnCc.jpg",
         "release_date": "2025-05-02",
         "title": "삼희: The Adventure of 3 Joys",
         "video": false,
@@ -1876,6 +1858,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v2Y0r0HeIYwubUvDBu7wecmRRCb.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1454818,
+        "original_language": "ko",
+        "original_title": "기억 샤워 바다",
+        "overview": "",
+        "popularity": 0.159,
+        "poster_path": "/ghDlGEXFpCNV1CaMctrSYfA55iw.jpg",
+        "release_date": "2025-05-02",
+        "title": "기억 샤워 바다",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "韩语"
     },
@@ -1890,7 +1894,7 @@
         "original_title": "97 혜자, 표류기",
         "overview": "",
         "popularity": 0.0898,
-        "poster_path": null,
+        "poster_path": "/uxv8pj9e0mYtj8bD9abItAFseXQ.jpg",
         "release_date": "2025-05-02",
         "title": "97 혜자, 표류기",
         "video": false,
@@ -1912,7 +1916,7 @@
         "original_title": "이방인의 텃밭",
         "overview": "",
         "popularity": 0.084,
-        "poster_path": null,
+        "poster_path": "/A6o8HtomVOxmvSIocbCUAxmII6E.jpg",
         "release_date": "2025-05-02",
         "title": "이방인의 텃밭",
         "video": false,
