@@ -23,28 +23,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xJWTmMjOLqbHjNhn81qMaeegAb3.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1383099,
-        "original_language": "zh",
-        "original_title": "我的媽媽是網友",
-        "overview": "",
-        "popularity": 0.2678,
-        "poster_path": "/huEQfwWt2pysA4oFTXaeItN6ym8.jpg",
-        "release_date": "2025-05-03",
-        "title": "我的媽媽是網友",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/t0K2ySBRHqndcMt2VJGEFzhyHFy.jpg",
         "genre_ids": [
             10402
@@ -62,6 +40,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xJWTmMjOLqbHjNhn81qMaeegAb3.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1383099,
+        "original_language": "zh",
+        "original_title": "我的媽媽是網友",
+        "overview": "",
+        "popularity": 0.2678,
+        "poster_path": "/huEQfwWt2pysA4oFTXaeItN6ym8.jpg",
+        "release_date": "2025-05-03",
+        "title": "我的媽媽是網友",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -187,28 +187,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rH2MD2dKpCfFhVpm74pmiLsDgoR.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1465783,
-        "original_language": "zh",
-        "original_title": "那些閃閃發亮的東西",
-        "overview": "",
-        "popularity": 0.0434,
-        "poster_path": "/Ar4EwfcZEGCxnSS0qwrHneP2aZZ.jpg",
-        "release_date": "2025-05-03",
-        "title": "那些閃閃發亮的東西",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/gdFKbRJDL7kbOCzMi2uqQfm7AWG.jpg",
         "genre_ids": [
             16
@@ -221,6 +199,28 @@
         "poster_path": null,
         "release_date": "2025-05-03",
         "title": "Requiem for the Dream",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rH2MD2dKpCfFhVpm74pmiLsDgoR.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1465783,
+        "original_language": "zh",
+        "original_title": "那些閃閃發亮的東西",
+        "overview": "",
+        "popularity": 0.0434,
+        "poster_path": "/Ar4EwfcZEGCxnSS0qwrHneP2aZZ.jpg",
+        "release_date": "2025-05-03",
+        "title": "那些閃閃發亮的東西",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -752,6 +752,72 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1456864,
+        "original_language": "en",
+        "original_title": "My Freshman Son",
+        "overview": "",
+        "popularity": 0.0797,
+        "poster_path": "/A1sKr5d6qxttK535DHZa3XmAykJ.jpg",
+        "release_date": "2025-05-03",
+        "title": "My Freshman Son",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/id1kNkWUfW6sLfdwqQ0LuzVA8TZ.jpg",
+        "genre_ids": [
+            878
+        ],
+        "id": 1463806,
+        "original_language": "en",
+        "original_title": "Mishaps in Spacetime",
+        "overview": "",
+        "popularity": 0.0771,
+        "poster_path": "/8ji59cn6rq0T1oih7oZRoI6LEou.jpg",
+        "release_date": "2025-05-03",
+        "title": "Mishaps in Spacetime",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1456875,
+        "original_language": "en",
+        "original_title": "The Director Movie",
+        "overview": "",
+        "popularity": 0.0739,
+        "poster_path": "/pJ1Qc3kgQci6cxicwmVI87SGUT1.jpg",
+        "release_date": "2025-05-03",
+        "title": "The Director Movie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1451980,
         "original_language": "en",
@@ -787,23 +853,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/id1kNkWUfW6sLfdwqQ0LuzVA8TZ.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            878
+            35
         ],
-        "id": 1463806,
+        "id": 1285713,
         "original_language": "en",
-        "original_title": "Mishaps in Spacetime",
+        "original_title": "Piggy",
         "overview": "",
-        "popularity": 0.0771,
-        "poster_path": "/8ji59cn6rq0T1oih7oZRoI6LEou.jpg",
+        "popularity": 0.0614,
+        "poster_path": "/ndOX6hfkSckKtFJGrOq9jmnGSFz.jpg",
         "release_date": "2025-05-03",
-        "title": "Mishaps in Spacetime",
+        "title": "Piggy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "科幻"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -833,106 +899,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1456864,
-        "original_language": "en",
-        "original_title": "My Freshman Son",
-        "overview": "",
-        "popularity": 0.0797,
-        "poster_path": "/A1sKr5d6qxttK535DHZa3XmAykJ.jpg",
-        "release_date": "2025-05-03",
-        "title": "My Freshman Son",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1285713,
-        "original_language": "en",
-        "original_title": "Piggy",
-        "overview": "",
-        "popularity": 0.0614,
-        "poster_path": "/ndOX6hfkSckKtFJGrOq9jmnGSFz.jpg",
-        "release_date": "2025-05-03",
-        "title": "Piggy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/iMBdeuUXSzZ0UGviQZonbsJH7rn.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1473113,
-        "original_language": "en",
-        "original_title": "So Yeah, Call Me Back",
-        "overview": "",
-        "popularity": 0.0343,
-        "poster_path": "/ed99r8N4OAFiFeNPrKmHrSx0mOt.jpg",
-        "release_date": "2025-05-03",
-        "title": "So Yeah, Call Me Back",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1456875,
-        "original_language": "en",
-        "original_title": "The Director Movie",
-        "overview": "",
-        "popularity": 0.0739,
-        "poster_path": "/pJ1Qc3kgQci6cxicwmVI87SGUT1.jpg",
-        "release_date": "2025-05-03",
-        "title": "The Director Movie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/ycvfu4A2Xl4ZFzjcOSk80cWigYj.jpg",
         "genre_ids": [],
-        "id": 1463571,
+        "id": 1472567,
         "original_language": "en",
-        "original_title": "We Cool?",
+        "original_title": "1-800-ALL-GOOD",
         "overview": "",
-        "popularity": 0.0256,
-        "poster_path": "/4I3oJiFOcnDYFhWyZFQh306rx1H.jpg",
+        "popularity": 0.0546,
+        "poster_path": "/eT99QpmhWk1pkO2a8pP9BZ9vaIU.jpg",
         "release_date": "2025-05-03",
-        "title": "We Cool?",
+        "title": "1-800-ALL-GOOD",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -963,16 +939,40 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ycvfu4A2Xl4ZFzjcOSk80cWigYj.jpg",
-        "genre_ids": [],
-        "id": 1472567,
+        "backdrop_path": "/iMBdeuUXSzZ0UGviQZonbsJH7rn.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1473113,
         "original_language": "en",
-        "original_title": "1-800-ALL-GOOD",
+        "original_title": "So Yeah, Call Me Back",
         "overview": "",
-        "popularity": 0.0546,
-        "poster_path": "/eT99QpmhWk1pkO2a8pP9BZ9vaIU.jpg",
+        "popularity": 0.0343,
+        "poster_path": "/ed99r8N4OAFiFeNPrKmHrSx0mOt.jpg",
         "release_date": "2025-05-03",
-        "title": "1-800-ALL-GOOD",
+        "title": "So Yeah, Call Me Back",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1463571,
+        "original_language": "en",
+        "original_title": "We Cool?",
+        "overview": "",
+        "popularity": 0.0256,
+        "poster_path": "/4I3oJiFOcnDYFhWyZFQh306rx1H.jpg",
+        "release_date": "2025-05-03",
+        "title": "We Cool?",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1016,6 +1016,46 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1474333,
+        "original_language": "en",
+        "original_title": "Rock Immortal",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9TYQ4jzgOgC2LEVJlgQchflSKdi.jpg",
+        "release_date": "2025-05-03",
+        "title": "Rock Immortal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aUM2OZnAuqM8XoXxFoHU8Lstttj.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1474278,
+        "original_language": "en",
+        "original_title": "Drops on Paper",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4F4uQTUBLDg06KyHkkCsZbhHHU6.jpg",
+        "release_date": "2025-05-03",
+        "title": "Drops on Paper",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1101,20 +1141,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/biW1dXwCDNxlRzGB553c593KGEm.jpg",
-        "genre_ids": [],
-        "id": 1458033,
+        "backdrop_path": "/cYPntNEDjVLIgTqmtJiz7uiNjiA.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1454821,
         "original_language": "ko",
-        "original_title": "광합 파트1",
+        "original_title": "시련과 입문",
         "overview": "",
-        "popularity": 0.2252,
-        "poster_path": null,
+        "popularity": 0.3615,
+        "poster_path": "/3IavzFariMsFZ4zW5HmycVogAoS.jpg",
         "release_date": "2025-05-03",
-        "title": "광합 파트1",
+        "title": "시련과 입문",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "韩语"
     },
     {
@@ -1129,6 +1173,42 @@
         "poster_path": null,
         "release_date": "2025-05-03",
         "title": "정거장",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cfvyhw5zguprnBL2ZQ66u5bjGy7.jpg",
+        "genre_ids": [],
+        "id": 1447776,
+        "original_language": "ko",
+        "original_title": "흠집이 이어진 사이",
+        "overview": "",
+        "popularity": 0.2378,
+        "poster_path": "/hFdcaHHnzecOhVXe5VK3Yl0051w.jpg",
+        "release_date": "2025-05-03",
+        "title": "흠집이 이어진 사이",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/biW1dXwCDNxlRzGB553c593KGEm.jpg",
+        "genre_ids": [],
+        "id": 1458033,
+        "original_language": "ko",
+        "original_title": "광합 파트1",
+        "overview": "",
+        "popularity": 0.2252,
+        "poster_path": null,
+        "release_date": "2025-05-03",
+        "title": "광합 파트1",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1181,64 +1261,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/cYPntNEDjVLIgTqmtJiz7uiNjiA.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1454821,
-        "original_language": "ko",
-        "original_title": "시련과 입문",
-        "overview": "",
-        "popularity": 0.3615,
-        "poster_path": "/3IavzFariMsFZ4zW5HmycVogAoS.jpg",
-        "release_date": "2025-05-03",
-        "title": "시련과 입문",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/o0ilUtkH8PJYEANbVJw1gXOIwJb.jpg",
-        "genre_ids": [],
-        "id": 1447759,
-        "original_language": "ko",
-        "original_title": "소양강 소녀",
-        "overview": "",
-        "popularity": 0.1468,
-        "poster_path": "/TWz2qaTbhLUQ4m7kU218nZRIof.jpg",
-        "release_date": "2025-05-03",
-        "title": "소양강 소녀",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/aXLj4dAgCjkli7tiNlc0DF9Gx8n.jpg",
-        "genre_ids": [],
-        "id": 1447760,
-        "original_language": "ko",
-        "original_title": "숨소리와 속삭임",
-        "overview": "",
-        "popularity": 0.1522,
-        "poster_path": "/oyEvAi8BB73Qv6ie55srkQD46Ru.jpg",
-        "release_date": "2025-05-03",
-        "title": "숨소리와 속삭임",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1wpnrMChJt4K9LOi51LCIELMX2T.jpg",
         "genre_ids": [
             16
@@ -1261,6 +1283,42 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/aXLj4dAgCjkli7tiNlc0DF9Gx8n.jpg",
+        "genre_ids": [],
+        "id": 1447760,
+        "original_language": "ko",
+        "original_title": "숨소리와 속삭임",
+        "overview": "",
+        "popularity": 0.1522,
+        "poster_path": "/oyEvAi8BB73Qv6ie55srkQD46Ru.jpg",
+        "release_date": "2025-05-03",
+        "title": "숨소리와 속삭임",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o0ilUtkH8PJYEANbVJw1gXOIwJb.jpg",
+        "genre_ids": [],
+        "id": 1447759,
+        "original_language": "ko",
+        "original_title": "소양강 소녀",
+        "overview": "",
+        "popularity": 0.1468,
+        "poster_path": "/TWz2qaTbhLUQ4m7kU218nZRIof.jpg",
+        "release_date": "2025-05-03",
+        "title": "소양강 소녀",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/i8LdhJ0XXOYnb5wdIsOR9cnlOJM.jpg",
         "genre_ids": [],
         "id": 1447752,
@@ -1271,24 +1329,6 @@
         "poster_path": "/f54QPwDVGoBvfvw6tf9ZqTHeSXE.jpg",
         "release_date": "2025-05-03",
         "title": "떠나는 사람은 꽃을 산다",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rnGnNGbNcHeEhFc3sWlJSZnp88W.jpg",
-        "genre_ids": [],
-        "id": 1447751,
-        "original_language": "ko",
-        "original_title": "두 시간",
-        "overview": "",
-        "popularity": 0.0962,
-        "poster_path": "/8cDV2nLg2E6mBtAZ0g802X5pVZ2.jpg",
-        "release_date": "2025-05-03",
-        "title": "두 시간",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1315,6 +1355,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rnGnNGbNcHeEhFc3sWlJSZnp88W.jpg",
+        "genre_ids": [],
+        "id": 1447751,
+        "original_language": "ko",
+        "original_title": "두 시간",
+        "overview": "",
+        "popularity": 0.0962,
+        "poster_path": "/8cDV2nLg2E6mBtAZ0g802X5pVZ2.jpg",
+        "release_date": "2025-05-03",
+        "title": "두 시간",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mxlVAqE8MBse2MSvauy3G2mPhH2.jpg",
         "genre_ids": [],
         "id": 1447756,
@@ -1325,42 +1383,6 @@
         "poster_path": "/u5eryjxjRMKql9euwpbo9ZHnVEo.jpg",
         "release_date": "2025-05-03",
         "title": "불쑥",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cfvyhw5zguprnBL2ZQ66u5bjGy7.jpg",
-        "genre_ids": [],
-        "id": 1447776,
-        "original_language": "ko",
-        "original_title": "흠집이 이어진 사이",
-        "overview": "",
-        "popularity": 0.2378,
-        "poster_path": "/hFdcaHHnzecOhVXe5VK3Yl0051w.jpg",
-        "release_date": "2025-05-03",
-        "title": "흠집이 이어진 사이",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/dwKEgU7sNmOmoQikbkNbIqMTIuE.jpg",
-        "genre_ids": [],
-        "id": 1447758,
-        "original_language": "ko",
-        "original_title": "세개의 방향",
-        "overview": "",
-        "popularity": 0.0595,
-        "poster_path": "/eKFeBBzzVOgE3tyHRjQjUxzfmQt.jpg",
-        "release_date": "2025-05-03",
-        "title": "세개의 방향",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1383,28 +1405,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1447755,
-        "original_language": "ko",
-        "original_title": "별나라 배나무",
-        "overview": "",
-        "popularity": 0.0457,
-        "poster_path": "/xM7Xhjb133pGx0uGNbiikjOOpUL.jpg",
-        "release_date": "2025-05-03",
-        "title": "별나라 배나무",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "韩语"
     },
     {
@@ -1441,6 +1441,46 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dwKEgU7sNmOmoQikbkNbIqMTIuE.jpg",
+        "genre_ids": [],
+        "id": 1447758,
+        "original_language": "ko",
+        "original_title": "세개의 방향",
+        "overview": "",
+        "popularity": 0.0595,
+        "poster_path": "/eKFeBBzzVOgE3tyHRjQjUxzfmQt.jpg",
+        "release_date": "2025-05-03",
+        "title": "세개의 방향",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1447755,
+        "original_language": "ko",
+        "original_title": "별나라 배나무",
+        "overview": "",
+        "popularity": 0.0457,
+        "poster_path": "/xM7Xhjb133pGx0uGNbiikjOOpUL.jpg",
+        "release_date": "2025-05-03",
+        "title": "별나라 배나무",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "韩语"
     },
     {
@@ -1693,8 +1733,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/3BcFOLmbryff3vMByfquozdLSv4.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
         "id": 1473751,
         "original_language": "pt",
         "original_title": "Telefone Sem Fio",
@@ -1704,9 +1747,12 @@
         "release_date": "2025-05-03",
         "title": "Telefone Sem Fio",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
