@@ -53,8 +53,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/9IwLMVmr1fZo9LaakaktDkFmRHK.jpg",
+        "genre_ids": [
+            80
+        ],
         "id": 290374,
         "origin_country": [
             "印度"
@@ -63,12 +65,14 @@
         "original_name": "Black, White & Gray - Love Kills",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": "/wEWjbuCIg2wYddOr3CJ2rX1qWV8.jpg",
+        "poster_path": "/6PXpJDC6wRhD6H8OCGPjSLpaXoZ.jpg",
         "first_air_date": "2025-05-02",
         "name": "Black, White & Gray - Love Kills",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "犯罪"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -184,5 +188,25 @@
             "剧情"
         ],
         "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 290386,
+        "origin_country": [
+            "土耳其"
+        ],
+        "original_language": "tr",
+        "original_name": "% 2",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-05-02",
+        "name": "% 2",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "土耳其语"
     }
 ]
