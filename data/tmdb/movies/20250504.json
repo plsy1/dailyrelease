@@ -94,7 +94,7 @@
         "original_title": "風乾",
         "overview": "",
         "popularity": 0.0398,
-        "poster_path": null,
+        "poster_path": "/kBV1Lf78OZNh6lOGO5oR4Muq8pk.jpg",
         "release_date": "2025-05-04",
         "title": "風乾",
         "video": false,
@@ -114,7 +114,7 @@
         "original_title": "有空",
         "overview": "",
         "popularity": 0.0327,
-        "poster_path": null,
+        "poster_path": "/z3jaGYsKsjWzun4XeVxClG6IhZ3.jpg",
         "release_date": "2025-05-04",
         "title": "有空",
         "video": false,
@@ -642,6 +642,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            878,
+            35
+        ],
+        "id": 1457572,
+        "original_language": "en",
+        "original_title": "No Regrets",
+        "overview": "",
+        "popularity": 0.0404,
+        "poster_path": "/146akjth1AVCHp2wHl5huaVjH7K.jpg",
+        "release_date": "2025-05-04",
+        "title": "No Regrets",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1465102,
         "original_language": "en",
@@ -651,6 +675,70 @@
         "poster_path": null,
         "release_date": "2025-05-04",
         "title": "After the Rain",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yFnPamaP8SO9NEuhqGtd31Oiwot.jpg",
+        "genre_ids": [
+            53,
+            878
+        ],
+        "id": 1459529,
+        "original_language": "en",
+        "original_title": "Sentient Shadows",
+        "overview": "",
+        "popularity": 0.0297,
+        "poster_path": "/aDjbZY8VQSLRogRvk1Yg5pDKdMv.jpg",
+        "release_date": "2025-05-04",
+        "title": "Sentient Shadows",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vBV7MrT0CqzLa4KvooVjyhi3U2b.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1474242,
+        "original_language": "en",
+        "original_title": "بينهم",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/dA006Xb7XeU13XJIWLFwu2RsGcX.jpg",
+        "release_date": "2025-05-04",
+        "title": "بينهم",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1465091,
+        "original_language": "en",
+        "original_title": "Embrace Me",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-05-04",
+        "title": "Embrace Me",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -669,24 +757,6 @@
         "poster_path": null,
         "release_date": "2025-05-04",
         "title": "Doctor Time",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1465091,
-        "original_language": "en",
-        "original_title": "Embrace Me",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2025-05-04",
-        "title": "Embrace Me",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -767,6 +837,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mDxeTmLs5ek3kSXiBkmsSe8hHwJ.jpg",
+        "genre_ids": [
+            27,
+            18,
+            53
+        ],
+        "id": 1474964,
+        "original_language": "en",
+        "original_title": "Job",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4aJMF9rGahxndNxKyV9Mlb1dmwt.jpg",
+        "release_date": "2025-05-04",
+        "title": "Job",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/xJuzKobE970SIK3p8X1bzjpOs8z.jpg",
         "genre_ids": [],
         "id": 1474644,
@@ -781,28 +877,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vBV7MrT0CqzLa4KvooVjyhi3U2b.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1474242,
-        "original_language": "en",
-        "original_title": "بينهم",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/dA006Xb7XeU13XJIWLFwu2RsGcX.jpg",
-        "release_date": "2025-05-04",
-        "title": "بينهم",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -897,24 +971,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/cEp7rp0ehssLEhVLqVZM6wMnnFd.jpg",
-        "genre_ids": [],
-        "id": 1447757,
-        "original_language": "ko",
-        "original_title": "사라진 계절",
-        "overview": "",
-        "popularity": 0.0675,
-        "poster_path": "/jZlOSmEjoaWvA3Am0Z33eyWIIc0.jpg",
-        "release_date": "2025-05-04",
-        "title": "사라진 계절",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/5qpwn6CdrYGU2YNA1DbsAPPF3w.jpg",
         "genre_ids": [],
         "id": 1447767,
@@ -925,42 +981,6 @@
         "poster_path": "/a47p7NLYWPL777rtoHB9NQPFTfZ.jpg",
         "release_date": "2025-05-04",
         "title": "외출",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/k8VHcIX4PNpyAYNtdLpPdPM54DN.jpg",
-        "genre_ids": [],
-        "id": 1456019,
-        "original_language": "ko",
-        "original_title": "기사님",
-        "overview": "",
-        "popularity": 0.0695,
-        "poster_path": null,
-        "release_date": "2025-05-04",
-        "title": "기사님",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nfIh8kbSCNg8GO7Lah0Jbdazv8y.jpg",
-        "genre_ids": [],
-        "id": 1447750,
-        "original_language": "ko",
-        "original_title": "당신이 상상한 것 그 이상으로",
-        "overview": "",
-        "popularity": 0.0702,
-        "poster_path": "/gWI68r69h3hL3fHsYUE3STHDB2W.jpg",
-        "release_date": "2025-05-04",
-        "title": "당신이 상상한 것 그 이상으로",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -987,6 +1007,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/nfIh8kbSCNg8GO7Lah0Jbdazv8y.jpg",
+        "genre_ids": [],
+        "id": 1447750,
+        "original_language": "ko",
+        "original_title": "당신이 상상한 것 그 이상으로",
+        "overview": "",
+        "popularity": 0.0702,
+        "poster_path": "/gWI68r69h3hL3fHsYUE3STHDB2W.jpg",
+        "release_date": "2025-05-04",
+        "title": "당신이 상상한 것 그 이상으로",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mdsFyO6TmvxGPy80sUfyAawlnQB.jpg",
         "genre_ids": [],
         "id": 1447766,
@@ -1005,16 +1043,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gVDo0o5IXpuXrnsVvSDExrM4pKO.jpg",
+        "backdrop_path": "/k8VHcIX4PNpyAYNtdLpPdPM54DN.jpg",
         "genre_ids": [],
-        "id": 1447754,
+        "id": 1456019,
         "original_language": "ko",
-        "original_title": "미루",
+        "original_title": "기사님",
         "overview": "",
-        "popularity": 0.0498,
-        "poster_path": "/otlviVLsAn5ufu5pLyrd9Soh84z.jpg",
+        "popularity": 0.0695,
+        "poster_path": null,
         "release_date": "2025-05-04",
-        "title": "미루",
+        "title": "기사님",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1033,6 +1071,24 @@
         "poster_path": null,
         "release_date": "2025-05-04",
         "title": "울며 여짜오되",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cEp7rp0ehssLEhVLqVZM6wMnnFd.jpg",
+        "genre_ids": [],
+        "id": 1447757,
+        "original_language": "ko",
+        "original_title": "사라진 계절",
+        "overview": "",
+        "popularity": 0.0675,
+        "poster_path": "/jZlOSmEjoaWvA3Am0Z33eyWIIc0.jpg",
+        "release_date": "2025-05-04",
+        "title": "사라진 계절",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1085,24 +1141,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bTzl3KJXTJGi9H2wxeDj8EaoQuM.jpg",
-        "genre_ids": [],
-        "id": 1447747,
-        "original_language": "ko",
-        "original_title": "건투",
-        "overview": "",
-        "popularity": 0.0536,
-        "poster_path": "/pB3u5m1jYu5hZvq8GVggNR4A6Go.jpg",
-        "release_date": "2025-05-04",
-        "title": "건투",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/cZA90PaNHbq4tDoVj10YxnownY7.jpg",
         "genre_ids": [
             16
@@ -1121,6 +1159,42 @@
         "genre_ids_zh": [
             "动画"
         ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bTzl3KJXTJGi9H2wxeDj8EaoQuM.jpg",
+        "genre_ids": [],
+        "id": 1447747,
+        "original_language": "ko",
+        "original_title": "건투",
+        "overview": "",
+        "popularity": 0.0536,
+        "poster_path": "/pB3u5m1jYu5hZvq8GVggNR4A6Go.jpg",
+        "release_date": "2025-05-04",
+        "title": "건투",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gVDo0o5IXpuXrnsVvSDExrM4pKO.jpg",
+        "genre_ids": [],
+        "id": 1447754,
+        "original_language": "ko",
+        "original_title": "미루",
+        "overview": "",
+        "popularity": 0.0498,
+        "poster_path": "/otlviVLsAn5ufu5pLyrd9Soh84z.jpg",
+        "release_date": "2025-05-04",
+        "title": "미루",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "韩语"
     },
     {
@@ -1167,28 +1241,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/h9vUmulUyLorUC7MS4uGdAW7jD7.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1473134,
-        "original_language": "pt",
-        "original_title": "Paraíso",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/jfdhmjkH5tOQoKEbYBLkJ8U0BhM.jpg",
-        "release_date": "2025-05-04",
-        "title": "Paraíso",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -1201,6 +1253,28 @@
         "poster_path": "/rutmXekrKVOREWTAIVIPZDV7RTS.jpg",
         "release_date": "2025-05-04",
         "title": "Nós, Povo das Ilhas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h9vUmulUyLorUC7MS4uGdAW7jD7.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1473134,
+        "original_language": "pt",
+        "original_title": "Paraíso",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/jfdhmjkH5tOQoKEbYBLkJ8U0BhM.jpg",
+        "release_date": "2025-05-04",
+        "title": "Paraíso",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
