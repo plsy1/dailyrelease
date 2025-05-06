@@ -47,6 +47,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            878
+        ],
+        "id": 969084,
+        "original_language": "en",
+        "original_title": "Absolute Dominion",
+        "overview": "",
+        "popularity": 0.5653,
+        "poster_path": "/Ae7qfJeYSkeTYhp6WHEegzpCtxH.jpg",
+        "release_date": "2025-05-07",
+        "title": "Absolute Dominion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/b5CsFLJySVTh8mmAFJNWGUICH0i.jpg",
         "genre_ids": [
             18,
@@ -70,52 +94,6 @@
             "喜剧",
             "冒险",
             "犯罪"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/9gCH2NbmST4aFwUxY4F8KKTx0ie.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1462411,
-        "original_language": "en",
-        "original_title": "The Dark Road To Mr. Olympia: The Story Of Samson Dauda",
-        "overview": "",
-        "popularity": 0.1767,
-        "poster_path": "/d7eEQGV47cwlfv9jfV2b410vGgB.jpg",
-        "release_date": "2025-05-07",
-        "title": "The Dark Road To Mr. Olympia: The Story Of Samson Dauda",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            14
-        ],
-        "id": 1454321,
-        "original_language": "en",
-        "original_title": "A Change of Heart",
-        "overview": "",
-        "popularity": 0.2016,
-        "poster_path": null,
-        "release_date": "2025-05-07",
-        "title": "A Change of Heart",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -145,6 +123,74 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1475662,
+        "original_language": "en",
+        "original_title": "Self Portrait",
+        "overview": "",
+        "popularity": 0.2146,
+        "poster_path": "/u3FwthSMRf3Qi62i7edGmcKflyu.jpg",
+        "release_date": "2025-05-07",
+        "title": "Self Portrait",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            14
+        ],
+        "id": 1454321,
+        "original_language": "en",
+        "original_title": "A Change of Heart",
+        "overview": "",
+        "popularity": 0.2016,
+        "poster_path": null,
+        "release_date": "2025-05-07",
+        "title": "A Change of Heart",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9gCH2NbmST4aFwUxY4F8KKTx0ie.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1462411,
+        "original_language": "en",
+        "original_title": "The Dark Road To Mr. Olympia: The Story Of Samson Dauda",
+        "overview": "",
+        "popularity": 0.1767,
+        "poster_path": "/d7eEQGV47cwlfv9jfV2b410vGgB.jpg",
+        "release_date": "2025-05-07",
+        "title": "The Dark Road To Mr. Olympia: The Story Of Samson Dauda",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/25andC8F0cd4vQLKWh2eDS4Pk9L.jpg",
         "genre_ids": [
             27
@@ -163,24 +209,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1472908,
-        "original_language": "en",
-        "original_title": "Marked",
-        "overview": "",
-        "popularity": 0.045,
-        "poster_path": "/1QJyv74IwWZPJYf4LwCEOwhWJ1g.jpg",
-        "release_date": "2025-05-07",
-        "title": "Marked",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -212,25 +240,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10751
-        ],
-        "id": 1475228,
+        "genre_ids": [],
+        "id": 1472908,
         "original_language": "en",
-        "original_title": "Sonder",
+        "original_title": "Marked",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/8TI6TPPgv3agcK8kukGBAXVNWM3.jpg",
+        "popularity": 0.045,
+        "poster_path": "/1QJyv74IwWZPJYf4LwCEOwhWJ1g.jpg",
         "release_date": "2025-05-07",
-        "title": "Sonder",
+        "title": "Marked",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "家庭"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -260,28 +282,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1475662,
-        "original_language": "en",
-        "original_title": "Self Portrait",
-        "overview": "",
-        "popularity": 0.2146,
-        "poster_path": "/u3FwthSMRf3Qi62i7edGmcKflyu.jpg",
-        "release_date": "2025-05-07",
-        "title": "Self Portrait",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1476254,
         "original_language": "en",
@@ -295,6 +295,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10751
+        ],
+        "id": 1475228,
+        "original_language": "en",
+        "original_title": "Sonder",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/8TI6TPPgv3agcK8kukGBAXVNWM3.jpg",
+        "release_date": "2025-05-07",
+        "title": "Sonder",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭"
+        ],
         "original_language_zh": "英语"
     },
     {
