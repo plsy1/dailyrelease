@@ -267,6 +267,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1475823,
+        "original_language": "en",
+        "original_title": "Disorder",
+        "overview": "",
+        "popularity": 0.0521,
+        "poster_path": null,
+        "release_date": "2025-05-07",
+        "title": "Disorder",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53,
             35,
             27
@@ -410,6 +434,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1477039,
+        "original_language": "en",
+        "original_title": "Ветена земја",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4ZikCv6pYEp3uk9bPrrESIbFedF.jpg",
+        "release_date": "2025-05-07",
+        "title": "Ветена земја",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -785,28 +831,6 @@
         "genre_ids": [
             99
         ],
-        "id": 1473357,
-        "original_language": "pt",
-        "original_title": "Memórias De Um Sonho",
-        "overview": "",
-        "popularity": 0.0533,
-        "poster_path": "/ayRmCswG3M2LqGAP5lfj0sqWjGZ.jpg",
-        "release_date": "2025-05-07",
-        "title": "Memórias De Um Sonho",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
         "id": 1467283,
         "original_language": "pt",
         "original_title": "As Flores",
@@ -822,5 +846,29 @@
             "纪录"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ynSKnkbLSSMRM7MrQoDmQg1moy7.jpg",
+        "genre_ids": [
+            18,
+            27
+        ],
+        "id": 1477036,
+        "original_language": "hi",
+        "original_title": "CODE ERROR",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/kWxsdUX6wsuHEQGUcH1uLNiKz6k.jpg",
+        "release_date": "2025-05-07",
+        "title": "CODE ERROR",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖"
+        ],
+        "original_language_zh": "印地语"
     }
 ]
