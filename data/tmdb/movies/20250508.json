@@ -833,28 +833,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dmTtShZJNas7kB25kcGYQwsCTAm.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1470805,
-        "original_language": "de",
-        "original_title": "Das Geheimnis von Bern",
-        "overview": "",
-        "popularity": 0.0439,
-        "poster_path": "/zQA9rwnAVG2HHYUptE1eocZsmnf.jpg",
-        "release_date": "2025-05-08",
-        "title": "Das Geheimnis von Bern",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -901,6 +879,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/dmTtShZJNas7kB25kcGYQwsCTAm.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1470805,
+        "original_language": "de",
+        "original_title": "Das Geheimnis von Bern",
+        "overview": "",
+        "popularity": 0.0439,
+        "poster_path": "/zQA9rwnAVG2HHYUptE1eocZsmnf.jpg",
+        "release_date": "2025-05-08",
+        "title": "Das Geheimnis von Bern",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -940,6 +940,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fOmhudrGrt89Adm5uWIQpv7pnq5.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1358791,
+        "original_language": "es",
+        "original_title": "Oro amargo",
+        "overview": "",
+        "popularity": 0.265,
+        "poster_path": "/zQGg8SMlYGZV5JxNjhjLrXcl3T4.jpg",
+        "release_date": "2025-05-08",
+        "title": "Oro amargo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1061,7 +1085,7 @@
         "original_title": "O Combinado Não Sai Caro",
         "overview": "",
         "popularity": 0.0754,
-        "poster_path": null,
+        "poster_path": "/eu129VHd6kSfKBAHI1HqaIPr8EP.jpg",
         "release_date": "2025-05-08",
         "title": "O Combinado Não Sai Caro",
         "video": false,
