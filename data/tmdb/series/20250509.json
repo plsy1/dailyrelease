@@ -25,31 +25,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 288004,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "越州异闻录",
-        "overview": "唐，载初元年。越州城西坊出现一起好似招鬼仪式的诡异自杀案，越府少尹司文调查后发现死者是自己深爱过的女人——曾风靡一时的“花魁”柳招娣。从命案开始的七日起，弃婴化作鬼魅山神进行了一场蓄谋已久的报复……",
-        "popularity": 0.1636,
-        "poster_path": "/xXLOeNsPAD2YG4A2pq6vBILrC2t.jpg",
-        "first_air_date": "2025-05-09",
-        "name": "越州异闻录",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/8AJXeyHxTVOphbH3fbL2ZjbLKhk.jpg",
         "genre_ids": [
             18
         ],
@@ -251,30 +227,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2lj4e5psR9jJA0LSn557fwxcqLv.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 261545,
-        "origin_country": [
-            "印度"
-        ],
-        "original_language": "hi",
-        "original_name": "द रॉयल्स",
-        "overview": "",
-        "popularity": 1.3855,
-        "poster_path": "/nnD4364ToXZwDpFWEnY94xzykIs.jpg",
-        "first_air_date": "2025-05-09",
-        "name": "द रॉयल्स",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/3HrugDbE6TsIbLGcHxuDVrhW3ap.jpg",
         "genre_ids": [
             35,
@@ -287,7 +239,7 @@
         "original_language": "hi",
         "original_name": "ग्राम चिकित्सालय",
         "overview": "",
-        "popularity": 0.3484,
+        "popularity": 1.9591,
         "poster_path": "/8skEAMrP1U7iQuHt3ce8V48dp5w.jpg",
         "first_air_date": "2025-05-09",
         "name": "ग्राम चिकित्सालय",
@@ -295,6 +247,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2lj4e5psR9jJA0LSn557fwxcqLv.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 261545,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "द रॉयल्स",
+        "overview": "",
+        "popularity": 1.7889,
+        "poster_path": "/nnD4364ToXZwDpFWEnY94xzykIs.jpg",
+        "first_air_date": "2025-05-09",
+        "name": "द रॉयल्स",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "印地语"
