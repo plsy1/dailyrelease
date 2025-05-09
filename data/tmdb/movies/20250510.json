@@ -3,6 +3,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            10751,
+            12
+        ],
+        "id": 1368447,
+        "original_language": "zh",
+        "original_title": "根本停不下来",
+        "overview": "　　一场看似平常的出国之旅，一个表面和谐的大家庭，一对各怀心事的年轻夫妻，当面临危险不断升级的失控汽车之时，生存与死亡、信任与猜忌、坦诚与隐瞒，考验着矛盾重重的一家人。",
+        "popularity": 0.2908,
+        "poster_path": "/ihPgHFP6opDrgdxb5vjLU93ylbd.jpg",
+        "release_date": "2025-05-10",
+        "title": "根本停不下来",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "家庭",
+            "冒险"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1466336,
@@ -447,6 +473,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            35
+        ],
+        "id": 1471952,
+        "original_language": "en",
+        "original_title": "A Clockwork Tangerine",
+        "overview": "",
+        "popularity": 0.047,
+        "poster_path": "/4iviR32rcN8QEKpr0wv9GGgMpCw.jpg",
+        "release_date": "2025-05-10",
+        "title": "A Clockwork Tangerine",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -956,7 +1006,7 @@
         "original_title": "Ice Grave",
         "overview": "",
         "popularity": 0.0362,
-        "poster_path": null,
+        "poster_path": "/3uQMGWpdVpE28rgqmxmq9SuGNXN.jpg",
         "release_date": "2025-05-10",
         "title": "Ice Grave",
         "video": false,
