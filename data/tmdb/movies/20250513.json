@@ -239,6 +239,42 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/oKEBQUqtBVzp05WjSGitpd8iCif.jpg",
+        "genre_ids": [],
+        "id": 1479592,
+        "original_language": "en",
+        "original_title": "Stella Mosefund",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/33YTubWXSLbvwY6tVaQSccJnhSf.jpg",
+        "release_date": "2025-05-13",
+        "title": "Stella Mosefund",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1480303,
+        "original_language": "en",
+        "original_title": "My Lake Erie Movie",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dknDidYTFsYOVaC6V39l4XWeVPe.jpg",
+        "release_date": "2025-05-13",
+        "title": "My Lake Erie Movie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -257,24 +293,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/oKEBQUqtBVzp05WjSGitpd8iCif.jpg",
-        "genre_ids": [],
-        "id": 1479592,
-        "original_language": "en",
-        "original_title": "Stella Mosefund",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/33YTubWXSLbvwY6tVaQSccJnhSf.jpg",
-        "release_date": "2025-05-13",
-        "title": "Stella Mosefund",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -440,6 +458,28 @@
             "惊悚"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1480415,
+        "original_language": "it",
+        "original_title": "Bloody Trip: Rise of the Dead",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dMBEDXIPsvgzOIRMiWKuez5ZUXh.jpg",
+        "release_date": "2025-05-13",
+        "title": "Bloody Trip: Rise of the Dead",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "意大利语"
     },
     {
         "adult": false,

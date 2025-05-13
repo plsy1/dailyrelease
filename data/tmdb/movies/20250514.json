@@ -15,8 +15,8 @@
         "release_date": "2025-05-14",
         "title": "明日匆匆",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "惊悚",
             "音乐"
@@ -326,6 +326,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1480268,
+        "original_language": "en",
+        "original_title": "Knots",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-05-14",
+        "title": "Knots",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1479949,
         "original_language": "en",
@@ -465,28 +489,6 @@
         "poster_path": "/iTzD388EePq4ujsW0uyBOUg8an2.jpg",
         "release_date": "2025-05-14",
         "title": "다시 만날, 조국",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1477008,
-        "original_language": "ko",
-        "original_title": "부정선거, 신의 작품인가",
-        "overview": "",
-        "popularity": 0.0686,
-        "poster_path": "/j5HlIxvUFbqHJMenXsvp812WiZR.jpg",
-        "release_date": "2025-05-14",
-        "title": "부정선거, 신의 작품인가",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -828,6 +830,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1480288,
+        "original_language": "es",
+        "original_title": "MUTE",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-05-14",
+        "title": "MUTE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
         ],
         "original_language_zh": "西班牙语"
     },
