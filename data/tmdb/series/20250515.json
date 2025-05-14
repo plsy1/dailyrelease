@@ -53,30 +53,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 290957,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "一骑定情缘",
-        "overview": "清纯女阮清恬参加园艺国色芳华比赛，获得乡间国色芳华农场大奖。当她乡下时，遇到学长任浩铭，任浩铭与阮清恬的恩怨情仇就此展开。原来任浩铭的哥哥对阮清恬蓄谋已久并上瘾，这种病态最终被阮清恬和任浩铭治愈。",
-        "popularity": 0.1372,
-        "poster_path": "/gaK6RRgFLcJJqsvTIAbMWZ39k5i.jpg",
-        "first_air_date": "2025-05-15",
-        "name": "一骑定情缘",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/6BvWdzmkXaNzMOwHEwAckaMn6B.jpg",
         "genre_ids": [
             18
@@ -92,6 +68,30 @@
         "poster_path": "/vTL5WAT6dr7yLDTC6BYG6ZwL3sT.jpg",
         "first_air_date": "2025-05-15",
         "name": "她独美",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 290957,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "一骑定情缘",
+        "overview": "清纯女阮清恬参加园艺国色芳华比赛，获得乡间国色芳华农场大奖。当她乡下时，遇到学长任浩铭，任浩铭与阮清恬的恩怨情仇就此展开。原来任浩铭的哥哥对阮清恬蓄谋已久并上瘾，这种病态最终被阮清恬和任浩铭治愈。",
+        "popularity": 0.1372,
+        "poster_path": "/gaK6RRgFLcJJqsvTIAbMWZ39k5i.jpg",
+        "first_air_date": "2025-05-15",
+        "name": "一骑定情缘",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -144,7 +144,7 @@
         "popularity": 6.0812,
         "poster_path": "/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",
         "first_air_date": "2025-05-15",
-        "name": "Duster",
+        "name": "德斯特",
         "vote_average": 1.0,
         "vote_count": 1,
         "genre_ids_zh": [
@@ -194,7 +194,7 @@
         "popularity": 1.8076,
         "poster_path": "/e3ENTAEDEO949khpVkJWgcWnwGG.jpg",
         "first_air_date": "2025-05-15",
-        "name": "Bet",
+        "name": "狂赌之渊 BET",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
