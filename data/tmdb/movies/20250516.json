@@ -735,7 +735,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/2bMs3Kh1cnXHkGDRg9o9H3pcfqP.jpg",
         "genre_ids": [
             18,
             35,
@@ -1299,6 +1299,50 @@
         "poster_path": "/2sHQBR3hpaRTgBLNA0kOkhyZ9Z3.jpg",
         "release_date": "2025-05-16",
         "title": "PARENTHOOD",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oQFiKlNk2JyuAt0fl05epYODJka.jpg",
+        "genre_ids": [
+            10749,
+            53,
+            12
+        ],
+        "id": 1481495,
+        "original_language": "en",
+        "original_title": "Pahingi ng Sign",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yAGikNIohCb7ZRIuwGOkksty23D.jpg",
+        "release_date": "2025-05-16",
+        "title": "Pahingi ng Sign",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "惊悚",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9nqI7iqfQD3mETNkGNW52F2BFlv.jpg",
+        "genre_ids": [],
+        "id": 1481432,
+        "original_language": "en",
+        "original_title": "When Butterflies Scream",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zcw2ikC7jqSdckomU2qImJnfhxz.jpg",
+        "release_date": "2025-05-16",
+        "title": "When Butterflies Scream",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1924,32 +1968,6 @@
             "剧情"
         ],
         "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/c3c9qcUWA9u99RDipH3JL54FT6J.jpg",
-        "genre_ids": [
-            35,
-            10749,
-            878
-        ],
-        "id": 1301632,
-        "original_language": "hi",
-        "original_title": "भूल चूक माफ",
-        "overview": "",
-        "popularity": 2.7246,
-        "poster_path": "/plWzFq6eVXOm8vpgJG0xUGmifHS.jpg",
-        "release_date": "2025-05-16",
-        "title": "भूल चूक माफ",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "爱情",
-            "科幻"
-        ],
-        "original_language_zh": "印地语"
     },
     {
         "adult": false,
