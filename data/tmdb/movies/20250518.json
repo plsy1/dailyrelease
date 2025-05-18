@@ -479,6 +479,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/q7Gs0X2zNPlXkerfZGfxNCkMsU7.jpg",
+        "genre_ids": [],
+        "id": 1482965,
+        "original_language": "en",
+        "original_title": "Pathways",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9FHV9pbuHOpt2CmXpJIcB0NCim7.jpg",
+        "release_date": "2025-05-18",
+        "title": "Pathways",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             16,
@@ -493,8 +511,8 @@
         "release_date": "2025-05-18",
         "title": "The Voyage",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动画",
             "科幻"
@@ -967,7 +985,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/rnsN5jsadjHVIthfArzSB1ydg1Y.jpg",
         "genre_ids": [
             35
         ],
@@ -976,7 +994,7 @@
         "original_title": "Мэр поневоле",
         "overview": "",
         "popularity": 0.0336,
-        "poster_path": null,
+        "poster_path": "/vOQrFGfAxXdszUWbWnLdmY8cZ4W.jpg",
         "release_date": "2025-05-18",
         "title": "Мэр поневоле",
         "video": false,
