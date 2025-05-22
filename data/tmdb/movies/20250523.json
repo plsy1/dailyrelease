@@ -967,6 +967,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1485277,
+        "original_language": "en",
+        "original_title": "FREE! Palestine",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/omm0lmdltT0HyvuOu7272x8qXmP.jpg",
+        "release_date": "2025-05-23",
+        "title": "FREE! Palestine",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ut0Xbe3jeqKVkqvpduFgDostIWv.jpg",
         "genre_ids": [
             10402
@@ -1466,6 +1484,30 @@
             "剧情",
             "音乐",
             "历史"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            18
+        ],
+        "id": 1485147,
+        "original_language": "es",
+        "original_title": "La Tragedia del Ciclo",
+        "overview": "",
+        "popularity": 0.05,
+        "poster_path": "/1Sv4Fk5fNPqs6Qfs5oj33jMdhWq.jpg",
+        "release_date": "2025-05-23",
+        "title": "La Tragedia del Ciclo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
