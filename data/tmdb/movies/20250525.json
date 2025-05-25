@@ -471,6 +471,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/1FocRzmLWEIyeYSXXORuEM9pZAe.jpg",
+        "genre_ids": [],
+        "id": 1486244,
+        "original_language": "en",
+        "original_title": "AEW Double or Nothing: Buy In",
+        "overview": "",
+        "popularity": 0.0193,
+        "poster_path": "/ys7aCVLWdLh3Gzb3ijIJoJdjhoU.jpg",
+        "release_date": "2025-05-25",
+        "title": "AEW Double or Nothing: Buy In",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             16
@@ -507,6 +525,68 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1487173,
+        "original_language": "en",
+        "original_title": "A Letter To My Sun",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/kyN1p6exkqSJ1rWC6W1uxKBcxOh.jpg",
+        "release_date": "2025-05-25",
+        "title": "A Letter To My Sun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1487114,
+        "original_language": "en",
+        "original_title": "Costco vs The Supermarket: Who Does Bulk Buy Better?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-05-25",
+        "title": "Costco vs The Supermarket: Who Does Bulk Buy Better?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6zJF7FMpBbq4vpZgBxf1LC2SWIP.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1487078,
+        "original_language": "en",
+        "original_title": "The Receipt",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zDPSqwjYn1C3YSzmEYjPKOtJt6o.jpg",
+        "release_date": "2025-05-25",
+        "title": "The Receipt",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1170,5 +1250,27 @@
             "剧情"
         ],
         "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jG7Ab0AkuzEOMwmpjNFkUIYL4Q5.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1487195,
+        "original_language": "sv",
+        "original_title": "Sweden Rock och festivalgeneralen",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aPiSll7V3BnADOEVsdZlyb1lP4D.jpg",
+        "release_date": "2025-05-25",
+        "title": "Sweden Rock och festivalgeneralen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
