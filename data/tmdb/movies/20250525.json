@@ -447,20 +447,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1FocRzmLWEIyeYSXXORuEM9pZAe.jpg",
-        "genre_ids": [],
-        "id": 1486244,
+        "backdrop_path": "/1zSjBaX763BxRz561Hlw69ED5pR.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1486977,
         "original_language": "en",
-        "original_title": "AEW Double or Nothing: Buy In",
+        "original_title": "Idol",
         "overview": "",
-        "popularity": 0.0193,
-        "poster_path": "/ys7aCVLWdLh3Gzb3ijIJoJdjhoU.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/2HnZqtu2NNX9itXQPLJxJjAjIYN.jpg",
         "release_date": "2025-05-25",
-        "title": "AEW Double or Nothing: Buy In",
+        "title": "Idol",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
