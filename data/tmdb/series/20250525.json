@@ -90,33 +90,13 @@
         "poster_path": "/i27oab0wG0b9z41TidHhLVcAmji.jpg",
         "first_air_date": "2025-05-25",
         "name": "Death Valley",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "悬疑",
             "剧情",
             "喜剧"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 292276,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "집 나가면 개호강",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/dkZnAwD7EQkPznKROV93pFPI3J3.jpg",
-        "first_air_date": "2025-05-25",
-        "name": "집 나가면 개호강",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -143,6 +123,54 @@
             "纪录",
             "新闻"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dfrSM7ghe1c25DmsNEjgPoRJFmK.jpg",
+        "genre_ids": [
+            80,
+            99,
+            9648
+        ],
+        "id": 292286,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "The Girl Who Caught A Killer",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lAMC5EogUAvdBLxPDwehDNrCUC6.jpg",
+        "first_air_date": "2025-05-25",
+        "name": "The Girl Who Caught A Killer",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "纪录",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 292276,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "집 나가면 개호강",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dkZnAwD7EQkPznKROV93pFPI3J3.jpg",
+        "first_air_date": "2025-05-25",
+        "name": "집 나가면 개호강",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
