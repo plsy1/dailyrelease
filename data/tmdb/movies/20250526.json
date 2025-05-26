@@ -1,6 +1,28 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/6y0fYNtjxkrpicGj4I8kwZbEDN5.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1477667,
+        "original_language": "zh",
+        "original_title": "表演課",
+        "overview": "",
+        "popularity": 0.0791,
+        "poster_path": "/4QLIQhq4twUQZk0iqStEERj3oT9.jpg",
+        "release_date": "2025-05-26",
+        "title": "表演課",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/gsYezpStkX2P5gEAB8MF0BMmQrT.jpg",
         "genre_ids": [
             18
@@ -9,7 +31,7 @@
         "original_language": "zh",
         "original_title": "搬家",
         "overview": "",
-        "popularity": 0.0555,
+        "popularity": 0.082,
         "poster_path": null,
         "release_date": "2025-05-26",
         "title": "搬家",
@@ -23,18 +45,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6y0fYNtjxkrpicGj4I8kwZbEDN5.jpg",
+        "backdrop_path": "/jwO7RnjnsJaXPqLkbPht1DpxRwe.jpg",
         "genre_ids": [
             18
         ],
-        "id": 1477667,
+        "id": 1477753,
         "original_language": "zh",
-        "original_title": "表演課",
+        "original_title": "之間",
         "overview": "",
-        "popularity": 0.1116,
-        "poster_path": "/4QLIQhq4twUQZk0iqStEERj3oT9.jpg",
+        "popularity": 0.0557,
+        "poster_path": null,
         "release_date": "2025-05-26",
-        "title": "表演課",
+        "title": "之間",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -97,32 +119,10 @@
         "original_language": "zh",
         "original_title": "經過朝路",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0239,
         "poster_path": null,
         "release_date": "2025-05-26",
         "title": "經過朝路",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/jwO7RnjnsJaXPqLkbPht1DpxRwe.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1477753,
-        "original_language": "zh",
-        "original_title": "之間",
-        "overview": "",
-        "popularity": 0.051,
-        "poster_path": null,
-        "release_date": "2025-05-26",
-        "title": "之間",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -376,6 +376,24 @@
             "剧情"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1487415,
+        "original_language": "pt",
+        "original_title": "Entre delírios e contradições",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/6Xctjg8CxFhdbYIPVSsMstTlrry.jpg",
+        "release_date": "2025-05-26",
+        "title": "Entre delírios e contradições",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
@@ -746,7 +764,7 @@
         "original_language": "tr",
         "original_title": "Hidayet Usta",
         "overview": "",
-        "popularity": 0.1401,
+        "popularity": 0.1851,
         "poster_path": "/9sYpo1aTxDlQmUKHv8bmmlF745.jpg",
         "release_date": "2025-05-26",
         "title": "Hidayet Usta",
@@ -771,7 +789,7 @@
         "original_language": "tr",
         "original_title": "Gece Gece",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0571,
         "poster_path": "/unt1nXKrQyazWFDDPrRNbHQZ1fu.jpg",
         "release_date": "2025-05-26",
         "title": "Gece Gece",
