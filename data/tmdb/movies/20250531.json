@@ -395,6 +395,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/dfdTCg8ZgXJh04cFr6EGyUbTLfm.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1488976,
+        "original_language": "en",
+        "original_title": "Tom Daley: 1.6 Seconds of Glory",
+        "overview": "",
+        "popularity": 0.0848,
+        "poster_path": "/sXCMpZ4oMoq2eXTB4E8hgfUlx6Z.jpg",
+        "release_date": "2025-05-31",
+        "title": "Tom Daley: 1.6 Seconds of Glory",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/4tTuMsyRIk0u2GNDc1wdPMB02EL.jpg",
         "genre_ids": [
             99
@@ -838,6 +860,54 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k6xDDYZwfCw4Vewkxj5s9FtUnEH.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1490358,
+        "original_language": "en",
+        "original_title": "Pill Addiction",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6pRsKM3EpjRXV74CMTpkek2h38i.jpg",
+        "release_date": "2025-05-31",
+        "title": "Pill Addiction",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iaGUtAvcoU5hFKSr885G0H5IWSi.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            27
+        ],
+        "id": 1490341,
+        "original_language": "en",
+        "original_title": "Blind Eye",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9k7Yu3DgLMCX4PLZQtqVKwuuXdC.jpg",
+        "release_date": "2025-05-31",
+        "title": "Blind Eye",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "剧情",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
