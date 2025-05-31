@@ -471,7 +471,7 @@
         "original_language": "en",
         "original_title": "Cierva",
         "overview": "",
-        "popularity": 0.0559,
+        "popularity": 0.1008,
         "poster_path": "/lgp8wB9e4ICanzhlcwN4cNbTLYK.jpg",
         "release_date": "2025-05-31",
         "title": "Cierva",
@@ -494,7 +494,7 @@
         "original_language": "en",
         "original_title": "Be the Creature",
         "overview": "",
-        "popularity": 0.0544,
+        "popularity": 0.0717,
         "poster_path": "/eZdRJzL6XqeR20HXq3ghMFqWkO2.jpg",
         "release_date": "2025-05-31",
         "title": "Be the Creature",
@@ -518,8 +518,8 @@
         "original_language": "en",
         "original_title": "Leslie, Germie, Benjie, Trixie",
         "overview": "",
-        "popularity": 0.0521,
-        "poster_path": "/y0vDMQJW8DJa73J1fm8XFRP0Bxm.jpg",
+        "popularity": 0.0363,
+        "poster_path": "/mapz2I30aTNsSZhBUag2Zne5J3R.jpg",
         "release_date": "2025-05-31",
         "title": "Leslie, Germie, Benjie, Trixie",
         "video": false,
@@ -541,7 +541,7 @@
         "original_language": "en",
         "original_title": "Boys Will Be Boys",
         "overview": "",
-        "popularity": 0.0492,
+        "popularity": 0.1997,
         "poster_path": null,
         "release_date": "2025-05-31",
         "title": "Boys Will Be Boys",
@@ -579,7 +579,7 @@
         "original_language": "en",
         "original_title": "Blood, Sweat and Shoes",
         "overview": "",
-        "popularity": 0.0445,
+        "popularity": 0.0755,
         "poster_path": null,
         "release_date": "2025-05-31",
         "title": "Blood, Sweat and Shoes",
@@ -601,7 +601,7 @@
         "original_title": "My Next Guest",
         "overview": "",
         "popularity": 0.0423,
-        "poster_path": null,
+        "poster_path": "/oostEVxnyGEoc67xgaHeMnp5mfY.jpg",
         "release_date": "2025-05-31",
         "title": "My Next Guest",
         "video": false,
@@ -621,7 +621,7 @@
         "original_language": "en",
         "original_title": "What Happens On Earth",
         "overview": "",
-        "popularity": 0.0362,
+        "popularity": 0.1008,
         "poster_path": null,
         "release_date": "2025-05-31",
         "title": "What Happens On Earth",
@@ -639,7 +639,7 @@
         "original_language": "en",
         "original_title": "Best Eyes",
         "overview": "",
-        "popularity": 0.0362,
+        "popularity": 0.0338,
         "poster_path": "/msFZ9XT30GyHvHerAv5f3tPdnZ9.jpg",
         "release_date": "2025-05-31",
         "title": "Best Eyes",
@@ -660,7 +660,7 @@
         "original_language": "en",
         "original_title": "The Smell of Sin",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0925,
         "poster_path": "/xfSuahe5EGmOrs34tTf2g6ejfnA.jpg",
         "release_date": "2025-05-31",
         "title": "The Smell of Sin",
@@ -684,7 +684,7 @@
         "original_language": "en",
         "original_title": "Gair Qanooni Kashmakash",
         "overview": "",
-        "popularity": 0.0214,
+        "popularity": 0.0143,
         "poster_path": "/4FWLrXBhD9UmcunYwcLW8eZdhxL.jpg",
         "release_date": "2025-05-31",
         "title": "Gair Qanooni Kashmakash",
@@ -705,7 +705,7 @@
         "original_language": "en",
         "original_title": "Some Of Us Watch The Sunset, Too",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0362,
         "poster_path": "/zridsdavTGH2tOF4prJskih1SHD.jpg",
         "release_date": "2025-05-31",
         "title": "Some Of Us Watch The Sunset, Too",
@@ -743,7 +743,7 @@
         "original_language": "en",
         "original_title": "A Little Regret in Helsinki",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0071,
         "poster_path": "/15OqD5SeybnCpelPlAVc3cj4eV2.jpg",
         "release_date": "2025-05-31",
         "title": "A Little Regret in Helsinki",
@@ -775,6 +775,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bF5xYBEadQreiepX076hzDAKSNc.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1480624,
+        "original_language": "en",
+        "original_title": "Phobophobia",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/2AmsWtinubN3jR6k9Hi2gg651Mz.jpg",
+        "release_date": "2025-05-31",
+        "title": "Phobophobia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ebdUpn7zKCoRkIV0aNRsU2eo2Jy.jpg",
         "genre_ids": [
             99
@@ -783,7 +807,7 @@
         "original_language": "en",
         "original_title": "Anatomy of a Showgirl",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0143,
         "poster_path": "/qdWK0oeCcNAgyeyiBGwqNp5xju2.jpg",
         "release_date": "2025-05-31",
         "title": "Anatomy of a Showgirl",
@@ -805,7 +829,7 @@
         "original_language": "en",
         "original_title": "Never Been to Memphis",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0,
         "poster_path": "/b0aKiwT8LSPTfN8CC4EOIHD48n1.jpg",
         "release_date": "2025-05-31",
         "title": "Never Been to Memphis",
@@ -814,6 +838,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1490189,
+        "original_language": "en",
+        "original_title": "Hoy no se fía",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/mSn2enTAOcNXAsEhjApFEKQmZ5N.jpg",
+        "release_date": "2025-05-31",
+        "title": "Hoy no se fía",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -925,30 +971,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fSeGyBVFoJ5bumV0qcmb3vHiZp9.jpg",
-        "genre_ids": [
-            35,
-            10770
-        ],
-        "id": 1484230,
-        "original_language": "fr",
-        "original_title": "Une situation délicate",
-        "overview": "",
-        "popularity": 0.0495,
-        "poster_path": "/nJ4r0G4AGT2NvYQFXlnx1kQUn7q.jpg",
-        "release_date": "2025-05-31",
-        "title": "Une situation délicate",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "电视电影"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             53,
@@ -958,7 +980,7 @@
         "original_language": "fr",
         "original_title": "Yuzu-Justice est en Péril",
         "overview": "",
-        "popularity": 0.0707,
+        "popularity": 0.2548,
         "poster_path": null,
         "release_date": "2025-05-31",
         "title": "Yuzu-Justice est en Péril",
@@ -968,6 +990,30 @@
         "genre_ids_zh": [
             "惊悚",
             "家庭"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fSeGyBVFoJ5bumV0qcmb3vHiZp9.jpg",
+        "genre_ids": [
+            35,
+            10770
+        ],
+        "id": 1484230,
+        "original_language": "fr",
+        "original_title": "Une situation délicate",
+        "overview": "",
+        "popularity": 0.102,
+        "poster_path": "/nJ4r0G4AGT2NvYQFXlnx1kQUn7q.jpg",
+        "release_date": "2025-05-31",
+        "title": "Une situation délicate",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "电视电影"
         ],
         "original_language_zh": "法语"
     },
