@@ -25,6 +25,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/f7dF9wmYHQIJgfq25OJi9w9x1o3.jpg",
+        "genre_ids": [
+            18,
+            878,
+            35
+        ],
+        "id": 842924,
+        "original_language": "en",
+        "original_title": "The Life of Chuck",
+        "overview": "",
+        "popularity": 11.0887,
+        "poster_path": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+        "release_date": "2025-06-05",
+        "title": "The Life of Chuck",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ambzhSrmEKmNE3P5HqoR6Iub9tx.jpg",
         "genre_ids": [
             878,
@@ -46,32 +72,6 @@
             "科幻",
             "动作",
             "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/f7dF9wmYHQIJgfq25OJi9w9x1o3.jpg",
-        "genre_ids": [
-            18,
-            878,
-            35
-        ],
-        "id": 842924,
-        "original_language": "en",
-        "original_title": "The Life of Chuck",
-        "overview": "",
-        "popularity": 11.0887,
-        "poster_path": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
-        "release_date": "2025-06-05",
-        "title": "The Life of Chuck",
-        "video": false,
-        "vote_average": 6.5,
-        "vote_count": 4,
-        "genre_ids_zh": [
-            "剧情",
-            "科幻",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -437,28 +437,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sKdf2Ukx6yzrkc0fv9BooqmfhJl.jpg",
-        "genre_ids": [
-            10402
-        ],
-        "id": 1478532,
-        "original_language": "en",
-        "original_title": "TURNSTILE: NEVER ENOUGH",
-        "overview": "",
-        "popularity": 0.3169,
-        "poster_path": "/alXjxgaMIJoKzF15ebkMRnHyBbc.jpg",
-        "release_date": "2025-06-05",
-        "title": "TURNSTILE: NEVER ENOUGH",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/u9CLzfS0IYNNVJi6qjV21qDOeyU.jpg",
         "genre_ids": [
             27,
@@ -499,6 +477,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sKdf2Ukx6yzrkc0fv9BooqmfhJl.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1478532,
+        "original_language": "en",
+        "original_title": "TURNSTILE: NEVER ENOUGH",
+        "overview": "",
+        "popularity": 0.3169,
+        "poster_path": "/alXjxgaMIJoKzF15ebkMRnHyBbc.jpg",
+        "release_date": "2025-06-05",
+        "title": "TURNSTILE: NEVER ENOUGH",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
         "original_language_zh": "英语"
     },
     {

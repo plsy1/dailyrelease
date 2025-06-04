@@ -16,12 +16,38 @@
         "release_date": "2025-06-04",
         "title": "疾速追杀：芭蕾杀姬",
         "video": false,
-        "vote_average": 6.6,
-        "vote_count": 8,
+        "vote_average": 7.1,
+        "vote_count": 10,
         "genre_ids_zh": [
             "动作",
             "惊悚",
             "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uUFxsPRaeRnZccvMz6SCZ1FK6ha.jpg",
+        "genre_ids": [
+            878,
+            18,
+            53
+        ],
+        "id": 1280444,
+        "original_language": "en",
+        "original_title": "The Occupant",
+        "overview": "",
+        "popularity": 0.5344,
+        "poster_path": "/iGV00u82r0WK0Mrazz9xZ3bGYoo.jpg",
+        "release_date": "2025-06-04",
+        "title": "The Occupant",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -323,6 +349,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/aJWXlUOwYDwjCGamBztjh2ZvcP0.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1486744,
+        "original_language": "en",
+        "original_title": "The Cactus",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/p70i0jCohoias91Guf0KaEh8hGw.jpg",
+        "release_date": "2025-06-04",
+        "title": "The Cactus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             16
@@ -363,6 +413,48 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1492509,
+        "original_language": "en",
+        "original_title": "Nîmeño II : Au bout d’une passion",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/whRHrndT4wzbEb18TiTrAKl40AO.jpg",
+        "release_date": "2025-06-04",
+        "title": "Nîmeño II : Au bout d’une passion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iLqQJpu2iBX4ksTgSLL6pz44uT5.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1492443,
+        "original_language": "en",
+        "original_title": "Life",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/fkuafXVnuLHXvq6m2M9ZEX7jewz.jpg",
+        "release_date": "2025-06-04",
+        "title": "Life",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -545,6 +637,28 @@
         "genre_ids": [
             99
         ],
+        "id": 1492497,
+        "original_language": "fr",
+        "original_title": "Simon Casas, un vent de liberté",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lBIQytPaTWGFo8iclY0CSby8IVS.jpg",
+        "release_date": "2025-06-04",
+        "title": "Simon Casas, un vent de liberté",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1492275,
         "original_language": "fr",
         "original_title": "Les dernières grandes transhumances",
@@ -652,6 +766,32 @@
             "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 1492543,
+        "original_language": "ru",
+        "original_title": "Meurtres en Balagne",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lXoms9Yb7Nj6J2fAEy5a55y27F8.jpg",
+        "release_date": "2025-06-04",
+        "title": "Meurtres en Balagne",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "犯罪",
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
