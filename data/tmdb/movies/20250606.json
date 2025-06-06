@@ -43,7 +43,7 @@
         "title": "新·驯龙高手",
         "video": false,
         "vote_average": 7.3,
-        "vote_count": 15,
+        "vote_count": 16,
         "genre_ids_zh": [
             "动作",
             "家庭",
@@ -1763,20 +1763,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1493263,
+        "backdrop_path": "/zzAZRpD1QQeaPEHwpmvb5xFmMsc.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1493291,
         "original_language": "en",
-        "original_title": "Monster Slayer",
+        "original_title": "Careering",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/DPXahaU2qVvNM2AGR4ETu02cdH.jpg",
         "release_date": "2025-06-06",
-        "title": "Monster Slayer",
+        "title": "Careering",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
