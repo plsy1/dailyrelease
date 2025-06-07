@@ -469,28 +469,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            16
-        ],
-        "id": 1118589,
-        "original_language": "en",
-        "original_title": "Life with an Idiot",
-        "overview": "",
-        "popularity": 0.1063,
-        "poster_path": null,
-        "release_date": "2025-06-08",
-        "title": "Life with an Idiot",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35
         ],
         "id": 1484762,
@@ -506,6 +484,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1118589,
+        "original_language": "en",
+        "original_title": "Life with an Idiot",
+        "overview": "",
+        "popularity": 0.1063,
+        "poster_path": null,
+        "release_date": "2025-06-08",
+        "title": "Life with an Idiot",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -555,25 +555,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/seKEsvpQU2d72BpmzOJQS5ZiMib.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            53
+            16,
+            35
         ],
-        "id": 1492205,
+        "id": 1471751,
         "original_language": "en",
-        "original_title": "Playback",
+        "original_title": "Carcassonne-Acapulco",
         "overview": "",
-        "popularity": 0.1149,
-        "poster_path": "/1YogEPt5RodLMFKiMt2e0niWV6T.jpg",
+        "popularity": 0.0479,
+        "poster_path": "/bIIgiFwEQjWpEpDV0cwjWsjHPC2.jpg",
         "release_date": "2025-06-08",
-        "title": "Playback",
+        "title": "Carcassonne-Acapulco",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
+            "动画",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -605,25 +605,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/imKMFJNnehzR0s6Hg7ggsAmbkMo.jpg",
         "genre_ids": [
-            16,
-            35
+            35,
+            53
         ],
-        "id": 1471751,
+        "id": 1493503,
         "original_language": "en",
-        "original_title": "Carcassonne-Acapulco",
+        "original_title": "Polyp's Playhouse",
         "overview": "",
-        "popularity": 0.0479,
-        "poster_path": "/bIIgiFwEQjWpEpDV0cwjWsjHPC2.jpg",
+        "popularity": 0.0286,
+        "poster_path": "/9OXlVeqemQdytVduNQV3wJudhR7.jpg",
         "release_date": "2025-06-08",
-        "title": "Carcassonne-Acapulco",
+        "title": "Polyp's Playhouse",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
-            "喜剧"
+            "喜剧",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6s3YkpaJn8GEFY0a7W4g85VwPPI.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1492976,
+        "original_language": "en",
+        "original_title": "Seduced By His Lies",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/xPsOBqPeybLt40qX4mkGOoFNA34.jpg",
+        "release_date": "2025-06-08",
+        "title": "Seduced By His Lies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -694,52 +716,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/imKMFJNnehzR0s6Hg7ggsAmbkMo.jpg",
-        "genre_ids": [
-            35,
-            53
-        ],
-        "id": 1493503,
-        "original_language": "en",
-        "original_title": "Polyp's Playhouse",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/9OXlVeqemQdytVduNQV3wJudhR7.jpg",
-        "release_date": "2025-06-08",
-        "title": "Polyp's Playhouse",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6s3YkpaJn8GEFY0a7W4g85VwPPI.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1492976,
-        "original_language": "en",
-        "original_title": "Seduced By His Lies",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/xPsOBqPeybLt40qX4mkGOoFNA34.jpg",
-        "release_date": "2025-06-08",
-        "title": "Seduced By His Lies",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
