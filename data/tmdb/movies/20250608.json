@@ -11,7 +11,7 @@
         "original_language": "en",
         "original_title": "One Spoon of Chocolate",
         "overview": "",
-        "popularity": 1.3011,
+        "popularity": 1.1203,
         "poster_path": "/ybO8oLgpXRhaPmHI6C2FUpxSRrK.jpg",
         "release_date": "2025-06-08",
         "title": "One Spoon of Chocolate",
@@ -36,7 +36,7 @@
         "original_language": "en",
         "original_title": "A Tree Fell in the Woods",
         "overview": "",
-        "popularity": 0.9901,
+        "popularity": 0.9578,
         "poster_path": "/nIJFncIam2c4AAfJXAcLbm7UyE4.jpg",
         "release_date": "2025-06-08",
         "title": "A Tree Fell in the Woods",
@@ -61,7 +61,7 @@
         "original_language": "en",
         "original_title": "Our Hero, Balthazar",
         "overview": "",
-        "popularity": 0.8833,
+        "popularity": 0.9522,
         "poster_path": "/e5dRQta3JkearZioSrsD8he7QT3.jpg",
         "release_date": "2025-06-08",
         "title": "Our Hero, Balthazar",
@@ -77,6 +77,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/AqcSS6Msbo4pwnTE2p5Q63jDMxu.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1465794,
+        "original_language": "en",
+        "original_title": "Long Live the State",
+        "overview": "",
+        "popularity": 0.635,
+        "poster_path": "/rxSq4WqnwVQVrKgBReoamQd34FA.jpg",
+        "release_date": "2025-06-08",
+        "title": "Long Live the State",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/HYS1zPH7XLL2IWRwVz1rFQOrIz.jpg",
         "genre_ids": [
             53,
@@ -86,7 +108,7 @@
         "original_language": "en",
         "original_title": "Ride or Die",
         "overview": "",
-        "popularity": 0.6065,
+        "popularity": 0.6224,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "Ride or Die",
@@ -101,44 +123,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5xmnFelLpuHlbwFIjEJPCdGH1T3.jpg",
-        "genre_ids": [
-            18,
-            9648,
-            53
-        ],
-        "id": 1246215,
-        "original_language": "en",
-        "original_title": "Re-Creation",
-        "overview": "",
-        "popularity": 0.5265,
-        "poster_path": "/uVVrqQyIyZ0DamTIrqK7FRBNqRz.jpg",
-        "release_date": "2025-06-08",
-        "title": "Re-Creation",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "悬疑",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/AqcSS6Msbo4pwnTE2p5Q63jDMxu.jpg",
+        "backdrop_path": "/fPMuZeDrgtHW6KjM14f2NFdhPRI.jpg",
         "genre_ids": [
             99
         ],
-        "id": 1465794,
+        "id": 1465527,
         "original_language": "en",
-        "original_title": "Long Live the State",
+        "original_title": "We Are Pat",
         "overview": "",
-        "popularity": 0.6275,
-        "poster_path": "/rxSq4WqnwVQVrKgBReoamQd34FA.jpg",
+        "popularity": 0.5312,
+        "poster_path": "/2wYfmuX3IVz6Ul1tufQIs3DrRjh.jpg",
         "release_date": "2025-06-08",
-        "title": "Long Live the State",
+        "title": "We Are Pat",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -157,32 +153,10 @@
         "original_language": "en",
         "original_title": "The Inquisitor",
         "overview": "",
-        "popularity": 0.5968,
+        "popularity": 0.6222,
         "poster_path": "/hoEMZXOJgx0XioWcY8nuoVQ70JZ.jpg",
         "release_date": "2025-06-08",
         "title": "The Inquisitor",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/fPMuZeDrgtHW6KjM14f2NFdhPRI.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1465527,
-        "original_language": "en",
-        "original_title": "We Are Pat",
-        "overview": "",
-        "popularity": 0.6006,
-        "poster_path": "/2wYfmuX3IVz6Ul1tufQIs3DrRjh.jpg",
-        "release_date": "2025-06-08",
-        "title": "We Are Pat",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -202,7 +176,7 @@
         "original_language": "en",
         "original_title": "Man Finds Tape",
         "overview": "",
-        "popularity": 0.5701,
+        "popularity": 0.4841,
         "poster_path": "/1UP4iLeH84vutvl7TLME4b7PrOF.jpg",
         "release_date": "2025-06-08",
         "title": "Man Finds Tape",
@@ -217,25 +191,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/5xmnFelLpuHlbwFIjEJPCdGH1T3.jpg",
         "genre_ids": [
             18,
-            10402
+            9648,
+            53
         ],
-        "id": 1465810,
+        "id": 1246215,
         "original_language": "en",
-        "original_title": "Charliebird",
+        "original_title": "Re-Creation",
         "overview": "",
-        "popularity": 0.3664,
-        "poster_path": null,
+        "popularity": 0.5264,
+        "poster_path": "/uVVrqQyIyZ0DamTIrqK7FRBNqRz.jpg",
         "release_date": "2025-06-08",
-        "title": "Charliebird",
+        "title": "Re-Creation",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
-            "音乐"
+            "悬疑",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -249,32 +225,10 @@
         "original_language": "en",
         "original_title": "Maintenance Artist",
         "overview": "",
-        "popularity": 0.4526,
+        "popularity": 0.4733,
         "poster_path": "/VbYDDEw7RPdATftVrAboA0iuP.jpg",
         "release_date": "2025-06-08",
         "title": "Maintenance Artist",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1465979,
-        "original_language": "en",
-        "original_title": "The Last Dive",
-        "overview": "",
-        "popularity": 0.3582,
-        "poster_path": "/7WX528XRwZMs6iG110aVrW3X5iS.jpg",
-        "release_date": "2025-06-08",
-        "title": "The Last Dive",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -293,10 +247,78 @@
         "original_language": "en",
         "original_title": "The Last Guest of the Holloway Motel",
         "overview": "",
-        "popularity": 0.3886,
+        "popularity": 0.3128,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "The Last Guest of the Holloway Motel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10402
+        ],
+        "id": 1465810,
+        "original_language": "en",
+        "original_title": "Charliebird",
+        "overview": "",
+        "popularity": 0.3948,
+        "poster_path": null,
+        "release_date": "2025-06-08",
+        "title": "Charliebird",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1465979,
+        "original_language": "en",
+        "original_title": "The Last Dive",
+        "overview": "",
+        "popularity": 0.3939,
+        "poster_path": "/7WX528XRwZMs6iG110aVrW3X5iS.jpg",
+        "release_date": "2025-06-08",
+        "title": "The Last Dive",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1465784,
+        "original_language": "en",
+        "original_title": "Jimmy & the Demons",
+        "overview": "",
+        "popularity": 0.2809,
+        "poster_path": null,
+        "release_date": "2025-06-08",
+        "title": "Jimmy & the Demons",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -315,7 +337,7 @@
         "original_language": "en",
         "original_title": "Bodyguard of Lies",
         "overview": "",
-        "popularity": 0.3071,
+        "popularity": 0.3734,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "Bodyguard of Lies",
@@ -335,7 +357,7 @@
         "original_language": "en",
         "original_title": "Rise",
         "overview": "",
-        "popularity": 0.2607,
+        "popularity": 0.3442,
         "poster_path": "/3vrSCqQxIMdX6UoDsCrp4IyVqlb.jpg",
         "release_date": "2025-06-08",
         "title": "Rise",
@@ -349,21 +371,25 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            53,
+            9648,
+            27
         ],
-        "id": 1465784,
+        "id": 1480785,
         "original_language": "en",
-        "original_title": "Jimmy & the Demons",
+        "original_title": "Snap",
         "overview": "",
-        "popularity": 0.3482,
-        "poster_path": null,
+        "popularity": 0.4403,
+        "poster_path": "/h3Wtc8ASlWIoJvG0Q1RItT2uDYu.jpg",
         "release_date": "2025-06-08",
-        "title": "Jimmy & the Demons",
+        "title": "Snap",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "惊悚",
+            "悬疑",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -378,7 +404,7 @@
         "original_language": "en",
         "original_title": "Difference & Repetition, 2020",
         "overview": "",
-        "popularity": 0.2489,
+        "popularity": 0.326,
         "poster_path": "/pQ5yHbg2nVo3U7BLvzBAUr7qSFR.jpg",
         "release_date": "2025-06-08",
         "title": "Difference & Repetition, 2020",
@@ -395,32 +421,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            53,
-            9648,
-            27
-        ],
-        "id": 1480785,
-        "original_language": "en",
-        "original_title": "Snap",
-        "overview": "",
-        "popularity": 0.2578,
-        "poster_path": "/h3Wtc8ASlWIoJvG0Q1RItT2uDYu.jpg",
-        "release_date": "2025-06-08",
-        "title": "Snap",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "悬疑",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18,
             35
         ],
@@ -428,7 +428,7 @@
         "original_language": "en",
         "original_title": "1963",
         "overview": "",
-        "popularity": 0.1928,
+        "popularity": 0.1477,
         "poster_path": "/6fbFSXsWgFaO5PmTycXf93VM91P.jpg",
         "release_date": "2025-06-08",
         "title": "1963",
@@ -443,25 +443,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7NwIKhZFejtGVjkhBWCTem82OWx.jpg",
+        "backdrop_path": "/seKEsvpQU2d72BpmzOJQS5ZiMib.jpg",
         "genre_ids": [
-            53,
-            18
+            27,
+            53
         ],
-        "id": 1492114,
+        "id": 1492205,
         "original_language": "en",
-        "original_title": "Termination Date",
+        "original_title": "Playback",
         "overview": "",
-        "popularity": 0.0971,
-        "poster_path": "/fXuXoc0iOZB9lUW4SPDjfqZg2uK.jpg",
+        "popularity": 0.1507,
+        "poster_path": "/1YogEPt5RodLMFKiMt2e0niWV6T.jpg",
         "release_date": "2025-06-08",
-        "title": "Termination Date",
+        "title": "Playback",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚",
-            "剧情"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -475,7 +475,7 @@
         "original_language": "en",
         "original_title": "Dead Serious",
         "overview": "",
-        "popularity": 0.1073,
+        "popularity": 0.1578,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "Dead Serious",
@@ -497,7 +497,7 @@
         "original_language": "en",
         "original_title": "Life with an Idiot",
         "overview": "",
-        "popularity": 0.1063,
+        "popularity": 0.0736,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "Life with an Idiot",
@@ -506,6 +506,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7NwIKhZFejtGVjkhBWCTem82OWx.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1492114,
+        "original_language": "en",
+        "original_title": "Termination Date",
+        "overview": "",
+        "popularity": 0.1474,
+        "poster_path": "/fXuXoc0iOZB9lUW4SPDjfqZg2uK.jpg",
+        "release_date": "2025-06-08",
+        "title": "Termination Date",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -541,7 +565,7 @@
         "original_language": "en",
         "original_title": "Star Wars: Visions \"Black\"",
         "overview": "",
-        "popularity": 0.0613,
+        "popularity": 0.1297,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "Star Wars: Visions \"Black\"",
@@ -564,7 +588,7 @@
         "original_language": "en",
         "original_title": "Carcassonne-Acapulco",
         "overview": "",
-        "popularity": 0.0479,
+        "popularity": 0.0357,
         "poster_path": "/bIIgiFwEQjWpEpDV0cwjWsjHPC2.jpg",
         "release_date": "2025-06-08",
         "title": "Carcassonne-Acapulco",
@@ -637,7 +661,7 @@
         "original_language": "en",
         "original_title": "Seduced By His Lies",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.1465,
         "poster_path": "/xPsOBqPeybLt40qX4mkGOoFNA34.jpg",
         "release_date": "2025-06-08",
         "title": "Seduced By His Lies",
@@ -660,7 +684,7 @@
         "original_language": "en",
         "original_title": "Dahlias are Never Blue",
         "overview": "",
-        "popularity": 0.0264,
+        "popularity": 0.0503,
         "poster_path": "/j7rWJJGDAy6pTE4N3KazKBYQNuy.jpg",
         "release_date": "2025-06-08",
         "title": "Dahlias are Never Blue",
@@ -684,7 +708,7 @@
         "original_language": "en",
         "original_title": "PISS: The Movie",
         "overview": "",
-        "popularity": 0.0261,
+        "popularity": 0.0848,
         "poster_path": "/mn1rHtJ1ZCFKuhSQijR3BUdKBXG.jpg",
         "release_date": "2025-06-08",
         "title": "PISS: The Movie",
@@ -707,7 +731,7 @@
         "original_language": "en",
         "original_title": "A Walk Into The Afterlife",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0261,
         "poster_path": "/t8HIZ5xtZzrQCYq2gB31jdH4IHr.jpg",
         "release_date": "2025-06-08",
         "title": "A Walk Into The Afterlife",
@@ -730,7 +754,7 @@
         "original_language": "ja",
         "original_title": "アメガラス",
         "overview": "",
-        "popularity": 1.131,
+        "popularity": 0.8681,
         "poster_path": "/bIZk4QGqMTECzlfKqaiAmI2BDQZ.jpg",
         "release_date": "2025-06-08",
         "title": "アメガラス",
@@ -753,7 +777,7 @@
         "original_language": "ko",
         "original_title": "종이 울리는 순간",
         "overview": "",
-        "popularity": 0.2812,
+        "popularity": 0.244,
         "poster_path": "/bH6LJMjEj2J3TXSZ9Myp01K1njm.jpg",
         "release_date": "2025-06-08",
         "title": "종이 울리는 순간",
@@ -775,7 +799,7 @@
         "original_language": "ko",
         "original_title": "운 좋게 살아 남았다, 나는",
         "overview": "",
-        "popularity": 0.227,
+        "popularity": 0.1328,
         "poster_path": null,
         "release_date": "2025-06-08",
         "title": "운 좋게 살아 남았다, 나는",
@@ -1017,7 +1041,7 @@
         "original_language": "it",
         "original_title": "Il faro - Il fantastico viaggio della Banda Rulli Frulli",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0281,
         "poster_path": "/SwZIWmkew1jYtvuL8nmmqePk8L.jpg",
         "release_date": "2025-06-08",
         "title": "Il faro - Il fantastico viaggio della Banda Rulli Frulli",
@@ -1039,7 +1063,7 @@
         "original_language": "it",
         "original_title": "La macchina di Renato",
         "overview": "",
-        "popularity": 0.0214,
+        "popularity": 0.0286,
         "poster_path": "/o6B6DMQD8HbhSgaMQUGAxWZK45H.jpg",
         "release_date": "2025-06-08",
         "title": "La macchina di Renato",
