@@ -311,14 +311,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1465784,
+        "id": 1465549,
         "original_language": "en",
-        "original_title": "Jimmy & the Demons",
+        "original_title": "Bodyguard of Lies",
         "overview": "",
-        "popularity": 0.2809,
+        "popularity": 0.3734,
         "poster_path": null,
         "release_date": "2025-06-08",
-        "title": "Jimmy & the Demons",
+        "title": "Bodyguard of Lies",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -333,14 +333,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1465549,
+        "id": 1465784,
         "original_language": "en",
-        "original_title": "Bodyguard of Lies",
+        "original_title": "Jimmy & The Demons",
         "overview": "",
-        "popularity": 0.3734,
+        "popularity": 0.2809,
         "poster_path": null,
         "release_date": "2025-06-08",
-        "title": "Bodyguard of Lies",
+        "title": "Jimmy & The Demons",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -745,6 +745,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1494674,
+        "original_language": "en",
+        "original_title": "Vinayaka",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/sN1ViPkDsmdCTpNqRWgA5IEPsXZ.jpg",
+        "release_date": "2025-06-08",
+        "title": "Vinayaka",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lcxRzYyiqK46UHygV3ytPRG1jFh.jpg",
         "genre_ids": [
             18,
@@ -759,8 +777,8 @@
         "release_date": "2025-06-08",
         "title": "アメガラス",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "科幻"
@@ -859,28 +877,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5RnTvl99XUYgfGmiLunYTkyB28u.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1465800,
-        "original_language": "es",
-        "original_title": "All We Cannot See",
-        "overview": "",
-        "popularity": 0.3401,
-        "poster_path": null,
-        "release_date": "2025-06-08",
-        "title": "All We Cannot See",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1eOKyAFiCkk8jMl6I3RdYWUnizA.jpg",
         "genre_ids": [
             18
@@ -893,6 +889,28 @@
         "poster_path": "/A4RINB3qiIA1cb4BochbSUlRYFV.jpg",
         "release_date": "2025-06-08",
         "title": "Los inocentes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5RnTvl99XUYgfGmiLunYTkyB28u.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1465800,
+        "original_language": "es",
+        "original_title": "All We Cannot See",
+        "overview": "",
+        "popularity": 0.3401,
+        "poster_path": null,
+        "release_date": "2025-06-08",
+        "title": "All We Cannot See",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
