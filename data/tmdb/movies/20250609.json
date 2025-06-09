@@ -1856,7 +1856,7 @@
         "original_language": "de",
         "original_title": "Die Amsel auf dem Ast",
         "overview": "",
-        "popularity": 0.1517,
+        "popularity": 0.106,
         "poster_path": "/52BxqsiRqzhMFmgzeuk8qN4DDHj.jpg",
         "release_date": "2025-06-09",
         "title": "Die Amsel auf dem Ast",
@@ -1874,15 +1874,14 @@
         "backdrop_path": null,
         "genre_ids": [
             16,
-            10402,
             878
         ],
         "id": 1472141,
         "original_language": "fr",
         "original_title": "Signal",
         "overview": "",
-        "popularity": 0.1681,
-        "poster_path": "/qD66MXtNsCUYduBercV5OIYFf1Q.jpg",
+        "popularity": 0.31,
+        "poster_path": "/jyB5AZH1sMMZadz1GYfSJZ0fBOR.jpg",
         "release_date": "2025-06-09",
         "title": "Signal",
         "video": false,
@@ -1890,32 +1889,7 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画",
-            "音乐",
             "科幻"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/1ZQFukYbuuyYzefDJd55f6Hy7jd.jpg",
-        "genre_ids": [
-            16,
-            18
-        ],
-        "id": 676527,
-        "original_language": "fr",
-        "original_title": "Allah n'est pas obligé",
-        "overview": "",
-        "popularity": 0.1182,
-        "poster_path": "/seD6tH0gyPRDubrRjefAwdNqnwG.jpg",
-        "release_date": "2025-06-09",
-        "title": "Allah n'est pas obligé",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情"
         ],
         "original_language_zh": "法语"
     },
@@ -1930,7 +1904,7 @@
         "original_language": "fr",
         "original_title": "Mary Anning",
         "overview": "",
-        "popularity": 0.1663,
+        "popularity": 0.1481,
         "poster_path": "/nsgQfSWqkrZ2Pyy55gKkevdiGY1.jpg",
         "release_date": "2025-06-09",
         "title": "Mary Anning",
@@ -1940,6 +1914,30 @@
         "genre_ids_zh": [
             "动画",
             "家庭"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1ZQFukYbuuyYzefDJd55f6Hy7jd.jpg",
+        "genre_ids": [
+            16,
+            18
+        ],
+        "id": 676527,
+        "original_language": "fr",
+        "original_title": "Allah n'est pas obligé",
+        "overview": "",
+        "popularity": 0.2008,
+        "poster_path": "/seD6tH0gyPRDubrRjefAwdNqnwG.jpg",
+        "release_date": "2025-06-09",
+        "title": "Allah n'est pas obligé",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
