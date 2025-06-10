@@ -1,6 +1,30 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            12
+        ],
+        "id": 1495792,
+        "original_language": "zh",
+        "original_title": "楚幽秘境",
+        "overview": "影片主要讲述了由居来提饰演的发丘传人吴琪与挚友王富贵为寻找师父下落意外与军阀小姐林真真发生冲突，却不料三人均落入反派红菱计谋中。一场谈判后，三方势力各怀目的入墓。吴琪以发丘秘法寻穴定位巧破机关，带领众人在墓中死里逃生的故事。",
+        "popularity": 0.0,
+        "poster_path": "/fd89VOqRa2mppR5nUJCfGjdtGbA.jpg",
+        "release_date": "2025-06-11",
+        "title": "楚幽秘境",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "冒险"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eIAv8gvn1VJGIxGNZ88C8A0bkHl.jpg",
         "genre_ids": [
             16,
@@ -409,6 +433,34 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/31VzNYxbbiOB0X0tJjLIinLDTHK.jpg",
+        "genre_ids": [
+            53,
+            27,
+            9648,
+            35
+        ],
+        "id": 1327794,
+        "original_language": "en",
+        "original_title": "TAKEN",
+        "overview": "",
+        "popularity": 0.0835,
+        "poster_path": "/wJ86ly1WI7V7enzUg3NNZMgohqu.jpg",
+        "release_date": "2025-06-11",
+        "title": "TAKEN",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖",
+            "悬疑",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
