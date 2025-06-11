@@ -1044,7 +1044,7 @@
         "original_language": "th",
         "original_title": "ฮักสัปปะลี่กับคดีสีชมพู",
         "overview": "",
-        "popularity": 0.6623,
+        "popularity": 0.7269,
         "poster_path": "/eCvxNIce2nklqyUMvj7Stai32i5.jpg",
         "release_date": "2025-06-11",
         "title": "ฮักสัปปะลี่กับคดีสีชมพู",
@@ -1319,7 +1319,7 @@
         "original_language": "es",
         "original_title": "Nuestros tiempos",
         "overview": "",
-        "popularity": 1.4063,
+        "popularity": 1.8287,
         "poster_path": "/fNKifUfhBGmRCi5gNIlBDQtRj9r.jpg",
         "release_date": "2025-06-11",
         "title": "Nuestros tiempos",
@@ -1335,7 +1335,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/bhNUdRQncdkT8KhfMtdN2lbN46Q.jpg",
         "genre_ids": [
             18,
             9648,
@@ -1345,7 +1345,7 @@
         "original_language": "pt",
         "original_title": "Sonhos em Claro",
         "overview": "",
-        "popularity": 0.0807,
+        "popularity": 0.1382,
         "poster_path": "/ykpcsttVI8XL5Z1xtkGYkdFBzdg.jpg",
         "release_date": "2025-06-11",
         "title": "Sonhos em Claro",
@@ -1369,7 +1369,7 @@
         "original_language": "pt",
         "original_title": "Laços que o Tempo Não Rompe",
         "overview": "",
-        "popularity": 0.0718,
+        "popularity": 0.0577,
         "poster_path": "/316sMGxTVOb3vqV30rI5xjyAXuL.jpg",
         "release_date": "2025-06-11",
         "title": "Laços que o Tempo Não Rompe",
@@ -1385,13 +1385,57 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1485428,
+        "original_language": "pt",
+        "original_title": "Nem te Conto",
+        "overview": "",
+        "popularity": 0.0445,
+        "poster_path": null,
+        "release_date": "2025-06-11",
+        "title": "Nem te Conto",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1492862,
+        "original_language": "pt",
+        "original_title": "Anos 90: A Explosão do Pagode",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": null,
+        "release_date": "2025-06-11",
+        "title": "Anos 90: A Explosão do Pagode",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vfR48OGaUGbaoQ3UooFHyXdZrtl.jpg",
+        "genre_ids": [
             18
         ],
         "id": 1485218,
         "original_language": "pt",
         "original_title": "Encontro Marcado",
         "overview": "",
-        "popularity": 0.0239,
+        "popularity": 0.0214,
         "poster_path": "/b8qftogsogDptZON1LAFpELeaSX.jpg",
         "release_date": "2025-06-11",
         "title": "Encontro Marcado",
@@ -1409,41 +1453,19 @@
         "genre_ids": [
             99
         ],
-        "id": 1492862,
+        "id": 1496133,
         "original_language": "pt",
-        "original_title": "Anos 90: A Explosão do Pagode",
+        "original_title": "O Último Varredor",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/kdtZwTSmwbliyXkG1rvPKAbmXgL.jpg",
         "release_date": "2025-06-11",
-        "title": "Anos 90: A Explosão do Pagode",
+        "title": "O Último Varredor",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1485428,
-        "original_language": "pt",
-        "original_title": "Nem te Conto",
-        "overview": "",
-        "popularity": 0.051,
-        "poster_path": null,
-        "release_date": "2025-06-11",
-        "title": "Nem te Conto",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1501,7 +1523,7 @@
         "original_language": "it",
         "original_title": "Mireille and Antonio. À bout de petit souffle.",
         "overview": "",
-        "popularity": 0.0848,
+        "popularity": 0.1469,
         "poster_path": "/9rQBsbGffLPKaGIDHynQPKXonG2.jpg",
         "release_date": "2025-06-11",
         "title": "Mireille and Antonio. À bout de petit souffle.",
@@ -1523,7 +1545,7 @@
         "original_language": "nl",
         "original_title": "Kees vliegt écht uit",
         "overview": "",
-        "popularity": 0.1373,
+        "popularity": 0.1225,
         "poster_path": null,
         "release_date": "2025-06-11",
         "title": "Kees vliegt écht uit",
