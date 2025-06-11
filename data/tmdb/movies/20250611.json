@@ -907,6 +907,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1496094,
+        "original_language": "en",
+        "original_title": "Redwood Souvenirs",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/t5PrlqtbwfsGLuwI1kY73PA1n3v.jpg",
+        "release_date": "2025-06-11",
+        "title": "Redwood Souvenirs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1496140,
@@ -1353,30 +1375,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 1294706,
-        "original_language": "fr",
-        "original_title": "Le rendez-vous de l’été",
-        "overview": "　2024年巴黎奥运会。30岁的布兰丁从诺曼底来到巴黎观看游泳比赛。面对城市的喧嚣和忙碌，她感到迷失，似乎一切都不顺遂。她在巴黎的混乱中导航，经历了一次意想不到的重逢。",
-        "popularity": 0.3942,
-        "poster_path": "/6eqcRb1dlCJNUNp0NwntuzFeL1J.jpg",
-        "release_date": "2025-06-11",
-        "title": "巴黎夏日",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/A84lJJ3aGCmQUoQdWAOQwtF2EA2.jpg",
         "genre_ids": [
             35,
@@ -1396,6 +1394,30 @@
         "genre_ids_zh": [
             "喜剧",
             "爱情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1294706,
+        "original_language": "fr",
+        "original_title": "Le rendez-vous de l’été",
+        "overview": "　2024年巴黎奥运会。30岁的布兰丁从诺曼底来到巴黎观看游泳比赛。面对城市的喧嚣和忙碌，她感到迷失，似乎一切都不顺遂。她在巴黎的混乱中导航，经历了一次意想不到的重逢。",
+        "popularity": 0.3942,
+        "poster_path": "/6eqcRb1dlCJNUNp0NwntuzFeL1J.jpg",
+        "release_date": "2025-06-11",
+        "title": "巴黎夏日",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
@@ -1578,32 +1600,6 @@
             "纪录"
         ],
         "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/dD14o9KJDbmuJ80z4vKdVnQ0zks.jpg",
-        "genre_ids": [
-            878,
-            10749,
-            35
-        ],
-        "id": 1426680,
-        "original_language": "es",
-        "original_title": "Nuestros tiempos",
-        "overview": "",
-        "popularity": 1.8287,
-        "poster_path": "/fNKifUfhBGmRCi5gNIlBDQtRj9r.jpg",
-        "release_date": "2025-06-11",
-        "title": "Nuestros tiempos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "爱情",
-            "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
