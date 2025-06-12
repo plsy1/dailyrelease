@@ -481,6 +481,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            28
+        ],
+        "id": 1382510,
+        "original_language": "en",
+        "original_title": "Free Money",
+        "overview": "",
+        "popularity": 0.105,
+        "poster_path": "/o0oIk5LL6I4EHpOtYev3jj0lCmp.jpg",
+        "release_date": "2025-06-12",
+        "title": "Free Money",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27
         ],
         "id": 1492280,
@@ -587,30 +611,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            28
-        ],
-        "id": 1382510,
-        "original_language": "en",
-        "original_title": "Free Money",
-        "overview": "",
-        "popularity": 0.105,
-        "poster_path": "/o0oIk5LL6I4EHpOtYev3jj0lCmp.jpg",
-        "release_date": "2025-06-12",
-        "title": "Free Money",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/fOJapyMbkq8eSNGNN3Bp0Tz1fbF.jpg",
         "genre_ids": [
             18
@@ -628,6 +628,30 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1496557,
+        "original_language": "en",
+        "original_title": "Parallel of Dreams",
+        "overview": "",
+        "popularity": 0.05,
+        "poster_path": "/8KNdFPPshMn24A33fMBKrxZOZMy.jpg",
+        "release_date": "2025-06-12",
+        "title": "Parallel of Dreams",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -719,6 +743,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1496560,
+        "original_language": "en",
+        "original_title": "Erotomania",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": "/2ekeBHXvDpZRwLIohxI86W8AERa.jpg",
+        "release_date": "2025-06-12",
+        "title": "Erotomania",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hXLSTqEmajiMBsZ3dISzDSc2qE6.jpg",
         "genre_ids": [],
         "id": 1495961,
@@ -754,54 +802,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1496560,
-        "original_language": "en",
-        "original_title": "Erotomania",
-        "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/l5J9bvDNz9432dMcv63CAzd8swd.jpg",
-        "release_date": "2025-06-12",
-        "title": "Erotomania",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1496557,
-        "original_language": "en",
-        "original_title": "Parallel of Dreams",
-        "overview": "",
-        "popularity": 0.05,
-        "poster_path": "/8KNdFPPshMn24A33fMBKrxZOZMy.jpg",
-        "release_date": "2025-06-12",
-        "title": "Parallel of Dreams",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
