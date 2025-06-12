@@ -479,23 +479,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/h1nYXrF74tUaLOWwlSZ8PGtPhxf.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            27
         ],
-        "id": 1492294,
+        "id": 1492280,
         "original_language": "en",
-        "original_title": "If You Give a Chad a Spot",
+        "original_title": "Daddy",
         "overview": "",
-        "popularity": 0.0784,
-        "poster_path": "/sj8aENtpvL2bOWYgc4ngl2fn4NF.jpg",
+        "popularity": 0.0965,
+        "poster_path": "/j6FI0VGSsYamoYaFFKnadqKJ6yM.jpg",
         "release_date": "2025-06-12",
-        "title": "If You Give a Chad a Spot",
+        "title": "Daddy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -509,7 +509,7 @@
         "original_language": "en",
         "original_title": "Inang Reyna",
         "overview": "",
-        "popularity": 0.099,
+        "popularity": 0.0946,
         "poster_path": "/AgCDCO8Ew5C3Nphar77WNAUZRaR.jpg",
         "release_date": "2025-06-12",
         "title": "Inang Reyna",
@@ -532,7 +532,7 @@
         "original_language": "en",
         "original_title": "Zeke",
         "overview": "",
-        "popularity": 0.0846,
+        "popularity": 0.153,
         "poster_path": "/vsHeGg7h5OkZJBmO8voNqYLj1r0.jpg",
         "release_date": "2025-06-12",
         "title": "Zeke",
@@ -547,24 +547,22 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/wyr5QlNmhPlk2VsNpJZ777cgwDY.jpg",
+        "backdrop_path": "/h1nYXrF74tUaLOWwlSZ8PGtPhxf.jpg",
         "genre_ids": [
-            80,
             35
         ],
-        "id": 1472871,
+        "id": 1492294,
         "original_language": "en",
-        "original_title": "All Ears",
+        "original_title": "If You Give a Chad a Spot",
         "overview": "",
-        "popularity": 0.0474,
-        "poster_path": "/2d82TNapnr1ZeAQjJp71EM5Y89m.jpg",
+        "popularity": 0.0744,
+        "poster_path": "/sj8aENtpvL2bOWYgc4ngl2fn4NF.jpg",
         "release_date": "2025-06-12",
-        "title": "All Ears",
+        "title": "If You Give a Chad a Spot",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪",
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -577,7 +575,7 @@
         "original_language": "en",
         "original_title": "Minningaspor",
         "overview": "",
-        "popularity": 0.0676,
+        "popularity": 0.1432,
         "poster_path": null,
         "release_date": "2025-06-12",
         "title": "Minningaspor",
@@ -598,7 +596,7 @@
         "original_language": "en",
         "original_title": "Free Money",
         "overview": "",
-        "popularity": 0.0648,
+        "popularity": 0.105,
         "poster_path": "/o0oIk5LL6I4EHpOtYev3jj0lCmp.jpg",
         "release_date": "2025-06-12",
         "title": "Free Money",
@@ -621,7 +619,7 @@
         "original_language": "en",
         "original_title": "Messy",
         "overview": "",
-        "popularity": 0.0614,
+        "popularity": 0.0686,
         "poster_path": "/1ZlGuAlEBNPqNSGgItVVmv8jMG6.jpg",
         "release_date": "2025-06-12",
         "title": "Messy",
@@ -637,35 +635,13 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
-        ],
-        "id": 1493288,
-        "original_language": "en",
-        "original_title": "Just Your Average Family from the Inferno",
-        "overview": "",
-        "popularity": 0.0414,
-        "poster_path": "/z5JgSZDzbGGvGnFcPmfCCt18u8U.jpg",
-        "release_date": "2025-06-12",
-        "title": "Just Your Average Family from the Inferno",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1492222,
         "original_language": "en",
         "original_title": "Spectros: Algum Nome, Nenhum Rosto",
         "overview": "",
-        "popularity": 0.0486,
+        "popularity": 0.044,
         "poster_path": null,
         "release_date": "2025-06-12",
         "title": "Spectros: Algum Nome, Nenhum Rosto",
@@ -679,16 +655,80 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/wyr5QlNmhPlk2VsNpJZ777cgwDY.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 1472871,
+        "original_language": "en",
+        "original_title": "All Ears",
+        "overview": "",
+        "popularity": 0.0461,
+        "poster_path": "/2d82TNapnr1ZeAQjJp71EM5Y89m.jpg",
+        "release_date": "2025-06-12",
+        "title": "All Ears",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1491834,
         "original_language": "en",
         "original_title": "Now That We Are Sending You to The End",
         "overview": "",
-        "popularity": 0.0461,
+        "popularity": 0.0532,
         "poster_path": null,
         "release_date": "2025-06-12",
         "title": "Now That We Are Sending You to The End",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1493288,
+        "original_language": "en",
+        "original_title": "Just Your Average Family from the Inferno",
+        "overview": "",
+        "popularity": 0.0486,
+        "poster_path": "/z5JgSZDzbGGvGnFcPmfCCt18u8U.jpg",
+        "release_date": "2025-06-12",
+        "title": "Just Your Average Family from the Inferno",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hXLSTqEmajiMBsZ3dISzDSc2qE6.jpg",
+        "genre_ids": [],
+        "id": 1495961,
+        "original_language": "en",
+        "original_title": "nosebleed",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/lOa9egKRyhYcPiA3JX2zUkjQltC.jpg",
+        "release_date": "2025-06-12",
+        "title": "nosebleed",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -705,7 +745,7 @@
         "original_language": "en",
         "original_title": "67 Bombs to Enid",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0261,
         "poster_path": "/uvR8g7LWRG89oBb21TatCxjwRao.jpg",
         "release_date": "2025-06-12",
         "title": "67 Bombs to Enid",
@@ -719,16 +759,64 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hXLSTqEmajiMBsZ3dISzDSc2qE6.jpg",
-        "genre_ids": [],
-        "id": 1495961,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1496560,
         "original_language": "en",
-        "original_title": "nosebleed",
+        "original_title": "Erotomania",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/lOa9egKRyhYcPiA3JX2zUkjQltC.jpg",
+        "popularity": 0.0357,
+        "poster_path": "/l5J9bvDNz9432dMcv63CAzd8swd.jpg",
         "release_date": "2025-06-12",
-        "title": "nosebleed",
+        "title": "Erotomania",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1496557,
+        "original_language": "en",
+        "original_title": "Parallel of Dreams",
+        "overview": "",
+        "popularity": 0.05,
+        "poster_path": "/8KNdFPPshMn24A33fMBKrxZOZMy.jpg",
+        "release_date": "2025-06-12",
+        "title": "Parallel of Dreams",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8gNbR2Zr72RqaukiuvFZtTbfCMQ.jpg",
+        "genre_ids": [],
+        "id": 1496536,
+        "original_language": "en",
+        "original_title": "Vengeful Intentions",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/hdUWthxQ8Nql4p9Qi2ainC7IKJ0.jpg",
+        "release_date": "2025-06-12",
+        "title": "Vengeful Intentions",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -977,7 +1065,7 @@
         "original_language": "pt",
         "original_title": "A Sogra Perfeita 2",
         "overview": "",
-        "popularity": 0.3461,
+        "popularity": 0.445,
         "poster_path": "/oylcjO1nUKybo5wGiawu6RaSRGO.jpg",
         "release_date": "2025-06-12",
         "title": "A Sogra Perfeita 2",
@@ -999,7 +1087,7 @@
         "original_language": "pt",
         "original_title": "A Caverna",
         "overview": "",
-        "popularity": 0.1858,
+        "popularity": 0.2013,
         "poster_path": "/kOpw81sWjn6osAoqgX4V5ErY0sx.jpg",
         "release_date": "2025-06-12",
         "title": "A Caverna",
@@ -1019,7 +1107,7 @@
         "original_language": "pt",
         "original_title": "Lança-Foguete",
         "overview": "",
-        "popularity": 0.1549,
+        "popularity": 0.1051,
         "poster_path": "/2SoDdFMN4gCZuQdrJGgbJIsORhz.jpg",
         "release_date": "2025-06-12",
         "title": "Lança-Foguete",
@@ -1037,7 +1125,7 @@
         "original_language": "pt",
         "original_title": "Itatira",
         "overview": "",
-        "popularity": 0.0621,
+        "popularity": 0.0474,
         "poster_path": "/tGfjt7VLI1BSwtW4y6i1siuXUPj.jpg",
         "release_date": "2025-06-12",
         "title": "Itatira",
@@ -1045,6 +1133,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qbv4vfvoy4i0Yw6fEwlWLct3CMl.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1496175,
+        "original_language": "pt",
+        "original_title": "Ainda não Passou",
+        "overview": "",
+        "popularity": 0.0857,
+        "poster_path": "/8T3TXn1oUoHtFhcD9Co4zGW4lqJ.jpg",
+        "release_date": "2025-06-12",
+        "title": "Ainda não Passou",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
