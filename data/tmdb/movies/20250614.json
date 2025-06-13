@@ -51,28 +51,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10770
-        ],
-        "id": 1484175,
-        "original_language": "zh",
-        "original_title": "慶祝",
-        "overview": "",
-        "popularity": 0.6108,
-        "poster_path": "/2u9c6PPdoXYj28AeTB0qCpOLEo3.jpg",
-        "release_date": "2025-06-14",
-        "title": "慶祝",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "电视电影"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/A2qHtWZ1Y5jcewV1q0GMPKAVpYy.jpg",
         "genre_ids": [
             18,
@@ -97,6 +75,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770
+        ],
+        "id": 1484175,
+        "original_language": "zh",
+        "original_title": "慶祝",
+        "overview": "",
+        "popularity": 0.6108,
+        "poster_path": "/2u9c6PPdoXYj28AeTB0qCpOLEo3.jpg",
+        "release_date": "2025-06-14",
+        "title": "慶祝",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "电视电影"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/w80DQvXqTB6vN7b31O6FWbDFY5K.jpg",
         "genre_ids": [
             16
@@ -110,34 +110,12 @@
         "release_date": "2025-06-14",
         "title": "斗罗大陆剧场版：剑道尘心",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动画"
         ],
         "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 946958,
-        "original_language": "en",
-        "original_title": "Clean Water",
-        "overview": "",
-        "popularity": 0.7086,
-        "poster_path": "/68uzZuliHml6WGOvbaNU3LJ2Lo0.jpg",
-        "release_date": "2025-06-14",
-        "title": "Clean Water",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -162,6 +140,28 @@
             "电视电影",
             "喜剧",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 946958,
+        "original_language": "en",
+        "original_title": "Clean Water",
+        "overview": "",
+        "popularity": 0.7086,
+        "poster_path": "/68uzZuliHml6WGOvbaNU3LJ2Lo0.jpg",
+        "release_date": "2025-06-14",
+        "title": "Clean Water",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -213,28 +213,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1484544,
-        "original_language": "en",
-        "original_title": "Good Shot",
-        "overview": "",
-        "popularity": 0.3884,
-        "poster_path": "/4lifnNjWXWLwv3hbEEVcb18BtK4.jpg",
-        "release_date": "2025-06-14",
-        "title": "Good Shot",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/9LSsMYUskn8w2Tk6Mv1WboUBXCF.jpg",
         "genre_ids": [
             18
@@ -252,6 +230,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1484544,
+        "original_language": "en",
+        "original_title": "Good Shot",
+        "overview": "",
+        "popularity": 0.3884,
+        "poster_path": "/4lifnNjWXWLwv3hbEEVcb18BtK4.jpg",
+        "release_date": "2025-06-14",
+        "title": "Good Shot",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -276,28 +276,6 @@
         "genre_ids_zh": [
             "剧情",
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/fWPsW0rXu40oG45fMLVG9eDcigN.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1461938,
-        "original_language": "en",
-        "original_title": "Before You",
-        "overview": "",
-        "popularity": 0.2151,
-        "poster_path": "/mcB0d5BozWf5hNiYi5N0khe5lyJ.jpg",
-        "release_date": "2025-06-14",
-        "title": "Before You",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -353,69 +331,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/fWPsW0rXu40oG45fMLVG9eDcigN.jpg",
         "genre_ids": [
             18
         ],
-        "id": 1221946,
+        "id": 1461938,
         "original_language": "en",
-        "original_title": "Bloodstained Ivory",
+        "original_title": "Before You",
         "overview": "",
-        "popularity": 0.1731,
-        "poster_path": "/uZ1E4dUYVSjiYv46ddu10S4ASxi.jpg",
+        "popularity": 0.2151,
+        "poster_path": "/mcB0d5BozWf5hNiYi5N0khe5lyJ.jpg",
         "release_date": "2025-06-14",
-        "title": "Bloodstained Ivory",
+        "title": "Before You",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1488013,
-        "original_language": "en",
-        "original_title": "Tied",
-        "overview": "",
-        "popularity": 0.114,
-        "poster_path": "/5DQtNHoW61zw5VWffKLMeUtuZrc.jpg",
-        "release_date": "2025-06-14",
-        "title": "Tied",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1477306,
-        "original_language": "en",
-        "original_title": "Coach",
-        "overview": "",
-        "popularity": 0.1504,
-        "poster_path": null,
-        "release_date": "2025-06-14",
-        "title": "Coach",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -438,6 +370,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1221946,
+        "original_language": "en",
+        "original_title": "Bloodstained Ivory",
+        "overview": "",
+        "popularity": 0.1731,
+        "poster_path": "/uZ1E4dUYVSjiYv46ddu10S4ASxi.jpg",
+        "release_date": "2025-06-14",
+        "title": "Bloodstained Ivory",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -471,38 +425,16 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35
-        ],
-        "id": 1476917,
-        "original_language": "en",
-        "original_title": "Mates",
-        "overview": "",
-        "popularity": 0.1287,
-        "poster_path": "/iuF6yzjDq9SVKvvS9l4eqCtURvG.jpg",
-        "release_date": "2025-06-14",
-        "title": "Mates",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rbzbXiusRE5rliV7uIIajq22fQU.jpg",
-        "genre_ids": [
             99
         ],
-        "id": 1477503,
+        "id": 1477306,
         "original_language": "en",
-        "original_title": "Floodland",
+        "original_title": "Coach",
         "overview": "",
-        "popularity": 0.1104,
-        "poster_path": "/7JYMJDaO97wt8bgm4OorUX2YLcN.jpg",
+        "popularity": 0.1504,
+        "poster_path": null,
         "release_date": "2025-06-14",
-        "title": "Floodland",
+        "title": "Coach",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -535,23 +467,69 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/urQ9pU08lOdOFKESL5lKY72Qg7G.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            35
         ],
-        "id": 1275400,
+        "id": 1476917,
         "original_language": "en",
-        "original_title": "Play Date",
+        "original_title": "Mates",
         "overview": "",
-        "popularity": 0.0814,
-        "poster_path": "/4inngD0WkyK4dCck1Y5il90wtix.jpg",
+        "popularity": 0.1287,
+        "poster_path": "/iuF6yzjDq9SVKvvS9l4eqCtURvG.jpg",
         "release_date": "2025-06-14",
-        "title": "Play Date",
+        "title": "Mates",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1488013,
+        "original_language": "en",
+        "original_title": "Tied",
+        "overview": "",
+        "popularity": 0.114,
+        "poster_path": "/5DQtNHoW61zw5VWffKLMeUtuZrc.jpg",
+        "release_date": "2025-06-14",
+        "title": "Tied",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rbzbXiusRE5rliV7uIIajq22fQU.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1477503,
+        "original_language": "en",
+        "original_title": "Floodland",
+        "overview": "",
+        "popularity": 0.1104,
+        "poster_path": "/7JYMJDaO97wt8bgm4OorUX2YLcN.jpg",
+        "release_date": "2025-06-14",
+        "title": "Floodland",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -579,76 +557,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kog5gHMrGPxDQJaGrmTqVS78bF5.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1492783,
-        "original_language": "en",
-        "original_title": "Stitches",
-        "overview": "",
-        "popularity": 0.0857,
-        "poster_path": "/iMPblVA8H5bE4a25rUFFPFw8uGQ.jpg",
-        "release_date": "2025-06-14",
-        "title": "Stitches",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 1325512,
-        "original_language": "en",
-        "original_title": "Button Pusher",
-        "overview": "",
-        "popularity": 0.0832,
-        "poster_path": "/gqNA9CUb7DzHssieVIPfGXboK1x.jpg",
-        "release_date": "2025-06-14",
-        "title": "Button Pusher",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            10751
-        ],
-        "id": 1476904,
-        "original_language": "en",
-        "original_title": "Moment",
-        "overview": "",
-        "popularity": 0.085,
-        "poster_path": "/9ZsE0AIig9Ru6DJm85e4G0q2Qhz.jpg",
-        "release_date": "2025-06-14",
-        "title": "Moment",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -661,28 +569,6 @@
         "poster_path": null,
         "release_date": "2025-06-14",
         "title": "Mango Seed",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kRmyvo4fspNc6j1jKQpJ7bvNfvL.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1480973,
-        "original_language": "en",
-        "original_title": "White Lines",
-        "overview": "",
-        "popularity": 0.066,
-        "poster_path": "/2hrLkoPmGMamAOn7RZYO5xK2RcA.jpg",
-        "release_date": "2025-06-14",
-        "title": "White Lines",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -721,6 +607,120 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/kog5gHMrGPxDQJaGrmTqVS78bF5.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1492783,
+        "original_language": "en",
+        "original_title": "Stitches",
+        "overview": "",
+        "popularity": 0.0857,
+        "poster_path": "/iMPblVA8H5bE4a25rUFFPFw8uGQ.jpg",
+        "release_date": "2025-06-14",
+        "title": "Stitches",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            10751
+        ],
+        "id": 1476904,
+        "original_language": "en",
+        "original_title": "Moment",
+        "overview": "",
+        "popularity": 0.085,
+        "poster_path": "/9ZsE0AIig9Ru6DJm85e4G0q2Qhz.jpg",
+        "release_date": "2025-06-14",
+        "title": "Moment",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1325512,
+        "original_language": "en",
+        "original_title": "Button Pusher",
+        "overview": "",
+        "popularity": 0.0832,
+        "poster_path": "/gqNA9CUb7DzHssieVIPfGXboK1x.jpg",
+        "release_date": "2025-06-14",
+        "title": "Button Pusher",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tVPc0P7VCkn5Ymjv5b9I9kIQJ1g.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1476343,
+        "original_language": "en",
+        "original_title": "இரத்த தானம் செய்",
+        "overview": "",
+        "popularity": 0.0828,
+        "poster_path": "/aiH5mVaeDSGJOQpVixdU16mFcyx.jpg",
+        "release_date": "2025-06-14",
+        "title": "இரத்த தானம் செய்",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/urQ9pU08lOdOFKESL5lKY72Qg7G.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1275400,
+        "original_language": "en",
+        "original_title": "Play Date",
+        "overview": "",
+        "popularity": 0.0814,
+        "poster_path": "/4inngD0WkyK4dCck1Y5il90wtix.jpg",
+        "release_date": "2025-06-14",
+        "title": "Play Date",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wcyMYfgSQSZTOiOFBUrx3avq8KS.jpg",
         "genre_ids": [
             53,
@@ -747,6 +747,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/fAoKEc0wa3m1eZavBSjwpC1aUZb.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1496049,
+        "original_language": "en",
+        "original_title": "Never One",
+        "overview": "",
+        "popularity": 0.0702,
+        "poster_path": "/pVMyLrxw7BoLSM79RezzdbJ9X4y.jpg",
+        "release_date": "2025-06-14",
+        "title": "Never One",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/A5HRAOyhA1AP7nB44HgpXZiAPTV.jpg",
         "genre_ids": [
             99
@@ -764,6 +786,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kRmyvo4fspNc6j1jKQpJ7bvNfvL.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1480973,
+        "original_language": "en",
+        "original_title": "White Lines",
+        "overview": "",
+        "popularity": 0.066,
+        "poster_path": "/2hrLkoPmGMamAOn7RZYO5xK2RcA.jpg",
+        "release_date": "2025-06-14",
+        "title": "White Lines",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -793,46 +837,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tVPc0P7VCkn5Ymjv5b9I9kIQJ1g.jpg",
-        "genre_ids": [
-            10402
-        ],
-        "id": 1476343,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1476911,
         "original_language": "en",
-        "original_title": "இரத்த தானம் செய்",
+        "original_title": "Faceless",
         "overview": "",
-        "popularity": 0.0828,
-        "poster_path": "/aiH5mVaeDSGJOQpVixdU16mFcyx.jpg",
+        "popularity": 0.0357,
+        "poster_path": "/mEcpODPBxC9Tpg50koJPtUJVtyi.jpg",
         "release_date": "2025-06-14",
-        "title": "இரத்த தானம் செய்",
+        "title": "Faceless",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/fAoKEc0wa3m1eZavBSjwpC1aUZb.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1496049,
-        "original_language": "en",
-        "original_title": "Never One",
-        "overview": "",
-        "popularity": 0.0702,
-        "poster_path": "/pVMyLrxw7BoLSM79RezzdbJ9X4y.jpg",
-        "release_date": "2025-06-14",
-        "title": "Never One",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -855,24 +873,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1476911,
-        "original_language": "en",
-        "original_title": "Faceless",
-        "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/mEcpODPBxC9Tpg50koJPtUJVtyi.jpg",
-        "release_date": "2025-06-14",
-        "title": "Faceless",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1156,8 +1156,8 @@
         "release_date": "2025-06-14",
         "title": "Hardcore 90",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
