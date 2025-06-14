@@ -75,8 +75,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ej4LygTAmb563c4LffTcvUfJmkO.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/uncG6N1MqZfrdTvgupyWWkgh6kX.jpg",
+        "genre_ids": [
+            99
+        ],
         "id": 293708,
         "origin_country": [
             "英国"
@@ -90,7 +92,9 @@
         "name": "Shifty",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
