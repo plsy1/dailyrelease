@@ -89,6 +89,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/uDcpq6kDdNDJ4g5bh1ww8H7y1fX.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1492741,
+        "original_language": "en",
+        "original_title": "An Idiot's Guide to University",
+        "overview": "",
+        "popularity": 0.1958,
+        "poster_path": "/6mEnAUaVDa3i1CmR1ikTtgRszSp.jpg",
+        "release_date": "2025-06-16",
+        "title": "An Idiot's Guide to University",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -110,28 +132,6 @@
             "剧情",
             "喜剧",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/uDcpq6kDdNDJ4g5bh1ww8H7y1fX.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1492741,
-        "original_language": "en",
-        "original_title": "An Idiot's Guide to University",
-        "overview": "",
-        "popularity": 0.1958,
-        "poster_path": "/6mEnAUaVDa3i1CmR1ikTtgRszSp.jpg",
-        "release_date": "2025-06-16",
-        "title": "An Idiot's Guide to University",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -185,23 +185,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vI9tmzZX6wWfGDg9z5qb4JJVhc4.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            35,
+            53
         ],
-        "id": 1498529,
+        "id": 1497246,
         "original_language": "en",
-        "original_title": "Purée",
+        "original_title": "PARA",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/iMM0O5EBEoqLVp9tk6YMHfskuHX.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/a9NDLmW9vrxmF0CLVRFEGEsBFu3.jpg",
         "release_date": "2025-06-16",
-        "title": "Purée",
+        "title": "PARA",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "喜剧",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -221,6 +223,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vI9tmzZX6wWfGDg9z5qb4JJVhc4.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1498529,
+        "original_language": "en",
+        "original_title": "Purée",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/iMM0O5EBEoqLVp9tk6YMHfskuHX.jpg",
+        "release_date": "2025-06-16",
+        "title": "Purée",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -268,6 +292,32 @@
             "冒险"
         ],
         "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tAuVNd6OunYDgVJcKul9pP3N36i.jpg",
+        "genre_ids": [
+            18,
+            53,
+            878
+        ],
+        "id": 1384993,
+        "original_language": "es",
+        "original_title": "Destellos del Extrarradio",
+        "overview": "",
+        "popularity": 0.15,
+        "poster_path": "/aZzBdo9CYA7zgLgTcAGx0Xipkr2.jpg",
+        "release_date": "2025-06-16",
+        "title": "Destellos del Extrarradio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "科幻"
+        ],
+        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
