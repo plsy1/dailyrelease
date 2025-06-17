@@ -69,6 +69,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1486575,
+        "original_language": "en",
+        "original_title": "Justin Willman: Magic Lover",
+        "overview": "",
+        "popularity": 0.1894,
+        "poster_path": "/fLIloyzdb1PU9Hvnhw5DVFk7XGB.jpg",
+        "release_date": "2025-06-17",
+        "title": "Justin Willman: Magic Lover",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pqvRmoUbUT2jAV4uD3qQE5dt20W.jpg",
         "genre_ids": [
             18
@@ -122,8 +144,8 @@
         "release_date": "2025-06-17",
         "title": "The Seeds of a Eulogy",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
         ],
@@ -205,6 +227,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/25F6z54p7mTcsrYzQH5BcDtvxnq.jpg",
+        "genre_ids": [
+            35,
+            12
+        ],
+        "id": 1499521,
+        "original_language": "en",
+        "original_title": "How to Walk to Your Friend's House Without Getting Lost",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/z7nuVzat4BNHMnaWc8gtc4aHEbG.jpg",
+        "release_date": "2025-06-17",
+        "title": "How to Walk to Your Friend's House Without Getting Lost",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/TougqkulwdMqD3MnWHNgrLt39J.jpg",
         "genre_ids": [
             99
@@ -263,6 +309,28 @@
         "poster_path": null,
         "release_date": "2025-06-17",
         "title": "Hudson Bay(bies), l’héritage méconnu",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1499615,
+        "original_language": "fr",
+        "original_title": "Nuisibles de l'été, la guerre est déclarée",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ioB3Ea2ju9fdF6hm2kbSTVmwDfz.jpg",
+        "release_date": "2025-06-17",
+        "title": "Nuisibles de l'été, la guerre est déclarée",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -359,6 +427,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1499614,
+        "original_language": "es",
+        "original_title": "Morata: no saben quién soy",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9e2mM2irDPdqTJbZqhFbrrplWrX.jpg",
+        "release_date": "2025-06-17",
+        "title": "Morata: no saben quién soy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3SaFvN7NjViytFirPXm0PZCjd0l.jpg",
         "genre_ids": [
             878
@@ -402,5 +488,23 @@
             "爱情"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1499601,
+        "original_language": "it",
+        "original_title": "Io credo nell'inconoscibile",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-06-17",
+        "title": "Io credo nell'inconoscibile",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "意大利语"
     }
 ]
