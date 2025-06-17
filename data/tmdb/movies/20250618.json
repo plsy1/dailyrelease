@@ -63,7 +63,7 @@
         "title": "惊变28年",
         "video": false,
         "vote_average": 7.0,
-        "vote_count": 4,
+        "vote_count": 5,
         "genre_ids_zh": [
             "恐怖",
             "惊悚",
@@ -90,8 +90,8 @@
         "release_date": "2025-06-18",
         "title": "地球特派员",
         "video": false,
-        "vote_average": 7.0,
-        "vote_count": 5,
+        "vote_average": 7.1,
+        "vote_count": 8,
         "genre_ids_zh": [
             "家庭",
             "喜剧",
@@ -127,6 +127,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1238735,
+        "original_language": "en",
+        "original_title": "The Floaters",
+        "overview": "",
+        "popularity": 0.4664,
+        "poster_path": null,
+        "release_date": "2025-06-18",
+        "title": "The Floaters",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53
         ],
         "id": 1212952,
@@ -149,21 +171,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35
+            99
         ],
-        "id": 1238735,
+        "id": 1480460,
         "original_language": "en",
-        "original_title": "The Floaters",
+        "original_title": "Still Pushing Pineapples",
         "overview": "",
-        "popularity": 0.4664,
+        "popularity": 0.3048,
         "poster_path": null,
         "release_date": "2025-06-18",
-        "title": "The Floaters",
+        "title": "Still Pushing Pineapples",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -209,28 +231,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1480460,
-        "original_language": "en",
-        "original_title": "Still Pushing Pineapples",
-        "overview": "",
-        "popularity": 0.3048,
-        "poster_path": null,
-        "release_date": "2025-06-18",
-        "title": "Still Pushing Pineapples",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -303,6 +303,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1492656,
+        "original_language": "en",
+        "original_title": "Desire",
+        "overview": "",
+        "popularity": 0.0718,
+        "poster_path": "/yVWEn4OhEVDWqbMD32EnrG2TqRh.jpg",
+        "release_date": "2025-06-18",
+        "title": "Desire",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fMfQdBQgZmd6yVwjCNHODa4xIUg.jpg",
         "genre_ids": [
             53,
@@ -368,24 +386,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1492656,
-        "original_language": "en",
-        "original_title": "Desire",
-        "overview": "",
-        "popularity": 0.0718,
-        "poster_path": "/yVWEn4OhEVDWqbMD32EnrG2TqRh.jpg",
-        "release_date": "2025-06-18",
-        "title": "Desire",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             18
         ],
@@ -402,6 +402,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1499822,
+        "original_language": "en",
+        "original_title": "The Bite",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/q52Jn2mvfDqehYKxoI5D0WSjRxO.jpg",
+        "release_date": "2025-06-18",
+        "title": "The Bite",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -473,28 +495,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1271979,
-        "original_language": "fr",
-        "original_title": "La Tournée",
-        "overview": "",
-        "popularity": 0.3017,
-        "poster_path": "/2P2NnoE8DnznSKC573Auy9H44Lg.jpg",
-        "release_date": "2025-06-18",
-        "title": "La Tournée",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/toAcXCvZY7ChwAYNt7ju6hA8ezm.jpg",
         "genre_ids": [
             35
@@ -510,6 +510,28 @@
         "video": false,
         "vote_average": 6.0,
         "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1271979,
+        "original_language": "fr",
+        "original_title": "La Tournée",
+        "overview": "",
+        "popularity": 0.3017,
+        "poster_path": "/2P2NnoE8DnznSKC573Auy9H44Lg.jpg",
+        "release_date": "2025-06-18",
+        "title": "La Tournée",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
         ],
