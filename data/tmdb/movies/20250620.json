@@ -115,28 +115,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ko1CWZlasucyHcQ0gjAvfr8dOrr.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1480413,
-        "original_language": "zh",
-        "original_title": "工場",
-        "overview": "",
-        "popularity": 0.0482,
-        "poster_path": null,
-        "release_date": "2025-06-20",
-        "title": "工場",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -149,6 +127,28 @@
         "poster_path": "/5HsWadXKWNKrwWBEfBMa6RH7TiI.jpg",
         "release_date": "2025-06-20",
         "title": "沙海月明",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ko1CWZlasucyHcQ0gjAvfr8dOrr.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1480413,
+        "original_language": "zh",
+        "original_title": "工場",
+        "overview": "",
+        "popularity": 0.0482,
+        "poster_path": null,
+        "release_date": "2025-06-20",
+        "title": "工場",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -189,6 +189,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/pIOBYwrPjKTJttyEXmEhAqD07QE.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1308619,
+        "original_language": "en",
+        "original_title": "Jaws @ 50: The Definitive Inside Story",
+        "overview": "",
+        "popularity": 1.5728,
+        "poster_path": "/gKFD6tG07NBkYsb02Gu0ntEJTRy.jpg",
+        "release_date": "2025-06-20",
+        "title": "Jaws @ 50: The Definitive Inside Story",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6qe95sGFbXEHZJzIq5BYyrWt1hW.jpg",
         "genre_ids": [
             27,
@@ -208,28 +230,6 @@
         "genre_ids_zh": [
             "恐怖",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/pIOBYwrPjKTJttyEXmEhAqD07QE.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1308619,
-        "original_language": "en",
-        "original_title": "Jaws @ 50: The Definitive Inside Story",
-        "overview": "",
-        "popularity": 1.5728,
-        "poster_path": "/gKFD6tG07NBkYsb02Gu0ntEJTRy.jpg",
-        "release_date": "2025-06-20",
-        "title": "Jaws @ 50: The Definitive Inside Story",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -355,29 +355,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jKu6116JqMHhwpgHMsF83f3TwZb.jpg",
+        "backdrop_path": "/o26o2idinfm96OdYaQS5P88yLuq.jpg",
         "genre_ids": [
-            27,
-            9648,
-            18,
-            53
+            53,
+            35
         ],
-        "id": 1370676,
+        "id": 1111011,
         "original_language": "en",
-        "original_title": "Something Was in the Tunnels Vol. 1",
+        "original_title": "Don't Tell Larry",
         "overview": "",
-        "popularity": 0.4032,
-        "poster_path": "/dYufmorH1XGySEsX5651ghtOVrC.jpg",
+        "popularity": 0.7208,
+        "poster_path": "/tp3gc29vrZYBhqBzqh5OR0zFQ81.jpg",
         "release_date": "2025-06-20",
-        "title": "Something Was in the Tunnels Vol. 1",
+        "title": "Don't Tell Larry",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "悬疑",
-            "剧情",
-            "惊悚"
+            "惊悚",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -400,30 +396,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/o26o2idinfm96OdYaQS5P88yLuq.jpg",
-        "genre_ids": [
-            53,
-            35
-        ],
-        "id": 1111011,
-        "original_language": "en",
-        "original_title": "Don't Tell Larry",
-        "overview": "",
-        "popularity": 0.7208,
-        "poster_path": "/tp3gc29vrZYBhqBzqh5OR0zFQ81.jpg",
-        "release_date": "2025-06-20",
-        "title": "Don't Tell Larry",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -521,6 +493,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/h4UtXeYGHyMjQB930nRN8nteHTF.jpg",
+        "genre_ids": [],
+        "id": 1424261,
+        "original_language": "en",
+        "original_title": "UK Holiday",
+        "overview": "",
+        "popularity": 0.4276,
+        "poster_path": "/4y6dhG9XPTMeO8IcaMjROJp5gGU.jpg",
+        "release_date": "2025-06-20",
+        "title": "UK Holiday",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -549,20 +539,78 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/h4UtXeYGHyMjQB930nRN8nteHTF.jpg",
-        "genre_ids": [],
-        "id": 1424261,
+        "backdrop_path": "/jKu6116JqMHhwpgHMsF83f3TwZb.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            18,
+            53
+        ],
+        "id": 1370676,
         "original_language": "en",
-        "original_title": "UK Holiday",
+        "original_title": "Something Was in the Tunnels Vol. 1",
         "overview": "",
-        "popularity": 0.4276,
-        "poster_path": "/4y6dhG9XPTMeO8IcaMjROJp5gGU.jpg",
+        "popularity": 0.4032,
+        "poster_path": "/dYufmorH1XGySEsX5651ghtOVrC.jpg",
         "release_date": "2025-06-20",
-        "title": "UK Holiday",
+        "title": "Something Was in the Tunnels Vol. 1",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑",
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1370581,
+        "original_language": "en",
+        "original_title": "Harley Flanagan: Wired for Chaos",
+        "overview": "",
+        "popularity": 0.3917,
+        "poster_path": "/7av1YXPph3BSo2mpHiAlVKamo8t.jpg",
+        "release_date": "2025-06-20",
+        "title": "Harley Flanagan: Wired for Chaos",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1332463,
+        "original_language": "en",
+        "original_title": "Trapped",
+        "overview": "",
+        "popularity": 0.3882,
+        "poster_path": "/uNP2bWP2L8xYQQLvrtcdEJdLcaq.jpg",
+        "release_date": "2025-06-20",
+        "title": "Trapped",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -602,30 +650,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1370581,
-        "original_language": "en",
-        "original_title": "Harley Flanagan: Wired for Chaos",
-        "overview": "",
-        "popularity": 0.3917,
-        "poster_path": "/7av1YXPph3BSo2mpHiAlVKamo8t.jpg",
-        "release_date": "2025-06-20",
-        "title": "Harley Flanagan: Wired for Chaos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1052,6 +1076,70 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10402
+        ],
+        "id": 1498796,
+        "original_language": "en",
+        "original_title": "24 (ft. Janae Mei) Music Video",
+        "overview": "",
+        "popularity": 0.0936,
+        "poster_path": "/lzOjVV07Q5KLDkBpLpNXmwdfS6u.jpg",
+        "release_date": "2025-06-20",
+        "title": "24 (ft. Janae Mei) Music Video",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kV3XmxPinxdyLnE62N5ow0vj9em.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1480885,
+        "original_language": "en",
+        "original_title": "AutoErotica: We Buy Gay Stuff",
+        "overview": "",
+        "popularity": 0.0923,
+        "poster_path": "/ggxXJBtlvjDUaSARm3K2pbJ0pAd.jpg",
+        "release_date": "2025-06-20",
+        "title": "AutoErotica: We Buy Gay Stuff",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1496664,
+        "original_language": "en",
+        "original_title": "The New McLennium Program Two",
+        "overview": "",
+        "popularity": 0.0888,
+        "poster_path": "/joQea22eQKGo7GV5EJCrkdUA3qE.jpg",
+        "release_date": "2025-06-20",
+        "title": "The New McLennium Program Two",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1489313,
         "original_language": "en",
@@ -1070,6 +1158,74 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1487209,
+        "original_language": "en",
+        "original_title": "The Other",
+        "overview": "",
+        "popularity": 0.0841,
+        "poster_path": "/8D6mWdC97BnOl29ZvczOZy0llNz.jpg",
+        "release_date": "2025-06-20",
+        "title": "The Other",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1489310,
+        "original_language": "en",
+        "original_title": "Tin Soldiers",
+        "overview": "",
+        "popularity": 0.0837,
+        "poster_path": "/a4aKwebXXqbl8GVOUXwQLKaSkV7.jpg",
+        "release_date": "2025-06-20",
+        "title": "Tin Soldiers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1496354,
+        "original_language": "en",
+        "original_title": "The Treatment",
+        "overview": "",
+        "popularity": 0.0828,
+        "poster_path": "/cJljv5iNySquJqFH9S07XPSi9ge.jpg",
+        "release_date": "2025-06-20",
+        "title": "The Treatment",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1489325,
         "original_language": "en",
@@ -1083,30 +1239,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            878
-        ],
-        "id": 1494826,
-        "original_language": "en",
-        "original_title": "By the Time the Light Reaches You, It’s Already Dead",
-        "overview": "",
-        "popularity": 0.065,
-        "poster_path": "/29rpTkj8FAIf1udwdytcGI0dANn.jpg",
-        "release_date": "2025-06-20",
-        "title": "By the Time the Light Reaches You, It’s Already Dead",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "科幻"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1135,20 +1267,116 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1496664,
+        "backdrop_path": "/qExWGV71xfHdydUFDhZjTGH8wSW.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            10402
+        ],
+        "id": 1423369,
         "original_language": "en",
-        "original_title": "The New McLennium Program Two",
+        "original_title": "EVOL",
         "overview": "",
-        "popularity": 0.0888,
-        "poster_path": "/joQea22eQKGo7GV5EJCrkdUA3qE.jpg",
+        "popularity": 0.0721,
+        "poster_path": "/aVqFwQ4wZ1BXRufe5nINBjg7gOV.jpg",
         "release_date": "2025-06-20",
-        "title": "The New McLennium Program Two",
+        "title": "EVOL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8fL2D0LjovXp7RaDc1LP996L0L4.jpg",
+        "genre_ids": [],
+        "id": 1362726,
+        "original_language": "en",
+        "original_title": "The Traveler & The Troll",
+        "overview": "",
+        "popularity": 0.0718,
+        "poster_path": "/1BkjBBmEx10nxkDBgeMVpEzUFFH.jpg",
+        "release_date": "2025-06-20",
+        "title": "The Traveler & The Troll",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zEnrid3lRqmqG39OXFBhPHxNuhc.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1497085,
+        "original_language": "en",
+        "original_title": "Dead Tide",
+        "overview": "",
+        "popularity": 0.0698,
+        "poster_path": "/h3CEQFVpZrtV2xm6CTa1PsS6jxa.jpg",
+        "release_date": "2025-06-20",
+        "title": "Dead Tide",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1407528,
+        "original_language": "en",
+        "original_title": "Billie & Jean",
+        "overview": "",
+        "popularity": 0.0661,
+        "poster_path": "/A9J9rP51PAVPANtrFpW8OFNTteK.jpg",
+        "release_date": "2025-06-20",
+        "title": "Billie & Jean",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1494826,
+        "original_language": "en",
+        "original_title": "By the Time the Light Reaches You, It’s Already Dead",
+        "overview": "",
+        "popularity": 0.065,
+        "poster_path": "/29rpTkj8FAIf1udwdytcGI0dANn.jpg",
+        "release_date": "2025-06-20",
+        "title": "By the Time the Light Reaches You, It’s Already Dead",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1181,20 +1409,38 @@
         "genre_ids": [
             18
         ],
-        "id": 1489310,
+        "id": 1497082,
         "original_language": "en",
-        "original_title": "Tin Soldiers",
+        "original_title": "How Love Comes",
         "overview": "",
-        "popularity": 0.0837,
-        "poster_path": "/a4aKwebXXqbl8GVOUXwQLKaSkV7.jpg",
+        "popularity": 0.0598,
+        "poster_path": null,
         "release_date": "2025-06-20",
-        "title": "Tin Soldiers",
+        "title": "How Love Comes",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1489299,
+        "original_language": "en",
+        "original_title": "What's Left",
+        "overview": "",
+        "popularity": 0.0563,
+        "poster_path": "/aM6AkAicx5pM8hsnYLLsXU4sS0G.jpg",
+        "release_date": "2025-06-20",
+        "title": "What's Left",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1216,124 +1462,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4B1cdGkaWh9hEm2gbLqSaI3hEcN.jpg",
-        "genre_ids": [
-            16,
-            27,
-            28,
-            53
-        ],
-        "id": 1499466,
-        "original_language": "en",
-        "original_title": "The Night of The Mummy",
-        "overview": "",
-        "popularity": 0.0486,
-        "poster_path": "/bNSXy54MpcAkf9WdksNmlhMnugs.jpg",
-        "release_date": "2025-06-20",
-        "title": "The Night of The Mummy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "恐怖",
-            "动作",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1487209,
-        "original_language": "en",
-        "original_title": "The Other",
-        "overview": "",
-        "popularity": 0.0841,
-        "poster_path": "/8D6mWdC97BnOl29ZvczOZy0llNz.jpg",
-        "release_date": "2025-06-20",
-        "title": "The Other",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kV3XmxPinxdyLnE62N5ow0vj9em.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1480885,
-        "original_language": "en",
-        "original_title": "AutoErotica: We Buy Gay Stuff",
-        "overview": "",
-        "popularity": 0.0923,
-        "poster_path": "/ggxXJBtlvjDUaSARm3K2pbJ0pAd.jpg",
-        "release_date": "2025-06-20",
-        "title": "AutoErotica: We Buy Gay Stuff",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878,
-            53
-        ],
-        "id": 1480018,
-        "original_language": "en",
-        "original_title": "Backwards Compatible",
-        "overview": "",
-        "popularity": 0.0527,
-        "poster_path": "/upF09KrKnaK7eG8gsaNLJ41DNrC.jpg",
-        "release_date": "2025-06-20",
-        "title": "Backwards Compatible",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1497082,
-        "original_language": "en",
-        "original_title": "How Love Comes",
-        "overview": "",
-        "popularity": 0.0598,
-        "poster_path": null,
-        "release_date": "2025-06-20",
-        "title": "How Love Comes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1363,146 +1491,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qExWGV71xfHdydUFDhZjTGH8wSW.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18,
-            10749,
-            10402
+            99
         ],
-        "id": 1423369,
+        "id": 1480425,
         "original_language": "en",
-        "original_title": "EVOL",
+        "original_title": "And She Didn't Die",
         "overview": "",
-        "popularity": 0.0721,
-        "poster_path": "/aVqFwQ4wZ1BXRufe5nINBjg7gOV.jpg",
+        "popularity": 0.0538,
+        "poster_path": "/cCr6gQKMFbg4xPyCIvnxvij1SwY.jpg",
         "release_date": "2025-06-20",
-        "title": "EVOL",
+        "title": "And She Didn't Die",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "爱情",
-            "音乐"
+            "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1489299,
-        "original_language": "en",
-        "original_title": "What's Left",
-        "overview": "",
-        "popularity": 0.0563,
-        "poster_path": "/aM6AkAicx5pM8hsnYLLsXU4sS0G.jpg",
-        "release_date": "2025-06-20",
-        "title": "What's Left",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/zEnrid3lRqmqG39OXFBhPHxNuhc.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1497085,
-        "original_language": "en",
-        "original_title": "Dead Tide",
-        "overview": "",
-        "popularity": 0.0698,
-        "poster_path": "/h3CEQFVpZrtV2xm6CTa1PsS6jxa.jpg",
-        "release_date": "2025-06-20",
-        "title": "Dead Tide",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10402
-        ],
-        "id": 1498796,
-        "original_language": "en",
-        "original_title": "24 (ft. Janae Mei) Music Video",
-        "overview": "",
-        "popularity": 0.0936,
-        "poster_path": "/lzOjVV07Q5KLDkBpLpNXmwdfS6u.jpg",
-        "release_date": "2025-06-20",
-        "title": "24 (ft. Janae Mei) Music Video",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1489307,
-        "original_language": "en",
-        "original_title": "Til Death Do Us Part",
-        "overview": "",
-        "popularity": 0.0293,
-        "poster_path": null,
-        "release_date": "2025-06-20",
-        "title": "Til Death Do Us Part",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1489350,
-        "original_language": "en",
-        "original_title": "The Selkie",
-        "overview": "",
-        "popularity": 0.0461,
-        "poster_path": "/3AydjBmR89McD6YCduNsKFnOELU.jpg",
-        "release_date": "2025-06-20",
-        "title": "The Selkie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/8fL2D0LjovXp7RaDc1LP996L0L4.jpg",
-        "genre_ids": [],
-        "id": 1362726,
-        "original_language": "en",
-        "original_title": "The Traveler & The Troll",
-        "overview": "",
-        "popularity": 0.0718,
-        "poster_path": "/1BkjBBmEx10nxkDBgeMVpEzUFFH.jpg",
-        "release_date": "2025-06-20",
-        "title": "The Traveler & The Troll",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1586,30 +1592,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 1407528,
-        "original_language": "en",
-        "original_title": "Billie & Jean",
-        "overview": "",
-        "popularity": 0.0661,
-        "poster_path": "/A9J9rP51PAVPANtrFpW8OFNTteK.jpg",
-        "release_date": "2025-06-20",
-        "title": "Billie & Jean",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1489342,
         "original_language": "en",
@@ -1641,28 +1623,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1480425,
-        "original_language": "en",
-        "original_title": "And She Didn't Die",
-        "overview": "",
-        "popularity": 0.0538,
-        "poster_path": "/cCr6gQKMFbg4xPyCIvnxvij1SwY.jpg",
-        "release_date": "2025-06-20",
-        "title": "And She Didn't Die",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -2013,30 +1973,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ct6FzyivmLdsuadpt0MXgiuBL8.jpg",
-        "genre_ids": [
-            35,
-            99
-        ],
-        "id": 1294852,
-        "original_language": "fr",
-        "original_title": "Sosieland",
-        "overview": "",
-        "popularity": 0.0856,
-        "poster_path": "/uqomP9H0iG1GLeU6MWVSvRXUTbT.jpg",
-        "release_date": "2025-06-20",
-        "title": "Sosieland",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             53,
@@ -2061,6 +1997,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ct6FzyivmLdsuadpt0MXgiuBL8.jpg",
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1294852,
+        "original_language": "fr",
+        "original_title": "Sosieland",
+        "overview": "",
+        "popularity": 0.0856,
+        "poster_path": "/uqomP9H0iG1GLeU6MWVSvRXUTbT.jpg",
+        "release_date": "2025-06-20",
+        "title": "Sosieland",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jxJbjoyOi5D5enr53LitLwT10PI.jpg",
         "genre_ids": [],
         "id": 1500284,
@@ -2075,6 +2035,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1500808,
+        "original_language": "fr",
+        "original_title": "Un peu plus de douceur",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-06-20",
+        "title": "Un peu plus de douceur",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "法语"
     },
     {
@@ -2326,6 +2308,28 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1389158,
+        "original_language": "hi",
+        "original_title": "माँ",
+        "overview": "",
+        "popularity": 1.2188,
+        "poster_path": "/mqJrAuxnsz11uEbbzEOmzEgCN2s.jpg",
+        "release_date": "2025-06-20",
+        "title": "माँ",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "印地语"
     },
