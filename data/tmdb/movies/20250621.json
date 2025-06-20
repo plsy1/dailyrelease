@@ -1063,6 +1063,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/qjK0UQRzOepDbxayGiTPMen9I0m.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1500667,
+        "original_language": "en",
+        "original_title": "Hellvette",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/cpkdBnTd01YVVXG3cvUz1LDTYRR.jpg",
+        "release_date": "2025-06-21",
+        "title": "Hellvette",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -1102,30 +1126,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/qjK0UQRzOepDbxayGiTPMen9I0m.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1500667,
-        "original_language": "en",
-        "original_title": "Hellvette",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/cpkdBnTd01YVVXG3cvUz1LDTYRR.jpg",
-        "release_date": "2025-06-21",
-        "title": "Hellvette",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
