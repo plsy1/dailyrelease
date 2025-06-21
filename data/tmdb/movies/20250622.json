@@ -119,48 +119,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/v1O9TEwPSDW7VS19B2Ll8WpspXF.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1485629,
-        "original_language": "en",
-        "original_title": "Self-Help",
-        "overview": "",
-        "popularity": 0.3319,
-        "poster_path": null,
-        "release_date": "2025-06-22",
-        "title": "Self-Help",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1494069,
-        "original_language": "en",
-        "original_title": "DPW Victory Lap 2025",
-        "overview": "",
-        "popularity": 0.2573,
-        "poster_path": null,
-        "release_date": "2025-06-22",
-        "title": "DPW Victory Lap 2025",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             53,
@@ -185,25 +143,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/wxmSSXmnT5FEC2S4wbf6MLuKBLu.jpg",
+        "backdrop_path": "/v1O9TEwPSDW7VS19B2Ll8WpspXF.jpg",
         "genre_ids": [
-            99,
-            10402
+            27,
+            53
         ],
-        "id": 1480469,
+        "id": 1485629,
         "original_language": "en",
-        "original_title": "Tomorrow's Too Late",
+        "original_title": "Self-Help",
         "overview": "",
-        "popularity": 0.2517,
-        "poster_path": "/lj0NTnvyYp7PPjlMWzqBHd0e0YS.jpg",
+        "popularity": 0.3319,
+        "poster_path": null,
         "release_date": "2025-06-22",
-        "title": "Tomorrow's Too Late",
+        "title": "Self-Help",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "音乐"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -257,6 +215,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1494069,
+        "original_language": "en",
+        "original_title": "DPW Victory Lap 2025",
+        "overview": "",
+        "popularity": 0.2573,
+        "poster_path": null,
+        "release_date": "2025-06-22",
+        "title": "DPW Victory Lap 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1498405,
         "original_language": "en",
         "original_title": "Tether",
@@ -269,6 +245,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wxmSSXmnT5FEC2S4wbf6MLuKBLu.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1480469,
+        "original_language": "en",
+        "original_title": "Tomorrow's Too Late",
+        "overview": "",
+        "popularity": 0.2517,
+        "poster_path": "/lj0NTnvyYp7PPjlMWzqBHd0e0YS.jpg",
+        "release_date": "2025-06-22",
+        "title": "Tomorrow's Too Late",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -401,6 +401,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/vaEhEyk3gkYog8E37n7D8mb6fcU.jpg",
+        "genre_ids": [
+            35,
+            878
+        ],
+        "id": 1478681,
+        "original_language": "en",
+        "original_title": "Space Daddy",
+        "overview": "",
+        "popularity": 0.0742,
+        "poster_path": "/zMIP6Uh3veQ5ZfrTZK1oLJ2Pue.jpg",
+        "release_date": "2025-06-22",
+        "title": "Space Daddy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/kuv3ChKWvFucws1Bfw9pF9hDJCO.jpg",
         "genre_ids": [
             35
@@ -423,24 +447,40 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vaEhEyk3gkYog8E37n7D8mb6fcU.jpg",
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1500397,
+        "original_language": "en",
+        "original_title": "The Living Area In My Room",
+        "overview": "",
+        "popularity": 0.051,
+        "poster_path": "/AhRVRohGuIztpqKPL0Hl7YR9SJd.jpg",
+        "release_date": "2025-06-22",
+        "title": "The Living Area In My Room",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
-            35,
             878
         ],
-        "id": 1478681,
+        "id": 1499697,
         "original_language": "en",
-        "original_title": "Space Daddy",
+        "original_title": "Kintsugi Angel",
         "overview": "",
-        "popularity": 0.0742,
-        "poster_path": "/zMIP6Uh3veQ5ZfrTZK1oLJ2Pue.jpg",
+        "popularity": 0.0434,
+        "poster_path": "/qYvZjH7DDzC2fZyLoRrcHzhmK5T.jpg",
         "release_date": "2025-06-22",
-        "title": "Space Daddy",
+        "title": "Kintsugi Angel",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
             "科幻"
         ],
         "original_language_zh": "英语"
@@ -471,28 +511,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1488986,
-        "original_language": "en",
-        "original_title": "6 Kings and 6 Queens",
-        "overview": "",
-        "popularity": 0.0363,
-        "poster_path": "/AkAlH4ABqtrufgEq8P6HRkNeREk.jpg",
-        "release_date": "2025-06-22",
-        "title": "6 Kings and 6 Queens",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             878
         ],
         "id": 1499707,
@@ -508,30 +526,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878,
-            16
-        ],
-        "id": 1499702,
-        "original_language": "en",
-        "original_title": "Project Eterna",
-        "overview": "",
-        "popularity": 0.0388,
-        "poster_path": null,
-        "release_date": "2025-06-22",
-        "title": "Project Eterna",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -585,28 +579,6 @@
         "genre_ids": [
             878
         ],
-        "id": 1499697,
-        "original_language": "en",
-        "original_title": "Kintsugi Angel",
-        "overview": "",
-        "popularity": 0.0434,
-        "poster_path": "/qYvZjH7DDzC2fZyLoRrcHzhmK5T.jpg",
-        "release_date": "2025-06-22",
-        "title": "Kintsugi Angel",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878
-        ],
         "id": 1499685,
         "original_language": "en",
         "original_title": "Distant Blueshift",
@@ -643,24 +615,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1500397,
-        "original_language": "en",
-        "original_title": "The Living Area In My Room",
-        "overview": "",
-        "popularity": 0.051,
-        "poster_path": "/AhRVRohGuIztpqKPL0Hl7YR9SJd.jpg",
-        "release_date": "2025-06-22",
-        "title": "The Living Area In My Room",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
