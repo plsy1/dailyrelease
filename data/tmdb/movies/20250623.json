@@ -243,6 +243,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/1OSqrKxSXBZwxQGHXoLTsXt4tK3.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1502522,
+        "original_language": "en",
+        "original_title": "fleeting glimpse of disembodiment",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/fgAcLisqlnBw21BpZOJNCjLsZkZ.jpg",
+        "release_date": "2025-06-23",
+        "title": "fleeting glimpse of disembodiment",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1502511,
+        "original_language": "en",
+        "original_title": "Sábado",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-06-23",
+        "title": "Sábado",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -368,6 +412,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hue34oLZYFbMaiS7zDJiXBtmnik.jpg",
+        "genre_ids": [
+            99,
+            35
+        ],
+        "id": 1502490,
+        "original_language": "pt",
+        "original_title": "Uma Falha Tentativa de Documentar os Intercursos",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4aOzX8UsxNF2DPTO3ECL1Kz2G7d.jpg",
+        "release_date": "2025-06-23",
+        "title": "Uma Falha Tentativa de Documentar os Intercursos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
     }
