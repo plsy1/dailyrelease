@@ -137,6 +137,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1457437,
+        "original_language": "en",
+        "original_title": "Return to Dark City",
+        "overview": "",
+        "popularity": 0.2512,
+        "poster_path": "/2IQXGMVOlb3dywDSRcqv31ywK1Z.jpg",
+        "release_date": "2025-06-24",
+        "title": "Return to Dark City",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/enVb28p7JH87tmpg8MXt7bpS7vL.jpg",
         "genre_ids": [
             18
@@ -183,28 +205,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1457437,
-        "original_language": "en",
-        "original_title": "Return to Dark City",
-        "overview": "",
-        "popularity": 0.2512,
-        "poster_path": "/2IQXGMVOlb3dywDSRcqv31ywK1Z.jpg",
-        "release_date": "2025-06-24",
-        "title": "Return to Dark City",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             27
         ],
         "id": 1457361,
@@ -220,50 +220,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lJiEOJpkZsbKgh5QL2qwJqa6KEF.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1335819,
-        "original_language": "en",
-        "original_title": "Di Sarno: The Story of Emilio’s Ballato",
-        "overview": "",
-        "popularity": 0.055,
-        "poster_path": "/u7KJX9EhxJjtPXbxkSOZdt1yuK9.jpg",
-        "release_date": "2025-06-24",
-        "title": "Di Sarno: The Story of Emilio’s Ballato",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1386349,
-        "original_language": "en",
-        "original_title": "Shelly's Leg",
-        "overview": "",
-        "popularity": 0.0558,
-        "poster_path": "/lGSbX96E6C544urmGKl2i4ZdvwZ.jpg",
-        "release_date": "2025-06-24",
-        "title": "Shelly's Leg",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -331,6 +287,50 @@
         "genre_ids": [
             99
         ],
+        "id": 1386349,
+        "original_language": "en",
+        "original_title": "Shelly's Leg",
+        "overview": "",
+        "popularity": 0.0558,
+        "poster_path": "/lGSbX96E6C544urmGKl2i4ZdvwZ.jpg",
+        "release_date": "2025-06-24",
+        "title": "Shelly's Leg",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lJiEOJpkZsbKgh5QL2qwJqa6KEF.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1335819,
+        "original_language": "en",
+        "original_title": "Di Sarno: The Story of Emilio’s Ballato",
+        "overview": "",
+        "popularity": 0.055,
+        "poster_path": "/u7KJX9EhxJjtPXbxkSOZdt1yuK9.jpg",
+        "release_date": "2025-06-24",
+        "title": "Di Sarno: The Story of Emilio’s Ballato",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1450371,
         "original_language": "en",
         "original_title": "The Roaming Center for Magnetic Alternatives",
@@ -367,28 +367,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1500412,
-        "original_language": "en",
-        "original_title": "Fashion Without Borders",
-        "overview": "",
-        "popularity": 0.0404,
-        "poster_path": "/uedMzELxAIzeKWHjrPWxDHbtqPI.jpg",
-        "release_date": "2025-06-24",
-        "title": "Fashion Without Borders",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1VFw5ilcKaDWmbDvpVVwumJwoZ5.jpg",
         "genre_ids": [
             99
@@ -411,23 +389,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zqAFbRSc0cDLdrjhqmani6AT6w9.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            12
+            99
         ],
-        "id": 1486485,
+        "id": 1500412,
         "original_language": "en",
-        "original_title": "Destortion",
+        "original_title": "Fashion Without Borders",
         "overview": "",
-        "popularity": 0.0362,
-        "poster_path": "/75XHWbptqNEjGOsZfs6QuMN1yCo.jpg",
+        "popularity": 0.0404,
+        "poster_path": "/uedMzELxAIzeKWHjrPWxDHbtqPI.jpg",
         "release_date": "2025-06-24",
-        "title": "Destortion",
+        "title": "Fashion Without Borders",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "冒险"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -447,6 +425,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zqAFbRSc0cDLdrjhqmani6AT6w9.jpg",
+        "genre_ids": [
+            12
+        ],
+        "id": 1486485,
+        "original_language": "en",
+        "original_title": "Destortion",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": "/75XHWbptqNEjGOsZfs6QuMN1yCo.jpg",
+        "release_date": "2025-06-24",
+        "title": "Destortion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险"
+        ],
         "original_language_zh": "英语"
     },
     {
