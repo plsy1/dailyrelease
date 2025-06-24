@@ -557,6 +557,72 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1494066,
+        "original_language": "en",
+        "original_title": "Who's Haunting Who?",
+        "overview": "",
+        "popularity": 0.0495,
+        "poster_path": "/4FscgQXBQHhCsFw5PnKzdnBNK8q.jpg",
+        "release_date": "2025-06-25",
+        "title": "Who's Haunting Who?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1498871,
+        "original_language": "en",
+        "original_title": "Dust to Dust",
+        "overview": "",
+        "popularity": 0.0484,
+        "poster_path": "/twzrDc5Qq0PgQcyDeXUqsE6updE.jpg",
+        "release_date": "2025-06-25",
+        "title": "Dust to Dust",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6EvNdkFKSnily1PfOSEY6S7Sj1e.jpg",
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1502234,
+        "original_language": "en",
+        "original_title": "Orval",
+        "overview": "",
+        "popularity": 0.0454,
+        "poster_path": "/qrWRDNM1lJ7c7MfViXhe4cF81ey.jpg",
+        "release_date": "2025-06-25",
+        "title": "Orval",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99,
             10402
         ],
@@ -603,25 +669,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6EvNdkFKSnily1PfOSEY6S7Sj1e.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35,
-            27
+            27,
+            18
         ],
-        "id": 1502234,
+        "id": 1495971,
         "original_language": "en",
-        "original_title": "Orval",
+        "original_title": "Almost Perfect",
         "overview": "",
-        "popularity": 0.0454,
-        "poster_path": "/qrWRDNM1lJ7c7MfViXhe4cF81ey.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/gmdMg165w71LTAcnlFWKNQ0ZKr8.jpg",
         "release_date": "2025-06-25",
-        "title": "Orval",
+        "title": "Almost Perfect",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "恐怖"
+            "恐怖",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -641,6 +707,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5aa9KPqkBYKV5VehxlMJ45hO0ZA.jpg",
+        "genre_ids": [
+            14,
+            18
+        ],
+        "id": 1503139,
+        "original_language": "en",
+        "original_title": "Hiraeth",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4U4levJrvmrytUaW5v8s68B42zt.jpg",
+        "release_date": "2025-06-25",
+        "title": "Hiraeth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -803,28 +893,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/pVpFPpxICiF8NqnMKD3O2lVwks3.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1436220,
-        "original_language": "ko",
-        "original_title": "세하별",
-        "overview": "",
-        "popularity": 0.5407,
-        "poster_path": "/bpIKzJM46XFZwC4dKUR031fX0Mk.jpg",
-        "release_date": "2025-06-25",
-        "title": "세하별",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/y2cYzQw5QuzjE0jFdbLaLf1ErwH.jpg",
         "genre_ids": [
             80,
@@ -844,6 +912,28 @@
         "genre_ids_zh": [
             "犯罪",
             "动作"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pVpFPpxICiF8NqnMKD3O2lVwks3.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1436220,
+        "original_language": "ko",
+        "original_title": "세하별",
+        "overview": "",
+        "popularity": 0.5407,
+        "poster_path": "/bpIKzJM46XFZwC4dKUR031fX0Mk.jpg",
+        "release_date": "2025-06-25",
+        "title": "세하별",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "韩语"
     },
@@ -895,27 +985,77 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/pEo5N7h6TGYC1fyddFoCzXbV2Xx.jpg",
-        "genre_ids": [
-            16,
-            18,
-            10751
-        ],
-        "id": 682012,
-        "original_language": "fr",
-        "original_title": "Amélie et la métaphysique des tubes",
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1503163,
+        "original_language": "ko",
+        "original_title": "모범상",
         "overview": "",
-        "popularity": 0.7488,
-        "poster_path": "/5hOW0E9llZy2rfgom0UrO1OLaCC.jpg",
+        "popularity": 0.0,
+        "poster_path": null,
         "release_date": "2025-06-25",
-        "title": "Amélie et la métaphysique des tubes",
+        "title": "모범상",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1503161,
+        "original_language": "ko",
+        "original_title": "모두가 사랑할 시간",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-06-25",
+        "title": "모두가 사랑할 시간",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1503160,
+        "original_language": "ko",
+        "original_title": "맥북 프로 2019년형 팝니다",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-06-25",
+        "title": "맥북 프로 2019년형 팝니다",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qHp0s9DD4vJ7U7yh4IEMszI4ObS.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1255783,
+        "original_language": "fr",
+        "original_title": "Le Grand déplacement",
+        "overview": "",
+        "popularity": 1.0603,
+        "poster_path": "/3VfzbmAtYY1y84XPFLvPKlQFMU7.jpg",
+        "release_date": "2025-06-25",
+        "title": "Le Grand déplacement",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
-            "剧情",
-            "家庭"
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -947,23 +1087,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qHp0s9DD4vJ7U7yh4IEMszI4ObS.jpg",
+        "backdrop_path": "/pEo5N7h6TGYC1fyddFoCzXbV2Xx.jpg",
         "genre_ids": [
-            35
+            16,
+            18,
+            10751
         ],
-        "id": 1255783,
+        "id": 682012,
         "original_language": "fr",
-        "original_title": "Le Grand déplacement",
+        "original_title": "Amélie et la métaphysique des tubes",
         "overview": "",
-        "popularity": 1.0603,
-        "poster_path": "/3VfzbmAtYY1y84XPFLvPKlQFMU7.jpg",
+        "popularity": 0.7488,
+        "poster_path": "/5hOW0E9llZy2rfgom0UrO1OLaCC.jpg",
         "release_date": "2025-06-25",
-        "title": "Le Grand déplacement",
+        "title": "Amélie et la métaphysique des tubes",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
-            "喜剧"
+            "动画",
+            "剧情",
+            "家庭"
         ],
         "original_language_zh": "法语"
     },
