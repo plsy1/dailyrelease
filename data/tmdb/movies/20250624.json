@@ -71,6 +71,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1498530,
+        "original_language": "en",
+        "original_title": "The Fostered",
+        "overview": "",
+        "popularity": 0.3539,
+        "poster_path": "/hK6UonFeE3os55D9t3G69tzLigX.jpg",
+        "release_date": "2025-06-24",
+        "title": "The Fostered",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/aw3ThzreJwMc5XRUsc0Bjd05Ixk.jpg",
         "genre_ids": [
             18,
@@ -111,28 +133,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            53
-        ],
-        "id": 1498530,
-        "original_language": "en",
-        "original_title": "The Fostered",
-        "overview": "",
-        "popularity": 0.3539,
-        "poster_path": "/hK6UonFeE3os55D9t3G69tzLigX.jpg",
-        "release_date": "2025-06-24",
-        "title": "The Fostered",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
         "original_language_zh": "英语"
     },
     {
