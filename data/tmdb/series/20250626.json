@@ -73,6 +73,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10764
+        ],
+        "id": 293313,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Nelly & Ashanti: We Belong Together",
+        "overview": "",
+        "popularity": 1.676,
+        "poster_path": null,
+        "first_air_date": "2025-06-26",
+        "name": "Nelly & Ashanti: We Belong Together",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wZUvdFagE7NlGDUKxopaO4Suv58.jpg",
         "genre_ids": [
             80,
@@ -94,30 +118,6 @@
         "genre_ids_zh": [
             "犯罪",
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10764
-        ],
-        "id": 293313,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Nelly & Ashanti: We Belong Together",
-        "overview": "",
-        "popularity": 1.676,
-        "poster_path": null,
-        "first_air_date": "2025-06-26",
-        "name": "Nelly & Ashanti: We Belong Together",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "真人秀"
         ],
         "original_language_zh": "英语"
     },
