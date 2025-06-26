@@ -863,28 +863,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1488080,
-        "original_language": "ja",
-        "original_title": "劇場版　スメルズ ライク グリーン スピリット",
-        "overview": "",
-        "popularity": 0.4279,
-        "poster_path": "/hCyTucsEbkF8BllNSeyIZrjCyDe.jpg",
-        "release_date": "2025-06-27",
-        "title": "劇場版　スメルズ ライク グリーン スピリット",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qNkLpxlGkNCGb68VpuFzoIY67Bj.jpg",
         "genre_ids": [
             16,
@@ -930,6 +908,28 @@
         "genre_ids_zh": [
             "剧情",
             "爱情"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1488080,
+        "original_language": "ja",
+        "original_title": "劇場版　スメルズ ライク グリーン スピリット",
+        "overview": "",
+        "popularity": 0.4279,
+        "poster_path": "/hCyTucsEbkF8BllNSeyIZrjCyDe.jpg",
+        "release_date": "2025-06-27",
+        "title": "劇場版　スメルズ ライク グリーン スピリット",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
@@ -1112,6 +1112,30 @@
             "动作",
             "惊悚",
             "战争"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            27
+        ],
+        "id": 1504237,
+        "original_language": "fr",
+        "original_title": "Derrière Eux",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/2fJHZdv40grvS3LFZcdUGBi1Kv0.jpg",
+        "release_date": "2025-06-27",
+        "title": "Derrière Eux",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖"
         ],
         "original_language_zh": "法语"
     },
