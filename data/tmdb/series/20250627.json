@@ -13,7 +13,7 @@
         "original_language": "zh",
         "original_name": "靈魂約定",
         "overview": "发生了一场意外夏茶和自己的孙子夏泽方交换灵魂，为了不让孙子的生活停摆，阿公只好顶着他的身躯继续上学，一名59岁阿公的灵魂困在一名20岁少年的身体里， 为了要把身体还给孙子的夏茶和邻居兼同学兼室友叶海渊一起行动，逐渐发现两人之间命定的关系。",
-        "popularity": 7.4944,
+        "popularity": 8.6192,
         "poster_path": "/9413dPSlmHs2Xc8HKniET49gJvs.jpg",
         "first_air_date": "2025-06-27",
         "name": "灵魂约定",
@@ -38,7 +38,7 @@
         "original_language": "zh",
         "original_name": "爱在阿坝",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0714,
         "poster_path": null,
         "first_air_date": "2025-06-27",
         "name": "爱在阿坝",
@@ -160,7 +160,10 @@
     {
         "adult": false,
         "backdrop_path": "/bvTMfJsuvUfcFapEnwa3jYAfUzB.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            35,
+            9648
+        ],
         "id": 294409,
         "origin_country": [
             "印度"
@@ -168,13 +171,16 @@
         "original_language": "hi",
         "original_name": "Mistry",
         "overview": "",
-        "popularity": 0.0685,
+        "popularity": 0.2271,
         "poster_path": "/7f6E0EcFcWNWgsUXrKo379iSo4S.jpg",
         "first_air_date": "2025-06-27",
         "name": "Mistry",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
+        ],
         "original_language_zh": "印地语"
     }
 ]
