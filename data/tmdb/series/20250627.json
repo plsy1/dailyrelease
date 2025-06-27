@@ -51,23 +51,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bvTMfJsuvUfcFapEnwa3jYAfUzB.jpg",
+        "backdrop_path": null,
         "genre_ids": [],
-        "id": 294409,
+        "id": 294799,
         "origin_country": [
-            "印度"
+            "美国"
         ],
-        "original_language": "hi",
-        "original_name": "Mistry",
+        "original_language": "en",
+        "original_name": "Bibhishon",
         "overview": "",
-        "popularity": 0.0685,
-        "poster_path": "/7f6E0EcFcWNWgsUXrKo379iSo4S.jpg",
+        "popularity": 0.0,
+        "poster_path": "/nHCLNkF9OLScj6W9TAKWBh11znd.jpg",
         "first_air_date": "2025-06-27",
-        "name": "Mistry",
+        "name": "Bibhishon",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "印地语"
+        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -80,7 +80,7 @@
         "original_language": "en",
         "original_name": "2025 “Pure Worship” Convention",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": "/oNgb6G9WlLAQ1qCu9NOiSjQ6J1v.jpg",
         "first_air_date": "2025-06-27",
         "name": "2025 “Pure Worship” Convention",
@@ -104,8 +104,8 @@
         "original_language": "ja",
         "original_name": "私の夫と結婚して",
         "overview": "",
-        "popularity": 3.4629,
-        "poster_path": "/7r2xG7G2LAukruxnHLrVo7lKvlJ.jpg",
+        "popularity": 3.764,
+        "poster_path": "/tOJGPMN10vCA41afYy3LbkgMSyj.jpg",
         "first_air_date": "2025-06-27",
         "name": "私の夫と結婚して",
         "vote_average": 0.0,
@@ -128,7 +128,7 @@
         "original_language": "ja",
         "original_name": "晩酌の流儀4 〜夏編〜",
         "overview": "",
-        "popularity": 1.1288,
+        "popularity": 1.1129,
         "poster_path": null,
         "first_air_date": "2025-06-27",
         "name": "晩酌の流儀4 〜夏編〜",
@@ -136,5 +136,25 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bvTMfJsuvUfcFapEnwa3jYAfUzB.jpg",
+        "genre_ids": [],
+        "id": 294409,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "Mistry",
+        "overview": "",
+        "popularity": 0.0685,
+        "poster_path": "/7f6E0EcFcWNWgsUXrKo379iSo4S.jpg",
+        "first_air_date": "2025-06-27",
+        "name": "Mistry",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "印地语"
     }
 ]
