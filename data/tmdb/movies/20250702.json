@@ -64,8 +64,8 @@
         "release_date": "2025-07-02",
         "title": "40 Acres",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "科幻",
@@ -88,6 +88,24 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1506955,
+        "original_language": "en",
+        "original_title": "Odyssey - a camera and audio test",
+        "overview": "",
+        "popularity": 0.1286,
+        "poster_path": "/9edGGCT1DL8i85T8lJatZDjbmm.jpg",
+        "release_date": "2025-07-02",
+        "title": "Odyssey - a camera and audio test",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
@@ -321,6 +339,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1313144,
+        "original_language": "fr",
+        "original_title": "L'accident de piano",
+        "overview": "",
+        "popularity": 1.1805,
+        "poster_path": "/5VmXgd1oYsF6mLB0pXYon0kOPuj.jpg",
+        "release_date": "2025-07-02",
+        "title": "L'accident de piano",
+        "video": false,
+        "vote_average": 7.25,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             53,
@@ -340,28 +380,6 @@
         "genre_ids_zh": [
             "惊悚",
             "悬疑"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/8oaEaGhpfpkVnL4NhEXj8zVJXj7.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1313144,
-        "original_language": "fr",
-        "original_title": "L'accident de piano",
-        "overview": "",
-        "popularity": 1.1805,
-        "poster_path": "/5VmXgd1oYsF6mLB0pXYon0kOPuj.jpg",
-        "release_date": "2025-07-02",
-        "title": "L'accident de piano",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -465,6 +483,34 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            10749,
+            27,
+            53
+        ],
+        "id": 1506776,
+        "original_language": "fr",
+        "original_title": "Loving Firenze",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": "/3N2kGYonxHg3u3FG410qpeOVo98.jpg",
+        "release_date": "2025-07-02",
+        "title": "Loving Firenze",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情",
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1478175,
@@ -499,32 +545,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10749,
-            27
-        ],
-        "id": 1506776,
-        "original_language": "fr",
-        "original_title": "Loving Firenze",
-        "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/3N2kGYonxHg3u3FG410qpeOVo98.jpg",
-        "release_date": "2025-07-02",
-        "title": "Loving Firenze",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情",
-            "恐怖"
-        ],
         "original_language_zh": "法语"
     },
     {
@@ -568,6 +588,32 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            28,
+            12
+        ],
+        "id": 1506969,
+        "original_language": "it",
+        "original_title": "Falso Nueve",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/3Lq8ZgllpaG4I01bt2opXKY1zU9.jpg",
+        "release_date": "2025-07-02",
+        "title": "Falso Nueve",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "动作",
+            "冒险"
+        ],
+        "original_language_zh": "意大利语"
     },
     {
         "adult": false,
