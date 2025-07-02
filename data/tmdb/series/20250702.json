@@ -300,7 +300,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 295107,
         "origin_country": [
             "泰国"
@@ -308,13 +310,15 @@
         "original_language": "th",
         "original_name": "เมืองแก้ว",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
+        "popularity": 0.1143,
+        "poster_path": "/5tOc5Scw3G0L6YcbTFzGWN3FC5g.jpg",
         "first_air_date": "2025-07-02",
         "name": "เมืองแก้ว",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "泰语"
     },
     {
@@ -328,7 +332,7 @@
         "original_language": "fr",
         "original_name": "La vie secrète des commerçants",
         "overview": "",
-        "popularity": 0.1148,
+        "popularity": 0.1002,
         "poster_path": "/xCvAEvJote4ZbmA3BHmDRed7rG9.jpg",
         "first_air_date": "2025-07-02",
         "name": "La vie secrète des commerçants",
