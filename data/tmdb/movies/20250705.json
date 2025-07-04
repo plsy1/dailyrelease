@@ -769,6 +769,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/u1VdiipZHVqI3UWhiDOxCYuShJO.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1476413,
+        "original_language": "th",
+        "original_title": "ระหว่างทาง..กลับบ้าน",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/auxbZiUyeFeRbCl8moxCTACnRhB.jpg",
+        "release_date": "2025-07-05",
+        "title": "ระหว่างทาง..กลับบ้าน",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mTAN7w83PmU8epXtG33jCFp2Iwy.jpg",
         "genre_ids": [],
         "id": 1505184,
@@ -1026,6 +1050,30 @@
             "悬疑"
         ],
         "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nVVhJYD6iRRWQQY8Qmc52BKmamW.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1508173,
+        "original_language": "nl",
+        "original_title": "Teerling",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/g4i8TIeaMB7yXuVzsECnNjVGOP9.jpg",
+        "release_date": "2025-07-05",
+        "title": "Teerling",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "荷兰语"
     },
     {
         "adult": false,
