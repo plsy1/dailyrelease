@@ -1,6 +1,32 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 1061474,
+        "original_language": "en",
+        "original_title": "Superman",
+        "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
+        "popularity": 66.1995,
+        "poster_path": "/omRDPZtSOc6BCkd4hKD6fNDuP0K.jpg",
+        "release_date": "2025-07-07",
+        "title": "超人",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg",
         "genre_ids": [
             99
@@ -105,7 +131,7 @@
         "original_title": "Interview",
         "overview": "",
         "popularity": 0.1186,
-        "poster_path": "/qFqUIm74a7ccv93w7tHZxflCYmL.jpg",
+        "poster_path": "/aMQPmMcNxpnB2kI3Qn7yx0XILTm.jpg",
         "release_date": "2025-07-07",
         "title": "Interview",
         "video": false,
