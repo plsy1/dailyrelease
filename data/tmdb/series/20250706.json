@@ -121,6 +121,7 @@
         "adult": false,
         "backdrop_path": "/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg",
         "genre_ids": [
+            16,
             18,
             35
         ],
@@ -138,6 +139,7 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "动画",
             "剧情",
             "喜剧"
         ],
@@ -175,34 +177,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1Ik6i72QjVRNQ3N475uxiFxRrv9.jpg",
-        "genre_ids": [
-            16,
-            18,
-            10759
-        ],
-        "id": 276288,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "ホテル・インヒューマンズ",
-        "overview": "顶级酒店，满足一切条件。 “极致美食”、“至高治愈”、“迷人娱乐”…… 还有，“最新武器调配”、 “可靠身份伪造”、 “完美尸体处理”——！？ 在生死边缘，两位永不拒绝的礼宾——生朗与沙罗， 将如何回应杀手们的委托—— 致命酒店剧，此刻开幕！",
-        "popularity": 5.6056,
-        "poster_path": "/pBd73lkQgoM6tYyZHgWYEKI7Wdb.jpg",
-        "first_air_date": "2025-07-06",
-        "name": "杀手旅店",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情",
-            "动作与冒险"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/eUJ7fudfrzIxx8PJoitNsmK74ce.jpg",
         "genre_ids": [
             16,
@@ -229,29 +203,57 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/r8v3aidzzGBkXSrgE2Si7sZoqNC.jpg",
+        "backdrop_path": "/qjxsSjx7AjdiHuPlT2iHnpcd5UA.jpg",
         "genre_ids": [
-            18,
-            10751,
-            35
+            16,
+            35,
+            10765
         ],
-        "id": 292174,
+        "id": 262254,
         "origin_country": [
             "日本"
         ],
         "original_language": "ja",
-        "original_name": "こんばんは、朝山家です。",
-        "overview": "本剧改编自足立绅的自传随笔日记，讲述了曾是“国民编剧”的朝山贤太（小泽征悦 饰）如今成了脱离家务与育儿、沉迷自我搜索的“残念丈夫”；而将他一路扶持成名、身兼社长与母亲职责的超级妻子朝子（中村安奈 饰）则变成了“随时爆发”的愤怒人妻。二人常年激烈冲突，却也在日复一日的争吵与亲情中努力维系家庭。脚本家丈夫与万能妻子、叛逆女儿与发育障碍儿子的四人家庭，将展开一段充满爱、怒、笑与泪的热血家族奋斗剧。",
-        "popularity": 3.1915,
-        "poster_path": "/r5p4QbDGFdI9j6RdbmvgIePTFpq.jpg",
+        "original_name": "雨と君と",
+        "overview": "冒雨回家的路上，藤遇见了一只有点特别的“狗”。这只神秘的狗举着牌子请求“请收留我”，并向藤递出了一把折叠伞。不过，与其说它特别，不如说它其实……\n\n在平淡的日常里，突然出现了一位有点古怪的小搭档。一起感受四季流转，吃饭、散步、聊天(?)\n\n那些“还差一点点”的瞬间，温馨又珍贵。\n\n一人一狗的，大概是亲密无间的同居生活。",
+        "popularity": 5.8015,
+        "poster_path": "/9f8b9gj9UpNz1sFQggkPhHzyUgW.jpg",
         "first_air_date": "2025-07-06",
-        "name": "晚上好，我们是朝山家。",
+        "name": "和雨和你",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "动画",
+            "喜剧",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Ik6i72QjVRNQ3N475uxiFxRrv9.jpg",
+        "genre_ids": [
+            16,
+            18,
+            10759
+        ],
+        "id": 276288,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "ホテル・インヒューマンズ",
+        "overview": "顶级酒店，满足一切条件。 “极致美食”、“至高治愈”、“迷人娱乐”…… 还有，“最新武器调配”、 “可靠身份伪造”、 “完美尸体处理”——！？ 在生死边缘，两位永不拒绝的礼宾——生朗与沙罗， 将如何回应杀手们的委托—— 致命酒店剧，此刻开幕！",
+        "popularity": 5.6056,
+        "poster_path": "/pBd73lkQgoM6tYyZHgWYEKI7Wdb.jpg",
+        "first_air_date": "2025-07-06",
+        "name": "杀手旅店",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
             "剧情",
-            "家庭",
-            "喜剧"
+            "动作与冒险"
         ],
         "original_language_zh": "日语"
     },
@@ -287,29 +289,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qjxsSjx7AjdiHuPlT2iHnpcd5UA.jpg",
+        "backdrop_path": "/r8v3aidzzGBkXSrgE2Si7sZoqNC.jpg",
         "genre_ids": [
-            16,
-            35,
-            10765
+            18,
+            10751,
+            35
         ],
-        "id": 262254,
+        "id": 292174,
         "origin_country": [
             "日本"
         ],
         "original_language": "ja",
-        "original_name": "雨と君と",
-        "overview": "冒雨回家的路上，藤遇见了一只有点特别的“狗”。这只神秘的狗举着牌子请求“请收留我”，并向藤递出了一把折叠伞。不过，与其说它特别，不如说它其实……\n\n在平淡的日常里，突然出现了一位有点古怪的小搭档。一起感受四季流转，吃饭、散步、聊天(?)\n\n那些“还差一点点”的瞬间，温馨又珍贵。\n\n一人一狗的，大概是亲密无间的同居生活。",
-        "popularity": 5.8015,
-        "poster_path": "/9f8b9gj9UpNz1sFQggkPhHzyUgW.jpg",
+        "original_name": "こんばんは、朝山家です。",
+        "overview": "本剧改编自足立绅的自传随笔日记，讲述了曾是“国民编剧”的朝山贤太（小泽征悦 饰）如今成了脱离家务与育儿、沉迷自我搜索的“残念丈夫”；而将他一路扶持成名、身兼社长与母亲职责的超级妻子朝子（中村安奈 饰）则变成了“随时爆发”的愤怒人妻。二人常年激烈冲突，却也在日复一日的争吵与亲情中努力维系家庭。脚本家丈夫与万能妻子、叛逆女儿与发育障碍儿子的四人家庭，将展开一段充满爱、怒、笑与泪的热血家族奋斗剧。",
+        "popularity": 3.1915,
+        "poster_path": "/r5p4QbDGFdI9j6RdbmvgIePTFpq.jpg",
         "first_air_date": "2025-07-06",
-        "name": "和雨和你",
+        "name": "晚上好，我们是朝山家。",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
-            "喜剧",
-            "科幻与奇幻"
+            "剧情",
+            "家庭",
+            "喜剧"
         ],
         "original_language_zh": "日语"
     },
