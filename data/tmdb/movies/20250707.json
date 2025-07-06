@@ -1,32 +1,6 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg",
-        "genre_ids": [
-            28,
-            12,
-            878
-        ],
-        "id": 1061474,
-        "original_language": "en",
-        "original_title": "Superman",
-        "overview": "他是真理、正义、美国方式的代表，在这个把善良当做老派的世界，他是善良的化身。",
-        "popularity": 66.1995,
-        "poster_path": "/omRDPZtSOc6BCkd4hKD6fNDuP0K.jpg",
-        "release_date": "2025-07-07",
-        "title": "超人",
-        "video": false,
-        "vote_average": 8.0,
-        "vote_count": 2,
-        "genre_ids_zh": [
-            "动作",
-            "冒险",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/rZhenUlFlwwoLTyVRUV1kFVV0c6.jpg",
         "genre_ids": [
             99
@@ -116,6 +90,28 @@
         "genre_ids_zh": [
             "纪录",
             "电视电影"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uYft4IFZHjxcYJ6XZ8t7UoLVaMe.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1505211,
+        "original_language": "en",
+        "original_title": "That's Andrew Lyons",
+        "overview": "",
+        "popularity": 0.1383,
+        "poster_path": null,
+        "release_date": "2025-07-07",
+        "title": "That's Andrew Lyons",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -214,28 +210,6 @@
             "剧情",
             "喜剧",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/uYft4IFZHjxcYJ6XZ8t7UoLVaMe.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1505211,
-        "original_language": "en",
-        "original_title": "That's Andrew Lyons",
-        "overview": "",
-        "popularity": 0.1383,
-        "poster_path": null,
-        "release_date": "2025-07-07",
-        "title": "That's Andrew Lyons",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
