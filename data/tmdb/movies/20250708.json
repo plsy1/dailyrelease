@@ -299,28 +299,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gkMRM21iZu5ylvrk2dHKo1L9HHs.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1503264,
-        "original_language": "pt",
-        "original_title": "Fora de Tempo",
-        "overview": "",
-        "popularity": 0.0809,
-        "poster_path": "/JU7MQAPjc8PqT8QgPQvbYaursN.jpg",
-        "release_date": "2025-07-08",
-        "title": "Fora de Tempo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/raAELJK0yagHWdJEFK8wuqKJbSp.jpg",
         "genre_ids": [
             16,
@@ -342,6 +320,28 @@
             "动画",
             "家庭",
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gkMRM21iZu5ylvrk2dHKo1L9HHs.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1503264,
+        "original_language": "pt",
+        "original_title": "Fora de Tempo",
+        "overview": "",
+        "popularity": 0.0809,
+        "poster_path": "/JU7MQAPjc8PqT8QgPQvbYaursN.jpg",
+        "release_date": "2025-07-08",
+        "title": "Fora de Tempo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     }
