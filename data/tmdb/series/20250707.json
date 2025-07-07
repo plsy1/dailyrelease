@@ -26,7 +26,9 @@
     {
         "adult": false,
         "backdrop_path": "/eNdRbYL1DL9XHQ9B3Zrz8P5Uatm.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10764
+        ],
         "id": 295091,
         "origin_country": [
             "香港"
@@ -35,12 +37,14 @@
         "original_name": "Dance X Crew",
         "overview": "",
         "popularity": 0.1367,
-        "poster_path": null,
+        "poster_path": "/wksw1nIsuWQ6l7nrWDwL4YcJHGh.jpg",
         "first_air_date": "2025-07-07",
         "name": "Dance X Crew",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "汉语"
     },
     {
