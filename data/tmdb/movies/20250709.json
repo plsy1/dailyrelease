@@ -1037,22 +1037,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/yWnd6yUcRIGTZyaWbsxJKmaNcfn.jpg",
+        "backdrop_path": null,
         "genre_ids": [
+            28,
             18
         ],
-        "id": 1508864,
+        "id": 1508308,
         "original_language": "pt",
-        "original_title": "A Última Locadora da Cidade",
+        "original_title": "A Luta",
         "overview": "",
-        "popularity": 0.1742,
-        "poster_path": "/bJCA5hTZj38CsUqG89OsHcbCOUG.jpg",
+        "popularity": 0.1934,
+        "poster_path": "/oYexcj3mPVaBu6VujpXQE5m3YRD.jpg",
         "release_date": "2025-07-09",
-        "title": "A Última Locadora da Cidade",
+        "title": "A Luta",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
+            "动作",
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
@@ -1081,20 +1083,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/grBQxrVXxK8CGEyv0xhM9IqmGxI.jpg",
-        "genre_ids": [],
-        "id": 1482026,
+        "backdrop_path": "/yWnd6yUcRIGTZyaWbsxJKmaNcfn.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1508864,
         "original_language": "pt",
-        "original_title": "Dentro do Vazio",
+        "original_title": "A Última Locadora da Cidade",
         "overview": "",
-        "popularity": 0.0982,
-        "poster_path": "/imaptuAdAYWBD9gbMtnaAaFMXRZ.jpg",
+        "popularity": 0.1742,
+        "poster_path": "/bJCA5hTZj38CsUqG89OsHcbCOUG.jpg",
         "release_date": "2025-07-09",
-        "title": "Dentro do Vazio",
+        "title": "A Última Locadora da Cidade",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
@@ -1117,6 +1123,48 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "科幻",
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/grBQxrVXxK8CGEyv0xhM9IqmGxI.jpg",
+        "genre_ids": [],
+        "id": 1482026,
+        "original_language": "pt",
+        "original_title": "Dentro do Vazio",
+        "overview": "",
+        "popularity": 0.0982,
+        "poster_path": "/imaptuAdAYWBD9gbMtnaAaFMXRZ.jpg",
+        "release_date": "2025-07-09",
+        "title": "Dentro do Vazio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1509588,
+        "original_language": "pt",
+        "original_title": "A Luta",
+        "overview": "",
+        "popularity": 0.0857,
+        "poster_path": "/uvNt4ulnuhEFpQ63RSlsJfdLYmq.jpg",
+        "release_date": "2025-07-09",
+        "title": "A Luta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
@@ -1165,6 +1213,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1508332,
+        "original_language": "pt",
+        "original_title": "Espaço Filmes",
+        "overview": "",
+        "popularity": 0.0598,
+        "poster_path": "/gRtfnuQttSoxgsAudYZrjhOgJd0.jpg",
+        "release_date": "2025-07-09",
+        "title": "Espaço Filmes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1508312,
@@ -1204,76 +1274,6 @@
         "genre_ids_zh": [
             "纪录",
             "音乐"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            18
-        ],
-        "id": 1508308,
-        "original_language": "pt",
-        "original_title": "A Luta",
-        "overview": "",
-        "popularity": 0.1934,
-        "poster_path": "/oYexcj3mPVaBu6VujpXQE5m3YRD.jpg",
-        "release_date": "2025-07-09",
-        "title": "A Luta",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1508332,
-        "original_language": "pt",
-        "original_title": "Espaço Filmes",
-        "overview": "",
-        "popularity": 0.0598,
-        "poster_path": "/gRtfnuQttSoxgsAudYZrjhOgJd0.jpg",
-        "release_date": "2025-07-09",
-        "title": "Espaço Filmes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            18
-        ],
-        "id": 1509588,
-        "original_language": "pt",
-        "original_title": "A Luta",
-        "overview": "",
-        "popularity": 0.0857,
-        "poster_path": "/uvNt4ulnuhEFpQ63RSlsJfdLYmq.jpg",
-        "release_date": "2025-07-09",
-        "title": "A Luta",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
