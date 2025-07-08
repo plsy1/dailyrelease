@@ -67,7 +67,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/du4umUeztgV0nowVdOBW3cswn0L.jpg",
         "genre_ids": [
             35
         ],
@@ -76,7 +76,7 @@
         "original_title": "Nate Jackson: Super Funny",
         "overview": "",
         "popularity": 0.3285,
-        "poster_path": null,
+        "poster_path": "/eo27xJmODDDBQma09H6GxZIqxKw.jpg",
         "release_date": "2025-07-08",
         "title": "Nate Jackson: Super Funny",
         "video": false,
@@ -273,6 +273,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1510361,
+        "original_language": "fr",
+        "original_title": "Notre nouveau monde : quand la terre nous surprend",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9rd5FmYNB9lqQmp7auKsykt2dqW.jpg",
+        "release_date": "2025-07-08",
+        "title": "Notre nouveau monde : quand la terre nous surprend",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/k48vi6mXpsp2f6HVp2N8UbPOFQ6.jpg",
         "genre_ids": [
             99,
@@ -418,5 +440,29 @@
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1510326,
+        "original_language": "ru",
+        "original_title": "Идрак Мирзализаде: Этого никогда не было",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/bkM144g4xOv9hHBXqjkKzfjOnxd.jpg",
+        "release_date": "2025-07-08",
+        "title": "Идрак Мирзализаде: Этого никогда не было",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
     }
 ]
