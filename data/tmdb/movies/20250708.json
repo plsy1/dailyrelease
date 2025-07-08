@@ -31,7 +31,7 @@
         "original_language": "en",
         "original_title": "A Tupperware of Ashes",
         "overview": "",
-        "popularity": 0.4074,
+        "popularity": 0.454,
         "poster_path": "/zgLNj8mC2xMngEh3kEHWoGaxua1.jpg",
         "release_date": "2025-07-08",
         "title": "A Tupperware of Ashes",
@@ -52,7 +52,7 @@
         "original_language": "en",
         "original_title": "Bury 'Em Deep",
         "overview": "",
-        "popularity": 0.3518,
+        "popularity": 0.372,
         "poster_path": "/dtViyVd70uXGPfERBwEynGTG8cf.jpg",
         "release_date": "2025-07-08",
         "title": "Bury 'Em Deep",
@@ -75,7 +75,7 @@
         "original_language": "en",
         "original_title": "Nate Jackson: Super Funny",
         "overview": "",
-        "popularity": 0.2707,
+        "popularity": 0.3285,
         "poster_path": null,
         "release_date": "2025-07-08",
         "title": "Nate Jackson: Super Funny",
@@ -98,7 +98,7 @@
         "original_language": "en",
         "original_title": "My Friend Miles",
         "overview": "",
-        "popularity": 0.2535,
+        "popularity": 0.3289,
         "poster_path": "/daEgtsHuyqu968KXPSnoAZuLOGg.jpg",
         "release_date": "2025-07-08",
         "title": "My Friend Miles",
@@ -122,7 +122,7 @@
         "original_language": "en",
         "original_title": "Oblivium",
         "overview": "",
-        "popularity": 0.1046,
+        "popularity": 0.1907,
         "poster_path": "/6kqxTnCs2jQmA03yBb4GoI4K0vr.jpg",
         "release_date": "2025-07-08",
         "title": "Oblivium",
@@ -132,6 +132,28 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1405354,
+        "original_language": "en",
+        "original_title": "Lullaby for a Lily",
+        "overview": "",
+        "popularity": 0.0577,
+        "poster_path": "/9rQNTl7EVdWb0HZ5COYL9DVqwek.jpg",
+        "release_date": "2025-07-08",
+        "title": "Lullaby for a Lily",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -147,7 +169,7 @@
         "original_language": "en",
         "original_title": "8 Days",
         "overview": "",
-        "popularity": 0.0363,
+        "popularity": 0.0256,
         "poster_path": "/z1QzfBplDISWhjgRRucBAApsJKA.jpg",
         "release_date": "2025-07-08",
         "title": "8 Days",
@@ -171,7 +193,7 @@
         "original_language": "en",
         "original_title": "Put Your Clothes ON!",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0286,
         "poster_path": "/1E5s81EdI3SOmTvNbyYgydTI8kH.jpg",
         "release_date": "2025-07-08",
         "title": "Put Your Clothes ON!",
@@ -248,6 +270,34 @@
             "纪录"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k48vi6mXpsp2f6HVp2N8UbPOFQ6.jpg",
+        "genre_ids": [
+            99,
+            18,
+            10402,
+            9648
+        ],
+        "id": 1510068,
+        "original_language": "fr",
+        "original_title": "\"Maison\"",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/blJMvgpheRMhhA9mIl8VPB5WEP1.jpg",
+        "release_date": "2025-07-08",
+        "title": "\"Maison\"",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情",
+            "音乐",
+            "悬疑"
+        ],
+        "original_language_zh": "法语"
     },
     {
         "adult": false,
