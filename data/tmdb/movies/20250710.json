@@ -503,90 +503,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qNgR8vkRuPonVOsY8osstzrdZhl.jpg",
-        "genre_ids": [
-            10751,
-            16
-        ],
-        "id": 1509097,
-        "original_language": "en",
-        "original_title": "The Visit",
-        "overview": "",
-        "popularity": 0.0443,
-        "poster_path": null,
-        "release_date": "2025-07-10",
-        "title": "The Visit",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "家庭",
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1509105,
-        "original_language": "en",
-        "original_title": "Wanderers",
-        "overview": "",
-        "popularity": 0.0393,
-        "poster_path": null,
-        "release_date": "2025-07-10",
-        "title": "Wanderers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2z55l4KcjTbKbaYZkttrpsveVVO.jpg",
-        "genre_ids": [],
-        "id": 1509101,
-        "original_language": "en",
-        "original_title": "Broken",
-        "overview": "",
-        "popularity": 0.0368,
-        "poster_path": null,
-        "release_date": "2025-07-10",
-        "title": "Broken",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4WL9tlW8rgB9QXyqoFnDxQGGAnI.jpg",
-        "genre_ids": [
-            18,
-            27
-        ],
-        "id": 1507907,
-        "original_language": "en",
-        "original_title": "O Vazio 2",
-        "overview": "",
-        "popularity": 0.0698,
-        "poster_path": "/1ICjcoNKEj3xaJWszgI1Ncy65fR.jpg",
-        "release_date": "2025-07-10",
-        "title": "O Vazio 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1485442,
@@ -607,18 +523,132 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1477455,
+        "id": 1509234,
         "original_language": "en",
-        "original_title": "Saint James",
+        "original_title": "Transindigenous Assembly",
         "overview": "",
-        "popularity": 0.0256,
-        "poster_path": "/pbKXHEmbLOTYzwmsI10Ba6gNtTD.jpg",
+        "popularity": 0.0614,
+        "poster_path": "/6U0RZsFZGtcz8cU605jxIAgFviM.jpg",
         "release_date": "2025-07-10",
-        "title": "Saint James",
+        "title": "Transindigenous Assembly",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4aGLRRCEZ2AxWYF7mqfiSnMEFls.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1509089,
+        "original_language": "en",
+        "original_title": "Warning Signs",
+        "overview": "",
+        "popularity": 0.0568,
+        "poster_path": "/aX0sKbhQBizb6X4Aj2yUHzCm0Dc.jpg",
+        "release_date": "2025-07-10",
+        "title": "Warning Signs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w3kEs0GSRz8zOAlODTa65gG7kix.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1509102,
+        "original_language": "en",
+        "original_title": "State of Nothing",
+        "overview": "",
+        "popularity": 0.0543,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "State of Nothing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qNgR8vkRuPonVOsY8osstzrdZhl.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            18
+        ],
+        "id": 1509097,
+        "original_language": "en",
+        "original_title": "The Visit",
+        "overview": "",
+        "popularity": 0.0443,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "The Visit",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "动画",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wVeeXW10pGvIhq6fiVA0TpLhNkN.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1509105,
+        "original_language": "en",
+        "original_title": "Wanderers",
+        "overview": "",
+        "popularity": 0.0393,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Wanderers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2z55l4KcjTbKbaYZkttrpsveVVO.jpg",
+        "genre_ids": [
+            14
+        ],
+        "id": 1509101,
+        "original_language": "en",
+        "original_title": "Broken",
+        "overview": "",
+        "popularity": 0.0368,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Broken",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -711,6 +741,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1477455,
+        "original_language": "en",
+        "original_title": "Saint James",
+        "overview": "",
+        "popularity": 0.0256,
+        "poster_path": "/pbKXHEmbLOTYzwmsI10Ba6gNtTD.jpg",
+        "release_date": "2025-07-10",
+        "title": "Saint James",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/cvlEL7HSMIWYXgu6s9arVQmUi5p.jpg",
         "genre_ids": [
             99
@@ -733,24 +781,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1509234,
-        "original_language": "en",
-        "original_title": "Transindigenous Assembly",
-        "overview": "",
-        "popularity": 0.0614,
-        "poster_path": "/6U0RZsFZGtcz8cU605jxIAgFviM.jpg",
-        "release_date": "2025-07-10",
-        "title": "Transindigenous Assembly",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/t4qxgPJSFwRnd5mu0di31YUMoYq.jpg",
         "genre_ids": [],
         "id": 1510405,
@@ -761,6 +791,474 @@
         "poster_path": "/sR5fsFA3nLv7t12Ob14GzUHRFjt.jpg",
         "release_date": "2025-07-10",
         "title": "Childhood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Ej4XrqSh90OgadaKVTIExNtfcx.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510897,
+        "original_language": "en",
+        "original_title": "Mr Sun & Miss Universe",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Mr Sun & Miss Universe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y4w1q9STJD711OvuYsthLpor6ix.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510894,
+        "original_language": "en",
+        "original_title": "Break Out",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Break Out",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tiKRZyLjoylZArm47XP7KlOJCMH.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510893,
+        "original_language": "en",
+        "original_title": "Void Signal",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Void Signal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qhiLxRABBsb2MwvmANxggpC2tlC.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510862,
+        "original_language": "en",
+        "original_title": "Snippets",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Snippets",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1510859,
+        "original_language": "en",
+        "original_title": "Of Women, Shadows and Lullabies",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6eGRuUyqeseIMx6Gnbrb2NUXZbt.jpg",
+        "release_date": "2025-07-10",
+        "title": "Of Women, Shadows and Lullabies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ldAkwNbUNkiKk3NCDLWZkq3erUD.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510858,
+        "original_language": "en",
+        "original_title": "The Final Curtain Call",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "The Final Curtain Call",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oeVGrWzUvoLPut1QoIsjo1qCYme.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510844,
+        "original_language": "en",
+        "original_title": "“Sun” the weight of Memory",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/s3wIHc9dj9tf2FgQpFcJJgLPsIV.jpg",
+        "release_date": "2025-07-10",
+        "title": "“Sun” the weight of Memory",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1HxhxFRZgh0LNZyh6kUUBjaA4yQ.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510839,
+        "original_language": "en",
+        "original_title": "Rotten Dawn",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Rotten Dawn",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1510835,
+        "original_language": "en",
+        "original_title": "Oma Gaat op Kamers",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Oma Gaat op Kamers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y7cyQVHPITnRuklp1mXNy58HLe.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510831,
+        "original_language": "en",
+        "original_title": "Refraction",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/pf5mpbUqzYEUDmfwD2oYyVsggQE.jpg",
+        "release_date": "2025-07-10",
+        "title": "Refraction",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nxKIvBgS5C7d2Sax3l5HU3jUb5g.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510828,
+        "original_language": "en",
+        "original_title": "A Place Too Small for Longing",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "A Place Too Small for Longing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xtqAg8HoycnjIG6mfDzHJxW5La5.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510825,
+        "original_language": "en",
+        "original_title": "Rat Poison",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Rat Poison",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u2CvpkjRGdrujrjNZzzPL2bV51a.jpg",
+        "genre_ids": [
+            16,
+            14
+        ],
+        "id": 1510822,
+        "original_language": "en",
+        "original_title": "A Chime in the Dark",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "A Chime in the Dark",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Wa5g9PTlJpeNbpiWPLFtozHxnM.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510821,
+        "original_language": "en",
+        "original_title": "Overflown",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Overflown",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a8yZPLmJSrGfiwW2zLa5wiwRN7o.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510819,
+        "original_language": "en",
+        "original_title": "How To Burn The Tablecloth",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "How To Burn The Tablecloth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sgCTF5BriRUKPPwh3SpTIMqtCIb.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510817,
+        "original_language": "en",
+        "original_title": "Good Enough",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Good Enough",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Uiy7SGLUSKmLzdhkLuSY7WiQo6.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510811,
+        "original_language": "en",
+        "original_title": "Hanging There",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Hanging There",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9at0j2tnI33CPumZE5vPoKvmzAQ.jpg",
+        "genre_ids": [
+            16,
+            53,
+            878,
+            35
+        ],
+        "id": 1510806,
+        "original_language": "en",
+        "original_title": "Little October",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ay9liG9iAHoA2WkVSnERSLguRFF.jpg",
+        "release_date": "2025-07-10",
+        "title": "Little October",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "惊悚",
+            "科幻",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/25CYG4cTqnfkAeCRuBP3SYui7q1.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1510803,
+        "original_language": "en",
+        "original_title": "Not So Public Spaces",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6IiNVgMe8KuNlm0rZ6R3QPZpY4E.jpg",
+        "release_date": "2025-07-10",
+        "title": "Not So Public Spaces",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1j0txdMslnE7BZXVVe220GQtEcJ.jpg",
+        "genre_ids": [
+            16,
+            99
+        ],
+        "id": 1510799,
+        "original_language": "en",
+        "original_title": "Homeynessless",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/AtstAVyGkR4CSHxhxbgljfubQwb.jpg",
+        "release_date": "2025-07-10",
+        "title": "Homeynessless",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1510791,
+        "original_language": "en",
+        "original_title": "Detachment",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Detachment",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1045,6 +1543,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            14,
+            18,
+            878
+        ],
+        "id": 1493018,
+        "original_language": "es",
+        "original_title": "Frío Metal",
+        "overview": "",
+        "popularity": 0.0503,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Frío Metal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "剧情",
+            "科幻"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1493026,
@@ -1082,32 +1606,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            14,
-            18,
-            878
-        ],
-        "id": 1493018,
-        "original_language": "es",
-        "original_title": "Frío Metal",
-        "overview": "",
-        "popularity": 0.0503,
-        "poster_path": null,
-        "release_date": "2025-07-10",
-        "title": "Frío Metal",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "剧情",
-            "科幻"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1176,6 +1674,32 @@
         "genre_ids_zh": [
             "纪录",
             "历史"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jR1izW790TWor4dAOBE8tgzDSgn.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "id": 1510928,
+        "original_language": "es",
+        "original_title": "L'etern retorn",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8bCIcLJzh2GkRA4QhecwSJPZhR9.jpg",
+        "release_date": "2025-07-10",
+        "title": "L'etern retorn",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
