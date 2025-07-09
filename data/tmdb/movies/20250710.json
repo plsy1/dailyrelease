@@ -169,6 +169,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53,
+            18
+        ],
+        "id": 1497289,
+        "original_language": "en",
+        "original_title": "Karunrung 1995",
+        "overview": "",
+        "popularity": 0.3511,
+        "poster_path": "/8o44yOzWXZmrHd5QpHAJ1ZXJuxf.jpg",
+        "release_date": "2025-07-10",
+        "title": "Karunrung 1995",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/tB7YtrVTiRj8rxtRcRThfp0PDuy.jpg",
         "genre_ids": [
             53
@@ -193,21 +219,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
+            18
         ],
-        "id": 1189885,
+        "id": 1459599,
         "original_language": "en",
-        "original_title": "The Morrigan",
+        "original_title": "Last Minute",
         "overview": "",
-        "popularity": 0.2438,
-        "poster_path": "/ahnhXyjd26ducr4V05hDAzLPyB5.jpg",
+        "popularity": 0.307,
+        "poster_path": "/vyBcHVW5aPnX3ZqMSGOdhBgMzOJ.jpg",
         "release_date": "2025-07-10",
-        "title": "The Morrigan",
+        "title": "Last Minute",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -237,115 +263,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            27
         ],
-        "id": 1459599,
+        "id": 1189885,
         "original_language": "en",
-        "original_title": "Last Minute",
+        "original_title": "The Morrigan",
         "overview": "",
-        "popularity": 0.307,
-        "poster_path": "/vyBcHVW5aPnX3ZqMSGOdhBgMzOJ.jpg",
+        "popularity": 0.2438,
+        "poster_path": "/ahnhXyjd26ducr4V05hDAzLPyB5.jpg",
         "release_date": "2025-07-10",
-        "title": "Last Minute",
+        "title": "The Morrigan",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53,
-            18
-        ],
-        "id": 1497289,
-        "original_language": "en",
-        "original_title": "Karunrung 1995",
-        "overview": "",
-        "popularity": 0.3511,
-        "poster_path": "/8o44yOzWXZmrHd5QpHAJ1ZXJuxf.jpg",
-        "release_date": "2025-07-10",
-        "title": "Karunrung 1995",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1506783,
-        "original_language": "en",
-        "original_title": "Boys Are Cats (music is bad)",
-        "overview": "",
-        "popularity": 0.1737,
-        "poster_path": "/p3snl84dUthk1s07fH7x5VO8e58.jpg",
-        "release_date": "2025-07-10",
-        "title": "Boys Are Cats (music is bad)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/wNB0DaEU6hxLjTgJM8TbtBp7dRi.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1493500,
-        "original_language": "en",
-        "original_title": "Skeleton Girls. A Kidnapped Society",
-        "overview": "",
-        "popularity": 0.2042,
-        "poster_path": "/5xG3wevAce7ZpRI8jfnn7AuFlUk.jpg",
-        "release_date": "2025-07-10",
-        "title": "Skeleton Girls. A Kidnapped Society",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mNwx26to77T3f3evqq9sjSMOZrC.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1505919,
-        "original_language": "en",
-        "original_title": "A Life in Tandem",
-        "overview": "",
-        "popularity": 0.234,
-        "poster_path": "/fBUdJU1B4OxCk1lYgaauVMJiOBW.jpg",
-        "release_date": "2025-07-10",
-        "title": "A Life in Tandem",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -375,22 +307,44 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/x1LKJdc6qH7i6EZq4gBCwecaarS.jpg",
+        "backdrop_path": "/mNwx26to77T3f3evqq9sjSMOZrC.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1505919,
+        "original_language": "en",
+        "original_title": "A Life in Tandem",
+        "overview": "",
+        "popularity": 0.234,
+        "poster_path": "/fBUdJU1B4OxCk1lYgaauVMJiOBW.jpg",
+        "release_date": "2025-07-10",
+        "title": "A Life in Tandem",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wNB0DaEU6hxLjTgJM8TbtBp7dRi.jpg",
         "genre_ids": [
             53,
             18
         ],
-        "id": 1510016,
+        "id": 1493500,
         "original_language": "en",
-        "original_title": "As The Decay Encroaches",
+        "original_title": "Skeleton Girls. A Kidnapped Society",
         "overview": "",
-        "popularity": 0.1046,
-        "poster_path": "/cIXgUbYodA1HWLkVGCyoPzfMZec.jpg",
+        "popularity": 0.2042,
+        "poster_path": "/5xG3wevAce7ZpRI8jfnn7AuFlUk.jpg",
         "release_date": "2025-07-10",
-        "title": "As The Decay Encroaches",
+        "title": "Skeleton Girls. A Kidnapped Society",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
             "惊悚",
             "剧情"
@@ -422,6 +376,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1506783,
+        "original_language": "en",
+        "original_title": "Boys Are Cats (music is bad)",
+        "overview": "",
+        "popularity": 0.1737,
+        "poster_path": "/p3snl84dUthk1s07fH7x5VO8e58.jpg",
+        "release_date": "2025-07-10",
+        "title": "Boys Are Cats (music is bad)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1495126,
         "original_language": "en",
@@ -435,6 +411,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x1LKJdc6qH7i6EZq4gBCwecaarS.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1510016,
+        "original_language": "en",
+        "original_title": "As The Decay Encroaches",
+        "overview": "",
+        "popularity": 0.1046,
+        "poster_path": "/cIXgUbYodA1HWLkVGCyoPzfMZec.jpg",
+        "release_date": "2025-07-10",
+        "title": "As The Decay Encroaches",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -457,30 +457,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/meoPf3VXF9nj54FxTW3OV4lO1TA.jpg",
-        "genre_ids": [
-            35,
-            10402
-        ],
-        "id": 1489220,
-        "original_language": "en",
-        "original_title": "The Transgender Puppet Variety Show",
-        "overview": "",
-        "popularity": 0.0439,
-        "poster_path": "/xizBfn6iM9jCIQHtkQkDCuSNhLN.jpg",
-        "release_date": "2025-07-10",
-        "title": "The Transgender Puppet Variety Show",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/sB0iM8w7veMomst8mA19VotegDt.jpg",
         "genre_ids": [
             18
@@ -498,6 +474,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4WL9tlW8rgB9QXyqoFnDxQGGAnI.jpg",
+        "genre_ids": [
+            18,
+            27
+        ],
+        "id": 1507907,
+        "original_language": "en",
+        "original_title": "O Vazio 2",
+        "overview": "",
+        "popularity": 0.0698,
+        "poster_path": "/1ICjcoNKEj3xaJWszgI1Ncy65fR.jpg",
+        "release_date": "2025-07-10",
+        "title": "O Vazio 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -604,6 +604,30 @@
             "家庭",
             "动画",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/meoPf3VXF9nj54FxTW3OV4lO1TA.jpg",
+        "genre_ids": [
+            35,
+            10402
+        ],
+        "id": 1489220,
+        "original_language": "en",
+        "original_title": "The Transgender Puppet Variety Show",
+        "overview": "",
+        "popularity": 0.0439,
+        "poster_path": "/xizBfn6iM9jCIQHtkQkDCuSNhLN.jpg",
+        "release_date": "2025-07-10",
+        "title": "The Transgender Puppet Variety Show",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1311,14 +1335,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1493039,
+        "id": 1493045,
         "original_language": "de",
-        "original_title": "Fernlicht",
+        "original_title": "Conference of the Birds",
         "overview": "",
-        "popularity": 0.0534,
-        "poster_path": null,
+        "popularity": 0.0624,
+        "poster_path": "/r9BJ3SfLNnsMVLn5ZA1zKfD2oyH.jpg",
         "release_date": "2025-07-10",
-        "title": "Fernlicht",
+        "title": "Conference of the Birds",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1333,14 +1357,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1493045,
+        "id": 1493039,
         "original_language": "de",
-        "original_title": "Conference of the Birds",
+        "original_title": "Fernlicht",
         "overview": "",
-        "popularity": 0.0624,
-        "poster_path": "/r9BJ3SfLNnsMVLn5ZA1zKfD2oyH.jpg",
+        "popularity": 0.0534,
+        "poster_path": null,
         "release_date": "2025-07-10",
-        "title": "Conference of the Birds",
+        "title": "Fernlicht",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1401,23 +1425,25 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            35,
+            18
         ],
-        "id": 1493040,
-        "original_language": "fr",
-        "original_title": "Des millénaires d’absence",
+        "id": 1511115,
+        "original_language": "de",
+        "original_title": "FREYA FEVER",
         "overview": "",
-        "popularity": 0.0311,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/bgWSq4Hj0slhJTpldYrVhtLwL9M.jpg",
         "release_date": "2025-07-10",
-        "title": "Des millénaires d’absence",
+        "title": "FREYA FEVER",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "喜剧",
+            "剧情"
         ],
-        "original_language_zh": "法语"
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
@@ -1453,6 +1479,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1493040,
+        "original_language": "fr",
+        "original_title": "Des millénaires d’absence",
+        "overview": "",
+        "popularity": 0.0311,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Des millénaires d’absence",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
@@ -1759,6 +1807,54 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/gCBjWr7QZBdZH0NWfQtoPjtJbw4.jpg",
+        "genre_ids": [
+            53,
+            35,
+            27
+        ],
+        "id": 1509298,
+        "original_language": "pt",
+        "original_title": "A HORA DO CHICO!",
+        "overview": "",
+        "popularity": 0.1219,
+        "poster_path": "/izgUb2nZRd9Tp4TMwT8j1q3gcbC.jpg",
+        "release_date": "2025-07-10",
+        "title": "A HORA DO CHICO!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1493033,
+        "original_language": "pt",
+        "original_title": "Bulakna",
+        "overview": "",
+        "popularity": 0.1171,
+        "poster_path": null,
+        "release_date": "2025-07-10",
+        "title": "Bulakna",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jqtOYhclBqd4wWDGUOIwcdASSel.jpg",
         "genre_ids": [
             18
@@ -1803,33 +1899,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gCBjWr7QZBdZH0NWfQtoPjtJbw4.jpg",
-        "genre_ids": [
-            53,
-            35,
-            27
-        ],
-        "id": 1509298,
-        "original_language": "pt",
-        "original_title": "A HORA DO CHICO!",
-        "overview": "",
-        "popularity": 0.1219,
-        "poster_path": "/izgUb2nZRd9Tp4TMwT8j1q3gcbC.jpg",
-        "release_date": "2025-07-10",
-        "title": "A HORA DO CHICO!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "喜剧",
-            "恐怖"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/wlBQH44hIzM8ab0rVcz5ba38vkA.jpg",
         "genre_ids": [
             9648,
             18
@@ -1839,7 +1909,7 @@
         "original_title": "Ruídos",
         "overview": "",
         "popularity": 0.0492,
-        "poster_path": null,
+        "poster_path": "/c03sNrPpDfG0UPCIBZ2E5bhsqN3.jpg",
         "release_date": "2025-07-10",
         "title": "Ruídos",
         "video": false,
@@ -1848,28 +1918,6 @@
         "genre_ids_zh": [
             "悬疑",
             "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1493033,
-        "original_language": "pt",
-        "original_title": "Bulakna",
-        "overview": "",
-        "popularity": 0.1171,
-        "poster_path": null,
-        "release_date": "2025-07-10",
-        "title": "Bulakna",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1938,6 +1986,32 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            9648
+        ],
+        "id": 1511065,
+        "original_language": "pt",
+        "original_title": "INACABADO",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vAsjK15qVI7Krc8GqEEtOV3c5sk.jpg",
+        "release_date": "2025-07-10",
+        "title": "INACABADO",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "悬疑"
         ],
         "original_language_zh": "葡萄牙语"
     },
