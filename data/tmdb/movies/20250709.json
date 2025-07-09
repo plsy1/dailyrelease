@@ -38,13 +38,31 @@
         "release_date": "2025-07-09",
         "title": "超人",
         "video": false,
-        "vote_average": 7.0,
-        "vote_count": 59,
+        "vote_average": 7.037,
+        "vote_count": 67,
         "genre_ids_zh": [
             "科幻",
             "冒险",
             "动作"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1495502,
+        "original_language": "en",
+        "original_title": "Quiescence",
+        "overview": "",
+        "popularity": 0.3939,
+        "poster_path": null,
+        "release_date": "2025-07-09",
+        "title": "Quiescence",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -67,24 +85,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1495502,
-        "original_language": "en",
-        "original_title": "Quiescence",
-        "overview": "",
-        "popularity": 0.3939,
-        "poster_path": null,
-        "release_date": "2025-07-09",
-        "title": "Quiescence",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -117,28 +117,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1500508,
-        "original_language": "en",
-        "original_title": "The Academy",
-        "overview": "",
-        "popularity": 0.2659,
-        "poster_path": null,
-        "release_date": "2025-07-09",
-        "title": "The Academy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/nTQjzAqN9sXOj1U1nQArUNUrjI9.jpg",
         "genre_ids": [
             18,
@@ -165,6 +143,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1500508,
+        "original_language": "en",
+        "original_title": "The Academy",
+        "overview": "",
+        "popularity": 0.2659,
+        "poster_path": null,
+        "release_date": "2025-07-09",
+        "title": "The Academy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             36
         ],
@@ -173,7 +173,7 @@
         "original_title": "Revelations of Divine Love",
         "overview": "",
         "popularity": 0.2291,
-        "poster_path": null,
+        "poster_path": "/q8YNdWmEGP6kwNVADATDV2ll9yA.jpg",
         "release_date": "2025-07-09",
         "title": "Revelations of Divine Love",
         "video": false,
@@ -199,6 +199,28 @@
         "poster_path": null,
         "release_date": "2025-07-09",
         "title": "Alarm Notes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1506915,
+        "original_language": "en",
+        "original_title": "Ananda",
+        "overview": "",
+        "popularity": 0.1447,
+        "poster_path": null,
+        "release_date": "2025-07-09",
+        "title": "Ananda",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -304,7 +326,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 978689,
         "original_language": "en",
         "original_title": "I Scream, You Scream",
@@ -316,7 +340,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -337,6 +363,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AhegglWVlr6RC6QkqvIpPLjXBiR.jpg",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1507722,
+        "original_language": "en",
+        "original_title": "Toward the Horizon",
+        "overview": "",
+        "popularity": 0.0311,
+        "poster_path": "/a4mPkOclRCZpxqR3ToxfVcsguoA.jpg",
+        "release_date": "2025-07-09",
+        "title": "Toward the Horizon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -400,7 +450,7 @@
         "original_title": "괴기열차",
         "overview": "",
         "popularity": 4.7744,
-        "poster_path": "/2tsSBC8v47oBbdKkyGmvMWy2IhK.jpg",
+        "poster_path": "/z8QwXims2jUO08GuDd5aCPGwxBR.jpg",
         "release_date": "2025-07-09",
         "title": "괴기열차",
         "video": false,
@@ -498,8 +548,8 @@
         "release_date": "2025-07-09",
         "title": "尸杀泰拳",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "恐怖",
             "惊悚",
@@ -517,11 +567,11 @@
         "id": 1425045,
         "original_language": "de",
         "original_title": "Brick",
-        "overview": "",
+        "overview": "公寓楼一夜之间被一堵神秘砖墙包围，蒂姆和奥莉薇娅必须与警惕的邻居们联合起来才能逃出生天。",
         "popularity": 1.6021,
         "poster_path": "/6ZbhhKyb1QF8Rj8lzOZ74Hm5YKS.jpg",
         "release_date": "2025-07-09",
-        "title": "Brick",
+        "title": "砖墙迷攻",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -555,6 +605,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/feGtvtmaUmZkQ8VEuWonTZIviV7.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1477279,
+        "original_language": "fr",
+        "original_title": "I Love Peru",
+        "overview": "",
+        "popularity": 0.7465,
+        "poster_path": "/9lK7aJkx2QvkdxyEixN7X80Uzkk.jpg",
+        "release_date": "2025-07-09",
+        "title": "I Love Peru",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/amFxtFCoR48ECStYbsTqS15d0Pj.jpg",
         "genre_ids": [
             27,
@@ -576,28 +648,6 @@
             "恐怖",
             "惊悚",
             "科幻"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/feGtvtmaUmZkQ8VEuWonTZIviV7.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1477279,
-        "original_language": "fr",
-        "original_title": "I Love Peru",
-        "overview": "",
-        "popularity": 0.7465,
-        "poster_path": "/9lK7aJkx2QvkdxyEixN7X80Uzkk.jpg",
-        "release_date": "2025-07-09",
-        "title": "I Love Peru",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "法语"
     },
