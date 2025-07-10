@@ -954,19 +954,25 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1509634,
+        "genre_ids": [
+            878,
+            35
+        ],
+        "id": 1511462,
         "original_language": "en",
-        "original_title": "Dear Jane",
+        "original_title": "Joel and Ned's Absolute Adventure",
         "overview": "",
-        "popularity": 0.085,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/m5WUNputRBIDltLAC0gCVcB0tml.jpg",
         "release_date": "2025-07-11",
-        "title": "Dear Jane",
+        "title": "Joel and Ned's Absolute Adventure",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "科幻",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1225,30 +1231,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            18
-        ],
-        "id": 1510197,
-        "original_language": "pt",
-        "original_title": "Medo de Cachorro",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/nxXIx76rNWDlYSQI8pBwLjBpcGA.jpg",
-        "release_date": "2025-07-11",
-        "title": "Medo de Cachorro",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/xeCEYbEHKfgS85sk1L4nV4jVwac.jpg",
         "genre_ids": [
             35,
@@ -1268,6 +1250,30 @@
         "genre_ids_zh": [
             "喜剧",
             "科幻"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            18
+        ],
+        "id": 1510197,
+        "original_language": "pt",
+        "original_title": "Medo de Cachorro",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/nxXIx76rNWDlYSQI8pBwLjBpcGA.jpg",
+        "release_date": "2025-07-11",
+        "title": "Medo de Cachorro",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
