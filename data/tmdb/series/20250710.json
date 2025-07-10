@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/xHmHKpTEWpYNtjy8e86lDTKQF4E.jpg",
         "genre_ids": [
             18,
             9648
@@ -22,6 +22,30 @@
         "genre_ids_zh": [
             "剧情",
             "悬疑"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yK6kU63QOLHVpIgFtRuLXrffTEo.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 292084,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "我们存在的理由",
+        "overview": "周氏集团大公子周楠面临科研资金短缺之际，金主墨菲携投资从天而降入主周家。这位未来的弟媳，竟与自己的白月光沈默，长着同一张脸。周楠虽认定墨菲背后另有目的，却在与她的你来我往中不断回忆起昔日与沈默共同“追风”的青春时光。七年前让二人命运骤变的真相，也在与墨菲的拉锯战中逐渐浮出水面……",
+        "popularity": 0.1323,
+        "poster_path": "/jl2OZLkMBcTpP88l6ayDWdXmyWj.jpg",
+        "first_air_date": "2025-07-10",
+        "name": "我们存在的理由",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -260,36 +284,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kjm1vV87jzOZf3FM2inwDaYsq5e.jpg",
-        "genre_ids": [
-            16,
-            10759,
-            10765,
-            18
-        ],
-        "id": 256323,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "リヴァイアサン",
-        "overview": "　　1914年，开战前夕。在生物工学飞艇“利维坦”上逃亡的某位王子与一位女扮男装的少女邂逅。这次相遇改变了历史。汇聚了众多国际顶尖创作者的“压倒性巨制”即将登场，敬请期待。",
-        "popularity": 10.3861,
-        "poster_path": "/dSo7tUQQ4gneagQ43DfL9t37CKj.jpg",
-        "first_air_date": "2025-07-10",
-        "name": "利维坦号战记",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "动作与冒险",
-            "科幻与奇幻",
-            "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/eXxgT33OitzfmYol1kbTy7TKNOR.jpg",
         "genre_ids": [
             16,
@@ -313,6 +307,34 @@
         "genre_ids_zh": [
             "动画",
             "喜剧",
+            "动作与冒险",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kjm1vV87jzOZf3FM2inwDaYsq5e.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "id": 256323,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "リヴァイアサン",
+        "overview": "　　1914年，开战前夕。在生物工学飞艇“利维坦”上逃亡的某位王子与一位女扮男装的少女邂逅。这次相遇改变了历史。汇聚了众多国际顶尖创作者的“压倒性巨制”即将登场，敬请期待。",
+        "popularity": 10.3861,
+        "poster_path": "/dSo7tUQQ4gneagQ43DfL9t37CKj.jpg",
+        "first_air_date": "2025-07-10",
+        "name": "利维坦号战记",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
             "动作与冒险",
             "科幻与奇幻"
         ],
