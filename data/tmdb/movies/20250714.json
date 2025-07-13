@@ -1,6 +1,28 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/sIur9Rqr9hMl0nREK0wvGgLdRi2.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1477566,
+        "original_language": "en",
+        "original_title": "Trainwreck: Balloon Boy",
+        "overview": "一架自制飞碟升空，而一个 6 岁男孩可能就在里面。全国陷入恐慌，但实际发生了什么呢？本纪录片将一探究竟。",
+        "popularity": 0.8004,
+        "poster_path": "/4QpWZlGZMYrAnlQizjVIMnAXnv0.jpg",
+        "release_date": "2025-07-14",
+        "title": "全面失控：气球男孩",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/n44F6McZRA3hpWNlvDOr1sNiPPG.jpg",
         "genre_ids": [
             35,
@@ -19,28 +41,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/sIur9Rqr9hMl0nREK0wvGgLdRi2.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1477566,
-        "original_language": "en",
-        "original_title": "Trainwreck: Balloon Boy",
-        "overview": "",
-        "popularity": 0.8004,
-        "poster_path": "/4QpWZlGZMYrAnlQizjVIMnAXnv0.jpg",
-        "release_date": "2025-07-14",
-        "title": "Trainwreck: Balloon Boy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "纪录"
         ],
         "original_language_zh": "英语"
@@ -156,6 +156,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/65ZDNtdKiKQrfBjMrgq1A5mViHq.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1512771,
+        "original_language": "es",
+        "original_title": "Despiece",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vL3Cg5GrGW98qfdGHgBnwGmR87m.jpg",
+        "release_date": "2025-07-14",
+        "title": "Despiece",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
