@@ -301,6 +301,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1511916,
+        "original_language": "de",
+        "original_title": "weiß ihrer Augen",
+        "overview": "",
+        "popularity": 0.2146,
+        "poster_path": "/jEWRPmN25zK15CujVabDMxZr6AJ.jpg",
+        "release_date": "2025-07-13",
+        "title": "weiß ihrer Augen",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/paq9HczUEv81ybqJDOiDCEpKUUH.jpg",
         "genre_ids": [
             99
@@ -313,6 +331,28 @@
         "poster_path": "/9IjvznJhjlGu1fmKZ546nEf3hu7.jpg",
         "release_date": "2025-07-13",
         "title": "无去来处",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1512617,
+        "original_language": "fr",
+        "original_title": "Jeff Bridges, star malgré lui",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/nNCM6qSf6IvzI5mY9U6B9aBLJzS.jpg",
+        "release_date": "2025-07-13",
+        "title": "Jeff Bridges, star malgré lui",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -410,5 +450,27 @@
             "喜剧"
         ],
         "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8BtI2fyuce4jjC2ohawlS6Gi58Q.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1512613,
+        "original_language": "it",
+        "original_title": "Self Made Snack",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7TzNNjPB6hrB8o4NS2NQDAtl95e.jpg",
+        "release_date": "2025-07-13",
+        "title": "Self Made Snack",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "意大利语"
     }
 ]
