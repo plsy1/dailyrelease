@@ -123,6 +123,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1513620,
+        "original_language": "en",
+        "original_title": "Blind Man’s Film",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-07-15",
+        "title": "Blind Man’s Film",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1513503,
+        "original_language": "en",
+        "original_title": "Hypnosis Lacking Diagnosis",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4JUK8N38TaraYSS1z5rE5XA5Bya.jpg",
+        "release_date": "2025-07-15",
+        "title": "Hypnosis Lacking Diagnosis",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/nCR8pzGg3LOMLNtzdFHyeG6QrEK.jpg",
         "genre_ids": [
             18,
@@ -169,6 +211,42 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bI69owCSTlQuscIHnJQWFc5sKva.jpg",
+        "genre_ids": [],
+        "id": 1513632,
+        "original_language": "fr",
+        "original_title": "Ardisson, l'homme en noir : L’hommage",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3swzL55SgIRvCDX9Ng62CqKnUfW.jpg",
+        "release_date": "2025-07-15",
+        "title": "Ardisson, l'homme en noir : L’hommage",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1513056,
+        "original_language": "pt",
+        "original_title": "Carnavaleska",
+        "overview": "",
+        "popularity": 0.05,
+        "poster_path": null,
+        "release_date": "2025-07-15",
+        "title": "Carnavaleska",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eFuz5kHZCN5DWFmCdYZ44MRAZe.jpg",
         "genre_ids": [
             18,
@@ -191,6 +269,24 @@
             "惊悚",
             "恐怖"
         ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rW9UOKOdVObbQ6ZMZLvgtupB9Qb.jpg",
+        "genre_ids": [],
+        "id": 1513513,
+        "original_language": "pt",
+        "original_title": "Interrupção",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5ZKJXv96lIZbdWsdV6Cgi9m3qsp.jpg",
+        "release_date": "2025-07-15",
+        "title": "Interrupção",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
