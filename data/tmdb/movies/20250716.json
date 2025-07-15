@@ -95,28 +95,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 911549,
-        "original_language": "en",
-        "original_title": "Lụa",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2025-07-16",
-        "title": "Lụa",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/mcGaWXwpgTFR5rde8tOSwjPzVCR.jpg",
         "genre_ids": [
             35,
@@ -140,6 +118,28 @@
             "剧情",
             "恐怖",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 911549,
+        "original_language": "en",
+        "original_title": "Lụa",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-07-16",
+        "title": "Lụa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -325,28 +325,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5PVtW56jKYf7bDJkl024mQWji54.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1084816,
-        "original_language": "fr",
-        "original_title": "Les filles désir",
-        "overview": "",
-        "popularity": 0.119,
-        "poster_path": "/r39yrDtzZ2d9Obkwa1EsOpbYhZc.jpg",
-        "release_date": "2025-07-16",
-        "title": "Les filles désir",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -369,9 +347,32 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hQ7yLVb43NCOwGQkfX4ac0swhuh.jpg",
+        "backdrop_path": "/5PVtW56jKYf7bDJkl024mQWji54.jpg",
         "genre_ids": [
-            99
+            18
+        ],
+        "id": 1084816,
+        "original_language": "fr",
+        "original_title": "Les filles désir",
+        "overview": "",
+        "popularity": 0.119,
+        "poster_path": "/r39yrDtzZ2d9Obkwa1EsOpbYhZc.jpg",
+        "release_date": "2025-07-16",
+        "title": "Les filles désir",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iSzN0OqpzvezIwNbXfG5dIAAyIL.jpg",
+        "genre_ids": [
+            99,
+            36
         ],
         "id": 1513646,
         "original_language": "fr",
@@ -385,29 +386,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1513072,
-        "original_language": "fr",
-        "original_title": "La face cachée de l'homme en noir",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-07-16",
-        "title": "La face cachée de l'homme en noir",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "历史"
         ],
         "original_language_zh": "法语"
     },
