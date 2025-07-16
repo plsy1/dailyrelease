@@ -1,7 +1,57 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/djkxDBzBEL3xShrtpJP17L8V2U3.jpg",
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            9648,
+            18
+        ],
+        "id": 1513652,
+        "original_language": "zh",
+        "original_title": "逃生之门",
+        "overview": "五一前夕，张雨婷与男友的旅行计划泡汤，她将怨气撒向闺蜜、房东，甚至一只猫。当她被困在漆黑的厕所时，四处求救，却无人听见她的呼救。在饥渴交迫中喝厕所水续命。绝境中，一个神秘黑衣人的出现揭开了她尘封多年的童年阴影，但对方却更期待她的死亡。",
+        "popularity": 0.05,
+        "poster_path": "/fLkTifcsMplQiSXqh7QaiTlxWm9.jpg",
+        "release_date": "2025-07-16",
+        "title": "逃生之门",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "悬疑",
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1511796,
+        "original_language": "zh",
+        "original_title": "迷航昆仑墟：异生",
+        "overview": "传闻西王母拥有长生之术，摸金校尉霍安奉旨前往求仙，却遭遇异虫袭击。霍安无意间得到昆仑瓶，却被其能量所困，成为一座冰晶体，千年不化。 千年后，精通五行的张逍航为了寻找父亲，进入霍安墓，却意外使其复活，昆仑瓶重现人间，神秘文明也随之现世……",
+        "popularity": 0.0071,
+        "poster_path": "/uJ0XOsno3hf1TvwmzCEHqRaPZzo.jpg",
+        "release_date": "2025-07-16",
+        "title": "迷航昆仑墟：异生",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nmnx8WWGQsqwGNrd9oiS8EsN6e6.jpg",
         "genre_ids": [
             27,
             9648,
@@ -140,6 +190,54 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1514186,
+        "original_language": "en",
+        "original_title": "Identity",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7OjbL6Esbd2tuLlxyw8g1Vl6NSP.jpg",
+        "release_date": "2025-07-16",
+        "title": "Identity",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            18,
+            53
+        ],
+        "id": 1514090,
+        "original_language": "en",
+        "original_title": "Varas",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/A0aSJurFx6Rd2jBkValWdLQuERi.jpg",
+        "release_date": "2025-07-16",
+        "title": "Varas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -455,8 +553,8 @@
         "release_date": "2025-07-16",
         "title": "La face cachée de l'homme en noir",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录",
             "历史"
