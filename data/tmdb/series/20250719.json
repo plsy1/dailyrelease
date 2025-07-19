@@ -29,8 +29,8 @@
         "genre_ids": [
             16,
             35,
-            10765,
-            18
+            18,
+            10765
         ],
         "id": 244808,
         "origin_country": [
@@ -40,7 +40,7 @@
         "original_name": "ぬきたし THE ANIMATION",
         "overview": "　　青蓝岛……这里是施行特殊条例的乐园岛屿。\n\n　　转学到这里的主人公“橘淳之介”，不仅是个骄傲的童贞，同时也是个深入骨髓的处女厨。但是色情条例对他就读的水乃月学园也不例外，没有发生关系的人会被立即逮捕。\n\n　　淳之介能从绝对遵守纪律的学生会和风纪委员会，通称“SS”的恶魔手中逃脱吗……！？\n\n　　和伙伴们一起死守童贞吧！淳之介的战斗现在开始！",
         "popularity": 63.3938,
-        "poster_path": "/4AIM0bbe4bFdyEY045G8oPsGZ4Q.jpg",
+        "poster_path": "/cAUcpvuTub7p4wB9yRo6TWdKJnz.jpg",
         "first_air_date": "2025-07-19",
         "name": "拔作岛",
         "vote_average": 0.0,
@@ -48,9 +48,29 @@
         "genre_ids_zh": [
             "动画",
             "喜剧",
-            "科幻与奇幻",
-            "剧情"
+            "剧情",
+            "科幻与奇幻"
         ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 296305,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "バース・デイ",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4Hbg7K7uTvBl47a5i3LyLiFjEdQ.jpg",
+        "first_air_date": "2025-07-19",
+        "name": "バース・デイ",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "日语"
     }
 ]
