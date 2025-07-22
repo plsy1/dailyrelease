@@ -37,33 +37,11 @@
         "release_date": "2025-07-23",
         "title": "神奇4侠：初露锋芒",
         "video": false,
-        "vote_average": 5.7,
-        "vote_count": 17,
+        "vote_average": 5.9,
+        "vote_count": 18,
         "genre_ids_zh": [
             "科幻",
             "冒险"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nKI6GCdnMDEFltVTZ7rXfMiQBjg.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1489381,
-        "original_language": "en",
-        "original_title": "Bullet Time",
-        "overview": "",
-        "popularity": 0.3224,
-        "poster_path": "/zdCfTBRNoqLDfLVZo3vxYcwrszv.jpg",
-        "release_date": "2025-07-23",
-        "title": "Bullet Time",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -93,23 +71,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hBOCrdJEvXd0iFl2XYdfG19Oiwo.jpg",
+        "backdrop_path": "/nKI6GCdnMDEFltVTZ7rXfMiQBjg.jpg",
         "genre_ids": [
-            27
+            16
         ],
-        "id": 1483644,
+        "id": 1489381,
         "original_language": "en",
-        "original_title": "The Dysphoria",
+        "original_title": "Bullet Time",
         "overview": "",
-        "popularity": 0.1253,
-        "poster_path": "/6TjEl1P6EHQGqGFFctNbCJLsETY.jpg",
+        "popularity": 0.3224,
+        "poster_path": "/zdCfTBRNoqLDfLVZo3vxYcwrszv.jpg",
         "release_date": "2025-07-23",
-        "title": "The Dysphoria",
+        "title": "Bullet Time",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -142,6 +120,54 @@
             27,
             35
         ],
+        "id": 1516715,
+        "original_language": "en",
+        "original_title": "The David Robert Pollock Show: Fear God, Die And Be Forgotten",
+        "overview": "",
+        "popularity": 0.1571,
+        "poster_path": "/jSFUAgzCPNRDeKmWxhactpTXvSr.jpg",
+        "release_date": "2025-07-23",
+        "title": "The David Robert Pollock Show: Fear God, Die And Be Forgotten",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/orYbyhHZxypW9jtppHSxZQCeDgD.jpg",
+        "genre_ids": [
+            10749,
+            53
+        ],
+        "id": 1502629,
+        "original_language": "en",
+        "original_title": "Silver springs",
+        "overview": "",
+        "popularity": 0.1501,
+        "poster_path": "/hDJRRMlR6l9wi4TUdLZcynsuI2V.jpg",
+        "release_date": "2025-07-23",
+        "title": "Silver springs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35
+        ],
         "id": 1515495,
         "original_language": "en",
         "original_title": "The David Robert Pollock Show: Fear God, Die And Be Forgotten",
@@ -156,6 +182,28 @@
         "genre_ids_zh": [
             "恐怖",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hBOCrdJEvXd0iFl2XYdfG19Oiwo.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1483644,
+        "original_language": "en",
+        "original_title": "The Dysphoria",
+        "overview": "",
+        "popularity": 0.1253,
+        "poster_path": "/6TjEl1P6EHQGqGFFctNbCJLsETY.jpg",
+        "release_date": "2025-07-23",
+        "title": "The Dysphoria",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -179,30 +227,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4oejKIqoV8WiQ22QTot2jI9QvEl.jpg",
-        "genre_ids": [
-            10749,
-            53
-        ],
-        "id": 1502629,
-        "original_language": "en",
-        "original_title": "Silver springs",
-        "overview": "",
-        "popularity": 0.1501,
-        "poster_path": "/b7s8wkXXx3CiNk1aptXuZ3dOdvE.jpg",
-        "release_date": "2025-07-23",
-        "title": "Silver springs",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -222,30 +246,6 @@
         "genre_ids_zh": [
             "喜剧",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1516715,
-        "original_language": "en",
-        "original_title": "The David Robert Pollock Show: Fear God, Die And Be Forgotten",
-        "overview": "",
-        "popularity": 0.1571,
-        "poster_path": "/jSFUAgzCPNRDeKmWxhactpTXvSr.jpg",
-        "release_date": "2025-07-23",
-        "title": "The David Robert Pollock Show: Fear God, Die And Be Forgotten",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
