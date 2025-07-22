@@ -27,6 +27,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648
+        ],
+        "id": 296494,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "反转21克",
+        "overview": "治安署协查员宋星野在调查老城命案受警花尚薇阻止，意外发现战友黄海被追杀。为调查真相，宋星野与助理詹娜破解数据、与尚薇策应突袭，终曝光黑幕挫败政变。借大小姐赵晴云暗中助力，将真相公之于众。",
+        "popularity": 0.0,
+        "poster_path": "/ep7IYrCA233ePgMzTx5Z0pGcAat.jpg",
+        "first_air_date": "2025-07-23",
+        "name": "反转21克",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/q8uhjE9wtjf2nCcV8T55NVOOLPi.jpg",
         "genre_ids": [
             18
@@ -42,8 +66,8 @@
         "poster_path": "/m023jkDyUHoLOYZlkYiVXY1IVvC.jpg",
         "first_air_date": "2025-07-23",
         "name": "Washington Black",
-        "vote_average": 5.5,
-        "vote_count": 2,
+        "vote_average": 4.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "剧情"
         ],
@@ -101,7 +125,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/4KB5xhGFJzozqTG0FBmY84ICNyx.jpg",
         "genre_ids": [
             10765,
             35
