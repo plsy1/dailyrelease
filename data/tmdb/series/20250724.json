@@ -25,7 +25,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vcZpfyCZS6z9VxWlXp0E7uq10ft.jpg",
         "genre_ids": [],
         "id": 240462,
         "origin_country": [
@@ -81,7 +81,7 @@
         ],
         "original_language": "zh",
         "original_name": "窃心",
-        "overview": "",
+        "overview": "讲述了民国孤女林初宁误会好姐妹小柔死于纨绔陆司宴之手，因此假扮陆家千金的身份，成为陆司宴的双生姐姐，进入陆家复仇的故事。",
         "popularity": 0.1529,
         "poster_path": "/tDhiFFdIJdwkPCFIOSuhheqxqIG.jpg",
         "first_air_date": "2025-07-24",
@@ -252,5 +252,29 @@
             "剧情"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 296662,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "Dhaakad Beera",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-07-24",
+        "name": "Dhaakad Beera",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "印地语"
     }
 ]
