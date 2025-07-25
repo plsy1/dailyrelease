@@ -67,7 +67,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/27BdFmefJT2KK2dC1bRTEAaSh3J.jpg",
+        "backdrop_path": "/r2Qz8gluRvkoOhSDihwNACgNVva.jpg",
         "genre_ids": [
             80,
             18,
@@ -79,13 +79,13 @@
         ],
         "original_language": "en",
         "original_name": "The Assassin",
-        "overview": "",
+        "overview": "朱莉（基莉·霍斯 饰）与爱德华（弗莱迪·海默 饰）这对关系疏远的母子，在风景如画的希腊小岛上重聚。可爱德华不知道的是，朱莉其实是一名退隐的杀手，更麻烦的是，朱莉过去的同伙也没有收到她“金盆洗手”的通知。",
         "popularity": 2.9307,
         "poster_path": "/2Qii5GmBu9yle3ZJDeT0GuxizRQ.jpg",
         "first_air_date": "2025-07-25",
-        "name": "The Assassin",
-        "vote_average": 6.0,
-        "vote_count": 1,
+        "name": "妈妈是杀手",
+        "vote_average": 8.0,
+        "vote_count": 2,
         "genre_ids_zh": [
             "犯罪",
             "剧情",
@@ -133,7 +133,7 @@
         "original_name": "Solo Traveling with Tracee Ellis Ross",
         "overview": "",
         "popularity": 0.4282,
-        "poster_path": null,
+        "poster_path": "/l4Sb1oXYZGZ0Qvs0SvREbtvsa0Y.jpg",
         "first_air_date": "2025-07-25",
         "name": "Solo Traveling with Tracee Ellis Ross",
         "vote_average": 0.0,
@@ -165,6 +165,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 296731,
+        "origin_country": [],
+        "original_language": "en",
+        "original_name": "Little Fox Song",
+        "overview": "Little Fox动画儿歌",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-07-25",
+        "name": "Little Fox 动画儿歌",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -226,7 +244,8 @@
         "backdrop_path": "/m8s8Fp7fITnPzaftmVcsQYR5mMm.jpg",
         "genre_ids": [
             80,
-            18
+            18,
+            9648
         ],
         "id": 247831,
         "origin_country": [
@@ -234,16 +253,17 @@
         ],
         "original_language": "hi",
         "original_name": "मंडला मर्डर्स",
-        "overview": "",
+        "overview": "一连串带有仪式色彩的凶杀案在小镇引起轩然大波，一名侦探与一名退休警察必须对一庄与各自的过去有深刻联系的谜案展开调查。",
         "popularity": 6.956,
         "poster_path": "/jYBtFQZLLlK4ONW02LWIGQEdQzE.jpg",
         "first_air_date": "2025-07-25",
-        "name": "मंडला मर्डर्स",
+        "name": "曼陀罗谋杀案",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "犯罪",
-            "剧情"
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "印地语"
     },
