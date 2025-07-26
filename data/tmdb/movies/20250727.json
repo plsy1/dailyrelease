@@ -23,28 +23,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1515216,
-        "original_language": "en",
-        "original_title": "Lazybones",
-        "overview": "",
-        "popularity": 0.177,
-        "poster_path": "/xxKIoC6cQBOiKICZWEHmkmGsjm2.jpg",
-        "release_date": "2025-07-27",
-        "title": "Lazybones",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/9UPS84P6ESPz04VY6fgGx7Ygmef.jpg",
         "genre_ids": [
             27
@@ -95,6 +73,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            9648,
+            53
+        ],
+        "id": 1514655,
+        "original_language": "en",
+        "original_title": "Dead Girl Summer",
+        "overview": "",
+        "popularity": 0.2562,
+        "poster_path": null,
+        "release_date": "2025-07-27",
+        "title": "Dead Girl Summer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1504996,
@@ -117,23 +119,49 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            9648,
-            53
+            35
         ],
-        "id": 1514655,
+        "id": 1515216,
         "original_language": "en",
-        "original_title": "Dead Girl Summer",
+        "original_title": "Lazybones",
         "overview": "",
-        "popularity": 0.2562,
-        "poster_path": null,
+        "popularity": 0.177,
+        "poster_path": "/xxKIoC6cQBOiKICZWEHmkmGsjm2.jpg",
         "release_date": "2025-07-27",
-        "title": "Dead Girl Summer",
+        "title": "Lazybones",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14,
+            18,
+            27,
+            36
+        ],
+        "id": 1475045,
+        "original_language": "en",
+        "original_title": "The Golem",
+        "overview": "",
+        "popularity": 0.1373,
+        "poster_path": "/brNtviC6qL26Y7JcKD82Zy5Fi40.jpg",
+        "release_date": "2025-07-27",
+        "title": "The Golem",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "悬疑",
-            "惊悚"
+            "奇幻",
+            "剧情",
+            "恐怖",
+            "历史"
         ],
         "original_language_zh": "英语"
     },
@@ -207,27 +235,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            14,
-            18,
-            27,
-            36
+            18
         ],
-        "id": 1475045,
+        "id": 1491220,
         "original_language": "en",
-        "original_title": "The Golem",
+        "original_title": "The Stone System",
         "overview": "",
-        "popularity": 0.1373,
-        "poster_path": "/brNtviC6qL26Y7JcKD82Zy5Fi40.jpg",
+        "popularity": 0.0747,
+        "poster_path": null,
         "release_date": "2025-07-27",
-        "title": "The Golem",
+        "title": "The Stone System",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "奇幻",
-            "剧情",
-            "恐怖",
-            "历史"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -245,28 +267,6 @@
         "poster_path": "/wbdfhYD5MiNQBp4krWRyM30Efni.jpg",
         "release_date": "2025-07-27",
         "title": "Falling from Grace",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1491220,
-        "original_language": "en",
-        "original_title": "The Stone System",
-        "overview": "",
-        "popularity": 0.0747,
-        "poster_path": null,
-        "release_date": "2025-07-27",
-        "title": "The Stone System",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
