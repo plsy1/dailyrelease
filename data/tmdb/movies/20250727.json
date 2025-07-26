@@ -401,7 +401,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/wtd9xFgZWNmVwjTk9sCtvq9iXr8.jpg",
         "genre_ids": [],
         "id": 1508320,
         "original_language": "ja",
@@ -485,6 +485,24 @@
             "爱情",
             "恐怖"
         ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qv3XOSI5gAAu8nr1b3qWgkyE6Gz.jpg",
+        "genre_ids": [],
+        "id": 1519501,
+        "original_language": "fr",
+        "original_title": "Pour toujours Adèle",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zPCLwLM4ms0jaSQw5cUVxqtcod9.jpg",
+        "release_date": "2025-07-27",
+        "title": "Pour toujours Adèle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
@@ -625,6 +643,48 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1518042,
+        "original_language": "pt",
+        "original_title": "Luz sobre o Rio",
+        "overview": "",
+        "popularity": 0.0639,
+        "poster_path": null,
+        "release_date": "2025-07-27",
+        "title": "Luz sobre o Rio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1508713,
+        "original_language": "pt",
+        "original_title": "Aïko",
+        "overview": "",
+        "popularity": 0.0445,
+        "poster_path": null,
+        "release_date": "2025-07-27",
+        "title": "Aïko",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             16
         ],
         "id": 1510453,
@@ -646,19 +706,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1508713,
+        "genre_ids": [
+            16
+        ],
+        "id": 1508745,
         "original_language": "pt",
-        "original_title": "Aïko",
+        "original_title": "ArchéoLogin",
         "overview": "",
-        "popularity": 0.0445,
-        "poster_path": null,
+        "popularity": 0.0286,
+        "poster_path": "/zxhskFAZnsRKV1n5SOBEoD2ZYE6.jpg",
         "release_date": "2025-07-27",
-        "title": "Aïko",
+        "title": "ArchéoLogin",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
@@ -731,28 +795,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            16
-        ],
-        "id": 1508745,
-        "original_language": "pt",
-        "original_title": "ArchéoLogin",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/zxhskFAZnsRKV1n5SOBEoD2ZYE6.jpg",
-        "release_date": "2025-07-27",
-        "title": "ArchéoLogin",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
         "id": 1518050,
@@ -812,30 +854,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1518042,
-        "original_language": "pt",
-        "original_title": "Luz sobre o Rio",
-        "overview": "",
-        "popularity": 0.0639,
-        "poster_path": null,
-        "release_date": "2025-07-27",
-        "title": "Luz sobre o Rio",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
         ],
         "original_language_zh": "葡萄牙语"
     },
