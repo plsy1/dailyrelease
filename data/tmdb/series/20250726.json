@@ -12,7 +12,7 @@
         "original_language": "zh",
         "original_name": "姐姐当家",
         "overview": "一档聚焦“中女群体”的女性生活观察类真人秀，节目邀请处于不同年龄、情感、事业和个人成长状态下的“中女”，以她们的生活为“中女”样本，去探讨关于情感婚姻、家庭关系、职场社交等深层次的30+女性议题，棚内由倪萍和李维嘉担任主MC，和真人秀嘉宾的亲朋、女性专家、飞行嘉宾以及由素人女性为主的“姐妹们嘴替团”一起，共同组成棚内观察团，以多元丰富的视角，共同探讨女性话题。",
-        "popularity": 0.2444,
+        "popularity": 0.2852,
         "poster_path": "/AjNnWr4aWPgNsrOsteJT6IRdj9N.jpg",
         "first_air_date": "2025-07-26",
         "name": "姐姐当家",
@@ -20,6 +20,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "真人秀"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yvPWsHuoIDcV9UTG106Pa2hoKlN.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 296712,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "大力村超人",
+        "overview": "讲述了一群乡村青年人,怀着振兴家乡的共同心愿,与父老相亲们一起\n\n组织策划了“村超”比赛,并从中找回初心、激情创业,共同创造乡村美好生活的故事",
+        "popularity": 0.1071,
+        "poster_path": "/wsrasylfCMysJQVer6tphPtKCeQ.jpg",
+        "first_air_date": "2025-07-26",
+        "name": "大力村超人",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -36,7 +60,7 @@
         "original_language": "zh",
         "original_name": "胡李镇传说",
         "overview": "平静的小镇惊现诡异之事,百年前的惊悚一幕重现,继 而疯女人留下的血书诅咒,更是将小镇推向万劫不复的 深渊。然而在这重重迷雾之中,若隐若现的是人性心魔 还是一场精心设计的阴谋。",
-        "popularity": 0.0857,
+        "popularity": 0.1007,
         "poster_path": "/eUZrjvp5HMqQ36ljKO1Kp7cTExj.jpg",
         "first_air_date": "2025-07-26",
         "name": "胡李镇传说",
@@ -58,7 +82,7 @@
         "original_language": "zh",
         "original_name": "青春の日",
         "overview": "",
-        "popularity": 0.0429,
+        "popularity": 0.0347,
         "poster_path": null,
         "first_air_date": "2025-07-26",
         "name": "青春の日",
@@ -70,25 +94,21 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 296712,
+        "genre_ids": [],
+        "id": 296767,
         "origin_country": [
             "中国"
         ],
         "original_language": "zh",
-        "original_name": "大力村超人",
-        "overview": "讲述了一群乡村青年人,怀着振兴家乡的共同心愿,与父老相亲们一起\n\n组织策划了“村超”比赛,并从中找回初心、激情创业,共同创造乡村美好生活的故事",
+        "original_name": "深海动物",
+        "overview": "MBARI出品的深海动物集锦的 中文译制版",
         "popularity": 0.0,
-        "poster_path": "/wsrasylfCMysJQVer6tphPtKCeQ.jpg",
+        "poster_path": null,
         "first_air_date": "2025-07-26",
-        "name": "大力村超人",
+        "name": "深海动物",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
