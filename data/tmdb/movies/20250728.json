@@ -347,23 +347,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bc1GCny8FSK553drOol68v6CNXL.jpg",
+        "backdrop_path": "/6oUDl08oLprid0J89Fxcd7HK6j0.jpg",
         "genre_ids": [
-            10749
+            27,
+            18,
+            9648
         ],
-        "id": 1438002,
+        "id": 1519606,
         "original_language": "es",
-        "original_title": "Edén Azul",
+        "original_title": "Ecos de Familia",
         "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/j69uQawkAwUbDTDaJooXKysZB1d.jpg",
+        "popularity": 0.0429,
+        "poster_path": "/5lkvvCjNBgJsugTUxd7UMMdUFPS.jpg",
         "release_date": "2025-07-28",
-        "title": "Edén Azul",
+        "title": "Ecos de Familia",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "爱情"
+            "恐怖",
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -387,6 +391,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bc1GCny8FSK553drOol68v6CNXL.jpg",
+        "genre_ids": [
+            10749
+        ],
+        "id": 1438002,
+        "original_language": "es",
+        "original_title": "Edén Azul",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": "/j69uQawkAwUbDTDaJooXKysZB1d.jpg",
+        "release_date": "2025-07-28",
+        "title": "Edén Azul",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3R0DWx1AP9oSuhJonuu2OQO0Mte.jpg",
         "genre_ids": [
             16
@@ -404,32 +430,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6oUDl08oLprid0J89Fxcd7HK6j0.jpg",
-        "genre_ids": [
-            27,
-            18,
-            9648
-        ],
-        "id": 1519606,
-        "original_language": "es",
-        "original_title": "Ecos de Familia",
-        "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/5lkvvCjNBgJsugTUxd7UMMdUFPS.jpg",
-        "release_date": "2025-07-28",
-        "title": "Ecos de Familia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情",
-            "悬疑"
         ],
         "original_language_zh": "西班牙语"
     },
