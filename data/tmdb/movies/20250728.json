@@ -145,6 +145,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1407378,
+        "original_language": "en",
+        "original_title": "Old Time Radio: The Specter of Christmas",
+        "overview": "",
+        "popularity": 0.0487,
+        "poster_path": "/vwAn439ia3rBG1xf8BgNTDjAYMJ.jpg",
+        "release_date": "2025-07-28",
+        "title": "Old Time Radio: The Specter of Christmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             35
         ],
@@ -168,25 +192,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1407378,
+        "genre_ids": [],
+        "id": 1502030,
         "original_language": "en",
-        "original_title": "Old Time Radio: The Specter of Christmas",
+        "original_title": "Someone Loves You",
         "overview": "",
-        "popularity": 0.0487,
-        "poster_path": "/vwAn439ia3rBG1xf8BgNTDjAYMJ.jpg",
+        "popularity": 0.0357,
+        "poster_path": "/ojHvu4nXm8LsjLuudZiII4RBfkj.jpg",
         "release_date": "2025-07-28",
-        "title": "Old Time Radio: The Specter of Christmas",
+        "title": "Someone Loves You",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -211,24 +229,6 @@
             "恐怖",
             "冒险"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1502030,
-        "original_language": "en",
-        "original_title": "Someone Loves You",
-        "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/ojHvu4nXm8LsjLuudZiII4RBfkj.jpg",
-        "release_date": "2025-07-28",
-        "title": "Someone Loves You",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -279,14 +279,14 @@
         "genre_ids": [
             27
         ],
-        "id": 1374747,
+        "id": 1508628,
         "original_language": "fr",
-        "original_title": "Le bonhomme sept heures",
+        "original_title": "L' écrivain",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/reP7pMzjog7CLltSUEX3AAHQYMD.jpg",
+        "popularity": 0.0256,
+        "poster_path": "/bXuSI0mfF6NezJSGkO2qov0xBQh.jpg",
         "release_date": "2025-07-28",
-        "title": "Le bonhomme sept heures",
+        "title": "L' écrivain",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -301,14 +301,14 @@
         "genre_ids": [
             27
         ],
-        "id": 1508628,
+        "id": 1374747,
         "original_language": "fr",
-        "original_title": "L' écrivain",
+        "original_title": "Le bonhomme sept heures",
         "overview": "",
-        "popularity": 0.0256,
-        "poster_path": "/bXuSI0mfF6NezJSGkO2qov0xBQh.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/reP7pMzjog7CLltSUEX3AAHQYMD.jpg",
         "release_date": "2025-07-28",
-        "title": "L' écrivain",
+        "title": "Le bonhomme sept heures",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
