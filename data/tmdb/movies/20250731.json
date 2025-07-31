@@ -3,32 +3,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            10752,
-            9648
-        ],
-        "id": 1321624,
-        "original_language": "zh",
-        "original_title": "731",
-        "overview": "影片以侵华日军731部队在中国东北进行的细菌实验为背景，通过一个小人物的曲折命运，揭露731部队的罪行。",
-        "popularity": 3.4441,
-        "poster_path": "/zJPiOieiEXIbiZvhzbRQD6C3V3v.jpg",
-        "release_date": "2025-07-31",
-        "title": "731",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情",
-            "战争",
-            "悬疑"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1510109,
@@ -90,8 +64,8 @@
         "release_date": "2025-07-31",
         "title": "女王神剑",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 2,
+        "vote_average": 6.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "冒险",
             "动作",
@@ -325,28 +299,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/lzLzag4tUcJHwIgauktrG52L3C.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1402208,
-        "original_language": "en",
-        "original_title": "Dreamland Awaits",
-        "overview": "",
-        "popularity": 0.2769,
-        "poster_path": "/hpowtShENEYE4sAKbrJuj1ygcu9.jpg",
-        "release_date": "2025-07-31",
-        "title": "Dreamland Awaits",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/6pHg5x1v0zv6Pk7aLWu15QymQYJ.jpg",
         "genre_ids": [
             878,
@@ -366,6 +318,28 @@
         "genre_ids_zh": [
             "科幻",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lzLzag4tUcJHwIgauktrG52L3C.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1402208,
+        "original_language": "en",
+        "original_title": "Dreamland Awaits",
+        "overview": "",
+        "popularity": 0.2769,
+        "poster_path": "/hpowtShENEYE4sAKbrJuj1ygcu9.jpg",
+        "release_date": "2025-07-31",
+        "title": "Dreamland Awaits",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -507,28 +481,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1TpnoUpXy7f7LSPlnKZrGKol9SJ.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1434113,
-        "original_language": "en",
-        "original_title": "The North",
-        "overview": "",
-        "popularity": 0.1281,
-        "poster_path": "/ajI8znvtniVMsYw4UBn9V45bIlv.jpg",
-        "release_date": "2025-07-31",
-        "title": "The North",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/561nQsZwI5OFKQUAh3GmOdrejIQ.jpg",
         "genre_ids": [
             18
@@ -570,6 +522,28 @@
         "genre_ids_zh": [
             "动作",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1TpnoUpXy7f7LSPlnKZrGKol9SJ.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1434113,
+        "original_language": "en",
+        "original_title": "The North",
+        "overview": "",
+        "popularity": 0.1281,
+        "poster_path": "/ajI8znvtniVMsYw4UBn9V45bIlv.jpg",
+        "release_date": "2025-07-31",
+        "title": "The North",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -824,6 +798,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402
+        ],
+        "id": 1522748,
+        "original_language": "en",
+        "original_title": "Do Something",
+        "overview": "",
+        "popularity": 0.0571,
+        "poster_path": "/14DSgcJKttz2pZSVSQO24dV2cEs.jpg",
+        "release_date": "2025-07-31",
+        "title": "Do Something",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1143,6 +1139,74 @@
             "动画",
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jeZavgYxevL1R9zxc0pQo9ugBas.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1522940,
+        "original_language": "en",
+        "original_title": "Daayan",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ekjSh2je7P0ewDHQtFVDSfRvkhv.jpg",
+        "release_date": "2025-07-31",
+        "title": "Daayan",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/me6RyCc2TCD2rCYV8MDm67y16VN.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 1522889,
+        "original_language": "en",
+        "original_title": "Hello from the Other Side",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jyEmrfleex1pWDmyexa3EiLpfWZ.jpg",
+        "release_date": "2025-07-31",
+        "title": "Hello from the Other Side",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/60eHmGINTOR6GDSMSYxNyKBvkD2.jpg",
+        "genre_ids": [],
+        "id": 1522827,
+        "original_language": "en",
+        "original_title": "Rashkovsky",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qRl6G5EXkPeQoxyamMRQx5ELc6i.jpg",
+        "release_date": "2025-07-31",
+        "title": "Rashkovsky",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1622,14 +1686,14 @@
         "id": 1187436,
         "original_language": "sv",
         "original_title": "Ett ärligt liv",
-        "overview": "",
+        "overview": "西蒙满怀期待地抵达隆德，准备好迎接真正的人生开始；但他很快就对法学院感到失望。在一次暴力的抗议游行中，他遇到了无政府主义的年轻女子麦克斯，并坠入爱河。她用一个充满过度、谎言和巨大风险的世界迷住了他，当他意识到已经造成的损害时，已经来不及逃避了。",
         "popularity": 0.6522,
         "poster_path": "/oC0IuDUtRdvYBHvJFbYz5a9yYx8.jpg",
         "release_date": "2025-07-31",
-        "title": "Ett ärligt liv",
+        "title": "诚实的生活",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
         ],
