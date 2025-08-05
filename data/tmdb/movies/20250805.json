@@ -10,7 +10,7 @@
         "original_language": "en",
         "original_title": "Sleep Stalker",
         "overview": "",
-        "popularity": 0.544,
+        "popularity": 0.7037,
         "poster_path": "/cFTnPf9EydMKVCD6YBspvAo1qwZ.jpg",
         "release_date": "2025-08-05",
         "title": "Sleep Stalker",
@@ -34,7 +34,7 @@
         "original_language": "en",
         "original_title": "Dogs on the Sendero",
         "overview": "",
-        "popularity": 0.249,
+        "popularity": 0.3071,
         "poster_path": "/2UgZ54Kxfq3QsDbuIT6sd8Zbswv.jpg",
         "release_date": "2025-08-05",
         "title": "Dogs on the Sendero",
@@ -49,28 +49,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1516735,
-        "original_language": "en",
-        "original_title": "The Castle, Rebuilding History",
-        "overview": "",
-        "popularity": 0.155,
-        "poster_path": "/se1GV33cMqdJccmUUMMedLUo6eE.jpg",
-        "release_date": "2025-08-05",
-        "title": "The Castle, Rebuilding History",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/jpTP4qr32LhoKsHZTkHVtUgZbOg.jpg",
         "genre_ids": [
             53,
@@ -80,7 +58,7 @@
         "original_language": "en",
         "original_title": "Wild Party",
         "overview": "",
-        "popularity": 0.1623,
+        "popularity": 0.099,
         "poster_path": "/oSMcAeB1wae0iNq5dxUt6e7oFfe.jpg",
         "release_date": "2025-08-05",
         "title": "Wild Party",
@@ -97,6 +75,50 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1516735,
+        "original_language": "en",
+        "original_title": "The Castle, Rebuilding History",
+        "overview": "",
+        "popularity": 0.22,
+        "poster_path": "/se1GV33cMqdJccmUUMMedLUo6eE.jpg",
+        "release_date": "2025-08-05",
+        "title": "The Castle, Rebuilding History",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1524313,
+        "original_language": "en",
+        "original_title": "Tensile Strength",
+        "overview": "",
+        "popularity": 0.0849,
+        "poster_path": "/hdiYq6LgI8OPwEv3L7QsliVeiz6.jpg",
+        "release_date": "2025-08-05",
+        "title": "Tensile Strength",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99,
             35
         ],
@@ -104,7 +126,7 @@
         "original_language": "en",
         "original_title": "Las Culturistas Culture Awards 2025",
         "overview": "",
-        "popularity": 0.0996,
+        "popularity": 0.2024,
         "poster_path": null,
         "release_date": "2025-08-05",
         "title": "Las Culturistas Culture Awards 2025",
@@ -127,7 +149,7 @@
         "original_language": "en",
         "original_title": "Soliloquy of One",
         "overview": "",
-        "popularity": 0.0441,
+        "popularity": 0.0409,
         "poster_path": "/7LHy7eXibC8MwgWTo7D9J5UXhex.jpg",
         "release_date": "2025-08-05",
         "title": "Soliloquy of One",
@@ -150,7 +172,7 @@
         "original_language": "en",
         "original_title": "Kopitiam Days",
         "overview": "",
-        "popularity": 0.0429,
+        "popularity": 0.0571,
         "poster_path": null,
         "release_date": "2025-08-05",
         "title": "Kopitiam Days",
@@ -160,28 +182,6 @@
         "genre_ids_zh": [
             "剧情",
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1524313,
-        "original_language": "en",
-        "original_title": "Tensile Strength",
-        "overview": "",
-        "popularity": 0.1018,
-        "poster_path": "/hdiYq6LgI8OPwEv3L7QsliVeiz6.jpg",
-        "release_date": "2025-08-05",
-        "title": "Tensile Strength",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
