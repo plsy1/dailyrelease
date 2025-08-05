@@ -187,6 +187,70 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1517633,
+        "original_language": "en",
+        "original_title": "Missing in shadow",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": "/i1YfNVyRfusgON3ynwd6QJOGnpA.jpg",
+        "release_date": "2025-08-05",
+        "title": "Missing in shadow",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e6pr15Ou8QyIXYcSWyuf7VPqQm0.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1385289,
+        "original_language": "en",
+        "original_title": "Urban Metaphor",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/nay2PY5Y9tJfZ4PSt8zfaInqjt5.jpg",
+        "release_date": "2025-08-05",
+        "title": "Urban Metaphor",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1525500,
+        "original_language": "en",
+        "original_title": "INTEGRATION",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-05",
+        "title": "INTEGRATION",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wQnbgiiGNNnLKqoskd7gQx3AkUf.jpg",
         "genre_ids": [],
         "id": 1508331,
