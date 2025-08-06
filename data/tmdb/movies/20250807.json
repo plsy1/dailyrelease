@@ -555,32 +555,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1522956,
+        "id": 1522958,
         "original_language": "en",
-        "original_title": "Subhuman Services",
+        "original_title": "Invisible Machines",
         "overview": "",
-        "popularity": 0.0771,
-        "poster_path": "/2kHe3mk0C1x88eRuJTUpXjsoUeC.jpg",
+        "popularity": 0.0639,
+        "poster_path": "/aYiLLuOBIcEW5vR44ayAKvOTO7w.jpg",
         "release_date": "2025-08-07",
-        "title": "Subhuman Services",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1510407,
-        "original_language": "en",
-        "original_title": "When Nigeria Happens",
-        "overview": "",
-        "popularity": 0.0459,
-        "poster_path": "/aDkCSlt6AkYEIksjDGK7vYDDxAp.jpg",
-        "release_date": "2025-08-07",
-        "title": "When Nigeria Happens",
+        "title": "Invisible Machines",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -627,14 +609,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1522958,
+        "id": 1510407,
         "original_language": "en",
-        "original_title": "Invisible Machines",
+        "original_title": "When Nigeria Happens",
         "overview": "",
-        "popularity": 0.0639,
-        "poster_path": "/aYiLLuOBIcEW5vR44ayAKvOTO7w.jpg",
+        "popularity": 0.0459,
+        "poster_path": "/aDkCSlt6AkYEIksjDGK7vYDDxAp.jpg",
         "release_date": "2025-08-07",
-        "title": "Invisible Machines",
+        "title": "When Nigeria Happens",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -683,24 +665,6 @@
             "剧情",
             "奇幻"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1522957,
-        "original_language": "en",
-        "original_title": "Love is the Drug",
-        "overview": "",
-        "popularity": 0.2398,
-        "poster_path": "/sd9RIgymCCyJTzI4h8LRbxzWvrp.jpg",
-        "release_date": "2025-08-07",
-        "title": "Love is the Drug",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1119,21 +1083,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            18,
+            10402
         ],
-        "id": 1458898,
+        "id": 1274029,
         "original_language": "pt",
-        "original_title": "Placar: A revista militante",
+        "original_title": "Pacto da viola",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
+        "popularity": 0.0357,
+        "poster_path": "/tYeZOm6k6dVmwV8y03ywVReKi3j.jpg",
         "release_date": "2025-08-07",
-        "title": "Placar: A revista militante",
+        "title": "Pacto da viola",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情",
+            "音乐"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1156,6 +1122,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1458898,
+        "original_language": "pt",
+        "original_title": "Placar: A revista militante",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-08-07",
+        "title": "Placar: A revista militante",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
