@@ -23,6 +23,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1526086,
+        "original_language": "zh",
+        "original_title": "怪谈五命河",
+        "overview": "民国初期，五命河接连发生悬案。河神八爷和徒弟月儿在村民秋生的邀请下，为自己中邪的姐姐驱除邪祟。随着八爷的到来，慢慢揭开了五命河死亡案件背后的真相，原来这一切和当地富绅少爷钱金明脱不了干系，而接连惨死的村民背后，也暗藏了一起人性惨案。",
+        "popularity": 0.0,
+        "poster_path": "/t3FZTSn5R64Q20PMEZP6n0GE5io.jpg",
+        "release_date": "2025-08-07",
+        "title": "怪谈五命河",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/Ai8iuBboISYSf0QmO6mlAzyBrPf.jpg",
         "genre_ids": [
             18
@@ -465,7 +487,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hKZnshekKb7HVEqnRE0QFia9Z1j.jpg",
         "genre_ids": [
             10749,
             35,
