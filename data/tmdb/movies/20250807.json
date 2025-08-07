@@ -101,7 +101,7 @@
         "original_title": "The Birthday Party",
         "overview": "",
         "popularity": 1.1017,
-        "poster_path": "/waYnFpdQdsmASclp86CH311Qjv4.jpg",
+        "poster_path": "/k7pib1lPOkXh3YxAuKoemxjcWsH.jpg",
         "release_date": "2025-08-07",
         "title": "The Birthday Party",
         "video": false,
@@ -313,6 +313,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1227480,
+        "original_language": "en",
+        "original_title": "Armstrong",
+        "overview": "",
+        "popularity": 0.197,
+        "poster_path": "/lb4XGqaJqmcmljl5q6uyPjj2d9Y.jpg",
+        "release_date": "2025-08-07",
+        "title": "Armstrong",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/u3eWjeJffuYdehbOUUtsAsqXc2V.jpg",
         "genre_ids": [
             10402
@@ -490,8 +512,8 @@
         "release_date": "2025-08-07",
         "title": "Subhuman Services",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
@@ -783,6 +805,56 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1526525,
+        "original_language": "en",
+        "original_title": "GOUNOD",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dYnq8xNJESfKc0cH8XNKzWYaq9s.jpg",
+        "release_date": "2025-08-07",
+        "title": "GOUNOD",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            53,
+            18
+        ],
+        "id": 1526473,
+        "original_language": "en",
+        "original_title": "Attack of the Crazy Kitty Cat Killer",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lqwnnbkRatDj3kxY3ttR4Hhh21d.jpg",
+        "release_date": "2025-08-07",
+        "title": "Attack of the Crazy Kitty Cat Killer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1526336,
@@ -1061,6 +1133,46 @@
         "poster_path": "/lq6kK2JzstOvXDojwMGxbCmi6gZ.jpg",
         "release_date": "2025-08-07",
         "title": "Nada Es Como Antes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1526575,
+        "original_language": "es",
+        "original_title": "Agua rota",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tf5fM6hzkiKQqBXB8mZU5nuvz7b.jpg",
+        "release_date": "2025-08-07",
+        "title": "Agua rota",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1526505,
+        "original_language": "es",
+        "original_title": "Congresos, fracaso de una tesis",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eH07RYcV4OjCP0DoZH6Tu5XIUhv.jpg",
+        "release_date": "2025-08-07",
+        "title": "Congresos, fracaso de una tesis",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,

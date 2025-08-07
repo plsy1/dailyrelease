@@ -45,6 +45,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/z0RCtpY7nr9lSiMJWrKOuglEZQg.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 1506537,
+        "original_language": "zh",
+        "original_title": "终极拯救",
+        "overview": "",
+        "popularity": 0.3356,
+        "poster_path": "/jDbnYztC0bIT4pvUAxXM2SVQwzS.jpg",
+        "release_date": "2025-08-08",
+        "title": "终极拯救",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "犯罪",
+            "科幻"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pl6L2GRpIv5NmRpGNm1kGiKqrKd.jpg",
         "genre_ids": [
             53,
@@ -221,6 +247,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            53,
+            27
+        ],
+        "id": 1188423,
+        "original_language": "en",
+        "original_title": "Site",
+        "overview": "",
+        "popularity": 0.7686,
+        "poster_path": "/wydPRb0Zs4lBANfvu0iEEpxULyv.jpg",
+        "release_date": "2025-08-08",
+        "title": "Site",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3hQTZTK0Z4mpQtwHglF1R42b6rl.jpg",
         "genre_ids": [
             53,
@@ -318,32 +370,6 @@
             "恐怖",
             "悬疑",
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878,
-            53,
-            27
-        ],
-        "id": 1188423,
-        "original_language": "en",
-        "original_title": "Site",
-        "overview": "",
-        "popularity": 0.7686,
-        "poster_path": "/wydPRb0Zs4lBANfvu0iEEpxULyv.jpg",
-        "release_date": "2025-08-08",
-        "title": "Site",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "惊悚",
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1371,6 +1397,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/g6AsW37v8LgCDcCY3x3VrsyuBO8.jpg",
+        "genre_ids": [],
+        "id": 1526583,
+        "original_language": "en",
+        "original_title": "Think. Limit. Less",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mVT5KFspUIMdPubXnKciPvC0JSE.jpg",
+        "release_date": "2025-08-08",
+        "title": "Think. Limit. Less",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ktUBF0O0LV7AqsguUGyDcZswkqI.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 1526528,
+        "original_language": "en",
+        "original_title": "Volatile: GPT",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hWFrJtOC6EEtQMH7Svi6GfXag0n.jpg",
+        "release_date": "2025-08-08",
+        "title": "Volatile: GPT",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eH9Z1rIzcdOdG6IukSFApC3wf6J.jpg",
         "genre_ids": [
             27,
@@ -1692,6 +1760,28 @@
         "genre_ids_zh": [
             "音乐",
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1526507,
+        "original_language": "es",
+        "original_title": "Los hijos de Madryn",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9fckNWylGfW14qspbDnbkDDTqIo.jpg",
+        "release_date": "2025-08-08",
+        "title": "Los hijos de Madryn",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
