@@ -1,23 +1,27 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/iZMiv25sdIPMmKDIIT3qC6cz08m.jpg",
+        "backdrop_path": "/8v6tGQM5yMV5r7d5AUYszJ3yo0E.jpg",
         "genre_ids": [
-            18
+            18,
+            36,
+            10752
         ],
         "id": 1305653,
         "original_language": "zh",
         "original_title": "东极岛",
-        "overview": "影片故事取材自二战时期一段真实的历史：1942年，一艘满载1800多名英军战俘的日本货船“里斯本丸”，在舟山群岛附近海域遭美国潜艇鱼雷攻击沉没。附近的东极渔民冒着生命危险，救出了300多名英国军人，并在日军的大规模搜查中保护、营救了3名英国人。 这段历史被称作“里斯本丸沉船事件”。",
+        "overview": "二战期间，中国舟山附近海域，一艘载满英军战俘的日本货轮被击沉，上千名英军战俘被日军封锁于船舱内。绝境之时，东极岛上的一群渔民毅然前来。他们凭借骨子里的善良、野性与血性，在惊涛骇浪中，为落难的战俘打开一条生路。\r 取材自中国渔民营救英军战俘的真实事件。",
         "popularity": 1.5826,
-        "poster_path": "/srqflGIWm1qRHsBQSjdIHWF4E4N.jpg",
+        "poster_path": "/4A7eV1vzLg7n47s6AEY7ek3JlD8.jpg",
         "release_date": "2025-08-08",
         "title": "东极岛",
         "video": false,
         "vote_average": 10.0,
         "vote_count": 1,
         "genre_ids_zh": [
-            "剧情"
+            "剧情",
+            "历史",
+            "战争"
         ],
         "original_language_zh": "汉语"
     },
@@ -97,6 +101,58 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bSWw3XXqnT0m1kZzmEdozsfUvMQ.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648,
+            53
+        ],
+        "id": 1330443,
+        "original_language": "en",
+        "original_title": "Strange Harvest",
+        "overview": "",
+        "popularity": 1.3069,
+        "poster_path": "/85SixRYz9JFfH7spaPEez0SYhc5.jpg",
+        "release_date": "2025-08-08",
+        "title": "Strange Harvest",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6dYoBvpb7OgoT9QqMhYJfwTWh6M.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1400381,
+        "original_language": "en",
+        "original_title": "It's Never Over, Jeff Buckley",
+        "overview": "",
+        "popularity": 1.1702,
+        "poster_path": "/9ijvplefhu6yx4wS0mOzDbbmbr3.jpg",
+        "release_date": "2025-08-08",
+        "title": "It's Never Over, Jeff Buckley",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hm9sK7X4X9xlcYlzL2tgdWOe6Jr.jpg",
         "genre_ids": [
             18,
@@ -147,34 +203,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bSWw3XXqnT0m1kZzmEdozsfUvMQ.jpg",
-        "genre_ids": [
-            27,
-            80,
-            9648,
-            53
-        ],
-        "id": 1330443,
-        "original_language": "en",
-        "original_title": "Strange Harvest",
-        "overview": "",
-        "popularity": 1.3069,
-        "poster_path": "/85SixRYz9JFfH7spaPEez0SYhc5.jpg",
-        "release_date": "2025-08-08",
-        "title": "Strange Harvest",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "恐怖",
-            "犯罪",
-            "悬疑",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/pNOStnOAeDGH76WPn0Mvmlq9W5k.jpg",
         "genre_ids": [
             99
@@ -192,30 +220,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6dYoBvpb7OgoT9QqMhYJfwTWh6M.jpg",
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1400381,
-        "original_language": "en",
-        "original_title": "It's Never Over, Jeff Buckley",
-        "overview": "",
-        "popularity": 1.1702,
-        "poster_path": "/9ijvplefhu6yx4wS0mOzDbbmbr3.jpg",
-        "release_date": "2025-08-08",
-        "title": "It's Never Over, Jeff Buckley",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -273,54 +277,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3hQTZTK0Z4mpQtwHglF1R42b6rl.jpg",
-        "genre_ids": [
-            53,
-            27
-        ],
-        "id": 1236204,
-        "original_language": "en",
-        "original_title": "Birthrite",
-        "overview": "",
-        "popularity": 0.6536,
-        "poster_path": "/hOzZDcOQEK5edBnVrine9n9Ht4n.jpg",
-        "release_date": "2025-08-08",
-        "title": "Birthrite",
-        "video": false,
-        "vote_average": 3.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "惊悚",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/dzfPFqBQmlWhgRtw8SVNWRQOYH.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1514364,
-        "original_language": "en",
-        "original_title": "Kill Me Again",
-        "overview": "",
-        "popularity": 0.5975,
-        "poster_path": "/d4u7kSubnsy2Wgkj8LQ5sKWi0jZ.jpg",
-        "release_date": "2025-08-08",
-        "title": "Kill Me Again",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ixwrXKSXB5PXchk7QjJx5MKOYPV.jpg",
         "genre_ids": [
             18,
@@ -342,6 +298,30 @@
             "剧情",
             "犯罪",
             "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3hQTZTK0Z4mpQtwHglF1R42b6rl.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1236204,
+        "original_language": "en",
+        "original_title": "Birthrite",
+        "overview": "",
+        "popularity": 0.6536,
+        "poster_path": "/hOzZDcOQEK5edBnVrine9n9Ht4n.jpg",
+        "release_date": "2025-08-08",
+        "title": "Birthrite",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -375,22 +355,22 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/dzfPFqBQmlWhgRtw8SVNWRQOYH.jpg",
         "genre_ids": [
             27,
             53
         ],
-        "id": 1503900,
+        "id": 1514364,
         "original_language": "en",
-        "original_title": "Die'ced: Reloaded",
+        "original_title": "Kill Me Again",
         "overview": "",
-        "popularity": 0.3953,
-        "poster_path": "/38n55mddDYPiNRiNkTvictpZ7Hq.jpg",
+        "popularity": 0.5975,
+        "poster_path": "/d4u7kSubnsy2Wgkj8LQ5sKWi0jZ.jpg",
         "release_date": "2025-08-08",
-        "title": "Die'ced: Reloaded",
+        "title": "Kill Me Again",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
@@ -423,6 +403,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/iou3DgDuHhKw4B3q2Tx6rGn9Cmm.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1189588,
+        "original_language": "en",
+        "original_title": "Shook",
+        "overview": "",
+        "popularity": 0.5134,
+        "poster_path": "/xIrm79eegrin6Bkgd3FsfrUuf5.jpg",
+        "release_date": "2025-08-08",
+        "title": "Shook",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1503900,
+        "original_language": "en",
+        "original_title": "Die'ced: Reloaded",
+        "overview": "",
+        "popularity": 0.3953,
+        "poster_path": "/38n55mddDYPiNRiNkTvictpZ7Hq.jpg",
+        "release_date": "2025-08-08",
+        "title": "Die'ced: Reloaded",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6c9Hn5zHncM9cHFAdifk3SK1aWk.jpg",
         "genre_ids": [
             18
@@ -440,6 +466,102 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vq3sqbsv55TkSNq7uKsKQfwQ7dq.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1184941,
+        "original_language": "en",
+        "original_title": "Blue Heron",
+        "overview": "",
+        "popularity": 0.3454,
+        "poster_path": "/xQb1ClNUzJXCoHudqQMlqxwJQPd.jpg",
+        "release_date": "2025-08-08",
+        "title": "Blue Heron",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9P0KS5NrPJ1T5OikkNzUPiz7NTc.jpg",
+        "genre_ids": [
+            18,
+            10751,
+            35
+        ],
+        "id": 1447109,
+        "original_language": "en",
+        "original_title": "Ghich Pich",
+        "overview": "",
+        "popularity": 0.3394,
+        "poster_path": "/kQr0ufG9iHuYIhQ9z2TbnGiJub7.jpg",
+        "release_date": "2025-08-08",
+        "title": "Ghich Pich",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1523728,
+        "original_language": "en",
+        "original_title": "Gaptooth",
+        "overview": "",
+        "popularity": 0.3168,
+        "poster_path": "/1FwjN6ahRXBVfMMQXHFrjutlVN8.jpg",
+        "release_date": "2025-08-08",
+        "title": "Gaptooth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bz6iSpeykEnsXI1EY3a2brMZYGS.jpg",
+        "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1476882,
+        "original_language": "en",
+        "original_title": "Notes from a Fish",
+        "overview": "",
+        "popularity": 0.2928,
+        "poster_path": "/p9XnZQE8QTEflASaxoyzXBVCzc2.jpg",
+        "release_date": "2025-08-08",
+        "title": "Notes from a Fish",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -491,30 +613,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/d2cvHlg9Ve7Wp9vBGkkys8EoEQ0.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1477300,
-        "original_language": "en",
-        "original_title": "De La Cruz",
-        "overview": "",
-        "popularity": 0.1974,
-        "poster_path": "/wc7cI1rsc2mGhpLjxrfdtdKoT1Z.jpg",
-        "release_date": "2025-08-08",
-        "title": "De La Cruz",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             878,
@@ -541,18 +639,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vq3sqbsv55TkSNq7uKsKQfwQ7dq.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             18
         ],
-        "id": 1184941,
+        "id": 1452503,
         "original_language": "en",
-        "original_title": "Blue Heron",
+        "original_title": "Lottie Baby",
         "overview": "",
-        "popularity": 0.3454,
-        "poster_path": "/xQb1ClNUzJXCoHudqQMlqxwJQPd.jpg",
+        "popularity": 0.2404,
+        "poster_path": "/7pjmwR3gMWgkLKFvASFhQvsWTB8.jpg",
         "release_date": "2025-08-08",
-        "title": "Blue Heron",
+        "title": "Lottie Baby",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -587,28 +685,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iou3DgDuHhKw4B3q2Tx6rGn9Cmm.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1189588,
-        "original_language": "en",
-        "original_title": "Shook",
-        "overview": "",
-        "popularity": 0.5134,
-        "poster_path": "/xIrm79eegrin6Bkgd3FsfrUuf5.jpg",
-        "release_date": "2025-08-08",
-        "title": "Shook",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/6IWb7eKfWTdcLh0oq0UsUXTUBwi.jpg",
         "genre_ids": [
             35,
@@ -633,75 +709,49 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kzWC4uv8w3rLgGQIZjdzzfez7M2.jpg",
-        "genre_ids": [
-            99,
-            35
-        ],
-        "id": 1489161,
-        "original_language": "en",
-        "original_title": "New Year, Same Idiots",
-        "overview": "",
-        "popularity": 0.1612,
-        "poster_path": "/60aJds3qTpmM6TCr419f4Y7kOUQ.jpg",
-        "release_date": "2025-08-08",
-        "title": "New Year, Same Idiots",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/9P0KS5NrPJ1T5OikkNzUPiz7NTc.jpg",
-        "genre_ids": [
-            18,
-            10751,
-            35
-        ],
-        "id": 1447109,
-        "original_language": "en",
-        "original_title": "Ghich Pich",
-        "overview": "",
-        "popularity": 0.3394,
-        "poster_path": "/kQr0ufG9iHuYIhQ9z2TbnGiJub7.jpg",
-        "release_date": "2025-08-08",
-        "title": "Ghich Pich",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "家庭",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bz6iSpeykEnsXI1EY3a2brMZYGS.jpg",
+        "backdrop_path": "/ap9qqfpBY0reXiC56W0jygUIt0g.jpg",
         "genre_ids": [
             35,
-            9648
+            27
         ],
-        "id": 1476882,
+        "id": 1418732,
         "original_language": "en",
-        "original_title": "Notes from a Fish",
+        "original_title": "Halfway Haunted",
         "overview": "",
-        "popularity": 0.2928,
-        "poster_path": "/p9XnZQE8QTEflASaxoyzXBVCzc2.jpg",
+        "popularity": 0.2102,
+        "poster_path": "/pgQl4L3v684YIJ3VvisCT5eaWA1.jpg",
         "release_date": "2025-08-08",
-        "title": "Notes from a Fish",
+        "title": "Halfway Haunted",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
-            "悬疑"
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d2cvHlg9Ve7Wp9vBGkkys8EoEQ0.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1477300,
+        "original_language": "en",
+        "original_title": "De La Cruz",
+        "overview": "",
+        "popularity": 0.1974,
+        "poster_path": "/wc7cI1rsc2mGhpLjxrfdtdKoT1Z.jpg",
+        "release_date": "2025-08-08",
+        "title": "De La Cruz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -731,23 +781,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            35
+            80,
+            53
         ],
-        "id": 1523728,
+        "id": 1524024,
         "original_language": "en",
-        "original_title": "Gaptooth",
+        "original_title": "Don't Mess With The Don",
         "overview": "",
-        "popularity": 0.3168,
-        "poster_path": "/1FwjN6ahRXBVfMMQXHFrjutlVN8.jpg",
+        "popularity": 0.1691,
+        "poster_path": "/eHNAXi6YFttbDzYaprUbJgKQ2kK.jpg",
         "release_date": "2025-08-08",
-        "title": "Gaptooth",
+        "title": "Don't Mess With The Don",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "喜剧"
+            "犯罪",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -775,47 +825,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/kzWC4uv8w3rLgGQIZjdzzfez7M2.jpg",
         "genre_ids": [
-            18
+            99,
+            35
         ],
-        "id": 1452503,
+        "id": 1489161,
         "original_language": "en",
-        "original_title": "Lottie Baby",
+        "original_title": "New Year, Same Idiots",
         "overview": "",
-        "popularity": 0.2404,
-        "poster_path": "/7pjmwR3gMWgkLKFvASFhQvsWTB8.jpg",
+        "popularity": 0.1612,
+        "poster_path": "/60aJds3qTpmM6TCr419f4Y7kOUQ.jpg",
         "release_date": "2025-08-08",
-        "title": "Lottie Baby",
+        "title": "New Year, Same Idiots",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/gtkMoXL0RSJQ3rysGKwaxcBQGgx.jpg",
-        "genre_ids": [
-            80,
-            99
-        ],
-        "id": 1429989,
-        "original_language": "en",
-        "original_title": "Never Get Busted!",
-        "overview": "",
-        "popularity": 0.1309,
-        "poster_path": "/mtlpPtWZ9GJpMw2zrCO5uE4MVEM.jpg",
-        "release_date": "2025-08-08",
-        "title": "Never Get Busted!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "纪录"
+            "纪录",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -847,71 +875,89 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/gtkMoXL0RSJQ3rysGKwaxcBQGgx.jpg",
         "genre_ids": [
             80,
-            53
+            99
         ],
-        "id": 1524024,
+        "id": 1429989,
         "original_language": "en",
-        "original_title": "Don't Mess With The Don",
+        "original_title": "Never Get Busted!",
         "overview": "",
-        "popularity": 0.1691,
-        "poster_path": "/eHNAXi6YFttbDzYaprUbJgKQ2kK.jpg",
+        "popularity": 0.1309,
+        "poster_path": "/mtlpPtWZ9GJpMw2zrCO5uE4MVEM.jpg",
         "release_date": "2025-08-08",
-        "title": "Don't Mess With The Don",
+        "title": "Never Get Busted!",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "犯罪",
-            "惊悚"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/ap9qqfpBY0reXiC56W0jygUIt0g.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35,
-            27
+            27,
+            35
         ],
-        "id": 1418732,
+        "id": 1291867,
         "original_language": "en",
-        "original_title": "Halfway Haunted",
+        "original_title": "Cemeterror",
         "overview": "",
-        "popularity": 0.2102,
-        "poster_path": "/pgQl4L3v684YIJ3VvisCT5eaWA1.jpg",
+        "popularity": 0.0973,
+        "poster_path": null,
         "release_date": "2025-08-08",
-        "title": "Halfway Haunted",
+        "title": "Cemeterror",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "恐怖"
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/yCHijHn9wJiTy00xMrMt91HvFy0.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1409125,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1523025,
         "original_language": "en",
-        "original_title": "The Gate",
+        "original_title": "The Glass Evangelist",
         "overview": "",
-        "popularity": 0.0713,
-        "poster_path": "/vnZbL1gZnpq9l5pZlCjJOPrLIre.jpg",
+        "popularity": 0.0756,
+        "poster_path": "/hBzric9vy5MMwerySO7MdIlwMG5.jpg",
         "release_date": "2025-08-08",
-        "title": "The Gate",
+        "title": "The Glass Evangelist",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14
+        ],
+        "id": 1522450,
+        "original_language": "en",
+        "original_title": "ນາງນອນ",
+        "overview": "",
+        "popularity": 0.0749,
+        "poster_path": "/8dJUnFgJlubnZFfe0ftBvULXHvz.jpg",
+        "release_date": "2025-08-08",
+        "title": "ນາງນອນ",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -937,42 +983,6 @@
             "恐怖",
             "科幻"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1523022,
-        "original_language": "en",
-        "original_title": "A Telephone for God",
-        "overview": "",
-        "popularity": 0.0605,
-        "poster_path": "/uo33HUINAoOh8RJTYAS0GYszi9Y.jpg",
-        "release_date": "2025-08-08",
-        "title": "A Telephone for God",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1523025,
-        "original_language": "en",
-        "original_title": "The Glass Evangelist",
-        "overview": "",
-        "popularity": 0.0756,
-        "poster_path": "/hBzric9vy5MMwerySO7MdIlwMG5.jpg",
-        "release_date": "2025-08-08",
-        "title": "The Glass Evangelist",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1003,48 +1013,60 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/yCHijHn9wJiTy00xMrMt91HvFy0.jpg",
         "genre_ids": [
-            14
+            18
         ],
-        "id": 1522450,
+        "id": 1409125,
         "original_language": "en",
-        "original_title": "ນາງນອນ",
+        "original_title": "The Gate",
         "overview": "",
-        "popularity": 0.0749,
-        "poster_path": "/8dJUnFgJlubnZFfe0ftBvULXHvz.jpg",
+        "popularity": 0.0713,
+        "poster_path": "/vnZbL1gZnpq9l5pZlCjJOPrLIre.jpg",
         "release_date": "2025-08-08",
-        "title": "ນາງນອນ",
+        "title": "The Gate",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "奇幻"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1291867,
+        "genre_ids": [],
+        "id": 1522982,
         "original_language": "en",
-        "original_title": "Cemeterror",
+        "original_title": "Lime Kiln Workers",
         "overview": "",
-        "popularity": 0.0973,
-        "poster_path": null,
+        "popularity": 0.0671,
+        "poster_path": "/4mpB55qozjZnoZwVR4gXTirfWOe.jpg",
         "release_date": "2025-08-08",
-        "title": "Cemeterror",
+        "title": "Lime Kiln Workers",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1523022,
+        "original_language": "en",
+        "original_title": "A Telephone for God",
+        "overview": "",
+        "popularity": 0.0605,
+        "poster_path": "/uo33HUINAoOh8RJTYAS0GYszi9Y.jpg",
+        "release_date": "2025-08-08",
+        "title": "A Telephone for God",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1081,28 +1103,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1510390,
-        "original_language": "en",
-        "original_title": "Nova '78",
-        "overview": "",
-        "popularity": 0.0382,
-        "poster_path": "/8EoETZt5LQazEc0tigsaZbEFWGw.jpg",
-        "release_date": "2025-08-08",
-        "title": "Nova '78",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1145,24 +1145,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1522982,
-        "original_language": "en",
-        "original_title": "Lime Kiln Workers",
-        "overview": "",
-        "popularity": 0.0671,
-        "poster_path": "/4mpB55qozjZnoZwVR4gXTirfWOe.jpg",
-        "release_date": "2025-08-08",
-        "title": "Lime Kiln Workers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 1522989,
         "original_language": "en",
         "original_title": "Words Are The Problem",
@@ -1183,19 +1165,41 @@
         "genre_ids": [
             99
         ],
-        "id": 1510434,
+        "id": 1522326,
         "original_language": "en",
-        "original_title": "The Cowboy",
+        "original_title": "Air Horse One",
         "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/tTTmkLX5B4guPQSilXx8dZuGq89.jpg",
+        "popularity": 0.0453,
+        "poster_path": "/j3EtjgnihCvu5pV8xGiiEih5p0H.jpg",
         "release_date": "2025-08-08",
-        "title": "The Cowboy",
+        "title": "Air Horse One",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1524902,
+        "original_language": "en",
+        "original_title": "Sebelum Senja Berakhir",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": "/rt0Kas3iQoPZ4XQknllxDaU0psq.jpg",
+        "release_date": "2025-08-08",
+        "title": "Sebelum Senja Berakhir",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1251,6 +1255,50 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1510390,
+        "original_language": "en",
+        "original_title": "Nova '78",
+        "overview": "",
+        "popularity": 0.0382,
+        "poster_path": "/8EoETZt5LQazEc0tigsaZbEFWGw.jpg",
+        "release_date": "2025-08-08",
+        "title": "Nova '78",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/35JCV3nxNeHI3Iim6KXlxD58zbR.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1525863,
+        "original_language": "en",
+        "original_title": "Late Night TV: The Achilles Broom",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/yL4q0P8yT8y81ZWEGPdornhwsX.jpg",
+        "release_date": "2025-08-08",
+        "title": "Late Night TV: The Achilles Broom",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1313,14 +1361,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1522326,
+        "id": 1510434,
         "original_language": "en",
-        "original_title": "Air Horse One",
+        "original_title": "The Cowboy",
         "overview": "",
-        "popularity": 0.0453,
-        "poster_path": "/j3EtjgnihCvu5pV8xGiiEih5p0H.jpg",
+        "popularity": 0.0338,
+        "poster_path": "/tTTmkLX5B4guPQSilXx8dZuGq89.jpg",
         "release_date": "2025-08-08",
-        "title": "Air Horse One",
+        "title": "The Cowboy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1331,23 +1379,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/6B9r3JWyncHBIlOKe8BHm2BJQpx.jpg",
         "genre_ids": [
-            18
+            10749
         ],
-        "id": 1524902,
+        "id": 1525997,
         "original_language": "en",
-        "original_title": "Sebelum Senja Berakhir",
+        "original_title": "115tgna",
         "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/rt0Kas3iQoPZ4XQknllxDaU0psq.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/6eC0V7MJ0L3LvizhdKrBRCnKa2D.jpg",
         "release_date": "2025-08-08",
-        "title": "Sebelum Senja Berakhir",
+        "title": "115tgna",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1371,46 +1419,6 @@
         "genre_ids_zh": [
             "音乐"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/35JCV3nxNeHI3Iim6KXlxD58zbR.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1525863,
-        "original_language": "en",
-        "original_title": "Late Night TV: The Achilles Broom",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/yL4q0P8yT8y81ZWEGPdornhwsX.jpg",
-        "release_date": "2025-08-08",
-        "title": "Late Night TV: The Achilles Broom",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/g6AsW37v8LgCDcCY3x3VrsyuBO8.jpg",
-        "genre_ids": [],
-        "id": 1526583,
-        "original_language": "en",
-        "original_title": "Think. Limit. Less",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/mVT5KFspUIMdPubXnKciPvC0JSE.jpg",
-        "release_date": "2025-08-08",
-        "title": "Think. Limit. Less",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1458,28 +1466,6 @@
         "genre_ids_zh": [
             "恐怖",
             "犯罪"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6B9r3JWyncHBIlOKe8BHm2BJQpx.jpg",
-        "genre_ids": [
-            10749
-        ],
-        "id": 1525997,
-        "original_language": "en",
-        "original_title": "115tgna",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/6eC0V7MJ0L3LvizhdKrBRCnKa2D.jpg",
-        "release_date": "2025-08-08",
-        "title": "115tgna",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1784,6 +1770,30 @@
             "纪录"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1526813,
+        "original_language": "pt",
+        "original_title": "Truco",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9bIfHLm16lx9kywcg5mdzp3UAsX.jpg",
+        "release_date": "2025-08-08",
+        "title": "Truco",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
