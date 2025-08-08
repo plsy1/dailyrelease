@@ -257,8 +257,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/df47GhgtxT05ujaAQDf0jypMuCd.jpg",
+        "genre_ids": [
+            10759
+        ],
         "id": 294194,
         "origin_country": [
             "印度"
@@ -266,13 +268,15 @@
         "original_language": "hi",
         "original_name": "Salakaar",
         "overview": "",
-        "popularity": 0.2662,
+        "popularity": 0.9936,
         "poster_path": "/jHIr0gFT3Lxh6jyHz9NSwUnwoiO.jpg",
         "first_air_date": "2025-08-08",
         "name": "Salakaar",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动作与冒险"
+        ],
         "original_language_zh": "印地语"
     }
 ]
