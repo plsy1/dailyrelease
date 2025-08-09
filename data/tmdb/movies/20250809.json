@@ -381,6 +381,54 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6E12eES9RatXRL7WSMHGXspqkak.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1527453,
+        "original_language": "en",
+        "original_title": "Do Not Be Dismayed",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1dCvT2j9Zf6YwXwGQg9TxeuFj8V.jpg",
+        "release_date": "2025-08-09",
+        "title": "Do Not Be Dismayed",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            35
+        ],
+        "id": 1527417,
+        "original_language": "en",
+        "original_title": "Alien Dan & Spaceman Steve",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/uyupuS4ooHvJz4E2qXbHEst6JW.jpg",
+        "release_date": "2025-08-09",
+        "title": "Alien Dan & Spaceman Steve",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/gdpM6QQtvYVAsgWhsDYGGCS77pR.jpg",
         "genre_ids": [
             28,
@@ -1531,6 +1579,24 @@
             "剧情",
             "家庭"
         ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1527529,
+        "original_language": "it",
+        "original_title": "Cycles",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wIJg1dBvSXnvJQQpqpcUGWJ6a5Y.jpg",
+        "release_date": "2025-08-09",
+        "title": "Cycles",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     },
     {
