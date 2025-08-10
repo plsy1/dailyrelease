@@ -515,28 +515,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1523436,
-        "original_language": "ru",
-        "original_title": "Встречные",
-        "overview": "",
-        "popularity": 0.0453,
-        "poster_path": "/xsqn7loTRa37OupRGA7INfU67yO.jpg",
-        "release_date": "2025-08-11",
-        "title": "Встречные",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1523965,
@@ -552,6 +530,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1523436,
+        "original_language": "ru",
+        "original_title": "Встречные",
+        "overview": "",
+        "popularity": 0.0453,
+        "poster_path": "/xsqn7loTRa37OupRGA7INfU67yO.jpg",
+        "release_date": "2025-08-11",
+        "title": "Встречные",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "俄语"
     },
@@ -614,8 +614,8 @@
         "release_date": "2025-08-11",
         "title": "Il Vangelo di Giuda",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.5,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
         ],
