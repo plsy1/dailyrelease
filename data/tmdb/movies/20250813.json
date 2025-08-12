@@ -493,6 +493,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1186640,
+        "original_language": "fr",
+        "original_title": "Papamobile",
+        "overview": "",
+        "popularity": 0.3045,
+        "poster_path": null,
+        "release_date": "2025-08-13",
+        "title": "Papamobile",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             35
         ],
@@ -509,28 +531,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1186640,
-        "original_language": "fr",
-        "original_title": "Papamobile",
-        "overview": "",
-        "popularity": 0.3045,
-        "poster_path": null,
-        "release_date": "2025-08-13",
-        "title": "Papamobile",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "法语"
@@ -739,28 +739,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1263580,
-        "original_language": "ru",
-        "original_title": "Делириум",
-        "overview": "",
-        "popularity": 0.1709,
-        "poster_path": "/w1op6qlVaVeri6CVqIb4dfqbdAy.jpg",
-        "release_date": "2025-08-13",
-        "title": "Делириум",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/aIELNMBrlohAGFL5UCEt8wfxwCw.jpg",
         "genre_ids": [
             18,
@@ -782,6 +760,28 @@
             "剧情",
             "惊悚",
             "爱情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1263580,
+        "original_language": "ru",
+        "original_title": "Делириум",
+        "overview": "",
+        "popularity": 0.1709,
+        "poster_path": "/w1op6qlVaVeri6CVqIb4dfqbdAy.jpg",
+        "release_date": "2025-08-13",
+        "title": "Делириум",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "俄语"
     },
@@ -833,28 +833,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1523458,
-        "original_language": "ru",
-        "original_title": "Многогранник Бокурадзе",
-        "overview": "",
-        "popularity": 0.0256,
-        "poster_path": "/vyEl6U9UMygz7P8JknnMLu4abhi.jpg",
-        "release_date": "2025-08-13",
-        "title": "Многогранник Бокурадзе",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1523963,
@@ -870,6 +848,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1523458,
+        "original_language": "ru",
+        "original_title": "Многогранник Бокурадзе",
+        "overview": "",
+        "popularity": 0.0256,
+        "poster_path": "/vyEl6U9UMygz7P8JknnMLu4abhi.jpg",
+        "release_date": "2025-08-13",
+        "title": "Многогранник Бокурадзе",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "俄语"
     },
@@ -938,8 +938,8 @@
         "release_date": "2025-08-13",
         "title": "宝莱坞双雄之战2",
         "video": false,
-        "vote_average": 8.5,
-        "vote_count": 2,
+        "vote_average": 9.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "动作",
             "冒险",
