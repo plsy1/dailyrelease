@@ -1,30 +1,6 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/ybrhJsno7jqbiuYE8F9L8KSxqkS.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 272485,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "生万物",
-        "overview": "以鲁南农村土地变迁为背景，时间跨越1926年末到1944年间，聚焦女性成长传奇，谱写动人情感史诗，展现了农民在封建统治下求生存、求发展的艰难历程，以及世世代代对土地难以割舍的依恋。",
-        "popularity": 1.1753,
-        "poster_path": "/whaT0x3yGxs3jCqG2iOL63WOPkp.jpg",
-        "first_air_date": "2025-08-13",
-        "name": "生万物",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             80,
@@ -46,6 +22,30 @@
         "genre_ids_zh": [
             "犯罪",
             "悬疑"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ybrhJsno7jqbiuYE8F9L8KSxqkS.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 272485,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "生万物",
+        "overview": "以鲁南农村土地变迁为背景，时间跨越1926年末到1944年间，聚焦女性成长传奇，谱写动人情感史诗，展现了农民在封建统治下求生存、求发展的艰难历程，以及世世代代对土地难以割舍的依恋。",
+        "popularity": 1.1753,
+        "poster_path": "/whaT0x3yGxs3jCqG2iOL63WOPkp.jpg",
+        "first_air_date": "2025-08-13",
+        "name": "生万物",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -173,7 +173,9 @@
     {
         "adult": false,
         "backdrop_path": "/9gNMRoZzrYmPsrRwCOoPI6YO6QX.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 282269,
         "origin_country": [
             "泰国"
@@ -187,7 +189,9 @@
         "name": "รักขบวนนี้หัวใจเกือบวาย",
         "vote_average": 10.0,
         "vote_count": 12,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "泰语"
     },
     {
