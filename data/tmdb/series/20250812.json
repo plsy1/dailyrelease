@@ -49,7 +49,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5UQYqY888TAT3iG78LWKzdK6UO1.jpg",
+        "backdrop_path": "/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
         "genre_ids": [
             18,
             10765
@@ -61,7 +61,7 @@
         "original_language": "en",
         "original_name": "Alien: Earth",
         "overview": "讲述电影《异形》三十年前的故事，探索地球上维兰德·汤谷公司的崛起。\n\n一艘神秘的宇航飞行器坠毁在地球，一名年轻女子（西德尼·钱德勒 饰）与一支杂牌军团有了重大发现，他们将直接面临这个星球最可怕的威胁。",
-        "popularity": 29.2277,
+        "popularity": 41.885,
         "poster_path": "/10tTnlAvk0gEXSv43Sd1S6UQFtR.jpg",
         "first_air_date": "2025-08-12",
         "name": "异形：地球",
@@ -70,6 +70,32 @@
         "genre_ids_zh": [
             "剧情",
             "科幻与奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lZmh6VJqFdx9yNZrEK5L2RKs2Zu.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 276563,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "In Flight",
+        "overview": "",
+        "popularity": 3.9553,
+        "poster_path": "/cxl7mLcr20rKfNFwpahuzGbfhcg.jpg",
+        "first_air_date": "2025-08-12",
+        "name": "In Flight",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -86,7 +112,7 @@
         "original_language": "en",
         "original_name": "Confessions of a Steroid Gang",
         "overview": "",
-        "popularity": 0.3341,
+        "popularity": 0.3802,
         "poster_path": null,
         "first_air_date": "2025-08-12",
         "name": "Confessions of a Steroid Gang",
@@ -110,7 +136,7 @@
         "original_language": "en",
         "original_name": "Chef Grudge Match",
         "overview": "",
-        "popularity": 0.1477,
+        "popularity": 0.1391,
         "poster_path": null,
         "first_air_date": "2025-08-12",
         "name": "Chef Grudge Match",
@@ -134,7 +160,7 @@
         "original_language": "en",
         "original_name": "Truck Dynasty",
         "overview": "",
-        "popularity": 0.087,
+        "popularity": 0.1104,
         "poster_path": "/thZUR7AHh66ibHP3p79GXd20iWu.jpg",
         "first_air_date": "2025-08-12",
         "name": "Truck Dynasty",
@@ -142,6 +168,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "真人秀"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 298086,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Let's Play Blind",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-08-12",
+        "name": "Let's Play Blind",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
