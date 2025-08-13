@@ -16,8 +16,8 @@
         "release_date": "2025-08-13",
         "title": "Nobody 2",
         "video": false,
-        "vote_average": 8.2,
-        "vote_count": 4,
+        "vote_average": 8.4,
+        "vote_count": 5,
         "genre_ids_zh": [
             "动作",
             "惊悚",
@@ -27,7 +27,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7uzhHIEOJ3AliYICXLzTpQ4Rkrn.jpg",
+        "backdrop_path": "/ntvpgTYOoMpAG5aKFZjm7gpwkYA.jpg",
         "genre_ids": [
             16,
             35
@@ -37,7 +37,7 @@
         "original_title": "Fixed",
         "overview": "",
         "popularity": 3.7954,
-        "poster_path": "/f9NdxNjZ0M2jJamwd8yIiWsoSMK.jpg",
+        "poster_path": "/apUF4pkFmrzmUJvkxEmMCPnhd4t.jpg",
         "release_date": "2025-08-13",
         "title": "Fixed",
         "video": false,
@@ -77,21 +77,25 @@
         "adult": false,
         "backdrop_path": "/ArppzgsaSBKLJVMLNAWU72RHpPU.jpg",
         "genre_ids": [
-            18
+            9648,
+            10749,
+            53
         ],
         "id": 1511400,
         "original_language": "en",
         "original_title": "Alphabet Lane",
         "overview": "",
         "popularity": 0.1405,
-        "poster_path": "/yZqcr3gVlHIiH9Ey2mO8L0DkktQ.jpg",
+        "poster_path": "/tUIzNJ4bIXwewFTVMnEurszufTA.jpg",
         "release_date": "2025-08-13",
         "title": "Alphabet Lane",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "悬疑",
+            "爱情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -340,8 +344,8 @@
         "release_date": "2025-08-13",
         "title": "악마가 이사왔다",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "爱情",
             "喜剧",
@@ -493,28 +497,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35
-        ],
-        "id": 1186640,
-        "original_language": "fr",
-        "original_title": "Papamobile",
-        "overview": "",
-        "popularity": 0.2873,
-        "poster_path": "/kEiDxRcIwdDGtu2u6E7hZqsgpHk.jpg",
-        "release_date": "2025-08-13",
-        "title": "Papamobile",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18,
             35
         ],
@@ -531,6 +513,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1186640,
+        "original_language": "fr",
+        "original_title": "Papamobile",
+        "overview": "",
+        "popularity": 0.2873,
+        "poster_path": "/kEiDxRcIwdDGtu2u6E7hZqsgpHk.jpg",
+        "release_date": "2025-08-13",
+        "title": "Papamobile",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "法语"
@@ -651,6 +655,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1529342,
+        "original_language": "es",
+        "original_title": "Las Pieles",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-13",
+        "title": "Las Pieles",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/aOsE0DmxHdjRr1nuxnt0LSZ62Dr.jpg",
         "genre_ids": [
             18,
@@ -735,6 +761,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d0GxQOwMysYZ8JAHyXOPswKxzve.jpg",
+        "genre_ids": [
+            16,
+            27
+        ],
+        "id": 1529355,
+        "original_language": "pt",
+        "original_title": "Barro",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9cx3fhHKOj18xxSKTP2KUyJYU4t.jpg",
+        "release_date": "2025-08-13",
+        "title": "Barro",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "恐怖"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
