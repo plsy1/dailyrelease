@@ -265,6 +265,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1515787,
+        "original_language": "en",
+        "original_title": "Pardon Me",
+        "overview": "",
+        "popularity": 0.4555,
+        "poster_path": "/tCujS3kLwMOZjdW25GddpIi1sDs.jpg",
+        "release_date": "2025-08-15",
+        "title": "Pardon Me",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/dQ4MeunffSq7K4rgTW4KNHUbHfN.jpg",
         "genre_ids": [
             18,
@@ -289,30 +313,6 @@
             "奇幻",
             "恐怖",
             "爱情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1515787,
-        "original_language": "en",
-        "original_title": "Pardon Me",
-        "overview": "",
-        "popularity": 0.4555,
-        "poster_path": "/tCujS3kLwMOZjdW25GddpIi1sDs.jpg",
-        "release_date": "2025-08-15",
-        "title": "Pardon Me",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情",
             "惊悚"
         ],
         "original_language_zh": "英语"
@@ -551,6 +551,24 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9fgntuio1GN3O2Nhm0vlc4P4TQu.jpg",
+        "genre_ids": [],
+        "id": 1527917,
+        "original_language": "en",
+        "original_title": "American Cryptids",
+        "overview": "",
+        "popularity": 0.1772,
+        "poster_path": "/gghfuMM0BH0RtUCI1m2v4tgOkkU.jpg",
+        "release_date": "2025-08-15",
+        "title": "American Cryptids",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1659,6 +1677,24 @@
         "genre_ids_zh": [
             "动画"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1527754,
+        "original_language": "es",
+        "original_title": "Nicole Dickman",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qEWwQSsAIvsNcIU3Gk9wG1RwMDJ.jpg",
+        "release_date": "2025-08-15",
+        "title": "Nicole Dickman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
