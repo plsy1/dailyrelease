@@ -40,8 +40,8 @@
         "release_date": "2025-08-16",
         "title": "非人哉：限时玩家",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 4.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "动画",
@@ -301,6 +301,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1507796,
+        "original_language": "en",
+        "original_title": "On the Sea",
+        "overview": "",
+        "popularity": 0.2076,
+        "poster_path": "/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
+        "release_date": "2025-08-16",
+        "title": "On the Sea",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hVXlFV8N59jYYP23LCU5wkHeCjt.jpg",
         "genre_ids": [
             18,
@@ -321,6 +345,30 @@
         "genre_ids_zh": [
             "剧情",
             "家庭",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vrqjeil6H5oCaIiEyIpsTRMGiqv.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1458416,
+        "original_language": "en",
+        "original_title": "Cutlery",
+        "overview": "",
+        "popularity": 0.1727,
+        "poster_path": "/uO1r4Lxw63DVdsOdOlYEzdoan5l.jpg",
+        "release_date": "2025-08-16",
+        "title": "Cutlery",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -528,30 +576,6 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/wdy7TUJom58vwIFpx0h5Z8pix3l.jpg",
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1507796,
-        "original_language": "en",
-        "original_title": "On the Sea",
-        "overview": "",
-        "popularity": 0.2076,
-        "poster_path": "/hP4JpQe7F7rcs5lOH97fM7kaSFs.jpg",
-        "release_date": "2025-08-16",
-        "title": "On the Sea",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1012,6 +1036,96 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1530943,
+        "original_language": "en",
+        "original_title": "Kuruthipunal",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/obu3iq33wvU5QFO5doasXzEaoZ6.jpg",
+        "release_date": "2025-08-16",
+        "title": "Kuruthipunal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/56EXfzh7ayMzpPLvGJ2HmKh9yaR.jpg",
+        "genre_ids": [
+            27,
+            18,
+            53,
+            9648
+        ],
+        "id": 1530932,
+        "original_language": "en",
+        "original_title": "Moira",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/velNYwXmxarY7xq1DhhjltI9Pnn.jpg",
+        "release_date": "2025-08-16",
+        "title": "Moira",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "惊悚",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3LFOfrx7YvBgq2XWi8jww7psOKB.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1530900,
+        "original_language": "en",
+        "original_title": "tainted memories",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3RakWtUixSrMJYEKyNK7a2vraa8.jpg",
+        "release_date": "2025-08-16",
+        "title": "tainted memories",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1530893,
+        "original_language": "en",
+        "original_title": "YES, WE EXIST",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-16",
+        "title": "YES, WE EXIST",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             35,
             27
@@ -1273,7 +1387,8 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            28,
+            878
         ],
         "id": 1530665,
         "original_language": "ru",
@@ -1287,7 +1402,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "动作",
+            "科幻"
         ],
         "original_language_zh": "俄语"
     },
