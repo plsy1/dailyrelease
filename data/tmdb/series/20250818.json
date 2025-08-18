@@ -27,6 +27,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 297753,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "翻盘下半场",
+        "overview": "仇強、蒙美和仇樂城一家三口本來生活環境良好，屬典型的香港中產家庭，仇強因一次誤中電騙被騙去全副身家需破產抵債，令一向精明的太太蒙美崩潰。豈料同樣精靈醒目的兒子樂城，亦因網上投資平臺倒閉，所有炒賣得來的金錢一舖清袋不特止，更欠下幾十萬卡數和財務借貸，未大學畢業就淪為破產人士。三口子從天堂跌入地獄。仇強被迫重投社會，後來得到啟發考的士牌做自己的老闆，從中更結識一些以往未會接觸到的社會階層，令天生離地的他擴闊圈子。一心想幫樂城脫離「破產地獄」的蒙美，由生活無憂的靚太變身成招謠撞騙的經理人，誤打誤撞的走入充滿虛假的花花世界。至於樂天幸運的富二代樂城為了可以繼續安逸生活，靠他的奇思妙想千方百計脫貧。……一家人走入破產人生，從一無所有中拾回所有。",
+        "popularity": 0.6281,
+        "poster_path": "/9t6x1ymdRtKZzC2mhoKCfRjaHrk.jpg",
+        "first_air_date": "2025-08-18",
+        "name": "翻盤下半場",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pKAHF8f5rRoZHXGvytclEbQLfWT.jpg",
         "genre_ids": [
             18
@@ -47,26 +67,6 @@
         "genre_ids_zh": [
             "剧情"
         ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 297753,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "翻盘下半场",
-        "overview": "仇強、蒙美和仇樂城一家三口本來生活環境良好，屬典型的香港中產家庭，仇強因一次誤中電騙被騙去全副身家需破產抵債，令一向精明的太太蒙美崩潰。豈料同樣精靈醒目的兒子樂城，亦因網上投資平臺倒閉，所有炒賣得來的金錢一舖清袋不特止，更欠下幾十萬卡數和財務借貸，未大學畢業就淪為破產人士。三口子從天堂跌入地獄。仇強被迫重投社會，後來得到啟發考的士牌做自己的老闆，從中更結識一些以往未會接觸到的社會階層，令天生離地的他擴闊圈子。一心想幫樂城脫離「破產地獄」的蒙美，由生活無憂的靚太變身成招謠撞騙的經理人，誤打誤撞的走入充滿虛假的花花世界。至於樂天幸運的富二代樂城為了可以繼續安逸生活，靠他的奇思妙想千方百計脫貧。……一家人走入破產人生，從一無所有中拾回所有。",
-        "popularity": 0.6281,
-        "poster_path": "/9t6x1ymdRtKZzC2mhoKCfRjaHrk.jpg",
-        "first_air_date": "2025-08-18",
-        "name": "翻盤下半場",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
@@ -107,37 +107,13 @@
         "original_name": "偽鐵膠遊九州",
         "overview": "",
         "popularity": 0.2113,
-        "poster_path": null,
+        "poster_path": "/l8uqKWLHfE565cls5puX2qAtsrd.jpg",
         "first_air_date": "2025-08-18",
         "name": "偽鐵膠遊九州",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/oTMAv9xwqOH77nnKMRzBdYbHYQt.jpg",
-        "genre_ids": [
-            10764
-        ],
-        "id": 275387,
-        "origin_country": [
-            "英国"
-        ],
-        "original_language": "en",
-        "original_name": "The Real Housewives of London",
-        "overview": "",
-        "popularity": 0.9915,
-        "poster_path": "/iZgNotaQ6FYs4vsRORf62RAiQXD.jpg",
-        "first_air_date": "2025-08-18",
-        "name": "The Real Housewives of London",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "真人秀"
-        ],
-        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -166,25 +142,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/oTMAv9xwqOH77nnKMRzBdYbHYQt.jpg",
         "genre_ids": [
-            99
+            10764
         ],
-        "id": 298055,
+        "id": 275387,
         "origin_country": [
-            "美国"
+            "英国"
         ],
         "original_language": "en",
-        "original_name": "A Different Breed",
+        "original_name": "The Real Housewives of London",
         "overview": "",
-        "popularity": 0.2786,
-        "poster_path": null,
+        "popularity": 0.9915,
+        "poster_path": "/iZgNotaQ6FYs4vsRORf62RAiQXD.jpg",
         "first_air_date": "2025-08-18",
-        "name": "A Different Breed",
+        "name": "The Real Housewives of London",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "真人秀"
         ],
         "original_language_zh": "英语"
     },
@@ -211,6 +187,30 @@
         "genre_ids_zh": [
             "家庭",
             "真人秀"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 298055,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "A Different Breed",
+        "overview": "",
+        "popularity": 0.2786,
+        "poster_path": null,
+        "first_air_date": "2025-08-18",
+        "name": "A Different Breed",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
