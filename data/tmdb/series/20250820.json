@@ -26,7 +26,9 @@
     {
         "adult": false,
         "backdrop_path": "/fzkPupInzW6t2826WX3Om6j4hid.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10764
+        ],
         "id": 298626,
         "origin_country": [
             "中国"
@@ -40,7 +42,9 @@
         "name": "灿烂的市集",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "汉语"
     },
     {
