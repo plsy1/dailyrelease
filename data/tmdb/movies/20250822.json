@@ -71,30 +71,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3pIB1ekXVmPZkUk2w4cb8ZEMdQr.jpg",
-        "genre_ids": [
-            9648,
-            35
-        ],
-        "id": 744653,
-        "original_language": "en",
-        "original_title": "The Thursday Murder Club",
-        "overview": "　　影片改编自理查德·奥斯曼的同名畅销小说，描述四位闲不下来的退休人士认真推敲谋杀悬案解闷，却碰上了真正的命案，侦探游戏突然变成惊悚现实，而他们还得找出凶手是谁。",
-        "popularity": 3.734,
-        "poster_path": "/tzrJulItjttxzoX0t3B2My46TS7.jpg",
-        "release_date": "2025-08-22",
-        "title": "周四推理俱乐部",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/o1jOMbNjDjkUZorJ8LxDjSJIrRg.jpg",
         "genre_ids": [
             28,
@@ -119,25 +95,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/3pIB1ekXVmPZkUk2w4cb8ZEMdQr.jpg",
         "genre_ids": [
-            53,
-            10770
+            9648,
+            35
         ],
-        "id": 1530108,
+        "id": 744653,
         "original_language": "en",
-        "original_title": "The Doctor with Two Faces",
-        "overview": "",
-        "popularity": 1.541,
-        "poster_path": "/fCZuf9qXk3Lgs2vLgjOCUnQ2XCF.jpg",
+        "original_title": "The Thursday Murder Club",
+        "overview": "　　影片改编自理查德·奥斯曼的同名畅销小说，描述四位闲不下来的退休人士认真推敲谋杀悬案解闷，却碰上了真正的命案，侦探游戏突然变成惊悚现实，而他们还得找出凶手是谁。",
+        "popularity": 3.734,
+        "poster_path": "/tzrJulItjttxzoX0t3B2My46TS7.jpg",
         "release_date": "2025-08-22",
-        "title": "The Doctor with Two Faces",
+        "title": "周四推理俱乐部",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚",
-            "电视电影"
+            "悬疑",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -155,28 +131,6 @@
         "poster_path": "/4TUsFJRaFzdQx6dH5IlelQMlByj.jpg",
         "release_date": "2025-08-22",
         "title": "What She Doesn't Know",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1372260,
-        "original_language": "en",
-        "original_title": "Your Host",
-        "overview": "",
-        "popularity": 1.9953,
-        "poster_path": "/sz0ff2j1bZOLM9HT9LjkcewZBYR.jpg",
-        "release_date": "2025-08-22",
-        "title": "Your Host",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -209,20 +163,48 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iYGN74e2YbExT91TC3515PdVclo.jpg",
-        "genre_ids": [],
-        "id": 1517532,
+        "backdrop_path": "/5uJJ76rWQyPnxtYsme1hcvjSwK9.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1264573,
         "original_language": "en",
-        "original_title": "Exit Interviews",
+        "original_title": "Lurker",
         "overview": "",
-        "popularity": 1.3972,
-        "poster_path": "/wXe7har84f2fFK2mxUnmdYm184b.jpg",
+        "popularity": 2.0117,
+        "poster_path": "/u9uCevjqpPA39bCnUHr4qFWSR7I.jpg",
         "release_date": "2025-08-22",
-        "title": "Exit Interviews",
+        "title": "Lurker",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1372260,
+        "original_language": "en",
+        "original_title": "Your Host",
+        "overview": "",
+        "popularity": 1.9953,
+        "poster_path": "/sz0ff2j1bZOLM9HT9LjkcewZBYR.jpg",
+        "release_date": "2025-08-22",
+        "title": "Your Host",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -251,25 +233,89 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5uJJ76rWQyPnxtYsme1hcvjSwK9.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18,
-            53
+            53,
+            10770
         ],
-        "id": 1264573,
+        "id": 1530108,
         "original_language": "en",
-        "original_title": "Lurker",
+        "original_title": "The Doctor with Two Faces",
         "overview": "",
-        "popularity": 2.0117,
-        "poster_path": "/u9uCevjqpPA39bCnUHr4qFWSR7I.jpg",
+        "popularity": 1.541,
+        "poster_path": "/fCZuf9qXk3Lgs2vLgjOCUnQ2XCF.jpg",
         "release_date": "2025-08-22",
-        "title": "Lurker",
+        "title": "The Doctor with Two Faces",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
+            "惊悚",
+            "电视电影"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gz0egUOuOk9EWQEMaFUvKewDKU0.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1367763,
+        "original_language": "en",
+        "original_title": "Lilly Lives Alone",
+        "overview": "",
+        "popularity": 1.4158,
+        "poster_path": "/q8FBn3xdHtRSSAcVVK8LlgYgE5h.jpg",
+        "release_date": "2025-08-22",
+        "title": "Lilly Lives Alone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iYGN74e2YbExT91TC3515PdVclo.jpg",
+        "genre_ids": [],
+        "id": 1517532,
+        "original_language": "en",
+        "original_title": "Exit Interviews",
+        "overview": "",
+        "popularity": 1.3972,
+        "poster_path": "/wXe7har84f2fFK2mxUnmdYm184b.jpg",
+        "release_date": "2025-08-22",
+        "title": "Exit Interviews",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x1T2ppTZXgeYSikjBBeCoVEpczw.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 811363,
+        "original_language": "en",
+        "original_title": "A Serbian Documentary",
+        "overview": "",
+        "popularity": 1.3641,
+        "poster_path": "/yIbhRNu2FEfhq13NbfV07nQPrKp.jpg",
+        "release_date": "2025-08-22",
+        "title": "A Serbian Documentary",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -294,50 +340,6 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1524425,
-        "original_language": "en",
-        "original_title": "The Memo",
-        "overview": "",
-        "popularity": 0.8556,
-        "poster_path": "/neggewJMSBunTvVGgU82M70GvyJ.jpg",
-        "release_date": "2025-08-22",
-        "title": "The Memo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/x1T2ppTZXgeYSikjBBeCoVEpczw.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 811363,
-        "original_language": "en",
-        "original_title": "A Serbian Documentary",
-        "overview": "",
-        "popularity": 1.3641,
-        "poster_path": "/yIbhRNu2FEfhq13NbfV07nQPrKp.jpg",
-        "release_date": "2025-08-22",
-        "title": "A Serbian Documentary",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -369,26 +371,44 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gz0egUOuOk9EWQEMaFUvKewDKU0.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            53
+            35,
+            9648
         ],
-        "id": 1367763,
+        "id": 1527663,
         "original_language": "en",
-        "original_title": "Lilly Lives Alone",
+        "original_title": "Tastemaker",
         "overview": "",
-        "popularity": 1.4158,
-        "poster_path": "/q8FBn3xdHtRSSAcVVK8LlgYgE5h.jpg",
+        "popularity": 1.0649,
+        "poster_path": "/s3WxmKrPp92n51JUOidxLdDHPRx.jpg",
         "release_date": "2025-08-22",
-        "title": "Lilly Lives Alone",
+        "title": "Tastemaker",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
+            "喜剧",
+            "悬疑"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1529454,
+        "original_language": "en",
+        "original_title": "Have A Word: The Big Fat Family For-Get The Lyrics Quiz of the Naughty(s) and 90s (with Buzzcocks)",
+        "overview": "",
+        "popularity": 1.054,
+        "poster_path": "/jPywZaC6rUCAZSp2wwkklj2aLn2.jpg",
+        "release_date": "2025-08-22",
+        "title": "Have A Word: The Big Fat Family For-Get The Lyrics Quiz of the Naughty(s) and 90s (with Buzzcocks)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -414,30 +434,6 @@
             "纪录",
             "剧情",
             "战争"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            9648
-        ],
-        "id": 1527663,
-        "original_language": "en",
-        "original_title": "Tastemaker",
-        "overview": "",
-        "popularity": 1.0649,
-        "poster_path": "/s3WxmKrPp92n51JUOidxLdDHPRx.jpg",
-        "release_date": "2025-08-22",
-        "title": "Tastemaker",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -469,28 +465,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
-        ],
-        "id": 1454741,
-        "original_language": "en",
-        "original_title": "The Confession",
-        "overview": "",
-        "popularity": 0.6173,
-        "poster_path": "/234jjdJO9XwXMDRR65pC2QJY8rU.jpg",
-        "release_date": "2025-08-22",
-        "title": "The Confession",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             28,
             53
         ],
@@ -515,6 +489,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1524425,
+        "original_language": "en",
+        "original_title": "The Memo",
+        "overview": "",
+        "popularity": 0.8556,
+        "poster_path": "/neggewJMSBunTvVGgU82M70GvyJ.jpg",
+        "release_date": "2025-08-22",
+        "title": "The Memo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             878
         ],
         "id": 1473863,
@@ -530,64 +526,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1519087,
-        "original_language": "en",
-        "original_title": "In a Cold Vein",
-        "overview": "",
-        "popularity": 0.4517,
-        "poster_path": "/1Q0WGmmA5Tn9QHBygvfDPYasPw5.jpg",
-        "release_date": "2025-08-22",
-        "title": "In a Cold Vein",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1529454,
-        "original_language": "en",
-        "original_title": "Have A Word: The Big Fat Family For-Get The Lyrics Quiz of the Naughty(s) and 90s (with Buzzcocks)",
-        "overview": "",
-        "popularity": 1.054,
-        "poster_path": "/jPywZaC6rUCAZSp2wwkklj2aLn2.jpg",
-        "release_date": "2025-08-22",
-        "title": "Have A Word: The Big Fat Family For-Get The Lyrics Quiz of the Naughty(s) and 90s (with Buzzcocks)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/1diY1bTIqRP68tsfjNtRev4A4CK.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1183751,
-        "original_language": "en",
-        "original_title": "The Ceremony",
-        "overview": "",
-        "popularity": 0.6368,
-        "poster_path": "/7eGfbePw6H9XBKch3zKHpWMIRY0.jpg",
-        "release_date": "2025-08-22",
-        "title": "The Ceremony",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -616,6 +554,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1489580,
+        "original_language": "en",
+        "original_title": "Blue Planet Red",
+        "overview": "",
+        "popularity": 0.7221,
+        "poster_path": "/kRzWaG9LcfXsKswplTRheTHhUOR.jpg",
+        "release_date": "2025-08-22",
+        "title": "Blue Planet Red",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             27,
             18
@@ -635,46 +591,6 @@
             "恐怖",
             "剧情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1512010,
-        "original_language": "en",
-        "original_title": "Parasomnia",
-        "overview": "",
-        "popularity": 0.5445,
-        "poster_path": "/tcKWFHcvemnMR90TkhdcrknvS2S.jpg",
-        "release_date": "2025-08-22",
-        "title": "Parasomnia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1214958,
-        "original_language": "en",
-        "original_title": "Human",
-        "overview": "",
-        "popularity": 0.6053,
-        "poster_path": "/ckKE6lbhIwN2McRBgPK0wmteuSF.jpg",
-        "release_date": "2025-08-22",
-        "title": "Human",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -701,16 +617,60 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/1diY1bTIqRP68tsfjNtRev4A4CK.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1183751,
+        "original_language": "en",
+        "original_title": "The Ceremony",
+        "overview": "",
+        "popularity": 0.6368,
+        "poster_path": "/7eGfbePw6H9XBKch3zKHpWMIRY0.jpg",
+        "release_date": "2025-08-22",
+        "title": "The Ceremony",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1454741,
+        "original_language": "en",
+        "original_title": "The Confession",
+        "overview": "",
+        "popularity": 0.6173,
+        "poster_path": "/234jjdJO9XwXMDRR65pC2QJY8rU.jpg",
+        "release_date": "2025-08-22",
+        "title": "The Confession",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1489580,
+        "id": 1214958,
         "original_language": "en",
-        "original_title": "Blue Planet Red",
+        "original_title": "Human",
         "overview": "",
-        "popularity": 0.7221,
-        "poster_path": "/kRzWaG9LcfXsKswplTRheTHhUOR.jpg",
+        "popularity": 0.6053,
+        "poster_path": "/ckKE6lbhIwN2McRBgPK0wmteuSF.jpg",
         "release_date": "2025-08-22",
-        "title": "Blue Planet Red",
+        "title": "Human",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -741,6 +701,46 @@
             "剧情",
             "历史"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1512010,
+        "original_language": "en",
+        "original_title": "Parasomnia",
+        "overview": "",
+        "popularity": 0.5445,
+        "poster_path": "/tcKWFHcvemnMR90TkhdcrknvS2S.jpg",
+        "release_date": "2025-08-22",
+        "title": "Parasomnia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1519087,
+        "original_language": "en",
+        "original_title": "In a Cold Vein",
+        "overview": "",
+        "popularity": 0.4517,
+        "poster_path": "/1Q0WGmmA5Tn9QHBygvfDPYasPw5.jpg",
+        "release_date": "2025-08-22",
+        "title": "In a Cold Vein",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -819,24 +819,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ddhuC8aEQ9Ml8D01kfSSAo37JYA.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1529185,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1524186,
         "original_language": "en",
-        "original_title": "Sea, Swallow Me",
+        "original_title": "Double Bogey",
         "overview": "",
-        "popularity": 0.087,
-        "poster_path": "/46hQaW4VSeTsrgtikOblD5gv7hb.jpg",
+        "popularity": 0.1271,
+        "poster_path": "/A8CXTTqGrzHcJnM0dbDGzoSIAKO.jpg",
         "release_date": "2025-08-22",
-        "title": "Sea, Swallow Me",
+        "title": "Double Bogey",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -865,23 +861,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/o1G4GjWFOggDGJRKpyQhL0bn7VU.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            18,
+            35,
+            27
         ],
-        "id": 1529442,
+        "id": 1532111,
         "original_language": "en",
-        "original_title": "Under The Sun",
+        "original_title": "Writer's Block",
         "overview": "",
-        "popularity": 0.0731,
-        "poster_path": "/oNPXOPYeKLVjeyQcIiBYV9iJV98.jpg",
+        "popularity": 0.1037,
+        "poster_path": "/ygsxkp0V2VGx5VhN6wX5cUlKdJw.jpg",
         "release_date": "2025-08-22",
-        "title": "Under The Sun",
+        "title": "Writer's Block",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "剧情",
+            "喜剧",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -905,20 +905,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1524186,
+        "backdrop_path": "/ddhuC8aEQ9Ml8D01kfSSAo37JYA.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1529185,
         "original_language": "en",
-        "original_title": "Double Bogey",
+        "original_title": "Sea, Swallow Me",
         "overview": "",
-        "popularity": 0.1271,
-        "poster_path": "/A8CXTTqGrzHcJnM0dbDGzoSIAKO.jpg",
+        "popularity": 0.087,
+        "poster_path": "/46hQaW4VSeTsrgtikOblD5gv7hb.jpg",
         "release_date": "2025-08-22",
-        "title": "Double Bogey",
+        "title": "Sea, Swallow Me",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -947,27 +951,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/o1G4GjWFOggDGJRKpyQhL0bn7VU.jpg",
         "genre_ids": [
-            18,
-            35,
-            27
+            35
         ],
-        "id": 1532111,
+        "id": 1529442,
         "original_language": "en",
-        "original_title": "Writer's Block",
+        "original_title": "Under The Sun",
         "overview": "",
-        "popularity": 0.1037,
-        "poster_path": "/ygsxkp0V2VGx5VhN6wX5cUlKdJw.jpg",
+        "popularity": 0.0731,
+        "poster_path": "/oNPXOPYeKLVjeyQcIiBYV9iJV98.jpg",
         "release_date": "2025-08-22",
-        "title": "Writer's Block",
+        "title": "Under The Sun",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "喜剧",
-            "恐怖"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
