@@ -420,11 +420,11 @@
             10752
         ],
         "id": 1465560,
-        "original_language": "en",
+        "original_language": "fr",
         "original_title": "Put Your Soul on Your Hand and Walk",
         "overview": "《把你的灵魂放在你的手上行走》是我作为一名电影制片人对巴勒斯坦人正在发生的大屠杀的回应。当我找到一位巴勒斯坦朋友介绍给我的法蒂姆·哈松纳时，奇迹发生了。从那时起，她就用她的眼睛看着她曾经抵抗战争的加沙，记录战争的惨状，而我则成为了她和世界其他地方之间的纽带，从她所说的“加沙监狱”开始。我们守护了这条生命线200多天。我们交换的像素和声音的片段就成为了您看到的电影。 2025 年 4 月 16 日，以色列袭击了法蒂姆的家，法蒂姆也因此遇刺，从此，这件作品的意义就永远改变了。",
         "popularity": 0.9766,
-        "poster_path": "/krKtfRilwp0m7LHYCDUq2ykDKXt.jpg",
+        "poster_path": "/gCksDwMpAO96GZq6XKkYsenNgKj.jpg",
         "release_date": "2025-08-22",
         "title": "Put Your Soul on Your Hand and Walk",
         "video": false,
@@ -435,7 +435,7 @@
             "剧情",
             "战争"
         ],
-        "original_language_zh": "英语"
+        "original_language_zh": "法语"
     },
     {
         "adult": false,
@@ -1007,6 +1007,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1533253,
+        "original_language": "en",
+        "original_title": "Tapestry",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/ep9pGrWh73O4Gh0YYh49ENUPlXS.jpg",
+        "release_date": "2025-08-22",
+        "title": "Tapestry",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lmiMTugZm6EeocYPKJ1fhkDRBPj.jpg",
         "genre_ids": [
             16,
@@ -1032,52 +1054,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1533253,
-        "original_language": "en",
-        "original_title": "Tapestry",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/ep9pGrWh73O4Gh0YYh49ENUPlXS.jpg",
-        "release_date": "2025-08-22",
-        "title": "Tapestry",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/8qA0hudvohKrvkqPTAzWJgGUAAP.jpg",
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1533228,
-        "original_language": "en",
-        "original_title": "Fragment d’un discours amoureux",
-        "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/wBdky7lNOQryS0u01Oih0GMLG5K.jpg",
-        "release_date": "2025-08-22",
-        "title": "Fragment d’un discours amoureux",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1514195,
         "original_language": "en",
@@ -1091,6 +1067,50 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1533644,
+        "original_language": "en",
+        "original_title": "La Marchesa, La Monaca, La Matta e La Spia",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7zopYfsioQHSW0qVGR7ZRVCpENV.jpg",
+        "release_date": "2025-08-22",
+        "title": "La Marchesa, La Monaca, La Matta e La Spia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/okYOnyxmRosnuwxIHAAiyFu5g8S.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1533464,
+        "original_language": "en",
+        "original_title": "NOW",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/za2Uv64L6fhHmXuxM6Snx5uu17q.jpg",
+        "release_date": "2025-08-22",
+        "title": "NOW",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1109,6 +1129,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vkbBil6DLw4pbX3Qj5MQZTHyIuT.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1325332,
+        "original_language": "ja",
+        "original_title": "映画 おでかけ子ザメ とかいのおともだち",
+        "overview": "",
+        "popularity": 1.8898,
+        "poster_path": "/bOmfD566NFBDhb0NmMPJOK6wMiR.jpg",
+        "release_date": "2025-08-22",
+        "title": "映画 おでかけ子ザメ とかいのおともだち",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "日语"
     },
     {
@@ -1132,28 +1174,6 @@
         "genre_ids_zh": [
             "纪录",
             "音乐"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vkbBil6DLw4pbX3Qj5MQZTHyIuT.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1325332,
-        "original_language": "ja",
-        "original_title": "映画 おでかけ子ザメ とかいのおともだち",
-        "overview": "",
-        "popularity": 1.8898,
-        "poster_path": "/bOmfD566NFBDhb0NmMPJOK6wMiR.jpg",
-        "release_date": "2025-08-22",
-        "title": "映画 おでかけ子ザメ とかいのおともだち",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "日语"
     },
@@ -1266,24 +1286,6 @@
             "惊悚"
         ],
         "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/yi4rrtfs8IRGtIuVqljZty1nQrw.jpg",
-        "genre_ids": [],
-        "id": 1515131,
-        "original_language": "de",
-        "original_title": "Per Anhalter zur Ostsee",
-        "overview": "",
-        "popularity": 0.9283,
-        "poster_path": "/q0lXpBKI6gEmADT3OtFF1JieVCQ.jpg",
-        "release_date": "2025-08-22",
-        "title": "Per Anhalter zur Ostsee",
-        "video": false,
-        "vote_average": 6.5,
-        "vote_count": 1,
-        "genre_ids_zh": [],
-        "original_language_zh": "德语"
     },
     {
         "adult": false,
@@ -1413,30 +1415,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1518257,
-        "original_language": "es",
-        "original_title": "La coleccionista",
-        "overview": "",
-        "popularity": 1.4237,
-        "poster_path": "/GQs8yOE93ZBvkhOEwfc8W9c7F1.jpg",
-        "release_date": "2025-08-22",
-        "title": "La coleccionista",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             10751,
             12,
@@ -1463,27 +1441,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/11VJldV586lN8SjSfaCTDSkFkk4.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            99,
-            10402
+            27,
+            9648
         ],
-        "id": 1370386,
-        "original_language": "pt",
-        "original_title": "Sensible Soccers: Manoel",
+        "id": 1518257,
+        "original_language": "es",
+        "original_title": "La coleccionista",
         "overview": "",
-        "popularity": 0.0527,
-        "poster_path": "/jtnF51iTxVcTlEHdh2qIqXxIlMx.jpg",
+        "popularity": 1.4237,
+        "poster_path": "/GQs8yOE93ZBvkhOEwfc8W9c7F1.jpg",
         "release_date": "2025-08-22",
-        "title": "Sensible Soccers: Manoel",
+        "title": "La coleccionista",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "音乐"
+            "恐怖",
+            "悬疑"
         ],
-        "original_language_zh": "葡萄牙语"
+        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
@@ -1511,6 +1489,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/11VJldV586lN8SjSfaCTDSkFkk4.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1370386,
+        "original_language": "pt",
+        "original_title": "Sensible Soccers: Manoel",
+        "overview": "",
+        "popularity": 0.0527,
+        "poster_path": "/jtnF51iTxVcTlEHdh2qIqXxIlMx.jpg",
+        "release_date": "2025-08-22",
+        "title": "Sensible Soccers: Manoel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/a40RXDADraemXjRLzT9mgPUZyq4.jpg",
         "genre_ids": [
             99
@@ -1528,6 +1530,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1533610,
+        "original_language": "pt",
+        "original_title": "O Alfaiate",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-22",
+        "title": "O Alfaiate",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "葡萄牙语"
     },
