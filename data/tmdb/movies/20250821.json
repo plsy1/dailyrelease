@@ -47,6 +47,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ochlEwMqvNQaL9lw4ZcpsfvGuiv.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1531905,
+        "original_language": "zh",
+        "original_title": "生死危机",
+        "overview": "赵文卓饰演的教官张智勇与赵子琪饰演的妻子杨曼在从大西洋某岛回华国的航班上，遭遇了国际不法分子劫机的恐怖行动，凭着英勇无畏的孤勇精神保护了妻儿与飞机上的乘客，成功摧毁歹徒的恐怖计划，带领同胞安全回到祖国。",
+        "popularity": 0.132,
+        "poster_path": "/75TgnRMsWMwPWfp3Uu8pnHtU1Lt.jpg",
+        "release_date": "2025-08-21",
+        "title": "生死危机",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "犯罪"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -64,30 +88,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4WC4TcsiJX1OAzRQu79nowY83Jg.jpg",
-        "genre_ids": [
-            28,
-            80
-        ],
-        "id": 1531905,
-        "original_language": "zh",
-        "original_title": "生死危机",
-        "overview": "",
-        "popularity": 0.132,
-        "poster_path": "/75TgnRMsWMwPWfp3Uu8pnHtU1Lt.jpg",
-        "release_date": "2025-08-21",
-        "title": "生死危机",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "犯罪"
         ],
         "original_language_zh": "汉语"
     },
@@ -377,6 +377,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/7OVFaP9x9B81bXZCJVSviLpfdSM.jpg",
+        "genre_ids": [],
+        "id": 1409381,
+        "original_language": "en",
+        "original_title": "Jano & Dafi",
+        "overview": "",
+        "popularity": 0.8575,
+        "poster_path": "/zmmWG1hQ5W7ZsNj54tT18wTwtSq.jpg",
+        "release_date": "2025-08-21",
+        "title": "Jano & Dafi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eRCQlvPGmrm6wciksedf1RDNhwM.jpg",
         "genre_ids": [
             35,
@@ -397,24 +415,6 @@
             "喜剧",
             "家庭"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/7OVFaP9x9B81bXZCJVSviLpfdSM.jpg",
-        "genre_ids": [],
-        "id": 1409381,
-        "original_language": "en",
-        "original_title": "Jano & Dafi",
-        "overview": "",
-        "popularity": 0.8575,
-        "poster_path": "/zmmWG1hQ5W7ZsNj54tT18wTwtSq.jpg",
-        "release_date": "2025-08-21",
-        "title": "Jano & Dafi",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -831,6 +831,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1533359,
+        "original_language": "en",
+        "original_title": "Baby, Baby",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gynJN6cHSk6l4Q577a8dP84q2oM.jpg",
+        "release_date": "2025-08-21",
+        "title": "Baby, Baby",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27
         ],
         "id": 1510253,
@@ -1079,6 +1103,24 @@
         "poster_path": null,
         "release_date": "2025-08-21",
         "title": "La 42",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1533424,
+        "original_language": "es",
+        "original_title": "La felicidad",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-21",
+        "title": "La felicidad",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
