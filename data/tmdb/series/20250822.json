@@ -36,11 +36,11 @@
         ],
         "original_language": "en",
         "original_name": "Long Story Short",
-        "overview": "",
+        "overview": "这是一部以家庭为主、时间跨度长的动画喜剧，随着岁月流转，我们追随施伍普家的兄弟姐妹们从童年到成年，又重返童年，记录了他们人生中的成功、挫折、欢乐与妥协。",
         "popularity": 2.5281,
         "poster_path": "/22nh2kTuFpitrqTxxixhWjxEqFa.jpg",
         "first_air_date": "2025-08-22",
-        "name": "Long Story Short",
+        "name": "长话短说",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -52,7 +52,9 @@
     {
         "adult": false,
         "backdrop_path": "/eQPjzX447u0VRLaO7fAlGY2VNE9.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 297601,
         "origin_country": [
             "美国"
@@ -61,12 +63,14 @@
         "original_name": "The Heritage",
         "overview": "",
         "popularity": 0.813,
-        "poster_path": null,
+        "poster_path": "/bHhYgZrb2k3Ii2BnxpYZy25Lytq.jpg",
         "first_air_date": "2025-08-22",
         "name": "The Heritage",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
