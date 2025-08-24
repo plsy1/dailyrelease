@@ -149,6 +149,32 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            10763,
+            10767
+        ],
+        "id": 299049,
+        "origin_country": [
+            "法国"
+        ],
+        "original_language": "fr",
+        "original_name": "5/7 Le morning RMC",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-08-25",
+        "name": "5/7 Le morning RMC",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "新闻",
+            "脱口秀"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 283947,
         "origin_country": [
