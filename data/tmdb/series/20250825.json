@@ -152,6 +152,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            80,
+            99
+        ],
+        "id": 299071,
+        "origin_country": [
+            "比利时"
+        ],
+        "original_language": "fr",
+        "original_name": "Crime à la Une : 40 ans d'affaires judiciaires belges",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-08-25",
+        "name": "Crime à la Une : 40 ans d'affaires judiciaires belges",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             10763,
             10767
         ],
@@ -189,6 +215,26 @@
         "poster_path": "/rmFVFzBhvwIlE1IDz7uTsyCxDBc.jpg",
         "first_air_date": "2025-08-25",
         "name": "Felp",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 299081,
+        "origin_country": [
+            "巴西"
+        ],
+        "original_language": "pt",
+        "original_name": "Porta dos Desesperados",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mZ4OHKxW6FG0P21lICgJrcP0Ybg.jpg",
+        "first_air_date": "2025-08-25",
+        "name": "Porta dos Desesperados",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
