@@ -195,6 +195,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1448119,
+        "original_language": "en",
+        "original_title": "Cover",
+        "overview": "",
+        "popularity": 0.2578,
+        "poster_path": "/nkzXs0qDN98QXPNXRFUhE6M35R4.jpg",
+        "release_date": "2025-08-25",
+        "title": "Cover",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/oWhxaLdqPTYoMLXobtOccEBmA9K.jpg",
         "genre_ids": [
             35
@@ -218,28 +240,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            53
-        ],
-        "id": 1448119,
-        "original_language": "en",
-        "original_title": "Cover",
-        "overview": "",
-        "popularity": 0.2578,
-        "poster_path": "/nkzXs0qDN98QXPNXRFUhE6M35R4.jpg",
-        "release_date": "2025-08-25",
-        "title": "Cover",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1496534,
         "original_language": "en",
@@ -253,6 +253,32 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            878,
+            27
+        ],
+        "id": 1297314,
+        "original_language": "en",
+        "original_title": "Shoe on the Verge of Congestion",
+        "overview": "",
+        "popularity": 0.1773,
+        "poster_path": "/9duOd1dCGt0fcQgVrGvTqfaibkj.jpg",
+        "release_date": "2025-08-25",
+        "title": "Shoe on the Verge of Congestion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "科幻",
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -417,6 +443,28 @@
         "genre_ids": [
             99
         ],
+        "id": 1535473,
+        "original_language": "en",
+        "original_title": "L'absent, dans le coeur de Piche",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1GHFSiQnAnP6Gth1KVswZ0PpGRP.jpg",
+        "release_date": "2025-08-25",
+        "title": "L'absent, dans le coeur de Piche",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1535131,
         "original_language": "en",
         "original_title": "STONE MEMORY",
@@ -470,6 +518,30 @@
         "poster_path": "/zcV9vo6wPHZVhCO6BJ9CHx99Jgw.jpg",
         "release_date": "2025-08-25",
         "title": "THE APRIL MORNING I'LL NEVER FORGET",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "剧情"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10751,
+            18
+        ],
+        "id": 1535394,
+        "original_language": "th",
+        "original_title": "If Never Back",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ojTMwxWK6tsdSwCBH3GyfTz7d4j.jpg",
+        "release_date": "2025-08-25",
+        "title": "If Never Back",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -568,6 +640,30 @@
         "genre_ids_zh": [
             "剧情",
             "惊悚"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oYbxO5YVQYHNz731kqeRXLzRPKr.jpg",
+        "genre_ids": [
+            9648,
+            18
+        ],
+        "id": 1535363,
+        "original_language": "fr",
+        "original_title": "Ma mort te dit je t'aime",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mKqWV0OZ5CV0nZiA7J76iaU2fzd.jpg",
+        "release_date": "2025-08-25",
+        "title": "Ma mort te dit je t'aime",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
