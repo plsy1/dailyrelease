@@ -176,6 +176,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            10763,
+            10767
+        ],
+        "id": 299049,
+        "origin_country": [
+            "法国"
+        ],
+        "original_language": "fr",
+        "original_name": "5/7 Le morning RMC",
+        "overview": "",
+        "popularity": 0.0786,
+        "poster_path": "/bkiyoZ1IFYEo3lIkyZSMncMxbJd.jpg",
+        "first_air_date": "2025-08-25",
+        "name": "5/7 Le morning RMC",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "新闻",
+            "脱口秀"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             80,
             99
         ],
@@ -200,27 +226,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/pm31ProNxVIk40ptBSxnunYZ7IN.jpg",
         "genre_ids": [
-            10763,
-            10767
+            10767,
+            10763
         ],
-        "id": 299049,
+        "id": 299138,
         "origin_country": [
-            "法国"
+            "比利时"
         ],
         "original_language": "fr",
-        "original_name": "5/7 Le morning RMC",
+        "original_name": "Ils mériteraient d'être dans le journal",
         "overview": "",
-        "popularity": 0.0786,
-        "poster_path": "/bkiyoZ1IFYEo3lIkyZSMncMxbJd.jpg",
+        "popularity": 0.0,
+        "poster_path": "/v3kPT9Pttr4USph46ThlFPDYuDF.jpg",
         "first_air_date": "2025-08-25",
-        "name": "5/7 Le morning RMC",
+        "name": "Ils mériteraient d'être dans le journal",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "新闻",
-            "脱口秀"
+            "脱口秀",
+            "新闻"
         ],
         "original_language_zh": "法语"
     },
