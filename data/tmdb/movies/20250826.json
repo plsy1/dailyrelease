@@ -3,30 +3,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            80,
-            53
-        ],
-        "id": 1320756,
-        "original_language": "en",
-        "original_title": "Doctor Plague",
-        "overview": "",
-        "popularity": 0.6088,
-        "poster_path": null,
-        "release_date": "2025-08-26",
-        "title": "Doctor Plague",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             10749,
             18
         ],
@@ -51,6 +27,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1320756,
+        "original_language": "en",
+        "original_title": "Doctor Plague",
+        "overview": "",
+        "popularity": 0.6088,
+        "poster_path": null,
+        "release_date": "2025-08-26",
+        "title": "Doctor Plague",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1269742,
@@ -66,30 +66,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/8kjIDu5TfYseM1dUgeHmuV96Uph.jpg",
-        "genre_ids": [
-            28,
-            16
-        ],
-        "id": 1468421,
-        "original_language": "en",
-        "original_title": "THERE CAN ONLY BE ONE",
-        "overview": "",
-        "popularity": 0.1424,
-        "poster_path": "/QwKKnCtFDGttqSswKcjifg7rpb.jpg",
-        "release_date": "2025-08-26",
-        "title": "THERE CAN ONLY BE ONE",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -141,6 +117,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ec9jcxfKVfuHn9KhXqmoXFAfxLz.jpg",
+        "genre_ids": [],
+        "id": 1530277,
+        "original_language": "en",
+        "original_title": "I WANNA BE YOUR DOG!!!",
+        "overview": "",
+        "popularity": 0.1517,
+        "poster_path": "/yhdImiiOMVFu8y6B1GQcgaeksDI.jpg",
+        "release_date": "2025-08-26",
+        "title": "I WANNA BE YOUR DOG!!!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8kjIDu5TfYseM1dUgeHmuV96Uph.jpg",
+        "genre_ids": [
+            28,
+            16
+        ],
+        "id": 1468421,
+        "original_language": "en",
+        "original_title": "THERE CAN ONLY BE ONE",
+        "overview": "",
+        "popularity": 0.1424,
+        "poster_path": "/QwKKnCtFDGttqSswKcjifg7rpb.jpg",
+        "release_date": "2025-08-26",
+        "title": "THERE CAN ONLY BE ONE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1457193,
@@ -159,20 +177,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ec9jcxfKVfuHn9KhXqmoXFAfxLz.jpg",
-        "genre_ids": [],
-        "id": 1530277,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1529625,
         "original_language": "en",
-        "original_title": "I WANNA BE YOUR DOG!!!",
+        "original_title": "How To Make The *Perfect* Paper Airplane",
         "overview": "",
-        "popularity": 0.1517,
-        "poster_path": "/yhdImiiOMVFu8y6B1GQcgaeksDI.jpg",
+        "popularity": 0.1046,
+        "poster_path": "/aO8ovGj85QQinqM5YeiJ4vgeWWa.jpg",
         "release_date": "2025-08-26",
-        "title": "I WANNA BE YOUR DOG!!!",
+        "title": "How To Make The *Perfect* Paper Airplane",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -198,28 +220,6 @@
             "惊悚",
             "恐怖",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1529625,
-        "original_language": "en",
-        "original_title": "How To Make The *Perfect* Paper Airplane",
-        "overview": "",
-        "popularity": 0.1046,
-        "poster_path": "/aO8ovGj85QQinqM5YeiJ4vgeWWa.jpg",
-        "release_date": "2025-08-26",
-        "title": "How To Make The *Perfect* Paper Airplane",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -262,28 +262,6 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1535135,
-        "original_language": "en",
-        "original_title": "Diaries: Colours of Nature and the Way It Affects Our Memories. Part two of five",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/jtjPX2uwo7awNEyNYB7msOYw66K.jpg",
-        "release_date": "2025-08-26",
-        "title": "Diaries: Colours of Nature and the Way It Affects Our Memories. Part two of five",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
