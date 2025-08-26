@@ -545,30 +545,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10770
-        ],
-        "id": 1464841,
-        "original_language": "de",
-        "original_title": "Der Club der starken Frauen",
-        "overview": "",
-        "popularity": 1.4205,
-        "poster_path": null,
-        "release_date": "2025-08-27",
-        "title": "Der Club der starken Frauen",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "电视电影"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/wYRdaA5XIXJqFDHoTXfvW19mJnU.jpg",
         "genre_ids": [
             18
@@ -593,23 +569,25 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            18,
+            10770
         ],
-        "id": 1000990,
-        "original_language": "fr",
-        "original_title": "La femme de",
+        "id": 1464841,
+        "original_language": "de",
+        "original_title": "Der Club der starken Frauen",
         "overview": "",
-        "popularity": 0.9707,
+        "popularity": 1.4205,
         "poster_path": null,
         "release_date": "2025-08-27",
-        "title": "La femme de",
+        "title": "Der Club der starken Frauen",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "剧情",
+            "电视电影"
         ],
-        "original_language_zh": "法语"
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
@@ -632,6 +610,28 @@
         "genre_ids_zh": [
             "剧情",
             "惊悚"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1000990,
+        "original_language": "fr",
+        "original_title": "La femme de",
+        "overview": "",
+        "popularity": 0.9707,
+        "poster_path": null,
+        "release_date": "2025-08-27",
+        "title": "La femme de",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
@@ -677,6 +677,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1536196,
+        "original_language": "fr",
+        "original_title": "La mer",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eLtazYMm8vARQfnTadlOxdnnZk3.jpg",
+        "release_date": "2025-08-27",
+        "title": "La mer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
@@ -791,6 +809,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1536140,
+        "original_language": "pt",
+        "original_title": "Digital Boy",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tNYr9mha86tUtoKERv7S5K0SXmr.jpg",
+        "release_date": "2025-08-27",
+        "title": "Digital Boy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 838301,
@@ -857,6 +897,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1520547,
+        "original_language": "it",
+        "original_title": "Life Beyond the Pine Curtain – L’America degli Invisibli",
+        "overview": "",
+        "popularity": 0.4318,
+        "poster_path": null,
+        "release_date": "2025-08-27",
+        "title": "Life Beyond the Pine Curtain – L’America degli Invisibli",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/u2rSSpCy76W1BHBE7vD9sDYSzw2.jpg",
         "genre_ids": [
             18,
@@ -876,28 +938,6 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1520547,
-        "original_language": "it",
-        "original_title": "Life Beyond the Pine Curtain – L’America degli Invisibli",
-        "overview": "",
-        "popularity": 0.4318,
-        "poster_path": null,
-        "release_date": "2025-08-27",
-        "title": "Life Beyond the Pine Curtain – L’America degli Invisibli",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "意大利语"
     },
@@ -976,7 +1016,7 @@
         "original_title": "Una Cosa Vicina",
         "overview": "",
         "popularity": 0.0261,
-        "poster_path": null,
+        "poster_path": "/b6Hnn1IOyjdw1boDh9K9EySkZra.jpg",
         "release_date": "2025-08-27",
         "title": "Una Cosa Vicina",
         "video": false,
