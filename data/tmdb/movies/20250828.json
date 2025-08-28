@@ -927,6 +927,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1537181,
+        "original_language": "es",
+        "original_title": "Autorretrato",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lQ4aOrQ28g5qYivKfg5MjGp3eRw.jpg",
+        "release_date": "2025-08-28",
+        "title": "Autorretrato",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/2UXrkv2G1aXMyn3VY70krD9Anid.jpg",
         "genre_ids": [
             12,
@@ -995,7 +1017,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/yWafpuEBlNaVlYnCRgVKQFlsGCL.jpg",
         "genre_ids": [],
         "id": 1536867,
         "original_language": "pt",
@@ -1201,6 +1223,24 @@
         "poster_path": "/q8U0Ef6iZob6SmetTV654YnnX2k.jpg",
         "release_date": "2025-08-28",
         "title": "Over De Grens",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1537255,
+        "original_language": "nl",
+        "original_title": "Circus Camille",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-28",
+        "title": "Circus Camille",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
