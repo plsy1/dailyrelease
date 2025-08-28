@@ -113,28 +113,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1285895,
-        "original_language": "en",
-        "original_title": "Late Fame",
-        "overview": "",
-        "popularity": 2.3673,
-        "poster_path": "/iCLsQ34OMyOS1zN8yUhE59SZnfK.jpg",
-        "release_date": "2025-08-29",
-        "title": "Late Fame",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/mviWVo14YFNJwHZJboI07qkjgNI.jpg",
         "genre_ids": [
             35
@@ -152,6 +130,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1285895,
+        "original_language": "en",
+        "original_title": "Late Fame",
+        "overview": "",
+        "popularity": 2.3673,
+        "poster_path": "/iCLsQ34OMyOS1zN8yUhE59SZnfK.jpg",
+        "release_date": "2025-08-29",
+        "title": "Late Fame",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -195,6 +195,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1517161,
+        "original_language": "en",
+        "original_title": "Broken English",
+        "overview": "",
+        "popularity": 1.401,
+        "poster_path": null,
+        "release_date": "2025-08-29",
+        "title": "Broken English",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -249,24 +271,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1440252,
-        "original_language": "en",
-        "original_title": "An American Werewolf in July",
-        "overview": "",
-        "popularity": 0.8415,
-        "poster_path": "/d8AMuI3z6RmU58mCuARzMpqLSYw.jpg",
-        "release_date": "2025-08-29",
-        "title": "An American Werewolf in July",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/aPG4h0han2M9c7bSET2ltQtGLUJ.jpg",
         "genre_ids": [
             80,
@@ -294,22 +298,64 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1517161,
+        "genre_ids": [],
+        "id": 1440252,
         "original_language": "en",
-        "original_title": "Broken English",
+        "original_title": "An American Werewolf in July",
         "overview": "",
-        "popularity": 1.401,
-        "poster_path": null,
+        "popularity": 0.8415,
+        "poster_path": "/d8AMuI3z6RmU58mCuARzMpqLSYw.jpg",
         "release_date": "2025-08-29",
-        "title": "Broken English",
+        "title": "An American Werewolf in July",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xKeYArWgmP7oEyDxsz7aK9fETm.jpg",
+        "genre_ids": [
+            9648,
+            18
+        ],
+        "id": 1399525,
+        "original_language": "en",
+        "original_title": "Rose of Nevada",
+        "overview": "",
+        "popularity": 0.7431,
+        "poster_path": "/oOx0tmbbQVekynNQEBbgXRvxT8r.jpg",
+        "release_date": "2025-08-29",
+        "title": "Rose of Nevada",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "悬疑",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3PpFCCrfVahrjXOurXKp2fmSVb7.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1290242,
+        "original_language": "en",
+        "original_title": "Christy",
+        "overview": "",
+        "popularity": 0.7197,
+        "poster_path": "/wuBykI8GaLUAGLj1Iq0KhsS4S57.jpg",
+        "release_date": "2025-08-29",
+        "title": "Christy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -339,18 +385,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3PpFCCrfVahrjXOurXKp2fmSVb7.jpg",
+        "backdrop_path": "/lzRmCuH9G6S3QaoEgWLGSdXdxF3.jpg",
         "genre_ids": [
             18
         ],
-        "id": 1290242,
+        "id": 1043766,
         "original_language": "en",
-        "original_title": "Christy",
+        "original_title": "A Little Prayer",
         "overview": "",
-        "popularity": 0.7197,
-        "poster_path": "/wuBykI8GaLUAGLj1Iq0KhsS4S57.jpg",
+        "popularity": 0.6504,
+        "poster_path": "/7kP3bPM1xUhA4zl4ri4DhYoDRDM.jpg",
         "release_date": "2025-08-29",
-        "title": "Christy",
+        "title": "A Little Prayer",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -382,52 +428,6 @@
             "悬疑",
             "惊悚",
             "电视电影"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lzRmCuH9G6S3QaoEgWLGSdXdxF3.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1043766,
-        "original_language": "en",
-        "original_title": "A Little Prayer",
-        "overview": "",
-        "popularity": 0.6504,
-        "poster_path": "/7kP3bPM1xUhA4zl4ri4DhYoDRDM.jpg",
-        "release_date": "2025-08-29",
-        "title": "A Little Prayer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xKeYArWgmP7oEyDxsz7aK9fETm.jpg",
-        "genre_ids": [
-            9648,
-            18
-        ],
-        "id": 1399525,
-        "original_language": "en",
-        "original_title": "Rose of Nevada",
-        "overview": "",
-        "popularity": 0.7431,
-        "poster_path": "/oOx0tmbbQVekynNQEBbgXRvxT8r.jpg",
-        "release_date": "2025-08-29",
-        "title": "Rose of Nevada",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -480,6 +480,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1480847,
+        "original_language": "en",
+        "original_title": "Sangre del Toro",
+        "overview": "",
+        "popularity": 0.5025,
+        "poster_path": null,
+        "release_date": "2025-08-29",
+        "title": "Sangre del Toro",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1523820,
         "original_language": "en",
@@ -521,21 +543,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            18,
+            10749
         ],
-        "id": 1480847,
+        "id": 1521198,
         "original_language": "en",
-        "original_title": "Sangre del Toro",
+        "original_title": "Amanyanabo: The Eagle King",
         "overview": "",
-        "popularity": 0.5025,
-        "poster_path": null,
+        "popularity": 0.4206,
+        "poster_path": "/40TjBehPBVWv5ugoobXD9EyRJuc.jpg",
         "release_date": "2025-08-29",
-        "title": "Sangre del Toro",
+        "title": "Amanyanabo: The Eagle King",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -559,6 +583,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/9fqAu88RzsCbnvXIlTqryI3Hydw.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 639908,
+        "original_language": "en",
+        "original_title": "Mother Vera",
+        "overview": "",
+        "popularity": 0.2162,
+        "poster_path": "/3Y6dKlAA1LHN1yztX3WEnNrIdW4.jpg",
+        "release_date": "2025-08-29",
+        "title": "Mother Vera",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             80,
@@ -578,70 +624,6 @@
         "genre_ids_zh": [
             "犯罪",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/tAGPwyWL525dl9gI8vNyMTk0YKR.jpg",
-        "genre_ids": [],
-        "id": 1529032,
-        "original_language": "en",
-        "original_title": "Mythos Borussia - Eine Legende wird 125",
-        "overview": "",
-        "popularity": 0.1468,
-        "poster_path": "/ctvrqRVr0wV8Kb6bOtZznd5TSYJ.jpg",
-        "release_date": "2025-08-29",
-        "title": "Mythos Borussia - Eine Legende wird 125",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1521198,
-        "original_language": "en",
-        "original_title": "Amanyanabo: The Eagle King",
-        "overview": "",
-        "popularity": 0.4206,
-        "poster_path": "/40TjBehPBVWv5ugoobXD9EyRJuc.jpg",
-        "release_date": "2025-08-29",
-        "title": "Amanyanabo: The Eagle King",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/9fqAu88RzsCbnvXIlTqryI3Hydw.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 639908,
-        "original_language": "en",
-        "original_title": "Mother Vera",
-        "overview": "",
-        "popularity": 0.2162,
-        "poster_path": "/3Y6dKlAA1LHN1yztX3WEnNrIdW4.jpg",
-        "release_date": "2025-08-29",
-        "title": "Mother Vera",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -671,38 +653,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1529275,
-        "original_language": "en",
-        "original_title": "Hot Dog Hands",
-        "overview": "",
-        "popularity": 0.1304,
-        "poster_path": "/zORrSz3EXXVkWvMD3GuulsHUKxf.jpg",
-        "release_date": "2025-08-29",
-        "title": "Hot Dog Hands",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nV9Iv7wJce0DwQybprlPpKVniZ0.jpg",
+        "backdrop_path": "/tAGPwyWL525dl9gI8vNyMTk0YKR.jpg",
         "genre_ids": [],
-        "id": 1534717,
+        "id": 1529032,
         "original_language": "en",
-        "original_title": "The Bloody Hammer",
+        "original_title": "Mythos Borussia - Eine Legende wird 125",
         "overview": "",
-        "popularity": 0.0903,
-        "poster_path": "/31rSkjYpXXJ15Dp6t9kGZsIfmfg.jpg",
+        "popularity": 0.1468,
+        "poster_path": "/ctvrqRVr0wV8Kb6bOtZznd5TSYJ.jpg",
         "release_date": "2025-08-29",
-        "title": "The Bloody Hammer",
+        "title": "Mythos Borussia - Eine Legende wird 125",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -728,6 +688,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1529275,
+        "original_language": "en",
+        "original_title": "Hot Dog Hands",
+        "overview": "",
+        "popularity": 0.1304,
+        "poster_path": "/zORrSz3EXXVkWvMD3GuulsHUKxf.jpg",
+        "release_date": "2025-08-29",
+        "title": "Hot Dog Hands",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -769,6 +751,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nV9Iv7wJce0DwQybprlPpKVniZ0.jpg",
+        "genre_ids": [],
+        "id": 1534717,
+        "original_language": "en",
+        "original_title": "The Bloody Hammer",
+        "overview": "",
+        "popularity": 0.0903,
+        "poster_path": "/31rSkjYpXXJ15Dp6t9kGZsIfmfg.jpg",
+        "release_date": "2025-08-29",
+        "title": "The Bloody Hammer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -897,6 +897,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/da6oBRosCz6dXyqv11QYNRJla8S.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1537035,
+        "original_language": "en",
+        "original_title": "Goodbye, Art",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/nRtoW5iiJsEciv4VsnBgAcJb8Kv.jpg",
+        "release_date": "2025-08-29",
+        "title": "Goodbye, Art",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/2ambsjaa9sTRKtQM7K21NpP9xja.jpg",
         "genre_ids": [
             35,
@@ -916,6 +938,48 @@
         "genre_ids_zh": [
             "喜剧",
             "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1537518,
+        "original_language": "en",
+        "original_title": "The Cycle of Love",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-08-29",
+        "title": "The Cycle of Love",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e9XYmC2xRxBVMVowQSqALzitOut.jpg",
+        "genre_ids": [
+            35,
+            28
+        ],
+        "id": 1537349,
+        "original_language": "en",
+        "original_title": "Beluga Gets Ready",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/adWltMuFGoGMCXSkbL4TDy3ELLi.jpg",
+        "release_date": "2025-08-29",
+        "title": "Beluga Gets Ready",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -945,23 +1009,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/da6oBRosCz6dXyqv11QYNRJla8S.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            99
+            28,
+            18
         ],
-        "id": 1537035,
+        "id": 1537143,
         "original_language": "en",
-        "original_title": "Goodbye, Art",
+        "original_title": "What Lies in Eden",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/nRtoW5iiJsEciv4VsnBgAcJb8Kv.jpg",
+        "popularity": 0.0,
+        "poster_path": "/dtnkxgZB3ZFxCu7cLhDL9GfFLxj.jpg",
         "release_date": "2025-08-29",
-        "title": "Goodbye, Art",
+        "title": "What Lies in Eden",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "动作",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1377,6 +1443,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jtjXlpq6q6oki7j2m8WUVKPR9P7.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1536456,
+        "original_language": "pt",
+        "original_title": "17 de Março",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/4dwkqzg4b6bRWO9zEPctUO0O1oA.jpg",
+        "release_date": "2025-08-29",
+        "title": "17 de Março",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1566,7 +1654,7 @@
         "original_title": "Songs of Paradise",
         "overview": "",
         "popularity": 4.7845,
-        "poster_path": "/iLINgH0VbAFlrcIQYSBo3yd928Y.jpg",
+        "poster_path": "/bnfP3bX21VC536U9vdzDDWQM3pH.jpg",
         "release_date": "2025-08-29",
         "title": "Songs of Paradise",
         "video": false,
@@ -1601,30 +1689,6 @@
         "genre_ids_zh": [
             "爱情",
             "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mzdajWwCFo9Vj0eQB0BN31x39jp.jpg",
-        "genre_ids": [
-            10749,
-            35
-        ],
-        "id": 1367408,
-        "original_language": "hi",
-        "original_title": "Abir Gulaal",
-        "overview": "",
-        "popularity": 0.7264,
-        "poster_path": "/rN8v1ROUdBmYOhgXRggr3F7TlGR.jpg",
-        "release_date": "2025-08-29",
-        "title": "Abir Gulaal",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
             "喜剧"
         ],
         "original_language_zh": "印地语"
