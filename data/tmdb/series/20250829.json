@@ -77,30 +77,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 297975,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "The OSC object show",
-        "overview": "",
-        "popularity": 0.4911,
-        "poster_path": "/8yTXcUHwQzC0vQ6HIwhhoc2jQwb.jpg",
-        "first_air_date": "2025-08-29",
-        "name": "The OSC object show",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/l4Lbon8iovriwJIPej7UKg0NYI6.jpg",
         "genre_ids": [
             10764,
@@ -124,6 +100,30 @@
             "真人秀",
             "动作与冒险",
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 297975,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "The OSC object show",
+        "overview": "",
+        "popularity": 0.4911,
+        "poster_path": "/8yTXcUHwQzC0vQ6HIwhhoc2jQwb.jpg",
+        "first_air_date": "2025-08-29",
+        "name": "The OSC object show",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "英语"
     },
