@@ -802,6 +802,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            878,
+            18
+        ],
+        "id": 1535671,
+        "original_language": "en",
+        "original_title": "ASLEEP",
+        "overview": "",
+        "popularity": 0.0306,
+        "poster_path": "/2Fkv7EoGEaYSPpDigkB6lsL0ajQ.jpg",
+        "release_date": "2025-08-30",
+        "title": "ASLEEP",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "科幻",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1534113,
         "original_language": "en",
@@ -941,7 +965,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/1TznA7Dq4Rarmn883kSeQvzPIPw.jpg",
         "genre_ids": [
             18
         ],
@@ -950,7 +974,7 @@
         "original_title": "シャンバラストーリー",
         "overview": "",
         "popularity": 0.5826,
-        "poster_path": null,
+        "poster_path": "/5uXRYjbkYPio0rxNs2v988MJWF1.jpg",
         "release_date": "2025-08-30",
         "title": "シャンバラストーリー",
         "video": false,
@@ -1488,6 +1512,98 @@
         "genre_ids_zh": [
             "爱情",
             "剧情"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1537749,
+        "original_language": "it",
+        "original_title": "Fuori di Testa",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cZpiPleOUFJ0GaNDcJIe77lID1F.jpg",
+        "release_date": "2025-08-30",
+        "title": "Fuori di Testa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28
+        ],
+        "id": 1537737,
+        "original_language": "it",
+        "original_title": "Cieca Fortuna",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xEY8GOY1XUp0X22rAKy5UqZV3Ox.jpg",
+        "release_date": "2025-08-30",
+        "title": "Cieca Fortuna",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1537734,
+        "original_language": "it",
+        "original_title": "Il peso della carne",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/z38TncGErf4qLKoS8o7bD90rN12.jpg",
+        "release_date": "2025-08-30",
+        "title": "Il peso della carne",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1537719,
+        "original_language": "it",
+        "original_title": "Cena Gratis",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xC0alaE2VDVGDrh5o8qCYIrkYnG.jpg",
+        "release_date": "2025-08-30",
+        "title": "Cena Gratis",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "意大利语"
     },
