@@ -418,6 +418,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1537366,
+        "original_language": "en",
+        "original_title": "Lost in the Jungle",
+        "overview": "",
+        "popularity": 0.2571,
+        "poster_path": "/rXqt7WSC7HhH0E92SFJNKYD1ZNa.jpg",
+        "release_date": "2025-08-30",
+        "title": "Lost in the Jungle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1530838,
         "original_language": "en",
@@ -617,28 +639,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1537366,
-        "original_language": "en",
-        "original_title": "Lost in the Jungle",
-        "overview": "",
-        "popularity": 0.2571,
-        "poster_path": "/rXqt7WSC7HhH0E92SFJNKYD1ZNa.jpg",
-        "release_date": "2025-08-30",
-        "title": "Lost in the Jungle",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -965,6 +965,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1538363,
+        "original_language": "en",
+        "original_title": "Nostalgia is a Sickness",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6GSdfpdn2ZNbX3BjxUFFf9W0eS4.jpg",
+        "release_date": "2025-08-30",
+        "title": "Nostalgia is a Sickness",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/1TznA7Dq4Rarmn883kSeQvzPIPw.jpg",
         "genre_ids": [
             18
@@ -1216,6 +1238,50 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nmX0ePWnVFaEg5IJU1H5BPGxuvo.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1538368,
+        "original_language": "fr",
+        "original_title": "La Terre en mouvements : Trois éléments pour une planète",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/b7WPOkSik5u3xNJ09ysByibmZw.jpg",
+        "release_date": "2025-08-30",
+        "title": "La Terre en mouvements : Trois éléments pour une planète",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Unz5FfXOxQvieDVrR3cnxWKIGX.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1538354,
+        "original_language": "fr",
+        "original_title": "Orangs-outans, nos cousins rouges de la forêt",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/16qE7gpDxdNs04fEE7A9k3iiCbj.jpg",
+        "release_date": "2025-08-30",
+        "title": "Orangs-outans, nos cousins rouges de la forêt",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
