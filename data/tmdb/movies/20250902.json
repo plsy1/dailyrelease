@@ -79,7 +79,7 @@
         "original_title": "In the Hand of Dante",
         "overview": "影片改编自尼克·托切斯的同名小说，讲述两个平行故事，分别围绕著名诗人但丁和他的代表作《神曲》展开：当代纽约，《神曲》原稿出现在一个黑市走私团伙的手中，厌倦现状的学者尼克（奥斯卡·伊萨克 Oscar Isaac 饰）被他们召唤去辨别真伪。尼克最终因诱惑而违抗黑手党偷走了手稿，和他的爱人茱丽叶塔（盖尔·加朵 Gal Gadot 饰）踏上了一条黑暗暴力之路，从隐喻式的地狱到天堂。",
         "popularity": 4.1161,
-        "poster_path": null,
+        "poster_path": "/wY5rHZI8KWRMQbntMZsagxDHxqO.jpg",
         "release_date": "2025-09-02",
         "title": "但丁之手",
         "video": false,
@@ -357,6 +357,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bZJKitQo0fZ1P8OAYDfsAEgLl2V.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1536672,
+        "original_language": "es",
+        "original_title": "El plan",
+        "overview": "",
+        "popularity": 0.0193,
+        "poster_path": "/dXfa9R4STZOmEy90ewPWVBTbvN7.jpg",
+        "release_date": "2025-09-02",
+        "title": "El plan",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jLdELzslmdi4mAKGJBXr4V6DTv4.jpg",
         "genre_ids": [
             16,
@@ -375,28 +397,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画",
-            "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bZJKitQo0fZ1P8OAYDfsAEgLl2V.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1536672,
-        "original_language": "es",
-        "original_title": "El plan",
-        "overview": "",
-        "popularity": 0.0193,
-        "poster_path": "/dXfa9R4STZOmEy90ewPWVBTbvN7.jpg",
-        "release_date": "2025-09-02",
-        "title": "El plan",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "西班牙语"
@@ -507,6 +507,28 @@
         "poster_path": null,
         "release_date": "2025-09-02",
         "title": "La Quinta Stagione",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1520550,
+        "original_language": "it",
+        "original_title": "Toni mio Padre",
+        "overview": "",
+        "popularity": 0.0571,
+        "poster_path": null,
+        "release_date": "2025-09-02",
+        "title": "Toni mio Padre",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
