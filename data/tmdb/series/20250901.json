@@ -96,25 +96,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 296962,
+        "genre_ids": [],
+        "id": 296539,
         "origin_country": [
-            "美国"
+            "法国",
+            "德国",
+            "荷兰"
         ],
         "original_language": "en",
-        "original_name": "Ruby & Jodi: A Cult of Sin and Influence",
+        "original_name": "Etty",
         "overview": "",
-        "popularity": 0.5609,
+        "popularity": 0.6233,
         "poster_path": null,
         "first_air_date": "2025-09-01",
-        "name": "Ruby & Jodi: A Cult of Sin and Influence",
+        "name": "Etty",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -144,43 +142,25 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 296539,
-        "origin_country": [
-            "法国",
-            "德国",
-            "荷兰"
+        "genre_ids": [
+            99
         ],
-        "original_language": "en",
-        "original_name": "Etty",
-        "overview": "",
-        "popularity": 0.6233,
-        "poster_path": null,
-        "first_air_date": "2025-09-01",
-        "name": "Etty",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 296659,
+        "id": 296962,
         "origin_country": [
             "美国"
         ],
         "original_language": "en",
-        "original_name": "Tangled Twists",
+        "original_name": "Ruby & Jodi: A Cult of Sin and Influence",
         "overview": "",
-        "popularity": 0.4962,
-        "poster_path": "/gU3fLKhbt0CiouafjhBYisAAsxk.jpg",
+        "popularity": 0.5609,
+        "poster_path": null,
         "first_air_date": "2025-09-01",
-        "name": "Tangled Twists",
+        "name": "Ruby & Jodi: A Cult of Sin and Influence",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -207,6 +187,26 @@
             "纪录",
             "动画"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 296659,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Tangled Twists",
+        "overview": "",
+        "popularity": 0.4962,
+        "poster_path": "/gU3fLKhbt0CiouafjhBYisAAsxk.jpg",
+        "first_air_date": "2025-09-01",
+        "name": "Tangled Twists",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
