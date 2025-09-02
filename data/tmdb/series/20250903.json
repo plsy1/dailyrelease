@@ -66,21 +66,25 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 299703,
+        "genre_ids": [
+            18
+        ],
+        "id": 299692,
         "origin_country": [
             "日本"
         ],
         "original_language": "ja",
-        "original_name": "70号室の住人　★70号室の住人 LIVE!!!! 〜チョコレイトポテトサラダ〜",
+        "original_name": "セフレと恋人の境界線",
         "overview": "",
-        "popularity": 0.0429,
+        "popularity": 0.0714,
         "poster_path": null,
         "first_air_date": "2025-09-03",
-        "name": "70号室の住人　★70号室の住人 LIVE!!!! 〜チョコレイトポテトサラダ〜",
+        "name": "セフレと恋人の境界線",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "日语"
     },
     {
@@ -106,25 +110,21 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 299692,
+        "genre_ids": [],
+        "id": 299703,
         "origin_country": [
             "日本"
         ],
         "original_language": "ja",
-        "original_name": "セフレと恋人の境界線",
+        "original_name": "70号室の住人　★70号室の住人 LIVE!!!! 〜チョコレイトポテトサラダ〜",
         "overview": "",
-        "popularity": 0.0714,
+        "popularity": 0.0429,
         "poster_path": null,
         "first_air_date": "2025-09-03",
-        "name": "セフレと恋人の境界線",
+        "name": "70号室の住人　★70号室の住人 LIVE!!!! 〜チョコレイトポテトサラダ〜",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "日语"
     },
     {
