@@ -2537,24 +2537,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1539789,
-        "original_language": "pt",
-        "original_title": "Dobra",
-        "overview": "",
-        "popularity": 0.1112,
-        "poster_path": "/hlIm8IH8s6HuYvxrelu5dD0DBsT.jpg",
-        "release_date": "2025-09-05",
-        "title": "Dobra",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/8d2kHKkqGla9jPp1Py8B2WWrKko.jpg",
         "genre_ids": [
             18
@@ -2573,6 +2555,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1539789,
+        "original_language": "pt",
+        "original_title": "Dobra",
+        "overview": "",
+        "popularity": 0.1112,
+        "poster_path": "/hlIm8IH8s6HuYvxrelu5dD0DBsT.jpg",
+        "release_date": "2025-09-05",
+        "title": "Dobra",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
@@ -2687,6 +2687,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1539917,
+        "original_language": "pt",
+        "original_title": "Platô",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/b29SuXcgC3I8bx3OZm4SCbLUCOu.jpg",
+        "release_date": "2025-09-05",
+        "title": "Platô",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99,
             18,
             53
@@ -2743,28 +2765,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1539917,
-        "original_language": "pt",
-        "original_title": "Platô",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/b29SuXcgC3I8bx3OZm4SCbLUCOu.jpg",
-        "release_date": "2025-09-05",
-        "title": "Platô",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "葡萄牙语"
     },
     {
