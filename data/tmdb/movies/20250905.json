@@ -49,30 +49,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749,
-            18
-        ],
-        "id": 1329673,
-        "original_language": "zh",
-        "original_title": "日掛中天",
-        "overview": "昔日的恋人，数年后相逢。疏离又羁绊的日常，揭开唏嘘的过往。爱与牺牲，忏悔和偿还。沉重的包袱，背负的不只是她还有他。终于再一次诀别，痛彻心扉却又幡然梦醒，迷途的两人终于相拥而泣。",
-        "popularity": 0.6769,
-        "poster_path": "/2jOa1BbHNBYykiOIfddXmA2vtsu.jpg",
-        "release_date": "2025-09-05",
-        "title": "日掛中天",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/p3S21x1F1tfKm41rQwfsrN9BDoK.jpg",
         "genre_ids": [
             18,
@@ -94,6 +70,30 @@
             "剧情",
             "喜剧",
             "爱情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1329673,
+        "original_language": "zh",
+        "original_title": "日掛中天",
+        "overview": "昔日的恋人，数年后相逢。疏离又羁绊的日常，揭开唏嘘的过往。爱与牺牲，忏悔和偿还。沉重的包袱，背负的不只是她还有他。终于再一次诀别，痛彻心扉却又幡然梦醒，迷途的两人终于相拥而泣。",
+        "popularity": 0.6769,
+        "poster_path": "/2jOa1BbHNBYykiOIfddXmA2vtsu.jpg",
+        "release_date": "2025-09-05",
+        "title": "日掛中天",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -1835,7 +1835,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/x6pzSFrH3EKHrh671PgX2TOunsa.jpg",
+        "backdrop_path": "/r9WYk1lo2iU8vt4gIa8FFunHVxg.jpg",
         "genre_ids": [
             18,
             10402
@@ -1845,7 +1845,7 @@
         "original_title": "Romería",
         "overview": "18岁孤女Marina自幼失怙，为完成奖学金申请必须远赴西班牙大西洋海岸，向素未谋面的祖父母索要签名。面对一大家子陌生亲戚，她游移在接纳与抵触的微妙氛围中。这场寻亲之旅不仅唤醒了尘封的家族温情，更揭开与往事相连的隐痛伤痕，Marina由此渐渐拼凑出记忆中早已模糊的父母形象——那些零散而矛盾的记忆碎片。",
         "popularity": 1.7814,
-        "poster_path": "/pQd4HoRdoE6kqZov3vQXdzCn3XW.jpg",
+        "poster_path": "/rkCHBDGgc6UW9ETyTWZ0RiEiten.jpg",
         "release_date": "2025-09-05",
         "title": "朝圣",
         "video": false,
@@ -1899,28 +1899,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xCw1JT94XbfdG8ihAga1gMK4WMb.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1040142,
-        "original_language": "es",
-        "original_title": "Las huellas que vamos dejando",
-        "overview": "",
-        "popularity": 0.1061,
-        "poster_path": "/8gdcPy1iDFDrayjqD52cu50lJOl.jpg",
-        "release_date": "2025-09-05",
-        "title": "Las huellas que vamos dejando",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/8L92AsZiXRwJSEuBqKha2cHoCuV.jpg",
         "genre_ids": [
             27,
@@ -1963,6 +1941,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xCw1JT94XbfdG8ihAga1gMK4WMb.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1040142,
+        "original_language": "es",
+        "original_title": "Las huellas que vamos dejando",
+        "overview": "",
+        "popularity": 0.1061,
+        "poster_path": "/8gdcPy1iDFDrayjqD52cu50lJOl.jpg",
+        "release_date": "2025-09-05",
+        "title": "Las huellas que vamos dejando",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "纪录"
         ],
         "original_language_zh": "西班牙语"
@@ -2017,6 +2017,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4PQsrbgSkdAeA9cGpgm6jVMegSp.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1540552,
+        "original_language": "es",
+        "original_title": "Monstruo",
+        "overview": "",
+        "popularity": 0.0732,
+        "poster_path": "/3KUn8XHAT7gjzYWPI1MDgerqcPD.jpg",
+        "release_date": "2025-09-05",
+        "title": "Monstruo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cvSonloI3jUDyYIboj06WOtU5VU.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1540082,
+        "original_language": "es",
+        "original_title": "Ausencias",
+        "overview": "",
+        "popularity": 0.0664,
+        "poster_path": "/gU3UGu2rkKUn2xSywBMlqFCij4C.jpg",
+        "release_date": "2025-09-05",
+        "title": "Ausencias",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/2wlCFh29rn2lObdryLZzSRxHtMT.jpg",
         "genre_ids": [
             18
@@ -2034,6 +2080,100 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jTe2IzRhfcIdI4sYl6QaeDzKvSD.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1540514,
+        "original_language": "es",
+        "original_title": "La cura para el pensamiento racional por medio de un viaje espiritual",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/8S9hexDxOy57jVJYZ449dJBOUEE.jpg",
+        "release_date": "2025-09-05",
+        "title": "La cura para el pensamiento racional por medio de un viaje espiritual",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2XhEowbJvNjmq2o6nH7bGSfBUZx.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1540094,
+        "original_language": "es",
+        "original_title": "Bolero",
+        "overview": "",
+        "popularity": 0.0336,
+        "poster_path": "/igNjYdBxC0UYeZEqVg0lQtk9ctJ.jpg",
+        "release_date": "2025-09-05",
+        "title": "Bolero",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/30BIYfINYs6vwJPrqQpIY4ypR17.jpg",
+        "genre_ids": [
+            18,
+            36,
+            10749,
+            53
+        ],
+        "id": 1539940,
+        "original_language": "es",
+        "original_title": "Un día soleado",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/3NAj1RR633IFVxPvjqluwPmkuPK.jpg",
+        "release_date": "2025-09-05",
+        "title": "Un día soleado",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史",
+            "爱情",
+            "惊悚"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/maBlVWpzAiWGwG9XufPNhrUalWi.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1539535,
+        "original_language": "es",
+        "original_title": "Sinister Ostinato",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/4V2gn2qKI7RoFUVMHNWm1plECOy.jpg",
+        "release_date": "2025-09-05",
+        "title": "Sinister Ostinato",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2089,28 +2229,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2XhEowbJvNjmq2o6nH7bGSfBUZx.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1540094,
-        "original_language": "es",
-        "original_title": "Bolero",
-        "overview": "",
-        "popularity": 0.0336,
-        "poster_path": "/igNjYdBxC0UYeZEqVg0lQtk9ctJ.jpg",
-        "release_date": "2025-09-05",
-        "title": "Bolero",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qqHNFbq4njCUDYrboHwHAwTNOR5.jpg",
         "genre_ids": [
             18,
@@ -2135,23 +2253,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/maBlVWpzAiWGwG9XufPNhrUalWi.jpg",
+        "backdrop_path": "/yK6ePRMKkjhZ6yK4ecVP6CsML5A.jpg",
         "genre_ids": [
+            14,
             27
         ],
-        "id": 1539535,
+        "id": 1540661,
         "original_language": "es",
-        "original_title": "Sinister Ostinato",
+        "original_title": "Tattoo",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/4V2gn2qKI7RoFUVMHNWm1plECOy.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/vPP0wDuIkTRNi5Hr03yzks2j5d4.jpg",
         "release_date": "2025-09-05",
-        "title": "Sinister Ostinato",
+        "title": "Tattoo",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "奇幻",
             "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p9DVfpsQz0P0L5e1Xs67EZ0QINH.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1540656,
+        "original_language": "es",
+        "original_title": "No me dejes",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/oeRRTskMA2WMc7gHLWhWJvWKNWI.jpg",
+        "release_date": "2025-09-05",
+        "title": "No me dejes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2176,28 +2318,6 @@
         "genre_ids_zh": [
             "剧情",
             "奇幻"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cvSonloI3jUDyYIboj06WOtU5VU.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1540082,
-        "original_language": "es",
-        "original_title": "Ausencias",
-        "overview": "",
-        "popularity": 0.0664,
-        "poster_path": "/gU3UGu2rkKUn2xSywBMlqFCij4C.jpg",
-        "release_date": "2025-09-05",
-        "title": "Ausencias",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2247,6 +2367,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eemiWMc9kCgxqlABbm3w87c5N9B.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1540598,
+        "original_language": "es",
+        "original_title": "La loma",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/deAejRmJobeagTCCv9n0D8mVdKz.jpg",
+        "release_date": "2025-09-05",
+        "title": "La loma",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/iKw7izVdYU93IpPHOwZagYipd2R.jpg",
         "genre_ids": [],
         "id": 1540525,
@@ -2261,74 +2403,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4PQsrbgSkdAeA9cGpgm6jVMegSp.jpg",
-        "genre_ids": [
-            27,
-            18
-        ],
-        "id": 1540552,
-        "original_language": "es",
-        "original_title": "Monstruo",
-        "overview": "",
-        "popularity": 0.0732,
-        "poster_path": "/3KUn8XHAT7gjzYWPI1MDgerqcPD.jpg",
-        "release_date": "2025-09-05",
-        "title": "Monstruo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/jTe2IzRhfcIdI4sYl6QaeDzKvSD.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1540514,
-        "original_language": "es",
-        "original_title": "La cura para el pensamiento racional por medio de un viaje espiritual",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/8S9hexDxOy57jVJYZ449dJBOUEE.jpg",
-        "release_date": "2025-09-05",
-        "title": "La cura para el pensamiento racional por medio de un viaje espiritual",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xRRKv93wWxkP7OlGxdyMutycwCf.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1540502,
-        "original_language": "es",
-        "original_title": "Para Ana",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/mv4VkgOEbToaAYSrL9CZQOYS4oG.jpg",
-        "release_date": "2025-09-05",
-        "title": "Para Ana",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -2395,97 +2469,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/yK6ePRMKkjhZ6yK4ecVP6CsML5A.jpg",
-        "genre_ids": [
-            14,
-            27
-        ],
-        "id": 1540661,
-        "original_language": "es",
-        "original_title": "Tattoo",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/vPP0wDuIkTRNi5Hr03yzks2j5d4.jpg",
-        "release_date": "2025-09-05",
-        "title": "Tattoo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/p9DVfpsQz0P0L5e1Xs67EZ0QINH.jpg",
+        "backdrop_path": "/xRRKv93wWxkP7OlGxdyMutycwCf.jpg",
         "genre_ids": [
             18
         ],
-        "id": 1540656,
+        "id": 1540502,
         "original_language": "es",
-        "original_title": "No me dejes",
+        "original_title": "Para Ana",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/oeRRTskMA2WMc7gHLWhWJvWKNWI.jpg",
+        "popularity": 0.0071,
+        "poster_path": "/mv4VkgOEbToaAYSrL9CZQOYS4oG.jpg",
         "release_date": "2025-09-05",
-        "title": "No me dejes",
+        "title": "Para Ana",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eemiWMc9kCgxqlABbm3w87c5N9B.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1540598,
-        "original_language": "es",
-        "original_title": "La loma",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/deAejRmJobeagTCCv9n0D8mVdKz.jpg",
-        "release_date": "2025-09-05",
-        "title": "La loma",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/30BIYfINYs6vwJPrqQpIY4ypR17.jpg",
-        "genre_ids": [
-            18,
-            36,
-            10749,
-            53
-        ],
-        "id": 1539940,
-        "original_language": "es",
-        "original_title": "Un día soleado",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/3NAj1RR633IFVxPvjqluwPmkuPK.jpg",
-        "release_date": "2025-09-05",
-        "title": "Un día soleado",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "历史",
-            "爱情",
-            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
