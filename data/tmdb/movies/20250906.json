@@ -25,6 +25,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1542299,
+        "original_language": "zh",
+        "original_title": "特殊安保",
+        "overview": "讲述了一个从事保镖行业的行风。在公司即将失业时突然接到了老朋友的一个订单，自标是去找他曾经的老板陈卓。背叛的内鬼，受伤的总裁，随时可能出现的犯罪团伙以及时刻盯看他们的警方，全都随着行风踏入滨海而粉墨登场，一场厮杀与博弈在所难免。",
+        "popularity": 0.0,
+        "poster_path": "/fTN2IMXVnxfGoxoB8DYFwswW7eY.jpg",
+        "release_date": "2025-09-06",
+        "title": "特殊安保",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "犯罪"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             14,
             53
         ],
@@ -1533,7 +1557,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/k8HhWuLnyje8TBLavMK7LE7C0mD.jpg",
         "genre_ids": [
             35
         ],
@@ -1542,12 +1566,12 @@
         "original_title": "Todo Mundo Odeia a Comunicação",
         "overview": "",
         "popularity": 0.0256,
-        "poster_path": "/b66mdGNsFFqXsJz0c5FEmMoNjHF.jpg",
+        "poster_path": "/93CAEhGvOuyvTB0OjYMM4v8hA6T.jpg",
         "release_date": "2025-09-06",
         "title": "Todo Mundo Odeia a Comunicação",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧"
         ],
