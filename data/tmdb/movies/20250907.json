@@ -739,28 +739,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            16
-        ],
-        "id": 1378140,
-        "original_language": "fr",
-        "original_title": "Gugusse",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/2qHZZ2bqSFWVf2c0FK6UdlDx4Yk.jpg",
-        "release_date": "2025-09-07",
-        "title": "Gugusse",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1541916,
@@ -776,6 +754,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1378140,
+        "original_language": "fr",
+        "original_title": "Gugusse",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/2qHZZ2bqSFWVf2c0FK6UdlDx4Yk.jpg",
+        "release_date": "2025-09-07",
+        "title": "Gugusse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "法语"
     },
@@ -887,24 +887,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1358677,
-        "original_language": "pt",
-        "original_title": "Até Amanhã",
-        "overview": "",
-        "popularity": 0.0683,
-        "poster_path": "/e49rqYzNy2EkUIq0rswvWRUq9xV.jpg",
-        "release_date": "2025-09-07",
-        "title": "Até Amanhã",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/q4kfaEX1VaOKjaiYhKBunXHZ9on.jpg",
         "genre_ids": [
             27,
@@ -925,6 +907,24 @@
             "恐怖",
             "喜剧"
         ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1358677,
+        "original_language": "pt",
+        "original_title": "Até Amanhã",
+        "overview": "",
+        "popularity": 0.0683,
+        "poster_path": "/e49rqYzNy2EkUIq0rswvWRUq9xV.jpg",
+        "release_date": "2025-09-07",
+        "title": "Até Amanhã",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
