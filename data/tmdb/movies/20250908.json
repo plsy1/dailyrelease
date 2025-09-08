@@ -73,18 +73,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vSMNXxV60q9rTUyjEJo0lIJdQfX.jpg",
         "genre_ids": [
             27
         ],
         "id": 1364953,
         "original_language": "en",
-        "original_title": "Marama",
+        "original_title": "Mārama",
         "overview": "",
         "popularity": 0.7562,
         "poster_path": "/vQR8BKSHzykKqMr9j0grlk8Hleu.jpg",
         "release_date": "2025-09-08",
-        "title": "Marama",
+        "title": "Mārama",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -343,6 +343,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dXV5Iu2LOxxTO1711eSbmWYOMBx.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1543257,
+        "original_language": "en",
+        "original_title": "Transmission",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vfV15rgc9N28QafopSnJm4OlSpN.jpg",
+        "release_date": "2025-09-08",
+        "title": "Transmission",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
         "original_language_zh": "英语"
     },
     {
