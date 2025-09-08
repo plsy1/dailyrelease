@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/8TUC452ASwyxfyF60WUNVQq1K9A.jpg",
         "genre_ids": [
             18
         ],
@@ -12,7 +12,7 @@
         "original_language": "zh",
         "original_name": "对不起，我磕到你了",
         "overview": "本剧讲述信奉实力至上的普通职场人在看脸的世界一路成长的故事。主人公易枫相貌平庸不修边幅，甚至有些邋遢，因为家庭的原因她从不在意外在的一切，只相信靠自己埋头苦干就能取得成功，而对于那些外表光鲜靓丽的人，易枫永远都是否定的，却在遭受打击后意外获得了能看到颜值评分的超能力，开始崇尚追求颜值，却不料误入歧途,最后又回归本心。",
-        "popularity": 0.6162,
+        "popularity": 0.5433,
         "poster_path": "/1q74rLBfCmRNnhwmvQMRAyUhgUn.jpg",
         "first_air_date": "2025-09-08",
         "name": "对不起，我磕到你了",
@@ -36,7 +36,7 @@
         "original_language": "zh",
         "original_name": "日日好食光",
         "overview": "",
-        "popularity": 0.4906,
+        "popularity": 0.4168,
         "poster_path": "/feSinCducNj4GmBh3iFso1RyKaF.jpg",
         "first_air_date": "2025-09-08",
         "name": "日日好食光",
@@ -218,6 +218,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 258564,
+        "origin_country": [
+            "法国"
+        ],
+        "original_language": "fr",
+        "original_name": "Deadline",
+        "overview": "",
+        "popularity": 0.6682,
+        "poster_path": "/ypWfb5cnZKkCoe38GxZqeWOU9Zk.jpg",
+        "first_air_date": "2025-09-08",
+        "name": "Deadline",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             80
         ],
@@ -228,7 +252,7 @@
         "original_language": "fr",
         "original_name": "Antigang",
         "overview": "",
-        "popularity": 0.5124,
+        "popularity": 0.5619,
         "poster_path": "/nSjS6oQFkpCPvZPAeZCEqo5Nxv8.jpg",
         "first_air_date": "2025-09-08",
         "name": "Antigang",
@@ -251,7 +275,7 @@
         "original_language": "pt",
         "original_name": "Espias",
         "overview": "",
-        "popularity": 0.1511,
+        "popularity": 0.2894,
         "poster_path": null,
         "first_air_date": "2025-09-08",
         "name": "Espias",
