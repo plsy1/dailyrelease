@@ -173,7 +173,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/mVJlVgq2C1MKQM3gTcFT4tG0UcK.jpg",
         "genre_ids": [
             18
         ],
@@ -383,6 +383,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1535377,
+        "original_language": "en",
+        "original_title": "Jordan Jensen: Take Me With You",
+        "overview": "",
+        "popularity": 0.1741,
+        "poster_path": "/7FxJkIoqrBrqiwPhhGULIzogPeW.jpg",
+        "release_date": "2025-09-09",
+        "title": "Jordan Jensen: Take Me With You",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             27
         ],
@@ -400,28 +422,6 @@
         "genre_ids_zh": [
             "剧情",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1535377,
-        "original_language": "en",
-        "original_title": "Jordan Jensen: Take Me With You",
-        "overview": "",
-        "popularity": 0.1741,
-        "poster_path": "/7FxJkIoqrBrqiwPhhGULIzogPeW.jpg",
-        "release_date": "2025-09-09",
-        "title": "Jordan Jensen: Take Me With You",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -489,6 +489,32 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2eMQg6SfbpjiPEe4nGUxPFTPONO.jpg",
+        "genre_ids": [
+            27,
+            53,
+            35
+        ],
+        "id": 1543742,
+        "original_language": "en",
+        "original_title": "Tetanus",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mwR02Gql2CDSezIeDsNHhjKhDKH.jpg",
+        "release_date": "2025-09-09",
+        "title": "Tetanus",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
