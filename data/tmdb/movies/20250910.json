@@ -515,6 +515,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/c8FWxYtCBnswuN0loviOsE4mQhf.jpg",
+        "genre_ids": [
+            35,
+            18,
+            878
+        ],
+        "id": 1544265,
+        "original_language": "en",
+        "original_title": "September 10th, 1995",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gzOWAkhyL0qfQuVmgYPyy8Vvs19.jpg",
+        "release_date": "2025-09-10",
+        "title": "September 10th, 1995",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fbjnNKfPmD7H6D0OnAiG3zOaZhl.jpg",
         "genre_ids": [
             16
@@ -713,8 +739,8 @@
         "release_date": "2025-09-10",
         "title": "Rosamunde Pilcher: Wer immer du bist",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "爱情",
             "剧情"
@@ -745,28 +771,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qnZWj48CHTzHGJuauw0YDAAUsa3.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1151269,
-        "original_language": "fr",
-        "original_title": "Une place pour Pierrot",
-        "overview": "",
-        "popularity": 1.6085,
-        "poster_path": "/mwi1idRTXlQXhdqJzUQDPNdH20D.jpg",
-        "release_date": "2025-09-10",
-        "title": "Une place pour Pierrot",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/bJgKo2nbJ0JqCppmJRK1HP16twH.jpg",
         "genre_ids": [
             18,
@@ -786,6 +790,28 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qnZWj48CHTzHGJuauw0YDAAUsa3.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1151269,
+        "original_language": "fr",
+        "original_title": "Une place pour Pierrot",
+        "overview": "",
+        "popularity": 1.6085,
+        "poster_path": "/mwi1idRTXlQXhdqJzUQDPNdH20D.jpg",
+        "release_date": "2025-09-10",
+        "title": "Une place pour Pierrot",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
@@ -854,6 +880,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jx7xzPEo9CyXftfv0juNGrm7mqx.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1544384,
+        "original_language": "fr",
+        "original_title": "Hoshi aux Francofolies 2025",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/uYSswviDAj59ovKPk9B1rZDh7Bt.jpg",
+        "release_date": "2025-09-10",
+        "title": "Hoshi aux Francofolies 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
         ],
         "original_language_zh": "法语"
     },
