@@ -73,30 +73,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
-        "genre_ids": [
-            10402,
-            35
-        ],
-        "id": 975225,
-        "original_language": "en",
-        "original_title": "Spinal Tap II: The End Continues",
-        "overview": "在第一部上映40周年之际，这部传奇摇滚伪纪录片的续集让电影公司取得了一连串的成功。",
-        "popularity": 3.5683,
-        "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
-        "release_date": "2025-09-12",
-        "title": "摇滚万万岁2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/rD3aUlIx4lH4ZmOzYicLWtNVVaY.jpg",
         "genre_ids": [],
         "id": 1187431,
@@ -111,6 +87,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zEuXnDVLny3CHdoSk3WpvCsRyZD.jpg",
+        "genre_ids": [
+            10402,
+            35
+        ],
+        "id": 975225,
+        "original_language": "en",
+        "original_title": "Spinal Tap II: The End Continues",
+        "overview": "在第一部上映40周年之际，这部传奇摇滚伪纪录片的续集让电影公司取得了一连串的成功。",
+        "popularity": 3.5683,
+        "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+        "release_date": "2025-09-12",
+        "title": "摇滚万万岁2",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "音乐",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1590,7 +1590,7 @@
         "original_title": "An einem Tag im September",
         "overview": "",
         "popularity": 1.3462,
-        "poster_path": "/nW113cXbJ5AS6ectqBL5UkO7NxZ.jpg",
+        "poster_path": "/jgosmTHqfcm6g4QAcP2eQsWNr03.jpg",
         "release_date": "2025-09-12",
         "title": "An einem Tag im September",
         "video": false,
