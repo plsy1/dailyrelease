@@ -210,7 +210,7 @@
         "original_title": "No hay paraíso",
         "overview": "",
         "popularity": 0.8016,
-        "poster_path": null,
+        "poster_path": "/16I54IpBIzqarCfyi9TaTprUoZs.jpg",
         "release_date": "2025-09-16",
         "title": "No hay paraíso",
         "video": false,
@@ -233,7 +233,7 @@
         "original_title": "¡Hasta enterrarlos!",
         "overview": "",
         "popularity": 0.4306,
-        "poster_path": null,
+        "poster_path": "/1Kul73NwfXgxhHl2rOeuoCj8HFh.jpg",
         "release_date": "2025-09-16",
         "title": "¡Hasta enterrarlos!",
         "video": false,
@@ -242,50 +242,6 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1530349,
-        "original_language": "es",
-        "original_title": "Fragmentos",
-        "overview": "",
-        "popularity": 0.4974,
-        "poster_path": null,
-        "release_date": "2025-09-16",
-        "title": "Fragmentos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/57KKra4LnbtqBAJKdouw2hRzHjy.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1543237,
-        "original_language": "es",
-        "original_title": "El monstruo",
-        "overview": "",
-        "popularity": 0.2773,
-        "poster_path": "/gUitOoVpHIBymj2XTZDUdKeaPBe.jpg",
-        "release_date": "2025-09-16",
-        "title": "El monstruo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -313,23 +269,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/57KKra4LnbtqBAJKdouw2hRzHjy.jpg",
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1543219,
+        "id": 1543237,
         "original_language": "es",
-        "original_title": "Estar aquí cuando puedo",
+        "original_title": "El monstruo",
         "overview": "",
-        "popularity": 0.1658,
-        "poster_path": null,
+        "popularity": 0.2773,
+        "poster_path": "/gUitOoVpHIBymj2XTZDUdKeaPBe.jpg",
         "release_date": "2025-09-16",
-        "title": "Estar aquí cuando puedo",
+        "title": "El monstruo",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -342,13 +298,35 @@
         "original_title": "Tendrá tus ojos",
         "overview": "",
         "popularity": 0.2513,
-        "poster_path": null,
+        "poster_path": "/yZXh6fkrtqvAlPCInTn1svPDHKV.jpg",
         "release_date": "2025-09-16",
         "title": "Tendrá tus ojos",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iJfNi6A86D0uXSKLqzeX9e9gt1A.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1543219,
+        "original_language": "es",
+        "original_title": "Estar aquí cuando puedo",
+        "overview": "",
+        "popularity": 0.1658,
+        "poster_path": "/igSqt2qLii6cr2pXn8evUEgG5AW.jpg",
+        "release_date": "2025-09-16",
+        "title": "Estar aquí cuando puedo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -375,7 +353,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vkKnbT1Qgp9F7wtwg2a5a4jjnwy.jpg",
         "genre_ids": [
             18,
             14
@@ -409,7 +387,7 @@
         "original_title": "No son sus ojos",
         "overview": "",
         "popularity": 0.1058,
-        "poster_path": null,
+        "poster_path": "/krzc3WUT2jRBpbryCCdC3PIpk34.jpg",
         "release_date": "2025-09-16",
         "title": "No son sus ojos",
         "video": false,
