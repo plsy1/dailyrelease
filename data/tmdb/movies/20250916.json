@@ -25,7 +25,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/nXgVaR0R3mdGA0JYLOTaAIzm5t.jpg",
         "genre_ids": [
             10770,
             18,
@@ -73,6 +73,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1535385,
+        "original_language": "en",
+        "original_title": "Rebel Royals: An Unlikely Love Story",
+        "overview": "这部独家纪录片聚焦玛塔·路易丝和萨满杜雷克·韦瑞特在挪威举办的婚礼，带我们一睹这场备受争议的典礼前夕发生的幕后故事。",
+        "popularity": 0.5978,
+        "poster_path": "/7vIkk6WNThpI89dyJMZ8IFrIz7n.jpg",
+        "release_date": "2025-09-16",
+        "title": "非常王室：另类爱情故事",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27
         ],
         "id": 1514584,
@@ -88,28 +110,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1535385,
-        "original_language": "en",
-        "original_title": "Rebel Royals: An Unlikely Love Story",
-        "overview": "",
-        "popularity": 0.5978,
-        "poster_path": null,
-        "release_date": "2025-09-16",
-        "title": "Rebel Royals: An Unlikely Love Story",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -155,7 +155,33 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9iy9FzHePUrXb1OPqIt1PO82pu6.jpg",
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 1547331,
+        "original_language": "en",
+        "original_title": "Guilty Conscience",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-09-16",
+        "title": "Guilty Conscience",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c6WWmI2tWXlRFCg6ltadLthp39D.jpg",
         "genre_ids": [
             99
         ],
@@ -164,12 +190,12 @@
         "original_title": "Boire",
         "overview": "",
         "popularity": 0.0916,
-        "poster_path": "/nYUpuhgYnIQMuHgbMNiSXSDj1so.jpg",
+        "poster_path": "/5gMO2Ij6CN2n0qObKYbM68r3a49.jpg",
         "release_date": "2025-09-16",
         "title": "Boire",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
