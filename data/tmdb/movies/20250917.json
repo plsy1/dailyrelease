@@ -195,6 +195,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/pz8HIiuF6aANGrIRveYtGCKg7G2.jpg",
+        "genre_ids": [
+            27,
+            14,
+            18
+        ],
+        "id": 1547144,
+        "original_language": "en",
+        "original_title": "Interstices",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1dRS4hkYnASPHdr2glexKt1YPFa.jpg",
+        "release_date": "2025-09-17",
+        "title": "Interstices",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "奇幻",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -238,6 +264,28 @@
             "喜剧"
         ],
         "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s4jZuMSlFekkW5pjt7lnBXMStOZ.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1536720,
+        "original_language": "ja",
+        "original_title": "禍禍女",
+        "overview": "",
+        "popularity": 0.237,
+        "poster_path": "/3TCTYOB1MeEKo8qnaDOiGwd9y31.jpg",
+        "release_date": "2025-09-17",
+        "title": "禍禍女",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "日语"
     },
     {
         "adult": false,
