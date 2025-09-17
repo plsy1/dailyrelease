@@ -367,6 +367,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            53
+        ],
+        "id": 1535967,
+        "original_language": "ko",
+        "original_title": "서부리 사나이",
+        "overview": "",
+        "popularity": 1.3076,
+        "poster_path": "/y3CTSqgSA3UtrjOmPXUY4sb11XO.jpg",
+        "release_date": "2025-09-17",
+        "title": "서부리 사나이",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/tFNvJ5Iy72zcGlw7r6pdUsNfUGu.jpg",
         "genre_ids": [
             16,
@@ -490,11 +514,11 @@
         "original_title": "Nino",
         "overview": "",
         "popularity": 2.245,
-        "poster_path": "/sLcb7iPIByXyBav3cPfKlfAOy8c.jpg",
+        "poster_path": "/7RaBzFvNuzeYPaBwblu3sV4TVol.jpg",
         "release_date": "2025-09-17",
         "title": "Nino",
         "video": false,
-        "vote_average": 7.333,
+        "vote_average": 7.3,
         "vote_count": 3,
         "genre_ids_zh": [
             "剧情"
@@ -586,8 +610,8 @@
         "release_date": "2025-09-17",
         "title": "Les tourmentés",
         "video": false,
-        "vote_average": 6.0,
-        "vote_count": 1,
+        "vote_average": 5.0,
+        "vote_count": 2,
         "genre_ids_zh": [
             "剧情"
         ],
@@ -775,6 +799,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/tFguTiint7p5nQJ9rgKSmvzUiaE.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1547608,
+        "original_language": "es",
+        "original_title": "Bella Vista: Memoria y sanación",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/q20CrPjBBzkYz6woJlfKvB7ggA1.jpg",
+        "release_date": "2025-09-17",
+        "title": "Bella Vista: Memoria y sanación",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -792,6 +838,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jInx17dmK8yHmhWRWclgZCghbOD.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1448285,
+        "original_language": "pt",
+        "original_title": "Laços Que o Tempo Não Rompe",
+        "overview": "",
+        "popularity": 0.1013,
+        "poster_path": "/16Wn3ht751bYgNyqb0p2uGdjerd.jpg",
+        "release_date": "2025-09-17",
+        "title": "Laços Que o Tempo Não Rompe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
