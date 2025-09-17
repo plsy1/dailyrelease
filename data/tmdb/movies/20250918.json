@@ -83,8 +83,8 @@
         "release_date": "2025-09-18",
         "title": "他",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 5.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "恐怖",
             "悬疑"
@@ -191,28 +191,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mXeINZrLRKbIw51spnruegjmLBS.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1499885,
-        "original_language": "en",
-        "original_title": "The Red Book Ritual: Gates of Hell",
-        "overview": "故事围绕着一群人聚集在一座庄严的豪宅里，在过去的大屠杀现场，进行“红书”的仪式。在灵魂的帮助下，他们试图与已故的亲人重新建立联系。",
-        "popularity": 1.8884,
-        "poster_path": "/yYSmZwAx8IEesrghgXPcuYcBLdo.jpg",
-        "release_date": "2025-09-18",
-        "title": "红书召魔2：地狱之门",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -234,6 +212,28 @@
             "喜剧",
             "动作",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXeINZrLRKbIw51spnruegjmLBS.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1499885,
+        "original_language": "en",
+        "original_title": "The Red Book Ritual: Gates of Hell",
+        "overview": "故事围绕着一群人聚集在一座庄严的豪宅里，在过去的大屠杀现场，进行“红书”的仪式。在灵魂的帮助下，他们试图与已故的亲人重新建立联系。",
+        "popularity": 1.8884,
+        "poster_path": "/yYSmZwAx8IEesrghgXPcuYcBLdo.jpg",
+        "release_date": "2025-09-18",
+        "title": "红书召魔2：地狱之门",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -285,30 +285,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            27
-        ],
-        "id": 1530141,
-        "original_language": "en",
-        "original_title": "Silver Screamers",
-        "overview": "",
-        "popularity": 1.1646,
-        "poster_path": "/gpO2CreautYl0dr1buB4IH3m2b7.jpg",
-        "release_date": "2025-09-18",
-        "title": "Silver Screamers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/AkN6GpoDARzh8tRpjwLrhGlMHWO.jpg",
         "genre_ids": [
             53,
@@ -332,6 +308,30 @@
             "喜剧",
             "悬疑",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            27
+        ],
+        "id": 1530141,
+        "original_language": "en",
+        "original_title": "Silver Screamers",
+        "overview": "",
+        "popularity": 1.1646,
+        "poster_path": "/gpO2CreautYl0dr1buB4IH3m2b7.jpg",
+        "release_date": "2025-09-18",
+        "title": "Silver Screamers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -363,6 +363,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/lBB28kug03O21i0sx3hyVNmvZJh.jpg",
+        "genre_ids": [],
+        "id": 1498713,
+        "original_language": "en",
+        "original_title": "Embers of Queer Joy",
+        "overview": "",
+        "popularity": 0.9145,
+        "poster_path": "/rtarGmyd4wiUzk0jQbk0bGSSzpo.jpg",
+        "release_date": "2025-09-18",
+        "title": "Embers of Queer Joy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
         "genre_ids": [
             16
@@ -381,24 +399,6 @@
         "genre_ids_zh": [
             "动画"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lBB28kug03O21i0sx3hyVNmvZJh.jpg",
-        "genre_ids": [],
-        "id": 1498713,
-        "original_language": "en",
-        "original_title": "Embers of Queer Joy",
-        "overview": "",
-        "popularity": 0.9145,
-        "poster_path": "/rtarGmyd4wiUzk0jQbk0bGSSzpo.jpg",
-        "release_date": "2025-09-18",
-        "title": "Embers of Queer Joy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -440,7 +440,7 @@
         "original_title": "The Ba***ds of Bollywood",
         "overview": "",
         "popularity": 0.5605,
-        "poster_path": "/33oEIIPfN90oN1PUHGLovyPg6lC.jpg",
+        "poster_path": "/3wUtQl9hEFKHN3nNvKmNhXmHFmw.jpg",
         "release_date": "2025-09-18",
         "title": "The Ba***ds of Bollywood",
         "video": false,
@@ -495,48 +495,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1536793,
-        "original_language": "en",
-        "original_title": "Tripolar The Movie",
-        "overview": "",
-        "popularity": 0.3613,
-        "poster_path": "/cYQ6dYztyjIIRJ8G3XYJPvQOn55.jpg",
-        "release_date": "2025-09-18",
-        "title": "Tripolar The Movie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1537344,
-        "original_language": "en",
-        "original_title": "Projection",
-        "overview": "",
-        "popularity": 0.3123,
-        "poster_path": "/tIO623xidl0INcbVvhsNqehqyC6.jpg",
-        "release_date": "2025-09-18",
-        "title": "Projection",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/aeJmhnrOP1cW18saV9wthW35ZaV.jpg",
         "genre_ids": [
             27,
@@ -559,6 +517,24 @@
             "悬疑",
             "惊悚"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1536793,
+        "original_language": "en",
+        "original_title": "Tripolar The Movie",
+        "overview": "",
+        "popularity": 0.3613,
+        "poster_path": "/cYQ6dYztyjIIRJ8G3XYJPvQOn55.jpg",
+        "release_date": "2025-09-18",
+        "title": "Tripolar The Movie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1001,24 +977,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1541603,
-        "original_language": "en",
-        "original_title": "Quelques morceaux de nous",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/o746rc28zokMjtYFaYNPFBzwUcD.jpg",
-        "release_date": "2025-09-18",
-        "title": "Quelques morceaux de nous",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/oFnYdpgrGTyU2mKSZxTWw7PsbrT.jpg",
         "genre_ids": [
             18,
@@ -1061,7 +1019,31 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fzonpJg7miSZq4q70bpD1bv1qNj.jpg",
+        "backdrop_path": "/sE2JApLT1PyWhRQKb6ekeoCfROa.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1547762,
+        "original_language": "en",
+        "original_title": "Vlog#13",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/pVoONy9uHGn0iYYBGn9VMKkQgk4.jpg",
+        "release_date": "2025-09-18",
+        "title": "Vlog#13",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fMQ2E7EIRUgUGYMM2jimxcgnU5V.jpg",
         "genre_ids": [
             878,
             28,
@@ -1087,18 +1069,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/giS515lAcBoDFFqiyBOlwvH7Xqy.jpg",
+        "backdrop_path": "/dYcuMLnrI8z1oOG3q0KyQf35N10.jpg",
         "genre_ids": [
             99
         ],
         "id": 1535977,
         "original_language": "ko",
         "original_title": "미스터김, 영화관에 가다",
-        "overview": "",
+        "overview": "釜山国际电影节创始人金东虎带着摄影机去往世界各地探访电影人，共话电影黄金时代。",
         "popularity": 2.5153,
         "poster_path": "/jkMyEWzkrPe7LKx690Sp5bYUI8j.jpg",
         "release_date": "2025-09-18",
-        "title": "미스터김, 영화관에 가다",
+        "title": "金先生去电影院",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1157,28 +1139,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1310677,
-        "original_language": "ko",
-        "original_title": "하나코리아",
-        "overview": "",
-        "popularity": 0.3661,
-        "poster_path": "/x8SqdugsCnVKQuKDJ7Ho0VuTGYt.jpg",
-        "release_date": "2025-09-18",
-        "title": "하나코리아",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/btcabMfY3Y64op4ZFtDnWDT8SrZ.jpg",
         "genre_ids": [
             35
@@ -1196,6 +1156,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1310677,
+        "original_language": "ko",
+        "original_title": "하나코리아",
+        "overview": "",
+        "popularity": 0.3661,
+        "poster_path": "/x8SqdugsCnVKQuKDJ7Ho0VuTGYt.jpg",
+        "release_date": "2025-09-18",
+        "title": "하나코리아",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "韩语"
     },
@@ -1468,7 +1450,7 @@
         "id": 987400,
         "original_language": "es",
         "original_title": "Batman Azteca: Choque de imperios",
-        "overview": "",
+        "overview": "这部影片大胆重塑了蝙蝠侠的传奇故事，背景设定在阿兹特克帝国。一位年轻的阿兹特克男孩在父亲被西班牙征服者杀害后逃往特诺奇蒂特兰。他在蝙蝠神 Tzinacan 的神庙中训练，并研制武器为父复仇。一路上，他遇到了一些为人熟知的人物，比如美洲豹女侠和征服者埃尔南·科尔特斯。",
         "popularity": 3.5106,
         "poster_path": "/wpMaI2J3ISYZiaIWNkoA1lVb5LQ.jpg",
         "release_date": "2025-09-18",
@@ -1601,28 +1583,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749
-        ],
-        "id": 1533261,
-        "original_language": "es",
-        "original_title": "Nanito",
-        "overview": "",
-        "popularity": 0.062,
-        "poster_path": "/jgT4lYXTlKZKZ0hDeCbyNRUlKfh.jpg",
-        "release_date": "2025-09-18",
-        "title": "Nanito",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/zeX2r6GXb4r2JNMScBEqDmGcarm.jpg",
         "genre_ids": [
             80,
@@ -1649,21 +1609,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            10749
         ],
-        "id": 1545871,
+        "id": 1533261,
         "original_language": "es",
-        "original_title": "La reconstrucción",
+        "original_title": "Nanito",
         "overview": "",
-        "popularity": 0.0239,
-        "poster_path": "/oh6BcY8k4oczSLtQvFtT5yvfYZh.jpg",
+        "popularity": 0.062,
+        "poster_path": "/jgT4lYXTlKZKZ0hDeCbyNRUlKfh.jpg",
         "release_date": "2025-09-18",
-        "title": "La reconstrucción",
+        "title": "Nanito",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "爱情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1681,6 +1641,28 @@
         "poster_path": null,
         "release_date": "2025-09-18",
         "title": "Habana industrial",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1545871,
+        "original_language": "es",
+        "original_title": "La reconstrucción",
+        "overview": "",
+        "popularity": 0.0239,
+        "poster_path": "/oh6BcY8k4oczSLtQvFtT5yvfYZh.jpg",
+        "release_date": "2025-09-18",
+        "title": "La reconstrucción",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2083,24 +2065,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7pgZoNug7TDYpsbNifSFu8jgNdU.jpg",
-        "genre_ids": [],
-        "id": 1546730,
-        "original_language": "it",
-        "original_title": "Elodie - The Stadium Show",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/uP2QA2MR0pFrUqJS7JqLZ0BZfFi.jpg",
-        "release_date": "2025-09-18",
-        "title": "Elodie - The Stadium Show",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/At2zOHhklMooPIjsgP5TU8sSShf.jpg",
         "genre_ids": [
             99
@@ -2119,6 +2083,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7pgZoNug7TDYpsbNifSFu8jgNdU.jpg",
+        "genre_ids": [],
+        "id": 1546730,
+        "original_language": "it",
+        "original_title": "Elodie - The Stadium Show",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/uP2QA2MR0pFrUqJS7JqLZ0BZfFi.jpg",
+        "release_date": "2025-09-18",
+        "title": "Elodie - The Stadium Show",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     },
     {
