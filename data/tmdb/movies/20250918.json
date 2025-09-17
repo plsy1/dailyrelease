@@ -1201,6 +1201,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eZzjUUaYQcO7KNG6Ll6LIYzgh6.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1536755,
+        "original_language": "th",
+        "original_title": "เรื่องในข้อแม้ของเวลา",
+        "overview": "",
+        "popularity": 1.885,
+        "poster_path": "/wtZ7LvWfn2eaL67mnXQukXWFlPu.jpg",
+        "release_date": "2025-09-18",
+        "title": "เรื่องในข้อแม้ของเวลา",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/okktmtCWTqEAS2EaLYOvWl88A5Y.jpg",
         "genre_ids": [
             10749,
@@ -1222,30 +1246,6 @@
             "爱情",
             "喜剧",
             "奇幻"
-        ],
-        "original_language_zh": "泰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eZzjUUaYQcO7KNG6Ll6LIYzgh6.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1536755,
-        "original_language": "th",
-        "original_title": "เรื่องในข้อแม้ของเวลา",
-        "overview": "",
-        "popularity": 1.885,
-        "poster_path": "/wtZ7LvWfn2eaL67mnXQukXWFlPu.jpg",
-        "release_date": "2025-09-18",
-        "title": "เรื่องในข้อแม้ของเวลา",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
         ],
         "original_language_zh": "泰语"
     },
@@ -1472,7 +1472,7 @@
         "popularity": 3.5106,
         "poster_path": "/wpMaI2J3ISYZiaIWNkoA1lVb5LQ.jpg",
         "release_date": "2025-09-18",
-        "title": "Batman Azteca: Choque de imperios",
+        "title": "阿兹特克蝙蝠侠：帝国冲突",
         "video": false,
         "vote_average": 10.0,
         "vote_count": 1,
@@ -1546,8 +1546,8 @@
         "release_date": "2025-09-18",
         "title": "Papá x dos",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 4.8,
+        "vote_count": 5,
         "genre_ids_zh": [
             "家庭",
             "喜剧",
