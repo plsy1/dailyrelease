@@ -53,8 +53,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/h8ZTvwi2li1YyFZiNAsvVDYwshF.jpg",
+        "genre_ids": [
+            16
+        ],
         "id": 300600,
         "origin_country": [
             "中国"
@@ -68,7 +70,9 @@
         "name": "荒古恩仇录",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -250,11 +254,11 @@
         ],
         "original_language": "ja",
         "original_name": "君がトクベツ",
-        "overview": "",
+        "overview": "本剧改编自同名漫画，讲述了国民偶像团体「LiKE LEGEND」的队长桐之谷皇太（大桥和也 饰），因过往经历而决定“绝不拥有特别的对象”，却在某天邂逅了在定食店打工的社恐少女若梅佐穗子（畑芽育 饰），人生因此开始改变。本想让她变成自己粉丝的皇太，渐渐被佐穗子的真诚打动，萌生情愫。与此同时，国民女演员七濑绘美香（矢吹奈子 饰）因憧憬成员游马叶翔（木村慧人 饰）而踏入演艺圈，苦苦追爱却始终得不到回应。四人之间的恋爱逐渐展开，而成员来栖晴（山中柔太朗 饰）、榛名优生（大久保波留 饰）、成濑一生（NAOYA 饰）也将掀起一场恋爱风暴。这场偶像×素人×明星之间的恋爱混战，究竟将何去何从？",
         "popularity": 0.7117,
         "poster_path": "/cSPJvOTd9efUDlfFc8XOiYn4PMw.jpg",
         "first_air_date": "2025-09-17",
-        "name": "君がトクベツ",
+        "name": "你是特别的",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -289,6 +293,26 @@
             "动作与冒险"
         ],
         "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 300899,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "Binddii",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-09-17",
+        "name": "Binddii",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "印地语"
     },
     {
         "adult": false,
