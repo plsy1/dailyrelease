@@ -159,8 +159,8 @@
         "release_date": "2025-09-19",
         "title": "火烧天堂镇",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "惊悚"
@@ -267,6 +267,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/hlovulCzJ1rhpW2hdfXbAo6kaXV.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 574452,
+        "original_language": "en",
+        "original_title": "Waltzing with Brando",
+        "overview": "",
+        "popularity": 2.8959,
+        "poster_path": "/iCMOHK9k8MIm95xCCKFwdIZkNc6.jpg",
+        "release_date": "2025-09-19",
+        "title": "Waltzing with Brando",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fKjXzUjnwvtdSFbo2EFAWxhlZT9.jpg",
         "genre_ids": [
             35,
@@ -295,25 +319,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hlovulCzJ1rhpW2hdfXbAo6kaXV.jpg",
+        "backdrop_path": "/c0hE8P4gi01PglnSA0Jx5yL6IUh.jpg",
         "genre_ids": [
-            18,
-            35
+            28,
+            80,
+            53
         ],
-        "id": 574452,
+        "id": 1544974,
         "original_language": "en",
-        "original_title": "Waltzing with Brando",
+        "original_title": "The Shepherd Code: Road Back",
         "overview": "",
-        "popularity": 2.8959,
-        "poster_path": "/iCMOHK9k8MIm95xCCKFwdIZkNc6.jpg",
+        "popularity": 2.331,
+        "poster_path": "/iUSzsvUGAUuAC7Vl64LCjHPnw3P.jpg",
         "release_date": "2025-09-19",
-        "title": "Waltzing with Brando",
+        "title": "The Shepherd Code: Road Back",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "喜剧"
+            "动作",
+            "犯罪",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -367,6 +393,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/vCmz7M5WNhEiFVuDEckN3fNj4qK.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1195613,
+        "original_language": "en",
+        "original_title": "Doin' It",
+        "overview": "",
+        "popularity": 1.9679,
+        "poster_path": "/uZZtpqivBbCt4Dimnzmg5aEl1CU.jpg",
+        "release_date": "2025-09-19",
+        "title": "Doin' It",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pzGxHcQQAezRSAQFCh5dsry59Ig.jpg",
         "genre_ids": [
             878,
@@ -391,28 +439,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vCmz7M5WNhEiFVuDEckN3fNj4qK.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1195613,
-        "original_language": "en",
-        "original_title": "Doin' It",
-        "overview": "",
-        "popularity": 1.9679,
-        "poster_path": "/uZZtpqivBbCt4Dimnzmg5aEl1CU.jpg",
-        "release_date": "2025-09-19",
-        "title": "Doin' It",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/hpzCFBqyebOHiQID9Xai0r6mRM1.jpg",
         "genre_ids": [
             18
@@ -430,32 +456,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/c0hE8P4gi01PglnSA0Jx5yL6IUh.jpg",
-        "genre_ids": [
-            28,
-            80,
-            53
-        ],
-        "id": 1544974,
-        "original_language": "en",
-        "original_title": "The Shepherd Code: Road Back",
-        "overview": "",
-        "popularity": 2.331,
-        "poster_path": "/iUSzsvUGAUuAC7Vl64LCjHPnw3P.jpg",
-        "release_date": "2025-09-19",
-        "title": "The Shepherd Code: Road Back",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "犯罪",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -489,23 +489,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/AkN6GpoDARzh8tRpjwLrhGlMHWO.jpg",
         "genre_ids": [
-            53
+            53,
+            35,
+            9648,
+            10749
         ],
-        "id": 1533573,
+        "id": 1468013,
         "original_language": "en",
-        "original_title": "A Natural Selection",
+        "original_title": "Body Blow",
         "overview": "",
-        "popularity": 0.9689,
-        "poster_path": "/gW8KcN4hogI755uyBsmB9ue8gDO.jpg",
+        "popularity": 1.2202,
+        "poster_path": "/lchpx3deytjxuFP9w2BRiA853W.jpg",
         "release_date": "2025-09-19",
-        "title": "A Natural Selection",
+        "title": "Body Blow",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚"
+            "惊悚",
+            "喜剧",
+            "悬疑",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -523,28 +529,6 @@
         "poster_path": "/yjiqwnvgst3ntm25L5heBHjqny9.jpg",
         "release_date": "2025-09-19",
         "title": "Megadoc",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4h1W80H4P0lJrzwp61ggD1m5JGr.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1318933,
-        "original_language": "en",
-        "original_title": "Chain Reactions",
-        "overview": "1974年诞生的《德州电锯杀人狂》源自于美国在地的时代阴影和地景恐惧，却在上映后煞翻全球，彻底翻新恐怖电影的思维逻辑与叙事手法。原以为不行不义便能明哲保身，谁知灾厄会在路边招手，不请自来；曾相信梦魇只存在至暗黑夜，直到亲见魔鬼挥舞电锯，在黎明中张牙舞爪；本自认对暴力和残虐深恶痛绝，却默默对凶手的疯狂心生共情，甚至对受害者的逃脱感到可惜？",
-        "popularity": 0.9676,
-        "poster_path": "/ifPpCzrcdxYgszMtvEvs627NBBt.jpg",
-        "release_date": "2025-09-19",
-        "title": "德州电锯后遗症",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -581,9 +565,54 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zfNsOBTvf9Y2IvIyoCPSHhTCc6Y.jpg",
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1533573,
+        "original_language": "en",
+        "original_title": "A Natural Selection",
+        "overview": "",
+        "popularity": 0.9689,
+        "poster_path": "/gW8KcN4hogI755uyBsmB9ue8gDO.jpg",
+        "release_date": "2025-09-19",
+        "title": "A Natural Selection",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4h1W80H4P0lJrzwp61ggD1m5JGr.jpg",
         "genre_ids": [
             99
+        ],
+        "id": 1318933,
+        "original_language": "en",
+        "original_title": "Chain Reactions",
+        "overview": "1974年诞生的《德州电锯杀人狂》源自于美国在地的时代阴影和地景恐惧，却在上映后煞翻全球，彻底翻新恐怖电影的思维逻辑与叙事手法。原以为不行不义便能明哲保身，谁知灾厄会在路边招手，不请自来；曾相信梦魇只存在至暗黑夜，直到亲见魔鬼挥舞电锯，在黎明中张牙舞爪；本自认对暴力和残虐深恶痛绝，却默默对凶手的疯狂心生共情，甚至对受害者的逃脱感到可惜？",
+        "popularity": 0.9676,
+        "poster_path": "/ifPpCzrcdxYgszMtvEvs627NBBt.jpg",
+        "release_date": "2025-09-19",
+        "title": "德州电锯后遗症",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zfNsOBTvf9Y2IvIyoCPSHhTCc6Y.jpg",
+        "genre_ids": [
+            99,
+            10402
         ],
         "id": 1381066,
         "original_language": "en",
@@ -597,7 +626,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1045,48 +1075,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1aFpjaQaHX6SG9hRPzYxWrx8AbM.jpg",
-        "genre_ids": [
-            35,
-            14
-        ],
-        "id": 1540577,
-        "original_language": "en",
-        "original_title": "A Milkshake",
-        "overview": "",
-        "popularity": 0.0517,
-        "poster_path": "/7g9hqLCdLYNdAJdRebIQ8309WeB.jpg",
-        "release_date": "2025-09-19",
-        "title": "A Milkshake",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1541633,
-        "original_language": "en",
-        "original_title": "TransVengeance",
-        "overview": "",
-        "popularity": 0.0445,
-        "poster_path": "/bjNtGrOTuenbA69Aceyx1GNt1nq.jpg",
-        "release_date": "2025-09-19",
-        "title": "TransVengeance",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1535058,
@@ -1101,70 +1089,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/i7uQKxilhris9KD7V8vKfjVuSgM.jpg",
-        "genre_ids": [],
-        "id": 1542200,
-        "original_language": "en",
-        "original_title": "The Reveal",
-        "overview": "",
-        "popularity": 0.0297,
-        "poster_path": "/vxLyTFdr8AtaTKgI6gB7SDg2iF3.jpg",
-        "release_date": "2025-09-19",
-        "title": "The Reveal",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/tdfFrduj5SPqkvuxjdRDPxl6bAz.jpg",
-        "genre_ids": [
-            10751,
-            18
-        ],
-        "id": 1533867,
-        "original_language": "en",
-        "original_title": "Don't Tell Mother",
-        "overview": "",
-        "popularity": 0.058,
-        "poster_path": "/uzMu0j4mviq4UjHmw1Utc0AjNqd.jpg",
-        "release_date": "2025-09-19",
-        "title": "Don't Tell Mother",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "家庭",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749
-        ],
-        "id": 1545965,
-        "original_language": "en",
-        "original_title": "Last Year's Calendar",
-        "overview": "",
-        "popularity": 0.0484,
-        "poster_path": "/bD5jJuPyNQ50ccGwet4iyEciLof.jpg",
-        "release_date": "2025-09-19",
-        "title": "Last Year's Calendar",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1197,21 +1121,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            27
         ],
-        "id": 1310627,
+        "id": 1544481,
         "original_language": "en",
-        "original_title": "Arma",
+        "original_title": "Do No Harm",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/8azZ7msewFK3hua7H7GMwjvlOzD.jpg",
+        "popularity": 0.0655,
+        "poster_path": "/6y8Qqi2Awl89Ekg3bYlUSvA4xu3.jpg",
         "release_date": "2025-09-19",
-        "title": "Arma",
+        "title": "Do No Harm",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1238,6 +1162,174 @@
             "科幻",
             "动作",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tdfFrduj5SPqkvuxjdRDPxl6bAz.jpg",
+        "genre_ids": [
+            10751,
+            18
+        ],
+        "id": 1533867,
+        "original_language": "en",
+        "original_title": "Don't Tell Mother",
+        "overview": "",
+        "popularity": 0.058,
+        "poster_path": "/uzMu0j4mviq4UjHmw1Utc0AjNqd.jpg",
+        "release_date": "2025-09-19",
+        "title": "Don't Tell Mother",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1aFpjaQaHX6SG9hRPzYxWrx8AbM.jpg",
+        "genre_ids": [
+            35,
+            14
+        ],
+        "id": 1540577,
+        "original_language": "en",
+        "original_title": "A Milkshake",
+        "overview": "",
+        "popularity": 0.0517,
+        "poster_path": "/7g9hqLCdLYNdAJdRebIQ8309WeB.jpg",
+        "release_date": "2025-09-19",
+        "title": "A Milkshake",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1545965,
+        "original_language": "en",
+        "original_title": "Last Year's Calendar",
+        "overview": "",
+        "popularity": 0.0484,
+        "poster_path": "/bD5jJuPyNQ50ccGwet4iyEciLof.jpg",
+        "release_date": "2025-09-19",
+        "title": "Last Year's Calendar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1541633,
+        "original_language": "en",
+        "original_title": "TransVengeance",
+        "overview": "",
+        "popularity": 0.0445,
+        "poster_path": "/bjNtGrOTuenbA69Aceyx1GNt1nq.jpg",
+        "release_date": "2025-09-19",
+        "title": "TransVengeance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1547831,
+        "original_language": "en",
+        "original_title": "Gianmarco Soresi: Thief of Joy",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": "/4nHCM5eqh1Gn6fIbkRbAbteExM.jpg",
+        "release_date": "2025-09-19",
+        "title": "Gianmarco Soresi: Thief of Joy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1546168,
+        "original_language": "en",
+        "original_title": "One Homeland Two Homes",
+        "overview": "",
+        "popularity": 0.0314,
+        "poster_path": "/1Lb7ny3gCANu7TFPfkSmQ8GrPXs.jpg",
+        "release_date": "2025-09-19",
+        "title": "One Homeland Two Homes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i7uQKxilhris9KD7V8vKfjVuSgM.jpg",
+        "genre_ids": [],
+        "id": 1542200,
+        "original_language": "en",
+        "original_title": "The Reveal",
+        "overview": "",
+        "popularity": 0.0297,
+        "poster_path": "/vxLyTFdr8AtaTKgI6gB7SDg2iF3.jpg",
+        "release_date": "2025-09-19",
+        "title": "The Reveal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1310627,
+        "original_language": "en",
+        "original_title": "Arma",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/8azZ7msewFK3hua7H7GMwjvlOzD.jpg",
+        "release_date": "2025-09-19",
+        "title": "Arma",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -1279,46 +1371,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1546168,
-        "original_language": "en",
-        "original_title": "One Homeland Two Homes",
-        "overview": "",
-        "popularity": 0.0314,
-        "poster_path": "/1Lb7ny3gCANu7TFPfkSmQ8GrPXs.jpg",
-        "release_date": "2025-09-19",
-        "title": "One Homeland Two Homes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1543493,
-        "original_language": "en",
-        "original_title": "The Seventh Samurai",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-09-19",
-        "title": "The Seventh Samurai",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -1375,14 +1427,14 @@
         "genre_ids": [
             35
         ],
-        "id": 1547831,
+        "id": 1543493,
         "original_language": "en",
-        "original_title": "Gianmarco Soresi: Thief of Joy",
+        "original_title": "The Seventh Samurai",
         "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/4nHCM5eqh1Gn6fIbkRbAbteExM.jpg",
+        "popularity": 0.0143,
+        "poster_path": null,
         "release_date": "2025-09-19",
-        "title": "Gianmarco Soresi: Thief of Joy",
+        "title": "The Seventh Samurai",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
