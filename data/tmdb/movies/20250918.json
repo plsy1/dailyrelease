@@ -109,7 +109,7 @@
         "release_date": "2025-09-18",
         "title": "London Calling",
         "video": false,
-        "vote_average": 8.333,
+        "vote_average": 8.3,
         "vote_count": 9,
         "genre_ids_zh": [
             "动作",
@@ -174,12 +174,12 @@
         ],
         "id": 1177529,
         "original_language": "en",
-        "original_title": "Deathgasm: GOREMAGEDDON",
+        "original_title": "Deathgasm 2: GOREMAGEDDON",
         "overview": "",
         "popularity": 2.8131,
         "poster_path": "/mvbWuzjDJHMxVadqipQGJd0I501.jpg",
         "release_date": "2025-09-18",
-        "title": "Deathgasm: GOREMAGEDDON",
+        "title": "Deathgasm 2: GOREMAGEDDON",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -381,6 +381,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/xavLMF9oCeIG50Bh2o7r03Xl5ta.jpg",
+        "genre_ids": [
+            18,
+            28,
+            35
+        ],
+        "id": 1058017,
+        "original_language": "en",
+        "original_title": "The Ba***ds of Bollywood",
+        "overview": "",
+        "popularity": 0.7524,
+        "poster_path": "/3wUtQl9hEFKHN3nNvKmNhXmHFmw.jpg",
+        "release_date": "2025-09-18",
+        "title": "The Ba***ds of Bollywood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "动作",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pFFLGNUz6sld3KqgwAIj2jVFhQe.jpg",
         "genre_ids": [
             16
@@ -424,32 +450,6 @@
             "喜剧",
             "奇幻",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xavLMF9oCeIG50Bh2o7r03Xl5ta.jpg",
-        "genre_ids": [
-            18,
-            28,
-            35
-        ],
-        "id": 1058017,
-        "original_language": "en",
-        "original_title": "The Ba***ds of Bollywood",
-        "overview": "",
-        "popularity": 0.7524,
-        "poster_path": "/3wUtQl9hEFKHN3nNvKmNhXmHFmw.jpg",
-        "release_date": "2025-09-18",
-        "title": "The Ba***ds of Bollywood",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "动作",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
