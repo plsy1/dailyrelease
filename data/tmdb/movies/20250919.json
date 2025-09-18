@@ -625,56 +625,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ceqbmvAKRmVq3CCjeTLUU7IBZl9.jpg",
-        "genre_ids": [
-            16,
-            12,
-            35,
-            10751
-        ],
-        "id": 1215532,
-        "original_language": "en",
-        "original_title": "Chickenhare and the Secret of the Groundhog",
-        "overview": "",
-        "popularity": 0.7585,
-        "poster_path": "/cUCwWxHF1bRfqeY7beZfsvT7WBR.jpg",
-        "release_date": "2025-09-19",
-        "title": "Chickenhare and the Secret of the Groundhog",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "冒险",
-            "喜剧",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/taCzUGU0x92HK0SFMcwGHgAAQn1.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1537153,
-        "original_language": "en",
-        "original_title": "Benny's Second Birthday",
-        "overview": "",
-        "popularity": 0.5827,
-        "poster_path": "/1XlptMNTscoZETN3v6bYdE1Down.jpg",
-        "release_date": "2025-09-19",
-        "title": "Benny's Second Birthday",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/iMJynPsx2OgV5ZLIgwduEEKsIah.jpg",
         "genre_ids": [
             35
@@ -697,67 +647,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1532808,
-        "original_language": "en",
-        "original_title": "A la hora de poner la mesa ya no éramos cinco",
-        "overview": "",
-        "popularity": 0.4893,
-        "poster_path": null,
-        "release_date": "2025-09-19",
-        "title": "A la hora de poner la mesa ya no éramos cinco",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/l28j9zAqpyEFLfG2yF5OvczrtRi.jpg",
+        "backdrop_path": "/taCzUGU0x92HK0SFMcwGHgAAQn1.jpg",
         "genre_ids": [
-            27,
-            53
+            27
         ],
-        "id": 1544122,
+        "id": 1537153,
         "original_language": "en",
-        "original_title": "Takeout",
+        "original_title": "Benny's Second Birthday",
         "overview": "",
-        "popularity": 0.4498,
-        "poster_path": "/3cM00rluhzLm4fGXHXLTksYkTPQ.jpg",
+        "popularity": 0.5827,
+        "poster_path": "/1XlptMNTscoZETN3v6bYdE1Down.jpg",
         "release_date": "2025-09-19",
-        "title": "Takeout",
+        "title": "Benny's Second Birthday",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            12
-        ],
-        "id": 1514427,
-        "original_language": "en",
-        "original_title": "Big Mountain Soul: Ski Africa",
-        "overview": "",
-        "popularity": 0.3914,
-        "poster_path": "/awdNpLOeRDzzcx8g6Wtm7vmaW76.jpg",
-        "release_date": "2025-09-19",
-        "title": "Big Mountain Soul: Ski Africa",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "冒险"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -807,6 +713,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1532808,
+        "original_language": "en",
+        "original_title": "A la hora de poner la mesa ya no éramos cinco",
+        "overview": "",
+        "popularity": 0.4893,
+        "poster_path": null,
+        "release_date": "2025-09-19",
+        "title": "A la hora de poner la mesa ya no éramos cinco",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l28j9zAqpyEFLfG2yF5OvczrtRi.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1544122,
+        "original_language": "en",
+        "original_title": "Takeout",
+        "overview": "",
+        "popularity": 0.4498,
+        "poster_path": "/3cM00rluhzLm4fGXHXLTksYkTPQ.jpg",
+        "release_date": "2025-09-19",
+        "title": "Takeout",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/Ah9nj9XghA6cxephlegWmLR5VC1.jpg",
         "genre_ids": [
             99,
@@ -826,6 +774,30 @@
         "genre_ids_zh": [
             "纪录",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            12
+        ],
+        "id": 1514427,
+        "original_language": "en",
+        "original_title": "Big Mountain Soul: Ski Africa",
+        "overview": "",
+        "popularity": 0.3914,
+        "poster_path": "/awdNpLOeRDzzcx8g6Wtm7vmaW76.jpg",
+        "release_date": "2025-09-19",
+        "title": "Big Mountain Soul: Ski Africa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "冒险"
         ],
         "original_language_zh": "英语"
     },
@@ -867,34 +839,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4cyRdTUeiBk7tCFlE40Q1KqNE1.jpg",
-        "genre_ids": [
-            12,
-            18,
-            99,
-            10751
-        ],
-        "id": 1525230,
-        "original_language": "en",
-        "original_title": "My Summer Vacation",
-        "overview": "",
-        "popularity": 0.2232,
-        "poster_path": "/bjjTAXD8vdXCHRlNQCbcbojac8H.jpg",
-        "release_date": "2025-09-19",
-        "title": "My Summer Vacation",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "冒险",
-            "剧情",
-            "纪录",
-            "家庭"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -945,6 +889,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4cyRdTUeiBk7tCFlE40Q1KqNE1.jpg",
+        "genre_ids": [
+            12,
+            18,
+            99,
+            10751
+        ],
+        "id": 1525230,
+        "original_language": "en",
+        "original_title": "My Summer Vacation",
+        "overview": "",
+        "popularity": 0.2232,
+        "poster_path": "/bjjTAXD8vdXCHRlNQCbcbojac8H.jpg",
+        "release_date": "2025-09-19",
+        "title": "My Summer Vacation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "剧情",
+            "纪录",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10402,
@@ -970,28 +942,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1544481,
-        "original_language": "en",
-        "original_title": "Do No Harm",
-        "overview": "",
-        "popularity": 0.0655,
-        "poster_path": "/6y8Qqi2Awl89Ekg3bYlUSvA4xu3.jpg",
-        "release_date": "2025-09-19",
-        "title": "Do No Harm",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1546218,
         "original_language": "en",
@@ -1001,46 +951,6 @@
         "poster_path": "/uFtxQsK87Mu5t4DzwM6tlclMi7p.jpg",
         "release_date": "2025-09-19",
         "title": "Fawlty Towers: The Play",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1358845,
-        "original_language": "en",
-        "original_title": "Bin Glitter",
-        "overview": "",
-        "popularity": 0.0877,
-        "poster_path": "/9MLj20wFelItKaPgbHjIKJtsgET.jpg",
-        "release_date": "2025-09-19",
-        "title": "Bin Glitter",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1539412,
-        "original_language": "en",
-        "original_title": "And I Arise (Reprise)",
-        "overview": "",
-        "popularity": 0.0902,
-        "poster_path": "/9yYkqJqcRppWpxrTZZkM3LDjNSh.jpg",
-        "release_date": "2025-09-19",
-        "title": "And I Arise (Reprise)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1090,6 +1000,46 @@
         "genre_ids_zh": [
             "爱情",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1539412,
+        "original_language": "en",
+        "original_title": "And I Arise (Reprise)",
+        "overview": "",
+        "popularity": 0.0902,
+        "poster_path": "/9yYkqJqcRppWpxrTZZkM3LDjNSh.jpg",
+        "release_date": "2025-09-19",
+        "title": "And I Arise (Reprise)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1358845,
+        "original_language": "en",
+        "original_title": "Bin Glitter",
+        "overview": "",
+        "popularity": 0.0877,
+        "poster_path": "/9MLj20wFelItKaPgbHjIKJtsgET.jpg",
+        "release_date": "2025-09-19",
+        "title": "Bin Glitter",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1749,24 +1699,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hvvZyUpT1nSuHaVktgMItdDzU2b.jpg",
-        "genre_ids": [],
-        "id": 1536055,
-        "original_language": "ko",
-        "original_title": "해질무렵",
-        "overview": "",
-        "popularity": 0.1954,
-        "poster_path": "/fIJZ2KI4gniKUV6KmVQ9IE84KCw.jpg",
-        "release_date": "2025-09-19",
-        "title": "해질무렵",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/dRXuDMjQxIBdekWySRWzDMbhGcd.jpg",
         "genre_ids": [
             10749,
@@ -1791,6 +1723,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/hvvZyUpT1nSuHaVktgMItdDzU2b.jpg",
+        "genre_ids": [],
+        "id": 1536055,
+        "original_language": "ko",
+        "original_title": "해질무렵",
+        "overview": "",
+        "popularity": 0.1954,
+        "poster_path": "/fIJZ2KI4gniKUV6KmVQ9IE84KCw.jpg",
+        "release_date": "2025-09-19",
+        "title": "해질무렵",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jJoBvqV1uHhGHrLiXrYANuZGrSX.jpg",
         "genre_ids": [
             99
@@ -1803,6 +1753,28 @@
         "poster_path": "/b8pRWh1FSEPgMhcy4FJoaky5Lfy.jpg",
         "release_date": "2025-09-19",
         "title": "하늘과 바람과 별과 섬",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/89Vvshlk0WCWHcZ7NU6OUT4uJtS.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1535965,
+        "original_language": "ko",
+        "original_title": "빨간 나라를 보았니?",
+        "overview": "",
+        "popularity": 0.102,
+        "poster_path": "/969cbAxEy1V810s0ArabcokJimr.jpg",
+        "release_date": "2025-09-19",
+        "title": "빨간 나라를 보았니?",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1850,28 +1822,6 @@
         "genre_ids_zh": [
             "科幻",
             "奇幻"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/89Vvshlk0WCWHcZ7NU6OUT4uJtS.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1535965,
-        "original_language": "ko",
-        "original_title": "빨간 나라를 보았니?",
-        "overview": "",
-        "popularity": 0.102,
-        "poster_path": "/969cbAxEy1V810s0ArabcokJimr.jpg",
-        "release_date": "2025-09-19",
-        "title": "빨간 나라를 보았니?",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "韩语"
     },
@@ -2311,30 +2261,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ixei99kyudBuaCmbjdWlGo0dFZZ.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1518602,
-        "original_language": "pt",
-        "original_title": "A Máscara do Vazio",
-        "overview": "",
-        "popularity": 0.0985,
-        "poster_path": "/xp4nXxyLkADILalSpGRf207ddds.jpg",
-        "release_date": "2025-09-19",
-        "title": "A Máscara do Vazio",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qFihY5WlaavX4i8AaIOWKCV0C3J.jpg",
         "genre_ids": [
             18
@@ -2347,6 +2273,28 @@
         "poster_path": "/8giMiEphIz5dzvEBGrDhkZTqTIl.jpg",
         "release_date": "2025-09-19",
         "title": "Ainda te Espero",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1523314,
+        "original_language": "pt",
+        "original_title": "Filmes de Amor, Canções de Guerra",
+        "overview": "",
+        "popularity": 0.1213,
+        "poster_path": "/hQdURB8LY5kSr2ua40QaM81I4eZ.jpg",
+        "release_date": "2025-09-19",
+        "title": "Filmes de Amor, Canções de Guerra",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2379,18 +2327,42 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ixei99kyudBuaCmbjdWlGo0dFZZ.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1518602,
+        "original_language": "pt",
+        "original_title": "A Máscara do Vazio",
+        "overview": "",
+        "popularity": 0.0985,
+        "poster_path": "/xp4nXxyLkADILalSpGRf207ddds.jpg",
+        "release_date": "2025-09-19",
+        "title": "A Máscara do Vazio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
         ],
-        "id": 1523314,
+        "id": 1523349,
         "original_language": "pt",
-        "original_title": "Filmes de Amor, Canções de Guerra",
+        "original_title": "Molduras",
         "overview": "",
-        "popularity": 0.1213,
-        "poster_path": "/hQdURB8LY5kSr2ua40QaM81I4eZ.jpg",
+        "popularity": 0.084,
+        "poster_path": "/hffpHVTY1FyfKCerQCWqmUtGYiQ.jpg",
         "release_date": "2025-09-19",
-        "title": "Filmes de Amor, Canções de Guerra",
+        "title": "Molduras",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2424,28 +2396,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1523349,
-        "original_language": "pt",
-        "original_title": "Molduras",
-        "overview": "",
-        "popularity": 0.084,
-        "poster_path": "/hffpHVTY1FyfKCerQCWqmUtGYiQ.jpg",
-        "release_date": "2025-09-19",
-        "title": "Molduras",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1534485,
         "original_language": "pt",
@@ -2463,28 +2413,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1534763,
-        "original_language": "pt",
-        "original_title": "Fogo Abismo",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/ySASugUYzydPOto2cVz9eyhIr6J.jpg",
-        "release_date": "2025-09-19",
-        "title": "Fogo Abismo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/smOVNilGNNIko6oXHZTMJN68Fc3.jpg",
         "genre_ids": [
             99
@@ -2497,6 +2425,28 @@
         "poster_path": "/go1pQn18ZpRXN4AVA6spzLqiWmS.jpg",
         "release_date": "2025-09-19",
         "title": "Replika",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1534763,
+        "original_language": "pt",
+        "original_title": "Fogo Abismo",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/ySASugUYzydPOto2cVz9eyhIr6J.jpg",
+        "release_date": "2025-09-19",
+        "title": "Fogo Abismo",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2621,28 +2571,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/khlCb0Qm9xhQyrLOwD9aM4hoJK0.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1455440,
-        "original_language": "hi",
-        "original_title": "Ajey: The Untold Story of a Yogi",
-        "overview": "",
-        "popularity": 0.3992,
-        "poster_path": "/9MEmu8lBs5mHeEkfdDp6I8U0rPL.jpg",
-        "release_date": "2025-09-19",
-        "title": "Ajey: The Untold Story of a Yogi",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/5nmhP04Z24ymWe0vlOGO55lJP0L.jpg",
         "genre_ids": [
             18
@@ -2655,6 +2583,28 @@
         "poster_path": "/cWApyVKSEQkpLDxBpU5XrfCoUB1.jpg",
         "release_date": "2025-09-19",
         "title": "Boong",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/khlCb0Qm9xhQyrLOwD9aM4hoJK0.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1455440,
+        "original_language": "hi",
+        "original_title": "Ajey: The Untold Story of a Yogi",
+        "overview": "",
+        "popularity": 0.3992,
+        "poster_path": "/9MEmu8lBs5mHeEkfdDp6I8U0rPL.jpg",
+        "release_date": "2025-09-19",
+        "title": "Ajey: The Untold Story of a Yogi",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
