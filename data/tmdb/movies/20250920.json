@@ -1648,19 +1648,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 1340101,
         "original_language": "es",
         "original_title": "Lo contrario de la muerte",
         "overview": "",
         "popularity": 0.1338,
-        "poster_path": null,
+        "poster_path": "/fmuNcseStL9HwVb7JFCLSq3Ubwr.jpg",
         "release_date": "2025-09-20",
         "title": "Lo contrario de la muerte",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1799,6 +1803,24 @@
             "喜剧",
             "科幻"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1548766,
+        "original_language": "es",
+        "original_title": "Hombre Digital",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/sl9iGbnQErfm3x0Uu9hYtMaYdV4.jpg",
+        "release_date": "2025-09-20",
+        "title": "Hombre Digital",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {

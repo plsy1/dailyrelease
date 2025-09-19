@@ -145,6 +145,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            12
+        ],
+        "id": 1548212,
+        "original_language": "zh",
+        "original_title": "工厂蛇患",
+        "overview": "东南亚某工厂在一次意外中挖出了被群蛇占据的墓穴，工厂惨遭蛇患，无数工人命丧蛇口。幸存者们组织捕蛇小队清理蛇患，却陷入更大危机.....",
+        "popularity": 0.0071,
+        "poster_path": "/3E7CMGwFgdfkvilhEzhnf4u6tK9.jpg",
+        "release_date": "2025-09-19",
+        "title": "工厂蛇患",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "冒险"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sd7TDuXcOeMXvH7wXXacilARStk.jpg",
         "genre_ids": [
             18,
@@ -410,6 +434,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4eo6xojA8OPoGlN72PfNwHf8f7i.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1432605,
+        "original_language": "en",
+        "original_title": "My Father's Shadow",
+        "overview": "",
+        "popularity": 1.8379,
+        "poster_path": "/pwxgAsfKviP8pt6LHbU97N0UV9l.jpg",
+        "release_date": "2025-09-19",
+        "title": "My Father's Shadow",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1061,6 +1107,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8qo98uf8f86ZLTr45zfNBvfRUFw.jpg",
+        "genre_ids": [
+            10749,
+            35
+        ],
+        "id": 1445958,
+        "original_language": "en",
+        "original_title": "Contact",
+        "overview": "",
+        "popularity": 0.0975,
+        "poster_path": "/shOF6yXcqcFF8XErBmxS473LezH.jpg",
+        "release_date": "2025-09-19",
+        "title": "Contact",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1539412,
+        "original_language": "en",
+        "original_title": "And I Arise (Reprise)",
+        "overview": "",
+        "popularity": 0.0673,
+        "poster_path": "/9yYkqJqcRppWpxrTZZkM3LDjNSh.jpg",
+        "release_date": "2025-09-19",
+        "title": "And I Arise (Reprise)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1500,6 +1588,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1548878,
+        "original_language": "en",
+        "original_title": "Awakening",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5v5LoWBjBo1WZPQKN1z9lYtvA51.jpg",
+        "release_date": "2025-09-19",
+        "title": "Awakening",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             27,
             53
@@ -1592,6 +1698,36 @@
         "genre_ids_zh": [
             "剧情",
             "历史"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            35,
+            878,
+            12,
+            14
+        ],
+        "id": 1522368,
+        "original_language": "ja",
+        "original_title": "無題のドキュメント",
+        "overview": "",
+        "popularity": 0.0996,
+        "poster_path": "/jRmMgLkcLbm9fqT7FLGeys5oGMV.jpg",
+        "release_date": "2025-09-19",
+        "title": "無題のドキュメント",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧",
+            "科幻",
+            "冒险",
+            "奇幻"
         ],
         "original_language_zh": "日语"
     },
@@ -1896,7 +2032,7 @@
         "original_title": "기이한 생각의 바다에서",
         "overview": "",
         "popularity": 0.0453,
-        "poster_path": "/uInYmBWturUlzZTznlumOeSKhDj.jpg",
+        "poster_path": "/ktKANSy9kS5LMaOyW7EXfbXkBER.jpg",
         "release_date": "2025-09-19",
         "title": "기이한 생각의 바다에서",
         "video": false,
@@ -1950,6 +2086,32 @@
             "纪录"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            35,
+            18
+        ],
+        "id": 1548908,
+        "original_language": "de",
+        "original_title": "Hang in There",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4BMMiJq6Aym0hPLIDIksLCBM5DI.jpg",
+        "release_date": "2025-09-19",
+        "title": "Hang in There",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
@@ -2341,6 +2503,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4inND0vhNByK3PfGPWw0SZuTKHD.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1548764,
+        "original_language": "es",
+        "original_title": "El pádel es nuestro",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6KFOfT40Kh0SJEEq1tuuowPEXG9.jpg",
+        "release_date": "2025-09-19",
+        "title": "El pádel es nuestro",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/xEjcF2Sk9Xib5dtGkrpy4FZGRt9.jpg",
         "genre_ids": [
             99
@@ -2629,6 +2813,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1548814,
+        "original_language": "it",
+        "original_title": "A.A.A. Offresi – Work in progress",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/pOOP9r0OIkTMkJpGsiOElXvPo69.jpg",
+        "release_date": "2025-09-19",
+        "title": "A.A.A. Offresi – Work in progress",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1205547,
@@ -2663,8 +2869,8 @@
         "release_date": "2025-09-19",
         "title": "निशानची",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 8.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "犯罪",
             "剧情"
@@ -2673,7 +2879,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/44xKzCjPNWdoleYZCYKPsI6hSLm.jpg",
+        "backdrop_path": "/5nFIbw5etVpcYvocuOzZNGtT4IA.jpg",
         "genre_ids": [
             18,
             35
