@@ -99,7 +99,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qQ4tWKwP5wPRyZGxXkiSkKYqzgm.jpg",
+        "backdrop_path": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
         "genre_ids": [
             16,
             35
@@ -110,11 +110,11 @@
         ],
         "original_language": "en",
         "original_name": "Haunted Hotel",
-        "overview": "",
+        "overview": "一位独自抚养两个孩子的单亲妈妈努力经营着一家闹鬼的酒店，唯一的帮手是她疏远多年的哥哥 — 他如今已经变成了旅馆里的幽灵之一，还觉得其他幽灵的一些主意其实挺不错的。",
         "popularity": 3.3542,
-        "poster_path": "/cqanTMsNVLTyCBJUGQqWtvKQxft.jpg",
+        "poster_path": "/2YL5l3WvKt4qx1SpBcmOeh6cMzV.jpg",
         "first_air_date": "2025-09-19",
-        "name": "Haunted Hotel",
+        "name": "酒店有鬼",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -143,9 +143,9 @@
         "popularity": 1.6151,
         "poster_path": "/ld6K4sIuTAlgAsIPYwW2yAvSz2m.jpg",
         "first_air_date": "2025-09-19",
-        "name": "LEGO Star Wars: Rebuild the Galaxy - Pieces of the Past",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "name": "乐高星球大战：重建银河系 - 失落的碎片",
+        "vote_average": 3.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "科幻与奇幻",
             "喜剧",
@@ -187,26 +187,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 301040,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Reverend Titus",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "first_air_date": "2025-09-19",
-        "name": "Reverend Titus",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 301019,
         "origin_country": [
             "美国"
@@ -218,6 +198,26 @@
         "poster_path": null,
         "first_air_date": "2025-09-19",
         "name": "Genius Einstein",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 301040,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Reverend Titus",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-09-19",
+        "name": "Reverend Titus",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
