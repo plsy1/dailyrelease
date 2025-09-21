@@ -12,7 +12,7 @@
         "original_language": "zh",
         "original_name": "唯有香如故",
         "overview": "",
-        "popularity": 0.1336,
+        "popularity": 0.315,
         "poster_path": null,
         "first_air_date": "2025-09-21",
         "name": "唯有香如故",
@@ -26,7 +26,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            16
+        ],
         "id": 300840,
         "origin_country": [
             "中国"
@@ -34,13 +36,15 @@
         "original_language": "zh",
         "original_name": "武魂大陆",
         "overview": "科学家楚枫无意间获得了化作陨石落下的“金乌令”，为探究其起源，楚枫创造了超级电脑“启源”，在启源的帮助下，楚枫得知金乌令竟来自一个叫做武魂大陆的神秘世界，而楚枫也无意间激发金乌令的力量被传送到武魂大陆。在武魂大陆中，楚枫解救了苏氏三小姐苏曼青，却也因此与南宫",
-        "popularity": 0.0662,
+        "popularity": 0.0516,
         "poster_path": "/uqz1FX6olkaAobkMpUV6eob5VKY.jpg",
         "first_air_date": "2025-09-21",
         "name": "武魂大陆",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -56,7 +60,7 @@
         "original_language": "en",
         "original_name": "Inside: USA",
         "overview": "",
-        "popularity": 0.9255,
+        "popularity": 0.916,
         "poster_path": "/yt1ri5N7RNuuCnQjFq8bOdAS1K3.jpg",
         "first_air_date": "2025-09-21",
         "name": "Inside: USA",
