@@ -257,6 +257,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/h4lf7gHQrw9vd4ZxqtvIo4UFODy.jpg",
+        "genre_ids": [
+            10751,
+            99
+        ],
+        "id": 1550391,
+        "original_language": "en",
+        "original_title": "seen",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7JNySlcPEld7DEsayfNNwO7vLMf.jpg",
+        "release_date": "2025-09-22",
+        "title": "seen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/kq2Lym2qKZcbTAt4KjJYeYwVxGH.jpg",
         "genre_ids": [
             18,
@@ -393,6 +417,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1550306,
+        "original_language": "th",
+        "original_title": "Lost Teenager",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5bKGiSNZkhaEwTun5bBVtwf7o78.jpg",
+        "release_date": "2025-09-22",
+        "title": "Lost Teenager",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/w0Efhg1XkYUhx0GZTFzlf5ecrYt.jpg",
         "genre_ids": [
             80
@@ -483,7 +529,8 @@
         "adult": false,
         "backdrop_path": "/WzVRyBUcnvdHdK3z5PJIA9svdi.jpg",
         "genre_ids": [
-            10402
+            10402,
+            99
         ],
         "id": 1549344,
         "original_language": "fr",
@@ -494,10 +541,11 @@
         "release_date": "2025-09-22",
         "title": "Quincy Jones - Music Man",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
-            "音乐"
+            "音乐",
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
@@ -551,28 +599,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/yc8mysaSYnTfO2ZSWN9yFZlbuVH.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1327436,
-        "original_language": "es",
-        "original_title": "Si no ardemos, cómo iluminar la noche",
-        "overview": "",
-        "popularity": 0.1782,
-        "poster_path": "/dcmZrCiy9Wbrndd5Bs5zGVKlzqi.jpg",
-        "release_date": "2025-09-22",
-        "title": "Si no ardemos, cómo iluminar la noche",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -614,6 +640,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yc8mysaSYnTfO2ZSWN9yFZlbuVH.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1327436,
+        "original_language": "es",
+        "original_title": "Si no ardemos, cómo iluminar la noche",
+        "overview": "",
+        "popularity": 0.1782,
+        "poster_path": "/dcmZrCiy9Wbrndd5Bs5zGVKlzqi.jpg",
+        "release_date": "2025-09-22",
+        "title": "Si no ardemos, cómo iluminar la noche",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -903,28 +951,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ukkfGyoYTcPqN2BmdMkmK75lyyG.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1433707,
-        "original_language": "pl",
-        "original_title": "Nie ma duchów w mieszkaniu na Dobrej",
-        "overview": "",
-        "popularity": 0.6846,
-        "poster_path": "/fpV9k4mzkw2xrbc9EaS0GnpBIqn.jpg",
-        "release_date": "2025-09-22",
-        "title": "Nie ma duchów w mieszkaniu na Dobrej",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "波兰语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/gedbXOSJXMEtiAEFGXzcyjXDU9F.jpg",
         "genre_ids": [
             80
@@ -942,6 +968,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "犯罪"
+        ],
+        "original_language_zh": "波兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ukkfGyoYTcPqN2BmdMkmK75lyyG.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1433707,
+        "original_language": "pl",
+        "original_title": "Nie ma duchów w mieszkaniu na Dobrej",
+        "overview": "",
+        "popularity": 0.6846,
+        "poster_path": "/fpV9k4mzkw2xrbc9EaS0GnpBIqn.jpg",
+        "release_date": "2025-09-22",
+        "title": "Nie ma duchów w mieszkaniu na Dobrej",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "波兰语"
     },
