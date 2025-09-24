@@ -529,52 +529,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1535503,
-        "original_language": "en",
-        "original_title": "Emmanuelle in Ontario",
-        "overview": "",
-        "popularity": 0.134,
-        "poster_path": "/iYsHF2a6M9rsnFUaG32aOsr9QB9.jpg",
-        "release_date": "2025-09-25",
-        "title": "Emmanuelle in Ontario",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/aw0YWwGJRpsps5P4OTner2fvufT.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1515781,
-        "original_language": "en",
-        "original_title": "Blurred",
-        "overview": "",
-        "popularity": 0.0575,
-        "poster_path": "/2GXoIDqnbotP5LCPJTiYySmyrF8.jpg",
-        "release_date": "2025-09-25",
-        "title": "Blurred",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
         "id": 1530443,
@@ -608,6 +562,30 @@
         "poster_path": "/6AYKqPOBmTL4S6IcV6Ak3cIIomY.jpg",
         "release_date": "2025-09-25",
         "title": "THE LYDIA EFFECT",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aw0YWwGJRpsps5P4OTner2fvufT.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1515781,
+        "original_language": "en",
+        "original_title": "Blurred",
+        "overview": "",
+        "popularity": 0.0575,
+        "poster_path": "/2GXoIDqnbotP5LCPJTiYySmyrF8.jpg",
+        "release_date": "2025-09-25",
+        "title": "Blurred",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -661,6 +639,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1550834,
+        "original_language": "en",
+        "original_title": "The Classless Election of Middlebridge High",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/c2BSYD9h6G6TkCBFOblZnnp4Wp7.jpg",
+        "release_date": "2025-09-25",
+        "title": "The Classless Election of Middlebridge High",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/slYQIjmn2ABUi7jukMinDiwTjTF.jpg",
         "genre_ids": [
             99,
@@ -685,18 +685,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hMqBqhoI2lvzg6rX9LlUDSjWxVz.jpg",
         "genre_ids": [
             35
         ],
-        "id": 1550834,
+        "id": 1551519,
         "original_language": "en",
-        "original_title": "The Classless Election of Middlebridge High",
+        "original_title": "Chips or Crackers",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/c2BSYD9h6G6TkCBFOblZnnp4Wp7.jpg",
+        "popularity": 0.0,
+        "poster_path": "/qDwInCoulsaIT0tJYaNNylQra7s.jpg",
         "release_date": "2025-09-25",
-        "title": "The Classless Election of Middlebridge High",
+        "title": "Chips or Crackers",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1251,6 +1251,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1550237,
+        "original_language": "pt",
+        "original_title": "Cello",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/grlCZp6IFgjYSc55eNV9kbLLm1S.jpg",
+        "release_date": "2025-09-25",
+        "title": "Cello",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27,
             53
         ],
@@ -1292,28 +1314,6 @@
         "genre_ids_zh": [
             "纪录",
             "音乐"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1550237,
-        "original_language": "pt",
-        "original_title": "Cello",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/grlCZp6IFgjYSc55eNV9kbLLm1S.jpg",
-        "release_date": "2025-09-25",
-        "title": "Cello",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1387,28 +1387,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1462322,
-        "original_language": "it",
-        "original_title": "Le città di pianura",
-        "overview": "",
-        "popularity": 1.0917,
-        "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
-        "release_date": "2025-09-25",
-        "title": "Le città di pianura",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/zxc0WpfIDuiLbOgJHF2e1yYiVH3.jpg",
         "genre_ids": [
             35
@@ -1424,6 +1402,28 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bPAPAsM4jB2CE9mxDpWHYB1HitB.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1462322,
+        "original_language": "it",
+        "original_title": "Le città di pianura",
+        "overview": "",
+        "popularity": 1.0917,
+        "poster_path": "/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg",
+        "release_date": "2025-09-25",
+        "title": "Le città di pianura",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧"
         ],
