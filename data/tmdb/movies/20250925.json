@@ -95,6 +95,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1552004,
+        "original_language": "zh",
+        "original_title": "愛．還記得",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lEht5y2eTZZ1nltpMT9mitXL4nn.jpg",
+        "release_date": "2025-09-25",
+        "title": "愛．還記得",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/zrsPMMwSxNTufRhTumspUkDEck4.jpg",
         "genre_ids": [
             27,
@@ -114,6 +136,28 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rwr72iFVJbcxPkWN97tOPzGuOVa.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1219620,
+        "original_language": "en",
+        "original_title": "All That's Left of You",
+        "overview": "一名巴勒斯坦少年被卷入西岸抗议活动后，他的母亲讲述了这个家庭关于希望、勇气和不懈斗争的故事，这些故事导致了这个命运攸关的时刻。",
+        "popularity": 4.3864,
+        "poster_path": "/8OTAu88K9r9wqlLXux1mbnHmyPF.jpg",
+        "release_date": "2025-09-25",
+        "title": "唯有追忆",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -742,7 +786,7 @@
         "original_title": "A Body that Lives",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": null,
+        "poster_path": "/2IwgrXfrPFf8oo4qyPoo216W5GZ.jpg",
         "release_date": "2025-09-25",
         "title": "A Body that Lives",
         "video": false,
@@ -874,8 +918,8 @@
         "release_date": "2025-09-25",
         "title": "อีสานอำพราง",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
@@ -1084,30 +1128,6 @@
             "纪录"
         ],
         "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3qShzq9S6Bou2VGAn650TulBip.jpg",
-        "genre_ids": [
-            18,
-            36
-        ],
-        "id": 1530366,
-        "original_language": "es",
-        "original_title": "San Simón",
-        "overview": "",
-        "popularity": 0.4063,
-        "poster_path": "/cWiMdSubSSurRkpYgi9TVafdiEr.jpg",
-        "release_date": "2025-09-25",
-        "title": "San Simón",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "历史"
-        ],
-        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,

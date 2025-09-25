@@ -161,28 +161,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gTsJUnMUCBaiN8jyrKXwB2P7QmD.jpg",
-        "genre_ids": [
-            37
-        ],
-        "id": 1127992,
-        "original_language": "en",
-        "original_title": "Long Shadows",
-        "overview": "",
-        "popularity": 3.0661,
-        "poster_path": "/4nUowgm89E98RUSRe6BqMm0TIFx.jpg",
-        "release_date": "2025-09-26",
-        "title": "Long Shadows",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "西部"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -1247,7 +1225,7 @@
         "id": 1267319,
         "original_language": "ko",
         "original_title": "사마귀",
-        "overview": "　　王牌杀手韩蔚（外号：螳螂）结束长假回归后，试图挖角他的杀手们蜂拥而至。当他重新踏入这个无秩序世界时，他向既是老友又是竞争对手的在伊提议以自己的名字成立一家能超越的MK的公司。另一方面，韩蔚昔日师父独孤则接手了MK娱乐成了新代表，他向韩蔚警告在伊并不是位好搭档。这三人纠结的关系与微妙的抗衡……谁才能成为暗黑世界的新主宰。",
+        "overview": "　　王牌杀手韩蔚（外号：螳螂）结束长假回归后，试图挖角他的杀手们蜂拥而至。当他重新踏入这个无秩序世界时，他向既是老友又是竞争对手的在伊提议以自己的名字成立一家能超越MK的公司。另一方面，韩蔚昔日师父独孤则接手了MK娱乐成了新代表，他向韩蔚警告在伊并不是位好搭档。这三人纠结的关系与微妙的抗衡……谁才能成为暗黑世界的新主宰。",
         "popularity": 3.2906,
         "poster_path": "/5u7hjCTc3ven73OoW6xlAgZwmJj.jpg",
         "release_date": "2025-09-26",
@@ -1775,6 +1753,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/y2ZAZgCXXLshkuOt8fUYkaWAcDO.jpg",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1551942,
+        "original_language": "es",
+        "original_title": "La Voz de la Barranca",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4Evj3wgRblCSLhvgKMjJk0tsosp.jpg",
+        "release_date": "2025-09-26",
+        "title": "La Voz de la Barranca",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1551529,
@@ -1970,16 +1972,38 @@
         "id": 1227739,
         "original_language": "hi",
         "original_title": "Homebound",
-        "overview": "",
+        "overview": "北印度村庄的两个好友为寻求尊严而竞逐警察职位，但在愈发绝望的追逐中，他们的友谊逐渐崩裂。",
         "popularity": 2.7489,
         "poster_path": "/vyezjSvSdLO0bvr6jSNuFi6yuiw.jpg",
         "release_date": "2025-09-26",
-        "title": "Homebound",
+        "title": "归途",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1486860,
+        "original_language": "hi",
+        "original_title": "Haunted 3D: Ghosts of the Past",
+        "overview": "",
+        "popularity": 2.0769,
+        "poster_path": null,
+        "release_date": "2025-09-26",
+        "title": "Haunted 3D: Ghosts of the Past",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "印地语"
     },
