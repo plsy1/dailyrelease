@@ -128,8 +128,8 @@
         "release_date": "2025-09-26",
         "title": "The Astronaut",
         "video": false,
-        "vote_average": 3.0,
-        "vote_count": 1,
+        "vote_average": 6.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "恐怖",
             "科幻",
@@ -183,28 +183,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/m7v8HADUw4NSOMVXgBc7pcPnJv4.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1514535,
-        "original_language": "en",
-        "original_title": "Mona Mur in Conversation",
-        "overview": "",
-        "popularity": 2.6001,
-        "poster_path": "/rLRjoLgxRTF9CuQ1NdbnOzackP5.jpg",
-        "release_date": "2025-09-26",
-        "title": "Mona Mur in Conversation",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -224,50 +202,6 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6AK5MOWFItnOKTfrH3w1Y91Jbya.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1400379,
-        "original_language": "en",
-        "original_title": "The Librarians",
-        "overview": "",
-        "popularity": 2.3799,
-        "poster_path": "/f2xA2e81wBiRxio32kRJe42P05M.jpg",
-        "release_date": "2025-09-26",
-        "title": "The Librarians",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/fhorCuoWlQiKSX5RyPOweSldbly.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1248518,
-        "original_language": "en",
-        "original_title": "Irvine Welsh: Reality Is Not Enough",
-        "overview": "",
-        "popularity": 1.9229,
-        "poster_path": "/a2Un0j4VAVbpDYOASGyfG5Ym5Td.jpg",
-        "release_date": "2025-09-26",
-        "title": "Irvine Welsh: Reality Is Not Enough",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -297,6 +231,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/m7v8HADUw4NSOMVXgBc7pcPnJv4.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1514535,
+        "original_language": "en",
+        "original_title": "Mona Mur in Conversation",
+        "overview": "",
+        "popularity": 2.6001,
+        "poster_path": "/rLRjoLgxRTF9CuQ1NdbnOzackP5.jpg",
+        "release_date": "2025-09-26",
+        "title": "Mona Mur in Conversation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6AK5MOWFItnOKTfrH3w1Y91Jbya.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1400379,
+        "original_language": "en",
+        "original_title": "The Librarians",
+        "overview": "",
+        "popularity": 2.3799,
+        "poster_path": "/f2xA2e81wBiRxio32kRJe42P05M.jpg",
+        "release_date": "2025-09-26",
+        "title": "The Librarians",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/p2RgijgHG64xsZg9PD7cImJaGib.jpg",
         "genre_ids": [
             10402,
@@ -316,6 +294,52 @@
         "genre_ids_zh": [
             "音乐",
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fhorCuoWlQiKSX5RyPOweSldbly.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1248518,
+        "original_language": "en",
+        "original_title": "Irvine Welsh: Reality Is Not Enough",
+        "overview": "",
+        "popularity": 1.9229,
+        "poster_path": "/a2Un0j4VAVbpDYOASGyfG5Ym5Td.jpg",
+        "release_date": "2025-09-26",
+        "title": "Irvine Welsh: Reality Is Not Enough",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jxW32YiXb6MErBv5W3wriKXkFb2.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1237923,
+        "original_language": "en",
+        "original_title": "A Night Like This",
+        "overview": "",
+        "popularity": 1.7544,
+        "poster_path": "/8P0aTq8P1HTOTMfHLcxQfDPhFzP.jpg",
+        "release_date": "2025-09-26",
+        "title": "A Night Like This",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -357,30 +381,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/jxW32YiXb6MErBv5W3wriKXkFb2.jpg",
-        "genre_ids": [
-            10749,
-            18
-        ],
-        "id": 1237923,
-        "original_language": "en",
-        "original_title": "A Night Like This",
-        "overview": "",
-        "popularity": 1.7544,
-        "poster_path": "/8P0aTq8P1HTOTMfHLcxQfDPhFzP.jpg",
-        "release_date": "2025-09-26",
-        "title": "A Night Like This",
-        "video": false,
-        "vote_average": 1.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "爱情",
-            "剧情"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -453,23 +453,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/cZHalumKN0GG845kijoTEyzFmFQ.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            53
         ],
-        "id": 1341328,
+        "id": 1220302,
         "original_language": "en",
-        "original_title": "The Only Way Out Is Through",
+        "original_title": "Cognitive",
         "overview": "",
-        "popularity": 0.8866,
-        "poster_path": "/rWwthFxvnx9rrc2IaMl94Wzy3Mh.jpg",
+        "popularity": 1.057,
+        "poster_path": "/3qo0Dz6pJMkA6MfAWtY2ZEwMDZA.jpg",
         "release_date": "2025-09-26",
-        "title": "The Only Way Out Is Through",
+        "title": "Cognitive",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -497,23 +497,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/cZHalumKN0GG845kijoTEyzFmFQ.jpg",
         "genre_ids": [
-            53
+            18
         ],
-        "id": 1220302,
+        "id": 1341328,
         "original_language": "en",
-        "original_title": "Cognitive",
+        "original_title": "The Only Way Out Is Through",
         "overview": "",
-        "popularity": 1.057,
-        "poster_path": "/3qo0Dz6pJMkA6MfAWtY2ZEwMDZA.jpg",
+        "popularity": 0.8866,
+        "poster_path": "/rWwthFxvnx9rrc2IaMl94Wzy3Mh.jpg",
         "release_date": "2025-09-26",
-        "title": "Cognitive",
+        "title": "The Only Way Out Is Through",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚"
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/no6dKGJ9BTb96bHFGwUOqh4felS.jpg",
+        "genre_ids": [
+            28,
+            27
+        ],
+        "id": 1244126,
+        "original_language": "en",
+        "original_title": "The Demon Detective",
+        "overview": "",
+        "popularity": 0.8499,
+        "poster_path": "/oXev6xUuTeH8tIg44j3hw1UtK4T.jpg",
+        "release_date": "2025-09-26",
+        "title": "The Demon Detective",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -541,30 +565,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/htuzAXfOikISkO2UmLzUOwZFjC3.jpg",
-        "genre_ids": [
-            10402,
-            10751
-        ],
-        "id": 1530521,
-        "original_language": "en",
-        "original_title": "Dude Perfect: The Hero Tour",
-        "overview": "",
-        "popularity": 0.6306,
-        "poster_path": "/2JYroMWovbJsDBPYoIw8hsDXFaq.jpg",
-        "release_date": "2025-09-26",
-        "title": "Dude Perfect: The Hero Tour",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/gxamDyGuO1CKFLfN0g5xtA34zoK.jpg",
         "genre_ids": [
             99
@@ -587,25 +587,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/no6dKGJ9BTb96bHFGwUOqh4felS.jpg",
+        "backdrop_path": "/htuzAXfOikISkO2UmLzUOwZFjC3.jpg",
         "genre_ids": [
-            28,
-            27
+            10402,
+            10751
         ],
-        "id": 1244126,
+        "id": 1530521,
         "original_language": "en",
-        "original_title": "The Demon Detective",
+        "original_title": "Dude Perfect: The Hero Tour",
         "overview": "",
-        "popularity": 0.8499,
-        "poster_path": "/oXev6xUuTeH8tIg44j3hw1UtK4T.jpg",
+        "popularity": 0.6306,
+        "poster_path": "/2JYroMWovbJsDBPYoIw8hsDXFaq.jpg",
         "release_date": "2025-09-26",
-        "title": "The Demon Detective",
+        "title": "Dude Perfect: The Hero Tour",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动作",
-            "恐怖"
+            "音乐",
+            "家庭"
         ],
         "original_language_zh": "英语"
     },
@@ -699,20 +699,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1547737,
+        "backdrop_path": "/iRAGPRJ1bS6LeQEdFMlBUWu6ak5.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1509559,
         "original_language": "en",
-        "original_title": "Lala's Land",
+        "original_title": "Sunphlowers",
         "overview": "",
-        "popularity": 0.1658,
-        "poster_path": "/mDCRZrv3t4SGfLQJlgA6IAlmsSS.jpg",
+        "popularity": 0.2412,
+        "poster_path": "/3VmCjiYsz2xL5IqPlywHwJeTwNP.jpg",
         "release_date": "2025-09-26",
-        "title": "Lala's Land",
+        "title": "Sunphlowers",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -759,152 +763,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iRAGPRJ1bS6LeQEdFMlBUWu6ak5.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1509559,
-        "original_language": "en",
-        "original_title": "Sunphlowers",
-        "overview": "",
-        "popularity": 0.2412,
-        "poster_path": "/3VmCjiYsz2xL5IqPlywHwJeTwNP.jpg",
-        "release_date": "2025-09-26",
-        "title": "Sunphlowers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1538069,
-        "original_language": "en",
-        "original_title": "heartbroken",
-        "overview": "",
-        "popularity": 0.1097,
-        "poster_path": "/buNI1nZumuibLUOGV1C2bvDm6v0.jpg",
-        "release_date": "2025-09-26",
-        "title": "heartbroken",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/ymY4AZbgvLkgjdR010hK1lkKk18.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1544514,
-        "original_language": "en",
-        "original_title": "Gentle, Angry Women",
-        "overview": "",
-        "popularity": 0.1183,
-        "poster_path": "/eK0ltzse1KLhnldMOLfPEsVh4GP.jpg",
-        "release_date": "2025-09-26",
-        "title": "Gentle, Angry Women",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/x1ZbJbD3pEubRQFKhu2vRUDcCMi.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1534789,
-        "original_language": "en",
-        "original_title": "Horror Spell",
-        "overview": "",
-        "popularity": 0.0646,
-        "poster_path": "/4V1NtO6KkR9KmdpR4huyNZGJ3B1.jpg",
-        "release_date": "2025-09-26",
-        "title": "Horror Spell",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1550261,
+        "id": 1547737,
         "original_language": "en",
-        "original_title": "Salty",
+        "original_title": "Lala's Land",
         "overview": "",
-        "popularity": 0.0689,
-        "poster_path": "/2JGtt9e5qZahBhXvrNLV8uDOi1x.jpg",
+        "popularity": 0.1658,
+        "poster_path": "/mDCRZrv3t4SGfLQJlgA6IAlmsSS.jpg",
         "release_date": "2025-09-26",
-        "title": "Salty",
+        "title": "Lala's Land",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1451120,
-        "original_language": "en",
-        "original_title": "Paradaïz",
-        "overview": "",
-        "popularity": 0.0714,
-        "poster_path": "/auJUslX2Ly4e5EuNc2Qsl0K4e06.jpg",
-        "release_date": "2025-09-26",
-        "title": "Paradaïz",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/52x4GcigLp1etbc1SmDIgxM0UcI.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1550387,
-        "original_language": "en",
-        "original_title": "Crickhopper the Musician",
-        "overview": "",
-        "popularity": 0.0571,
-        "poster_path": "/mdq9nBIy6Zkio5ZsMd6PpfqUEmO.jpg",
-        "release_date": "2025-09-26",
-        "title": "Crickhopper the Musician",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -933,20 +805,154 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ymY4AZbgvLkgjdR010hK1lkKk18.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1544514,
+        "original_language": "en",
+        "original_title": "Gentle, Angry Women",
+        "overview": "",
+        "popularity": 0.1183,
+        "poster_path": "/eK0ltzse1KLhnldMOLfPEsVh4GP.jpg",
+        "release_date": "2025-09-26",
+        "title": "Gentle, Angry Women",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1538069,
+        "original_language": "en",
+        "original_title": "heartbroken",
+        "overview": "",
+        "popularity": 0.1097,
+        "poster_path": "/buNI1nZumuibLUOGV1C2bvDm6v0.jpg",
+        "release_date": "2025-09-26",
+        "title": "heartbroken",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1451120,
+        "original_language": "en",
+        "original_title": "Paradaïz",
+        "overview": "",
+        "popularity": 0.0714,
+        "poster_path": "/auJUslX2Ly4e5EuNc2Qsl0K4e06.jpg",
+        "release_date": "2025-09-26",
+        "title": "Paradaïz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1550177,
+        "id": 1550261,
         "original_language": "en",
-        "original_title": "Papi",
+        "original_title": "Salty",
         "overview": "",
-        "popularity": 0.0297,
-        "poster_path": "/lOf1yLijld60nLlRd0IXwNHqATA.jpg",
+        "popularity": 0.0689,
+        "poster_path": "/2JGtt9e5qZahBhXvrNLV8uDOi1x.jpg",
         "release_date": "2025-09-26",
-        "title": "Papi",
+        "title": "Salty",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x1ZbJbD3pEubRQFKhu2vRUDcCMi.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1534789,
+        "original_language": "en",
+        "original_title": "Horror Spell",
+        "overview": "",
+        "popularity": 0.0646,
+        "poster_path": "/4V1NtO6KkR9KmdpR4huyNZGJ3B1.jpg",
+        "release_date": "2025-09-26",
+        "title": "Horror Spell",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/52x4GcigLp1etbc1SmDIgxM0UcI.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1550387,
+        "original_language": "en",
+        "original_title": "Crickhopper the Musician",
+        "overview": "",
+        "popularity": 0.0571,
+        "poster_path": "/mdq9nBIy6Zkio5ZsMd6PpfqUEmO.jpg",
+        "release_date": "2025-09-26",
+        "title": "Crickhopper the Musician",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1551316,
+        "original_language": "en",
+        "original_title": "Three Dates",
+        "overview": "",
+        "popularity": 0.0496,
+        "poster_path": "/h93wwAhETNyFphhKrXhKrXz0Z9q.jpg",
+        "release_date": "2025-09-26",
+        "title": "Three Dates",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -973,26 +979,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fIQLm8k36llBwAVOCP3E2FlPA0z.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1548817,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1550177,
         "original_language": "en",
-        "original_title": "Cocaine Kills",
+        "original_title": "Papi",
         "overview": "",
-        "popularity": 0.0239,
-        "poster_path": "/snkBepW6AhfwsiaQS5Z42efArle.jpg",
+        "popularity": 0.0297,
+        "poster_path": "/lOf1yLijld60nLlRd0IXwNHqATA.jpg",
         "release_date": "2025-09-26",
-        "title": "Cocaine Kills",
+        "title": "Papi",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1014,6 +1014,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fIQLm8k36llBwAVOCP3E2FlPA0z.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1548817,
+        "original_language": "en",
+        "original_title": "Cocaine Kills",
+        "overview": "",
+        "popularity": 0.0239,
+        "poster_path": "/snkBepW6AhfwsiaQS5Z42efArle.jpg",
+        "release_date": "2025-09-26",
+        "title": "Cocaine Kills",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1193,7 +1217,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ckT96Sn8r1IDNyIBJ1mDZ1Jh2kR.jpg",
+        "backdrop_path": "/8Qc0YukHCByDh11ZqaSwCrXXLOc.jpg",
         "genre_ids": [
             28,
             80
@@ -1201,9 +1225,9 @@
         "id": 1267319,
         "original_language": "ko",
         "original_title": "사마귀",
-        "overview": "　　王牌杀手韩蔚（外号：螳螂）结束长假回归后，试图挖角他的杀手们蜂拥而至。当他重新踏入这个无秩序世界时，他向既是老友又是竞争对手的在伊提议以自己的名字成立一家能超越MK的公司。另一方面，韩蔚昔日师父独孤则接手了MK娱乐成了新代表，他向韩蔚警告在伊并不是位好搭档。这三人纠结的关系与微妙的抗衡……谁才能成为暗黑世界的新主宰。",
+        "overview": "A级王牌杀手螳螂长期休假后回归，试图挖角他的杀手们蜂拥而至，当他重新踏入这个无秩序世界时，他向既是老友又是竞争对手的在伊提议，以自己的名字成立一家能超越MK的公司，螳螂昔日的师父，也是已经退休的传奇杀手独孤则接手了MK娱乐成了新代表，他向螳螂警告在伊并不是个好搭档，三人表面上看似友好，实际上却展开激烈的争斗，究竟谁才能成为暗黑世界的新主宰？",
         "popularity": 3.2906,
-        "poster_path": "/5u7hjCTc3ven73OoW6xlAgZwmJj.jpg",
+        "poster_path": "/n7sCnXm1phbOtzi9uL9jEfXC7WP.jpg",
         "release_date": "2025-09-26",
         "title": "杀手螳螂",
         "video": false,
@@ -1543,6 +1567,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/aUa6L26TpShcPYksyHnXOJg0Vl9.jpg",
+        "genre_ids": [],
+        "id": 1548668,
+        "original_language": "es",
+        "original_title": "ANCORA",
+        "overview": "",
+        "popularity": 0.1883,
+        "poster_path": "/qzEZdympAr3UEpwuoJXd1d0znim.jpg",
+        "release_date": "2025-09-26",
+        "title": "ANCORA",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lT7U6XwjtcTEZZV3GenqDoo8i8x.jpg",
         "genre_ids": [
             18,
@@ -1563,24 +1605,6 @@
             "剧情",
             "家庭"
         ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/aUa6L26TpShcPYksyHnXOJg0Vl9.jpg",
-        "genre_ids": [],
-        "id": 1548668,
-        "original_language": "es",
-        "original_title": "ANCORA",
-        "overview": "",
-        "popularity": 0.1883,
-        "poster_path": "/qzEZdympAr3UEpwuoJXd1d0znim.jpg",
-        "release_date": "2025-09-26",
-        "title": "ANCORA",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1609,6 +1633,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551529,
+        "original_language": "es",
+        "original_title": "TRIPLE UGROL",
+        "overview": "",
+        "popularity": 0.0929,
+        "poster_path": "/os3YGwanwKt2NOTxTOD9qrVJ6n1.jpg",
+        "release_date": "2025-09-26",
+        "title": "TRIPLE UGROL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/9p7PT1HN9jfXJCXTFWj6fPdNOgo.jpg",
         "genre_ids": [
             18
@@ -1626,28 +1668,6 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1492328,
-        "original_language": "es",
-        "original_title": "The Designer is Dead",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/i5Bx0hVCXWX3KEiI5svh5fIfU9q.jpg",
-        "release_date": "2025-09-26",
-        "title": "The Designer is Dead",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1703,6 +1723,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1492328,
+        "original_language": "es",
+        "original_title": "The Designer is Dead",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/i5Bx0hVCXWX3KEiI5svh5fIfU9q.jpg",
+        "release_date": "2025-09-26",
+        "title": "The Designer is Dead",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1776,24 +1818,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551529,
-        "original_language": "es",
-        "original_title": "TRIPLE UGROL",
-        "overview": "",
-        "popularity": 0.0929,
-        "poster_path": "/os3YGwanwKt2NOTxTOD9qrVJ6n1.jpg",
-        "release_date": "2025-09-26",
-        "title": "TRIPLE UGROL",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             18,
             35
@@ -1819,6 +1843,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            53
+        ],
+        "id": 1551032,
+        "original_language": "it",
+        "original_title": "Succede in una notte",
+        "overview": "",
+        "popularity": 0.0614,
+        "poster_path": "/3z5otPxWOMhD7hihnoQwbAKEXme.jpg",
+        "release_date": "2025-09-26",
+        "title": "Succede in una notte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             9648
         ],
@@ -1836,28 +1882,6 @@
         "genre_ids_zh": [
             "剧情",
             "悬疑"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            53
-        ],
-        "id": 1551032,
-        "original_language": "it",
-        "original_title": "Succede in una notte",
-        "overview": "",
-        "popularity": 0.0614,
-        "poster_path": "/3z5otPxWOMhD7hihnoQwbAKEXme.jpg",
-        "release_date": "2025-09-26",
-        "title": "Succede in una notte",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
         ],
         "original_language_zh": "意大利语"
     },
