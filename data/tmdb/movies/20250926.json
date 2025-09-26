@@ -113,6 +113,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1552455,
+        "original_language": "zh",
+        "original_title": "隐武者：大破青龙会",
+        "overview": "《隐武者：大破青龙会》以庄重深厚的家国情怀为落脚点，讲述了隐武者曾缘去异国参加父亲葬礼时，发现父亲留下一枚与“宝藏”有关的戒指。犯罪分子青龙为得到这枚戒指，绑架了曾缘同父异母的妹妹曾光。为完成父亲遗愿，曾缘与青龙展开了一场有勇有谋的斗争，并在过程中发现了父亲年轻时“抛妻弃子”的真正原因……感人至深的情节，拳拳到肉的打戏，都让这部电影引来了众多期待。",
+        "popularity": 0.0,
+        "poster_path": "/cOGFpgQ3voj2ez5CEgTFXRmhjQD.jpg",
+        "release_date": "2025-09-26",
+        "title": "隐武者：大破青龙会",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/8GP1eCp2C2izK9TMtIdYrr77ZaP.jpg",
         "genre_ids": [
             27,
@@ -124,7 +142,7 @@
         "original_title": "The Astronaut",
         "overview": "",
         "popularity": 9.7348,
-        "poster_path": "/yhmAXfDlHItq05dZ6rjGrAlccqb.jpg",
+        "poster_path": "/1c4LWOViOg7hNIgXHuyQgFCoR3H.jpg",
         "release_date": "2025-09-26",
         "title": "The Astronaut",
         "video": false,
@@ -183,10 +201,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/cjdkAdzTt5msNHGr3zjE3CCVn6S.jpg",
+        "backdrop_path": "/yGsEsHlc81Q1i9Z3yoVv394PrlG.jpg",
         "genre_ids": [
-            18,
-            10749
+            10749,
+            18
         ],
         "id": 1319965,
         "original_language": "en",
@@ -200,8 +218,8 @@
         "vote_average": 5.0,
         "vote_count": 1,
         "genre_ids_zh": [
-            "剧情",
-            "爱情"
+            "爱情",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -248,6 +266,34 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9R2dLolKivCnKwevAnh3JZdEaao.jpg",
+        "genre_ids": [
+            18,
+            36,
+            35,
+            10749
+        ],
+        "id": 1106382,
+        "original_language": "en",
+        "original_title": "Bau, Artist at War",
+        "overview": "",
+        "popularity": 2.5751,
+        "poster_path": "/pMLKb0U2XctHx7xAeMxdko4kpCD.jpg",
+        "release_date": "2025-09-26",
+        "title": "Bau, Artist at War",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史",
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -935,6 +981,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1468557,
+        "original_language": "en",
+        "original_title": "Cycles",
+        "overview": "",
+        "popularity": 0.057,
+        "poster_path": "/btH085WKGbJExbhMMZ0ja8Mkgpr.jpg",
+        "release_date": "2025-09-26",
+        "title": "Cycles",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             35
         ],
@@ -953,46 +1021,6 @@
             "剧情",
             "喜剧"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1549227,
-        "original_language": "en",
-        "original_title": "The Apple & The Flower",
-        "overview": "",
-        "popularity": 0.0311,
-        "poster_path": "/7N29VP6OIEtrUyqezW11CLBxqHQ.jpg",
-        "release_date": "2025-09-26",
-        "title": "The Apple & The Flower",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1550177,
-        "original_language": "en",
-        "original_title": "Papi",
-        "overview": "",
-        "popularity": 0.0297,
-        "poster_path": "/lOf1yLijld60nLlRd0IXwNHqATA.jpg",
-        "release_date": "2025-09-26",
-        "title": "Papi",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1253,8 +1281,8 @@
         "release_date": "2025-09-26",
         "title": "杀手螳螂",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动作",
             "犯罪"
@@ -1381,8 +1409,8 @@
         "adult": false,
         "backdrop_path": "/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg",
         "genre_ids": [
-            35,
-            10749
+            10749,
+            35
         ],
         "id": 1289888,
         "original_language": "fr",
@@ -1396,8 +1424,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "爱情"
+            "爱情",
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
