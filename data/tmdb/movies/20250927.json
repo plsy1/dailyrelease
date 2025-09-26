@@ -537,68 +537,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            14,
-            18,
-            12
-        ],
-        "id": 1543263,
-        "original_language": "en",
-        "original_title": "Man of the House",
-        "overview": "",
-        "popularity": 0.1519,
-        "poster_path": "/azYBSkLyXzPIOkGa8Ew5jwFcMXa.jpg",
-        "release_date": "2025-09-27",
-        "title": "Man of the House",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "剧情",
-            "冒险"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1514737,
-        "original_language": "en",
-        "original_title": "Landscam",
-        "overview": "",
-        "popularity": 0.0857,
-        "poster_path": "/bPeNdB5RTmMVxHOXkb6grsyVBra.jpg",
-        "release_date": "2025-09-27",
-        "title": "Landscam",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/8XGxpoATisyBtMFi4Urc98qXfTc.jpg",
-        "genre_ids": [],
-        "id": 1549937,
-        "original_language": "en",
-        "original_title": "T",
-        "overview": "",
-        "popularity": 0.1355,
-        "poster_path": "/z5dmqORj1Ys8vvQwEGcQLqXFLDw.jpg",
-        "release_date": "2025-09-27",
-        "title": "T",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             18,
             10402,
@@ -647,84 +585,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/w2SxF4rYT5dd1dkdpitMZTvbxBc.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1549110,
-        "original_language": "en",
-        "original_title": "Just Me and the Graves",
-        "overview": "",
-        "popularity": 0.1589,
-        "poster_path": "/iNS7OX225hRdyy2P92Lt2kWOQLx.jpg",
-        "release_date": "2025-09-27",
-        "title": "Just Me and the Graves",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xjDLyGiF8sBho6HDP8gG01ZRcuE.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1284945,
-        "original_language": "en",
-        "original_title": "My Fourth Wall",
-        "overview": "",
-        "popularity": 0.0639,
-        "poster_path": "/uw2j1gjPfth8chEi2GmqUGjSV02.jpg",
-        "release_date": "2025-09-27",
-        "title": "My Fourth Wall",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3U9uugs7NqMOU5VPE050DbnQ8Z5.jpg",
-        "genre_ids": [
-            99,
-            35
-        ],
-        "id": 1527703,
-        "original_language": "en",
-        "original_title": "The Courage to Stand Up",
-        "overview": "",
-        "popularity": 0.0482,
-        "poster_path": "/t5RcXyiLwtlmTI065okLTEkNufR.jpg",
-        "release_date": "2025-09-27",
-        "title": "The Courage to Stand Up",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1531113,
+        "id": 1514737,
         "original_language": "en",
-        "original_title": "Surgeons",
+        "original_title": "Landscam",
         "overview": "",
-        "popularity": 0.07,
-        "poster_path": "/lvEIe0ggtVvSPfpNu8vFYiraQjH.jpg",
+        "popularity": 0.0857,
+        "poster_path": "/bPeNdB5RTmMVxHOXkb6grsyVBra.jpg",
         "release_date": "2025-09-27",
-        "title": "Surgeons",
+        "title": "Landscam",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -752,6 +622,46 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1531113,
+        "original_language": "en",
+        "original_title": "Surgeons",
+        "overview": "",
+        "popularity": 0.07,
+        "poster_path": "/lvEIe0ggtVvSPfpNu8vFYiraQjH.jpg",
+        "release_date": "2025-09-27",
+        "title": "Surgeons",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xjDLyGiF8sBho6HDP8gG01ZRcuE.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1284945,
+        "original_language": "en",
+        "original_title": "My Fourth Wall",
+        "overview": "",
+        "popularity": 0.0639,
+        "poster_path": "/uw2j1gjPfth8chEi2GmqUGjSV02.jpg",
+        "release_date": "2025-09-27",
+        "title": "My Fourth Wall",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             53
         ],
@@ -768,6 +678,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3U9uugs7NqMOU5VPE050DbnQ8Z5.jpg",
+        "genre_ids": [
+            99,
+            35
+        ],
+        "id": 1527703,
+        "original_language": "en",
+        "original_title": "The Courage to Stand Up",
+        "overview": "",
+        "popularity": 0.0482,
+        "poster_path": "/t5RcXyiLwtlmTI065okLTEkNufR.jpg",
+        "release_date": "2025-09-27",
+        "title": "The Courage to Stand Up",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -812,30 +746,6 @@
         "backdrop_path": null,
         "genre_ids": [
             35,
-            10749
-        ],
-        "id": 1518499,
-        "original_language": "en",
-        "original_title": "Sunburn",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/2omaWVGHSCNmXiYD30xx6Kf0W2D.jpg",
-        "release_date": "2025-09-27",
-        "title": "Sunburn",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
             27,
             878
         ],
@@ -855,6 +765,46 @@
             "恐怖",
             "科幻"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l4WwcXbeEwTNy6lUoxKak9Ijqp2.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1552251,
+        "original_language": "en",
+        "original_title": "Couch Locked",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/sd6AXcDM6hFEYZF4IaWNAHIFUwS.jpg",
+        "release_date": "2025-09-27",
+        "title": "Couch Locked",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1552121,
+        "original_language": "en",
+        "original_title": "Holding Onto Home",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-09-27",
+        "title": "Holding Onto Home",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -945,42 +895,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/l4WwcXbeEwTNy6lUoxKak9Ijqp2.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            35,
+            10749
         ],
-        "id": 1552251,
+        "id": 1518499,
         "original_language": "en",
-        "original_title": "Couch Locked",
+        "original_title": "Sunburn",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/sd6AXcDM6hFEYZF4IaWNAHIFUwS.jpg",
+        "popularity": 0.0,
+        "poster_path": "/2omaWVGHSCNmXiYD30xx6Kf0W2D.jpg",
         "release_date": "2025-09-27",
-        "title": "Couch Locked",
+        "title": "Sunburn",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "喜剧",
+            "爱情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1552121,
-        "original_language": "en",
-        "original_title": "Holding Onto Home",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2025-09-27",
-        "title": "Holding Onto Home",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1211,28 +1145,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 811585,
-        "original_language": "fr",
-        "original_title": "Out of the Blue",
-        "overview": "",
-        "popularity": 0.2035,
-        "poster_path": "/bRI4pfzb921g0tgv4mJEL2c5apd.jpg",
-        "release_date": "2025-09-27",
-        "title": "Out of the Blue",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
         "id": 1549625,
@@ -1248,6 +1160,28 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 811585,
+        "original_language": "fr",
+        "original_title": "Out of the Blue",
+        "overview": "",
+        "popularity": 0.2035,
+        "poster_path": "/bRI4pfzb921g0tgv4mJEL2c5apd.jpg",
+        "release_date": "2025-09-27",
+        "title": "Out of the Blue",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
@@ -1292,6 +1226,40 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p9oXDuXVU1DzWLgOzdQwgLvqPQR.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            27,
+            36,
+            14,
+            35
+        ],
+        "id": 1552650,
+        "original_language": "fr",
+        "original_title": "LA FAMILLE MANJPOT",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7UIHJUSiVECNcrqCXNlPgXXuTGp.jpg",
+        "release_date": "2025-09-27",
+        "title": "LA FAMILLE MANJPOT",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "悬疑",
+            "犯罪",
+            "恐怖",
+            "历史",
+            "奇幻",
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
