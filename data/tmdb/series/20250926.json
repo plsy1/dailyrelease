@@ -134,7 +134,7 @@
         "original_language": "en",
         "original_name": "Believers: Boston Red Sox",
         "overview": "",
-        "popularity": 0.2199,
+        "popularity": 0.1653,
         "poster_path": null,
         "first_air_date": "2025-09-26",
         "name": "Believers: Boston Red Sox",
@@ -142,6 +142,32 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 301589,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "en",
+        "original_name": "Feluda Pherot : Jawto Kando Kathmandute",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-09-26",
+        "name": "Feluda Pherot : Jawto Kando Kathmandute",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -156,7 +182,7 @@
         "original_language": "en",
         "original_name": "Janaawar - The Beast Within",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0857,
         "poster_path": null,
         "first_air_date": "2025-09-26",
         "name": "Janaawar - The Beast Within",
@@ -359,7 +385,7 @@
         "original_language": "tr",
         "original_name": "Kaosun Anatomisi",
         "overview": "",
-        "popularity": 0.6189,
+        "popularity": 0.7218,
         "poster_path": "/z8mk1BCFDg6IF625t3mJhat5Cyq.jpg",
         "first_air_date": "2025-09-26",
         "name": "Kaosun Anatomisi",
@@ -382,13 +408,39 @@
         "original_language": "sv",
         "original_name": "Färjan",
         "overview": "",
-        "popularity": 0.0966,
+        "popularity": 0.1922,
         "poster_path": "/e8DLYSyGyAGVvljR14CBJHztelI.jpg",
         "first_air_date": "2025-09-26",
         "name": "Färjan",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 301588,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Quiet in Class",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jcaNKTnKeiF8rZFLKRjljyYjWNL.jpg",
+        "first_air_date": "2025-09-26",
+        "name": "Quiet in Class",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "犯罪"
+        ],
         "original_language_zh": "瑞典语"
     }
 ]
