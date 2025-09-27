@@ -477,30 +477,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/lZwQIQDJn7Ipjc8WHEeqHk6AX5e.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1545445,
-        "original_language": "en",
-        "original_title": "Ann Be Cloud",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/tOzxAKKA6EXcNRki2yz4yXkdkrd.jpg",
-        "release_date": "2025-09-28",
-        "title": "Ann Be Cloud",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/5KBI88PIXeZRg1ixwUcHeRVGBT6.jpg",
         "genre_ids": [],
         "id": 1536455,
@@ -1021,28 +997,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mJc9XfbzlQUxRI4AeZ05c05zGpT.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1527655,
-        "original_language": "nl",
-        "original_title": "Brada's",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/yLjqa5d8fSvyhmJvibi1lZJ5TBF.jpg",
-        "release_date": "2025-09-28",
-        "title": "Brada's",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/9F0Fl9Yt8UuIBSWyvw8LLAeWcza.jpg",
         "genre_ids": [
             80,
@@ -1064,6 +1018,28 @@
             "犯罪",
             "剧情",
             "科幻"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mJc9XfbzlQUxRI4AeZ05c05zGpT.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1527655,
+        "original_language": "nl",
+        "original_title": "Brada's",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/yLjqa5d8fSvyhmJvibi1lZJ5TBF.jpg",
+        "release_date": "2025-09-28",
+        "title": "Brada's",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "荷兰语"
     },
