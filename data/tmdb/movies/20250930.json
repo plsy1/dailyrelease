@@ -60,8 +60,8 @@
         "release_date": "2025-09-30",
         "title": "脏局",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 3.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "犯罪"
         ],
@@ -189,32 +189,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mtVmTqcaHJ9RBu0D0b2gH3eOcQw.jpg",
-        "genre_ids": [
-            18,
-            80,
-            10749
-        ],
-        "id": 1512507,
-        "original_language": "en",
-        "original_title": "\"What's Up with Mick McLachlan?\"",
-        "overview": "",
-        "popularity": 0.2274,
-        "poster_path": "/tK1pr8NlAYAH6Vx4mAa3O7fuP7Z.jpg",
-        "release_date": "2025-09-30",
-        "title": "\"What's Up with Mick McLachlan?\"",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "犯罪",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -236,6 +210,82 @@
             "剧情",
             "喜剧",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18,
+            37
+        ],
+        "id": 1552318,
+        "original_language": "en",
+        "original_title": "Can't Kill A Cowboy",
+        "overview": "",
+        "popularity": 0.2543,
+        "poster_path": "/tynpsy7rVrwrWYXyDOAf8WZcuDP.jpg",
+        "release_date": "2025-09-30",
+        "title": "Can't Kill A Cowboy",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "西部"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uDyVtHXZzc5z1TQ3dNUOKVXAMpI.jpg",
+        "genre_ids": [
+            99,
+            36
+        ],
+        "id": 1544750,
+        "original_language": "en",
+        "original_title": "Hard Hat Riot",
+        "overview": "",
+        "popularity": 0.2448,
+        "poster_path": null,
+        "release_date": "2025-09-30",
+        "title": "Hard Hat Riot",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mtVmTqcaHJ9RBu0D0b2gH3eOcQw.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 1512507,
+        "original_language": "en",
+        "original_title": "\"What's Up with Mick McLachlan?\"",
+        "overview": "",
+        "popularity": 0.2274,
+        "poster_path": "/tK1pr8NlAYAH6Vx4mAa3O7fuP7Z.jpg",
+        "release_date": "2025-09-30",
+        "title": "\"What's Up with Mick McLachlan?\"",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "犯罪",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -289,74 +339,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/uDyVtHXZzc5z1TQ3dNUOKVXAMpI.jpg",
-        "genre_ids": [
-            99,
-            36
-        ],
-        "id": 1544750,
-        "original_language": "en",
-        "original_title": "Hard Hat Riot",
-        "overview": "",
-        "popularity": 0.2448,
-        "poster_path": null,
-        "release_date": "2025-09-30",
-        "title": "Hard Hat Riot",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "历史"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            18,
-            37
-        ],
-        "id": 1552318,
-        "original_language": "en",
-        "original_title": "Can't Kill A Cowboy",
-        "overview": "",
-        "popularity": 0.2543,
-        "poster_path": "/tynpsy7rVrwrWYXyDOAf8WZcuDP.jpg",
-        "release_date": "2025-09-30",
-        "title": "Can't Kill A Cowboy",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情",
-            "西部"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1528433,
-        "original_language": "en",
-        "original_title": "Eight To Eight",
-        "overview": "",
-        "popularity": 0.0832,
-        "poster_path": "/ap79ZUZskbcquyYpsXVc3QZ77m1.jpg",
-        "release_date": "2025-09-30",
-        "title": "Eight To Eight",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -377,6 +359,24 @@
             "喜剧",
             "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1528433,
+        "original_language": "en",
+        "original_title": "Eight To Eight",
+        "overview": "",
+        "popularity": 0.0832,
+        "poster_path": "/ap79ZUZskbcquyYpsXVc3QZ77m1.jpg",
+        "release_date": "2025-09-30",
+        "title": "Eight To Eight",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -466,24 +466,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1539161,
-        "original_language": "en",
-        "original_title": "I Want My D&D",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/6euHnIaVwdy0B5XmKFIH4EPqdxs.jpg",
-        "release_date": "2025-09-30",
-        "title": "I Want My D&D",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             27,
             18
@@ -527,50 +509,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1549689,
+        "id": 1539161,
         "original_language": "en",
-        "original_title": "Meet Me.",
+        "original_title": "I Want My D&D",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/ewj6Oo2zG4xtFtBxXSlRCWx50PQ.jpg",
+        "popularity": 0.0168,
+        "poster_path": "/6euHnIaVwdy0B5XmKFIH4EPqdxs.jpg",
         "release_date": "2025-09-30",
-        "title": "Meet Me.",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1539159,
-        "original_language": "en",
-        "original_title": "A Ghost",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/gLRmUtJWraSQQhpGADeZDnIl8xb.jpg",
-        "release_date": "2025-09-30",
-        "title": "A Ghost",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1539156,
-        "original_language": "en",
-        "original_title": "The Max Headroom Pirate Incidents",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/yKwzm3Rlm0tzaKbqg6oUKAuahfh.jpg",
-        "release_date": "2025-09-30",
-        "title": "The Max Headroom Pirate Incidents",
+        "title": "I Want My D&D",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -646,6 +592,82 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1549689,
+        "original_language": "en",
+        "original_title": "Meet Me.",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/ewj6Oo2zG4xtFtBxXSlRCWx50PQ.jpg",
+        "release_date": "2025-09-30",
+        "title": "Meet Me.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1539159,
+        "original_language": "en",
+        "original_title": "A Ghost",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/gLRmUtJWraSQQhpGADeZDnIl8xb.jpg",
+        "release_date": "2025-09-30",
+        "title": "A Ghost",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1539156,
+        "original_language": "en",
+        "original_title": "The Max Headroom Pirate Incidents",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/yKwzm3Rlm0tzaKbqg6oUKAuahfh.jpg",
+        "release_date": "2025-09-30",
+        "title": "The Max Headroom Pirate Incidents",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1554241,
+        "original_language": "ru",
+        "original_title": "Де дім українців?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6tkHls5J4ZL2vFZAfktjf3x3qvQ.jpg",
+        "release_date": "2025-09-30",
+        "title": "Де дім українців?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
@@ -727,14 +749,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1541364,
+        "id": 1544916,
         "original_language": "de",
-        "original_title": "Voice of My People",
+        "original_title": "Auf der Suche nach der gestohlenen Zeit",
         "overview": "",
-        "popularity": 0.0546,
-        "poster_path": "/rhc7ixOXAJpx3FW1rQC1VFWIwmm.jpg",
+        "popularity": 0.1046,
+        "poster_path": "/3rVki5jzQM40JgxzpJjOCPwekpB.jpg",
         "release_date": "2025-09-30",
-        "title": "Voice of My People",
+        "title": "Auf der Suche nach der gestohlenen Zeit",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -749,14 +771,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1544916,
+        "id": 1541364,
         "original_language": "de",
-        "original_title": "Auf der Suche nach der gestohlenen Zeit",
+        "original_title": "Voice of My People",
         "overview": "",
-        "popularity": 0.1046,
-        "poster_path": "/3rVki5jzQM40JgxzpJjOCPwekpB.jpg",
+        "popularity": 0.0546,
+        "poster_path": "/rhc7ixOXAJpx3FW1rQC1VFWIwmm.jpg",
         "release_date": "2025-09-30",
-        "title": "Auf der Suche nach der gestohlenen Zeit",
+        "title": "Voice of My People",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -815,6 +837,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1554322,
+        "original_language": "fr",
+        "original_title": "Deservoir Rogs",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wpR9WwXQyDkm2ZvwOPRAZ8rmh8m.jpg",
+        "release_date": "2025-09-30",
+        "title": "Deservoir Rogs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1433983,
         "original_language": "es",
         "original_title": "Dilema",
@@ -865,28 +905,6 @@
         "poster_path": "/9ioUpB867ESDWWUbGcK1SzlFkOd.jpg",
         "release_date": "2025-09-30",
         "title": "Seashell",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1554241,
-        "original_language": "ru",
-        "original_title": "Де дім українців?",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/6tkHls5J4ZL2vFZAfktjf3x3qvQ.jpg",
-        "release_date": "2025-09-30",
-        "title": "Де дім українців?",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
