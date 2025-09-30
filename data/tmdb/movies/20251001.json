@@ -1161,6 +1161,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10751,
+            35,
+            16,
+            878
+        ],
+        "id": 1554610,
+        "original_language": "en",
+        "original_title": "The toon dropper Albany slam",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-01",
+        "title": "The toon dropper Albany slam",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "喜剧",
+            "动画",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hyCLGUfROZMN2r6dXuf6Gj33hWN.jpg",
         "genre_ids": [
             80,
@@ -1277,7 +1305,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/effBTHL5wnxJjQI5qIKOwsiw66j.jpg",
+        "backdrop_path": "/t8twfnytLPitdJzNVU1yjP4gjD7.jpg",
         "genre_ids": [
             27
         ],
