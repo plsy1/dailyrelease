@@ -251,26 +251,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 301203,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "gift",
-        "overview": "",
-        "popularity": 0.1383,
-        "poster_path": null,
-        "first_air_date": "2025-10-01",
-        "name": "gift",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 301615,
         "origin_country": [
             "日本"
@@ -282,6 +262,26 @@
         "poster_path": null,
         "first_air_date": "2025-10-01",
         "name": "ファンタスティックPARK",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 301203,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "gift",
+        "overview": "",
+        "popularity": 0.1383,
+        "poster_path": null,
+        "first_air_date": "2025-10-01",
+        "name": "gift",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
