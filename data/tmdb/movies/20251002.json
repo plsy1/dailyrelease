@@ -819,24 +819,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1544646,
-        "original_language": "es",
-        "original_title": "Pulso",
-        "overview": "",
-        "popularity": 0.0837,
-        "poster_path": "/xMSeuPptuxCtq1SKjkAFW8Xcf5C.jpg",
-        "release_date": "2025-10-02",
-        "title": "Pulso",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 1481674,
         "original_language": "es",
         "original_title": "Matrioska",
@@ -854,37 +836,15 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1544641,
-        "original_language": "es",
-        "original_title": "La muerte no es un lugar (al que se puede volver)",
-        "overview": "",
-        "popularity": 0.0689,
-        "poster_path": "/myvIacISBGir0RG3TndUCEWC42N.jpg",
-        "release_date": "2025-10-02",
-        "title": "La muerte no es un lugar (al que se puede volver)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
-        "id": 1544631,
+        "id": 1544646,
         "original_language": "es",
-        "original_title": "Otecito, el osito del tecito",
+        "original_title": "Pulso",
         "overview": "",
-        "popularity": 0.0281,
-        "poster_path": "/pJFKl19tfy8wqpkDIsWNXfOmFrg.jpg",
+        "popularity": 0.0837,
+        "poster_path": "/xMSeuPptuxCtq1SKjkAFW8Xcf5C.jpg",
         "release_date": "2025-10-02",
-        "title": "Otecito, el osito del tecito",
+        "title": "Pulso",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -915,6 +875,46 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1544641,
+        "original_language": "es",
+        "original_title": "La muerte no es un lugar (al que se puede volver)",
+        "overview": "",
+        "popularity": 0.0689,
+        "poster_path": "/myvIacISBGir0RG3TndUCEWC42N.jpg",
+        "release_date": "2025-10-02",
+        "title": "La muerte no es un lugar (al que se puede volver)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i4XpEjWUS75DpBXSKpyoBfbkWQz.jpg",
+        "genre_ids": [],
+        "id": 1457801,
+        "original_language": "es",
+        "original_title": "When Chueca Dies",
+        "overview": "",
+        "popularity": 0.051,
+        "poster_path": "/8xv7go9A4Hn08RI6F4oUgVPyKzj.jpg",
+        "release_date": "2025-10-02",
+        "title": "When Chueca Dies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/b4bEMCt3XGt4sC8VqYwCol7uN0P.jpg",
         "genre_ids": [
             27,
@@ -939,26 +939,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/eD5qCg8XWvbIRmsXmToAMNS86v5.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1552385,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1544631,
         "original_language": "es",
-        "original_title": "Polvo de ángel",
+        "original_title": "Otecito, el osito del tecito",
         "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
+        "popularity": 0.0281,
+        "poster_path": "/pJFKl19tfy8wqpkDIsWNXfOmFrg.jpg",
         "release_date": "2025-10-02",
-        "title": "Polvo de ángel",
+        "title": "Otecito, el osito del tecito",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
@@ -985,20 +979,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/i4XpEjWUS75DpBXSKpyoBfbkWQz.jpg",
-        "genre_ids": [],
-        "id": 1457801,
+        "backdrop_path": "/eD5qCg8XWvbIRmsXmToAMNS86v5.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1552385,
         "original_language": "es",
-        "original_title": "When Chueca Dies",
+        "original_title": "Polvo de ángel",
         "overview": "",
-        "popularity": 0.051,
-        "poster_path": "/8xv7go9A4Hn08RI6F4oUgVPyKzj.jpg",
+        "popularity": 0.0168,
+        "poster_path": "/cVDRiqR5bHZ1XMbHrtH3JxwiWLS.jpg",
         "release_date": "2025-10-02",
-        "title": "When Chueca Dies",
+        "title": "Polvo de ángel",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1119,28 +1119,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1541313,
-        "original_language": "pt",
-        "original_title": "Espelho Cigano",
-        "overview": "",
-        "popularity": 0.1331,
-        "poster_path": "/p5enzBhY2s9Zlwf8bEhmmzQyHmO.jpg",
-        "release_date": "2025-10-02",
-        "title": "Espelho Cigano",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1541094,
@@ -1156,6 +1134,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1541313,
+        "original_language": "pt",
+        "original_title": "Espelho Cigano",
+        "overview": "",
+        "popularity": 0.1331,
+        "poster_path": "/p5enzBhY2s9Zlwf8bEhmmzQyHmO.jpg",
+        "release_date": "2025-10-02",
+        "title": "Espelho Cigano",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1181,6 +1181,30 @@
         "genre_ids_zh": [
             "惊悚",
             "犯罪",
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iVq7eBNRweNaAzehOEcBb6LDODW.jpg",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1541074,
+        "original_language": "pt",
+        "original_title": "Honestino",
+        "overview": "",
+        "popularity": 0.1155,
+        "poster_path": "/1BGtTJD4D1Q8CaISL3AjmotHbiX.jpg",
+        "release_date": "2025-10-02",
+        "title": "Honestino",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
@@ -1250,52 +1274,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1546051,
-        "original_language": "pt",
-        "original_title": "De que Servem Olhos que Não Enxergam?",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/yGZrCKzxgbjsfBib5fVXvApQxq1.jpg",
-        "release_date": "2025-10-02",
-        "title": "De que Servem Olhos que Não Enxergam?",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/iVq7eBNRweNaAzehOEcBb6LDODW.jpg",
-        "genre_ids": [
-            99,
-            18
-        ],
-        "id": 1541074,
-        "original_language": "pt",
-        "original_title": "Honestino",
-        "overview": "",
-        "popularity": 0.1155,
-        "poster_path": "/1BGtTJD4D1Q8CaISL3AjmotHbiX.jpg",
-        "release_date": "2025-10-02",
-        "title": "Honestino",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1018027,
         "original_language": "pt",
@@ -1330,6 +1308,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1546051,
+        "original_language": "pt",
+        "original_title": "De que Servem Olhos que Não Enxergam?",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/yGZrCKzxgbjsfBib5fVXvApQxq1.jpg",
+        "release_date": "2025-10-02",
+        "title": "De que Servem Olhos que Não Enxergam?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1438,6 +1438,30 @@
         "backdrop_path": null,
         "genre_ids": [
             35,
+            10751
+        ],
+        "id": 1527495,
+        "original_language": "ru",
+        "original_title": "Мой друг, кот и Пушкин",
+        "overview": "",
+        "popularity": 0.169,
+        "poster_path": null,
+        "release_date": "2025-10-02",
+        "title": "Мой друг, кот и Пушкин",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "家庭"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
             12,
             10751
         ],
@@ -1480,30 +1504,6 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            10751
-        ],
-        "id": 1527495,
-        "original_language": "ru",
-        "original_title": "Мой друг, кот и Пушкин",
-        "overview": "",
-        "popularity": 0.169,
-        "poster_path": null,
-        "release_date": "2025-10-02",
-        "title": "Мой друг, кот и Пушкин",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "家庭"
         ],
         "original_language_zh": "俄语"
     },
