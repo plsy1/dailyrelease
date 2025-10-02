@@ -135,8 +135,8 @@
         "release_date": "2025-10-03",
         "title": "Killing Faith",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 1.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "惊悚",
             "西部"
@@ -1877,6 +1877,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eDAlBPe1RE5VpZyVU6GqvW20rn7.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1555589,
+        "original_language": "es",
+        "original_title": "Con las manos de ella",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/9P7iLyjEkf7O0esBnCY5HU6n2lz.jpg",
+        "release_date": "2025-10-03",
+        "title": "Con las manos de ella",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/iRxt0yjzFBN0ETPwM5i9IApqTWq.jpg",
         "genre_ids": [
             28,
@@ -1985,28 +2009,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/nfRmDLKkH91JZdhEzc5eI6jgAn2.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1554446,
-        "original_language": "es",
-        "original_title": "La mujer del río",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/qmG5YMHHLxmFvjTgkbaJLwqdeFm.jpg",
-        "release_date": "2025-10-03",
-        "title": "La mujer del río",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1544565,
@@ -2088,30 +2090,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eDAlBPe1RE5VpZyVU6GqvW20rn7.jpg",
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1555589,
-        "original_language": "es",
-        "original_title": "Con las manos de ella",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/9P7iLyjEkf7O0esBnCY5HU6n2lz.jpg",
-        "release_date": "2025-10-03",
-        "title": "Con las manos de ella",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2301,7 +2279,7 @@
         "original_title": "Zwei Staatsanwälte",
         "overview": "",
         "popularity": 0.7971,
-        "poster_path": "/iHfWuAjmnwSVCudNfePyXmdmbuX.jpg",
+        "poster_path": "/qg02Rc4rLCOaOFlNRbp5JC1P0LV.jpg",
         "release_date": "2025-10-03",
         "title": "Zwei Staatsanwälte",
         "video": false,
