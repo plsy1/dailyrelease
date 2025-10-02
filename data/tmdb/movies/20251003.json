@@ -1279,6 +1279,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8IzTUOuxZBNMt3hb6pFGb5cBrA4.jpg",
+        "genre_ids": [
+            16,
+            10402
+        ],
+        "id": 1555998,
+        "original_language": "ja",
+        "original_title": "アイドリッシュセブン First BEAT! 劇場総集編 前編",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3yJVoWc3yQLiVKMdu7XfYtlGC61.jpg",
+        "release_date": "2025-10-03",
+        "title": "アイドリッシュセブン First BEAT! 劇場総集編 前編",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "音乐"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1540650,
@@ -1391,28 +1415,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/pXZN6A025o6BJKMxzomv4RBpNFg.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1486097,
-        "original_language": "de",
-        "original_title": "Kein Land für Niemand - Abschottung eines Einwanderungslandes",
-        "overview": "",
-        "popularity": 0.1836,
-        "poster_path": "/dTN08cYoddwJsHiBeWIv94Azf7R.jpg",
-        "release_date": "2025-10-03",
-        "title": "Kein Land für Niemand - Abschottung eines Einwanderungslandes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ifSLLHAqTigJx51qm6T7CtG04dG.jpg",
         "genre_ids": [
             99
@@ -1435,27 +1437,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rcd8FmKJhsQhcvHyhWhKFptIunA.jpg",
+        "backdrop_path": "/pXZN6A025o6BJKMxzomv4RBpNFg.jpg",
         "genre_ids": [
-            878,
-            18
+            99
         ],
-        "id": 1456058,
-        "original_language": "fr",
-        "original_title": "Halmeoni",
+        "id": 1486097,
+        "original_language": "de",
+        "original_title": "Kein Land für Niemand - Abschottung eines Einwanderungslandes",
         "overview": "",
-        "popularity": 0.242,
-        "poster_path": "/zooyjlFWi4kaPEJ1sE9CArZ7q5Q.jpg",
+        "popularity": 0.1836,
+        "poster_path": "/dTN08cYoddwJsHiBeWIv94Azf7R.jpg",
         "release_date": "2025-10-03",
-        "title": "Halmeoni",
+        "title": "Kein Land für Niemand - Abschottung eines Einwanderungslandes",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
-            "科幻",
-            "剧情"
+            "纪录"
         ],
-        "original_language_zh": "法语"
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
@@ -1476,6 +1476,30 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rcd8FmKJhsQhcvHyhWhKFptIunA.jpg",
+        "genre_ids": [
+            878,
+            18
+        ],
+        "id": 1456058,
+        "original_language": "fr",
+        "original_title": "Halmeoni",
+        "overview": "",
+        "popularity": 0.242,
+        "poster_path": "/zooyjlFWi4kaPEJ1sE9CArZ7q5Q.jpg",
+        "release_date": "2025-10-03",
+        "title": "Halmeoni",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "科幻",
+            "剧情"
         ],
         "original_language_zh": "法语"
     },
@@ -1967,43 +1991,45 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1544565,
-        "original_language": "es",
-        "original_title": "Como cada domingo",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/5SjmUTiGaSwdfmYqU9aqtviNeFA.jpg",
-        "release_date": "2025-10-03",
-        "title": "Como cada domingo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/aIwYzCjvvpV58XegnRRvS0eftIk.jpg",
+        "backdrop_path": "/qFWNvlPy4cLIXgctAaMTMRtRA6i.jpg",
         "genre_ids": [
-            99,
-            16
+            27
         ],
-        "id": 1544273,
+        "id": 1554497,
         "original_language": "es",
-        "original_title": "Lejos es muy lejos para mí",
+        "original_title": "Quitarse el muerto",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/5MKMThMGcJDC7rEIyffj1hXA3NT.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/yjwOLIHv9qq0S17ZxLyLp8tjCbj.jpg",
         "release_date": "2025-10-03",
-        "title": "Lejos es muy lejos para mí",
+        "title": "Quitarse el muerto",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "动画"
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/emM8mf8itYhjmdpZihbuU4ejlCG.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1554476,
+        "original_language": "es",
+        "original_title": "Gula",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/4KBpsKX8Br4839QU8j9SFk6uMA3.jpg",
+        "release_date": "2025-10-03",
+        "title": "Gula",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2070,6 +2096,48 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1544565,
+        "original_language": "es",
+        "original_title": "Como cada domingo",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/5SjmUTiGaSwdfmYqU9aqtviNeFA.jpg",
+        "release_date": "2025-10-03",
+        "title": "Como cada domingo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aIwYzCjvvpV58XegnRRvS0eftIk.jpg",
+        "genre_ids": [
+            99,
+            16
+        ],
+        "id": 1544273,
+        "original_language": "es",
+        "original_title": "Lejos es muy lejos para mí",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/5MKMThMGcJDC7rEIyffj1hXA3NT.jpg",
+        "release_date": "2025-10-03",
+        "title": "Lejos es muy lejos para mí",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2413,7 +2481,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/wns8bz94aua5I9qoJ3k595tVeRI.jpg",
         "genre_ids": [
             99
         ],
@@ -2422,7 +2490,7 @@
         "original_title": "Farmors leriga händer - En film om Lisa Larson",
         "overview": "",
         "popularity": 0.0505,
-        "poster_path": null,
+        "poster_path": "/4Xd39rIlm40BuqhzfsX6qgHmQux.jpg",
         "release_date": "2025-10-03",
         "title": "Farmors leriga händer - En film om Lisa Larson",
         "video": false,
