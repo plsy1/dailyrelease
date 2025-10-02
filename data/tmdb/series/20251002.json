@@ -81,6 +81,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/kARAcjWmKnb9mnDPRTU9zxs5Ad2.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 293010,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "Let's Play クエストだらけのマイライフ",
+        "overview": "　　人生就像游戏，每一步都是选择——\n\n　　22岁就能写代码的天才开发者山姆·杨，从小就是游戏狂人。学生时代整天泡在开发里，终于推出冒险解谜游戏《Ruminate》！但超人气实况主马歇尔·罗给了差评，山姆的开发者之路瞬间被堵死。更惨的是，马歇尔还搬到了隔壁！山姆的上司查尔斯·琼斯、青梅竹马兼常去咖啡店的店员林克·哈德森……因马歇尔的闯入，周围的关系开始微妙变化。被父母过度保护、恋爱经验为零的山姆，面对男性的突然接近手忙脚乱，却也慢慢卸下心防。\n\n　　这场以人生为赌注的最高难度游戏，山姆能否通关——！？",
+        "popularity": 4.4119,
+        "poster_path": "/qBxATYnPbEjcS8ZHNHz01TJPnKe.jpg",
+        "first_air_date": "2025-10-02",
+        "name": "Let's Play 充满挑战的人生",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vDpjG0xmgZ4fJhFW0ZHx0Hzclk.jpg",
         "genre_ids": [
             16,
@@ -185,32 +211,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kARAcjWmKnb9mnDPRTU9zxs5Ad2.jpg",
-        "genre_ids": [
-            16,
-            35
-        ],
-        "id": 293010,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "Let's Play クエストだらけのマイライフ",
-        "overview": "　　人生就像游戏，每一步都是选择——\n\n　　22岁就能写代码的天才开发者山姆·杨，从小就是游戏狂人。学生时代整天泡在开发里，终于推出冒险解谜游戏《Ruminate》！但超人气实况主马歇尔·罗给了差评，山姆的开发者之路瞬间被堵死。更惨的是，马歇尔还搬到了隔壁！山姆的上司查尔斯·琼斯、青梅竹马兼常去咖啡店的店员林克·哈德森……因马歇尔的闯入，周围的关系开始微妙变化。被父母过度保护、恋爱经验为零的山姆，面对男性的突然接近手忙脚乱，却也慢慢卸下心防。\n\n　　这场以人生为赌注的最高难度游戏，山姆能否通关——！？",
-        "popularity": 4.4119,
-        "poster_path": "/qBxATYnPbEjcS8ZHNHz01TJPnKe.jpg",
-        "first_air_date": "2025-10-02",
-        "name": "Let's Play 充满挑战的人生",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "喜剧"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             9648
@@ -249,7 +249,7 @@
         "popularity": 0.6487,
         "poster_path": "/1rslBFEaB3YvPaP6FLnGvtAaCOw.jpg",
         "first_air_date": "2025-10-02",
-        "name": "コアラ絵日記",
+        "name": "无尾熊绘日记",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
