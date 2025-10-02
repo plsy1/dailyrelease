@@ -25,6 +25,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            35
+        ],
+        "id": 1555758,
+        "original_language": "zh",
+        "original_title": "半个老爸",
+        "overview": "从小五音不全的陶有佳执意参加音乐比赛，父亲陶跑百思不得其解。一次意外，让陶跑不得不代替陶有佳参加比赛。在参赛过程中，陶跑意外发现了陶有佳执意参加比赛的真实原因……",
+        "popularity": 0.0,
+        "poster_path": "/27swMh8lgZ92FLZ1THIcHGvzX0h.jpg",
+        "release_date": "2025-10-02",
+        "title": "半个老爸",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "喜剧"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/r8wzFaqCwUr3CBbS4GRbvLPikl.jpg",
         "genre_ids": [
             27,
@@ -465,6 +489,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1553584,
+        "original_language": "en",
+        "original_title": "Scents of the Season",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-02",
+        "title": "Scents of the Season",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1554473,
@@ -511,6 +557,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1555692,
+        "original_language": "en",
+        "original_title": "Florida Panthers' 2025 Stanley Cup Championship Film",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/nL4rFmvXJXIP5yFMmv0k6Wc3iVl.jpg",
+        "release_date": "2025-10-02",
+        "title": "Florida Panthers' 2025 Stanley Cup Championship Film",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1544975,
         "original_language": "en",
         "original_title": "Bloodercream",
@@ -523,6 +587,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sQbJY9ress61v9Pi8BVasdildQY.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1555736,
+        "original_language": "en",
+        "original_title": "The pink mist",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5wmcLZCsIAlH8hQpJMcTiLVRQw4.jpg",
+        "release_date": "2025-10-02",
+        "title": "The pink mist",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -729,6 +815,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1555897,
+        "original_language": "fr",
+        "original_title": "Apocalypse before",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-02",
+        "title": "Apocalypse before",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53
         ],
         "id": 242141,
@@ -910,7 +1020,7 @@
         "original_title": "Funguis",
         "overview": "",
         "popularity": 0.0578,
-        "poster_path": null,
+        "poster_path": "/ujAZsBFHJ7OHLbJGZEk2EQJszJ5.jpg",
         "release_date": "2025-10-02",
         "title": "Funguis",
         "video": false,
@@ -1068,6 +1178,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y2pxAOg9RjEaR5cpa4jdjL3VC78.jpg",
+        "genre_ids": [
+            16,
+            99
+        ],
+        "id": 1555868,
+        "original_language": "es",
+        "original_title": "La diva, mi abuela y yo",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hm1bVezcclwD31OGAHbxJc6Jmro.jpg",
+        "release_date": "2025-10-02",
+        "title": "La diva, mi abuela y yo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1444,6 +1578,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/coCU4WdiAd2ygoGk2X5DI0xGmbB.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1452165,
+        "original_language": "pt",
+        "original_title": "Carta para Elisa",
+        "overview": "",
+        "popularity": 0.0256,
+        "poster_path": "/tJwg4nBiPEQx0xWIWVeJ7BoIj5k.jpg",
+        "release_date": "2025-10-02",
+        "title": "Carta para Elisa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1874,5 +2030,23 @@
             "悬疑"
         ],
         "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yUWy6bu52lsa1A0jytXKsIr3uOf.jpg",
+        "genre_ids": [],
+        "id": 1555405,
+        "original_language": "sv",
+        "original_title": "Magnus Betnér: 50-årsroast",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/fNvUhlPeiebVK0AI7GEZ3nMgOSR.jpg",
+        "release_date": "2025-10-02",
+        "title": "Magnus Betnér: 50-årsroast",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
     }
 ]
