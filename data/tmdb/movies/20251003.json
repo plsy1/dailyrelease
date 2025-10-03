@@ -84,8 +84,8 @@
         "release_date": "2025-10-03",
         "title": "The Partisan",
         "video": false,
-        "vote_average": 6.2,
-        "vote_count": 5,
+        "vote_average": 6.143,
+        "vote_count": 7,
         "genre_ids_zh": [
             "历史",
             "战争",
@@ -938,6 +938,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1555017,
+        "original_language": "en",
+        "original_title": "I'm Haunted 4",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/vBPiEAXcdG76d4O04u34HS66AZO.jpg",
+        "release_date": "2025-10-03",
+        "title": "I'm Haunted 4",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1549957,
         "original_language": "en",
@@ -1040,7 +1062,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            27
+        ],
         "id": 1555022,
         "original_language": "en",
         "original_title": "I'm Haunted 5",
@@ -1052,25 +1076,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1555017,
-        "original_language": "en",
-        "original_title": "I'm Haunted 4",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/vBPiEAXcdG76d4O04u34HS66AZO.jpg",
-        "release_date": "2025-10-03",
-        "title": "I'm Haunted 4",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1163,14 +1171,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1556084,
+        "id": 1556352,
         "original_language": "en",
-        "original_title": "3つのグノシエンヌ",
+        "original_title": "Purple",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/xfUfSZuqANKBO0URi0c1cXvCNJ.jpg",
         "release_date": "2025-10-03",
-        "title": "3つのグノシエンヌ",
+        "title": "Purple",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1240,8 +1248,8 @@
         "release_date": "2025-10-03",
         "title": "Pirt dicA",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "惊悚",
             "剧情",
@@ -1335,6 +1343,24 @@
         "poster_path": "/n9Fg7lcgkVNxYvqXCv9fsvKcShG.jpg",
         "release_date": "2025-10-03",
         "title": "CONNECT 覇者への道　12",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1556084,
+        "original_language": "ja",
+        "original_title": "3つのグノシエンヌ",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-03",
+        "title": "3つのグノシエンヌ",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1630,6 +1656,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5xhCZMWx78HnHKMoM1GUt2NJaY5.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1556160,
+        "original_language": "fr",
+        "original_title": "Nouvelle École et après : Réussir ou mourir",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/7M9g0Ua0YlSJDq4IPIpAyuoq5HV.jpg",
+        "release_date": "2025-10-03",
+        "title": "Nouvelle École et après : Réussir ou mourir",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
@@ -2367,6 +2415,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            10749,
+            878
+        ],
+        "id": 1380784,
+        "original_language": "pt",
+        "original_title": "Minhas Férias",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/uPIsMecuYaYf5tkEPzvZLUaAiZJ.jpg",
+        "release_date": "2025-10-03",
+        "title": "Minhas Férias",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情",
+            "科幻"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27
         ],
         "id": 1555745,
@@ -2374,7 +2448,7 @@
         "original_title": "Fúnebre",
         "overview": "",
         "popularity": 0.0214,
-        "poster_path": null,
+        "poster_path": "/khWUbcBRJYoTqLm2Lu3GKwiP1ds.jpg",
         "release_date": "2025-10-03",
         "title": "Fúnebre",
         "video": false,
@@ -2479,6 +2553,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1553919,
+        "original_language": "nl",
+        "original_title": "Nachtwolken",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/7JGx04UCS5sWSuwFDfbkytifcQg.jpg",
+        "release_date": "2025-10-03",
+        "title": "Nachtwolken",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qRhmpa6OQH9pqUrNfsH6sfVsgZC.jpg",
+        "genre_ids": [
             99
         ],
         "id": 1531926,
@@ -2486,7 +2582,7 @@
         "original_title": "Friz & Wersow. Miłość w czasach online",
         "overview": "",
         "popularity": 0.1025,
-        "poster_path": null,
+        "poster_path": "/1ji4miCZNkn6TALsm3MIDsImeq7.jpg",
         "release_date": "2025-10-03",
         "title": "Friz & Wersow. Miłość w czasach online",
         "video": false,
