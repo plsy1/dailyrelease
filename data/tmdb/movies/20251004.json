@@ -67,27 +67,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zDmgQKrjXZSr99kglMLERVZAqND.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35,
-            27,
-            28
+            99
         ],
-        "id": 1471838,
+        "id": 1547024,
         "original_language": "en",
-        "original_title": "Ally vs the Dead",
+        "original_title": "The Secrets We Bury",
         "overview": "",
-        "popularity": 0.6225,
-        "poster_path": "/DMtbdsbwhfCZceqPlsle7Ca8hV.jpg",
+        "popularity": 0.8329,
+        "poster_path": null,
         "release_date": "2025-10-04",
-        "title": "Ally vs the Dead",
+        "title": "The Secrets We Bury",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "恐怖",
-            "动作"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -111,23 +107,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/zDmgQKrjXZSr99kglMLERVZAqND.jpg",
         "genre_ids": [
-            99
+            35,
+            27,
+            28
         ],
-        "id": 1547024,
+        "id": 1471838,
         "original_language": "en",
-        "original_title": "The Secrets We Bury",
+        "original_title": "Ally vs the Dead",
         "overview": "",
-        "popularity": 0.8329,
-        "poster_path": null,
+        "popularity": 0.6225,
+        "poster_path": "/DMtbdsbwhfCZceqPlsle7Ca8hV.jpg",
         "release_date": "2025-10-04",
-        "title": "The Secrets We Bury",
+        "title": "Ally vs the Dead",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "喜剧",
+            "恐怖",
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -193,6 +193,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1143911,
+        "original_language": "en",
+        "original_title": "Ruin",
+        "overview": "",
+        "popularity": 0.2718,
+        "poster_path": "/75UsaKfSz7GjD8G8K7GldvJ5jb8.jpg",
+        "release_date": "2025-10-04",
+        "title": "Ruin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1545101,
         "original_language": "en",
         "original_title": "Thirst",
@@ -219,24 +237,6 @@
         "poster_path": "/c3jxsjpJnt3urIImdREeTIHifS4.jpg",
         "release_date": "2025-10-04",
         "title": "Progeny",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1143911,
-        "original_language": "en",
-        "original_title": "Ruin",
-        "overview": "",
-        "popularity": 0.2718,
-        "poster_path": "/75UsaKfSz7GjD8G8K7GldvJ5jb8.jpg",
-        "release_date": "2025-10-04",
-        "title": "Ruin",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -285,28 +285,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            9648
-        ],
-        "id": 1552841,
-        "original_language": "en",
-        "original_title": "The Second Voice",
-        "overview": "",
-        "popularity": 0.1303,
-        "poster_path": "/cnzgdE6KdNoOTU8N3wzLJKy6UVJ.jpg",
-        "release_date": "2025-10-04",
-        "title": "The Second Voice",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/tsk9jinBg678UwhI38Dehdzgv46.jpg",
         "genre_ids": [
             16,
@@ -326,6 +304,28 @@
         "genre_ids_zh": [
             "动画",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648
+        ],
+        "id": 1552841,
+        "original_language": "en",
+        "original_title": "The Second Voice",
+        "overview": "",
+        "popularity": 0.1303,
+        "poster_path": "/cnzgdE6KdNoOTU8N3wzLJKy6UVJ.jpg",
+        "release_date": "2025-10-04",
+        "title": "The Second Voice",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -381,24 +381,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1547323,
-        "original_language": "en",
-        "original_title": "Slaughter Slate",
-        "overview": "",
-        "popularity": 0.0622,
-        "poster_path": "/pBOhxkMLPleZ8ZYtNcFazOEyoYB.jpg",
-        "release_date": "2025-10-04",
-        "title": "Slaughter Slate",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 1533214,
         "original_language": "en",
         "original_title": "Guarita",
@@ -411,6 +393,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1542437,
+        "original_language": "en",
+        "original_title": "The Graveyard Shift",
+        "overview": "",
+        "popularity": 0.0658,
+        "poster_path": "/gSl7hUDHbWGBCt2BxizVPx6ylN.jpg",
+        "release_date": "2025-10-04",
+        "title": "The Graveyard Shift",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -573,28 +577,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1542437,
-        "original_language": "en",
-        "original_title": "The Graveyard Shift",
-        "overview": "",
-        "popularity": 0.0658,
-        "poster_path": "/gSl7hUDHbWGBCt2BxizVPx6ylN.jpg",
-        "release_date": "2025-10-04",
-        "title": "The Graveyard Shift",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -807,28 +789,6 @@
         "poster_path": null,
         "release_date": "2025-10-04",
         "title": "Buzzing Bees",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kE5AXDXFMltnPNlskXUdhaityK9.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1530171,
-        "original_language": "en",
-        "original_title": "Manta Dreams",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/rYDFHTY6pPy1UJ67HbcivXNJQUD.jpg",
-        "release_date": "2025-10-04",
-        "title": "Manta Dreams",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1139,6 +1099,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/qMmjJZlYBjYyCHnXIvsplN7vjXX.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1549059,
+        "original_language": "es",
+        "original_title": "Fantasmas",
+        "overview": "",
+        "popularity": 0.1048,
+        "poster_path": "/bN60F2pT5klmuMv0e9TzWwV4N6W.jpg",
+        "release_date": "2025-10-04",
+        "title": "Fantasmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/gVjP7jWZHqD8jpvxLZhPowdOSeZ.jpg",
         "genre_ids": [
             10751,
@@ -1157,6 +1139,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "家庭",
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jESItaTEzTXfP2b1MAm8Pqv6Mdm.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1549039,
+        "original_language": "es",
+        "original_title": "Mr. Mittens",
+        "overview": "",
+        "popularity": 0.0596,
+        "poster_path": "/uTeYiYwjuujFTfMSkgvUiJ9YKQt.jpg",
+        "release_date": "2025-10-04",
+        "title": "Mr. Mittens",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "西班牙语"
@@ -1203,50 +1207,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jESItaTEzTXfP2b1MAm8Pqv6Mdm.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1549039,
-        "original_language": "es",
-        "original_title": "Mr. Mittens",
-        "overview": "",
-        "popularity": 0.0596,
-        "poster_path": "/uTeYiYwjuujFTfMSkgvUiJ9YKQt.jpg",
-        "release_date": "2025-10-04",
-        "title": "Mr. Mittens",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/qMmjJZlYBjYyCHnXIvsplN7vjXX.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1549059,
-        "original_language": "es",
-        "original_title": "Fantasmas",
-        "overview": "",
-        "popularity": 0.1048,
-        "poster_path": "/bN60F2pT5klmuMv0e9TzWwV4N6W.jpg",
-        "release_date": "2025-10-04",
-        "title": "Fantasmas",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/7BD8h6CXQ1Rzh7wAAt5NukjYPPs.jpg",
         "genre_ids": [],
         "id": 1549055,
@@ -1265,28 +1225,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mHYz1Rjqr5IlZjct0dxXhXPb92K.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1549051,
-        "original_language": "es",
-        "original_title": "Algofobia",
-        "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/7Xfw9k6T0mq5uZkjzv52UMjfKi4.jpg",
-        "release_date": "2025-10-04",
-        "title": "Algofobia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1sxCQ5XyHh2RPA2z1o0OQnANq3G.jpg",
         "genre_ids": [
             18
@@ -1299,6 +1237,28 @@
         "poster_path": "/l3RvVKdXBZSQHbnC6Kn5eumOMhB.jpg",
         "release_date": "2025-10-04",
         "title": "Idea Mariposa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mHYz1Rjqr5IlZjct0dxXhXPb92K.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1549051,
+        "original_language": "es",
+        "original_title": "Algofobia",
+        "overview": "",
+        "popularity": 0.0338,
+        "poster_path": "/7Xfw9k6T0mq5uZkjzv52UMjfKi4.jpg",
+        "release_date": "2025-10-04",
+        "title": "Algofobia",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1331,28 +1291,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bRjVHT1yDQn5Fur7RaZHrHIqK4F.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1554964,
-        "original_language": "es",
-        "original_title": "Insania",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/ulEJIh1rnUKuoST32tsVpkJ5tRA.jpg",
-        "release_date": "2025-10-04",
-        "title": "Insania",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/glT2yT7xARnCHT07tUqhl8H3AA5.jpg",
         "genre_ids": [
             27
@@ -1365,6 +1303,28 @@
         "poster_path": "/yfDVCAoWo7vPdOwTxKZ38HhHP2S.jpg",
         "release_date": "2025-10-04",
         "title": "Luz en la oscuridad",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bRjVHT1yDQn5Fur7RaZHrHIqK4F.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1554964,
+        "original_language": "es",
+        "original_title": "Insania",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/ulEJIh1rnUKuoST32tsVpkJ5tRA.jpg",
+        "release_date": "2025-10-04",
+        "title": "Insania",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
