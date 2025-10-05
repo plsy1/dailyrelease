@@ -89,7 +89,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/eNHQ9AuupLhnVi5BCgqCpDVtnFA.jpg",
         "genre_ids": [
             99
         ],
@@ -98,7 +98,7 @@
         "original_title": "Lake Mungo Revisited",
         "overview": "",
         "popularity": 1.0045,
-        "poster_path": "/zV0v6l7L1BjaCNKvzQDFOSUzRfj.jpg",
+        "poster_path": "/fOoyr3WXyV5QQoJG2ISNHjeW8QM.jpg",
         "release_date": "2025-10-05",
         "title": "Lake Mungo Revisited",
         "video": false,
@@ -585,6 +585,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            878
+        ],
+        "id": 1557490,
+        "original_language": "en",
+        "original_title": "NEXUS LOCK",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-05",
+        "title": "NEXUS LOCK",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             18
         ],
@@ -684,6 +706,42 @@
             "剧情"
         ],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wT1nCbsoQQMB6qxO925Gu1AMDaU.jpg",
+        "genre_ids": [],
+        "id": 1557493,
+        "original_language": "th",
+        "original_title": "THE SCENT THAT GIVES YOU THE SCENE",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/fL6KiUyXZo1FHS7oDSwQbpK8xG6.jpg",
+        "release_date": "2025-10-05",
+        "title": "THE SCENT THAT GIVES YOU THE SCENE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yJiGckY4JVkhjBbYENwz44ictYb.jpg",
+        "genre_ids": [],
+        "id": 1557466,
+        "original_language": "de",
+        "original_title": "Ein Sommer in Sommerby",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aIsB4AtZwU1VPB0ihmbMIPahXQd.jpg",
+        "release_date": "2025-10-05",
+        "title": "Ein Sommer in Sommerby",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
