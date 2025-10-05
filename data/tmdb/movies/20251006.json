@@ -49,24 +49,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1509723,
-        "original_language": "en",
-        "original_title": "I Fear The Man I’ve Become",
-        "overview": "",
-        "popularity": 1.1745,
-        "poster_path": "/1Jj3qQShmfxYEdlSJuRzCjxtEjs.jpg",
-        "release_date": "2025-10-06",
-        "title": "I Fear The Man I’ve Become",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/zOvx7Rl1jMO5jh4ToXUl5SqUIkp.jpg",
         "genre_ids": [],
         "id": 1546889,
@@ -77,6 +59,46 @@
         "poster_path": "/yBo1guGONBaW7p0ROUiZDTDlAjO.jpg",
         "release_date": "2025-10-06",
         "title": "What We Carry With Us",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402
+        ],
+        "id": 1548261,
+        "original_language": "en",
+        "original_title": "31 Minutos: Tiny Desk Concert",
+        "overview": "",
+        "popularity": 1.2248,
+        "poster_path": "/zdKnFVdRWjLHv5yqEHccCl16y5b.jpg",
+        "release_date": "2025-10-06",
+        "title": "31 Minutos: Tiny Desk Concert",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1509723,
+        "original_language": "en",
+        "original_title": "I Fear The Man I’ve Become",
+        "overview": "",
+        "popularity": 1.1745,
+        "poster_path": "/1Jj3qQShmfxYEdlSJuRzCjxtEjs.jpg",
+        "release_date": "2025-10-06",
+        "title": "I Fear The Man I’ve Become",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -106,28 +128,6 @@
             "惊悚",
             "科幻",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402
-        ],
-        "id": 1548261,
-        "original_language": "en",
-        "original_title": "31 Minutos: Tiny Desk Concert",
-        "overview": "",
-        "popularity": 1.2248,
-        "poster_path": "/zdKnFVdRWjLHv5yqEHccCl16y5b.jpg",
-        "release_date": "2025-10-06",
-        "title": "31 Minutos: Tiny Desk Concert",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -575,28 +575,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vdCaSS1tIzuyQ1Z4zRVnDNOiQco.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1517124,
-        "original_language": "it",
-        "original_title": "Ferdinando Scianna - Il fotografo dell'ombra",
-        "overview": "",
-        "popularity": 0.7561,
-        "poster_path": "/3W7mxjtWOMHN8hvQ2mXLn706P00.jpg",
-        "release_date": "2025-10-06",
-        "title": "Ferdinando Scianna - Il fotografo dell'ombra",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10402,
@@ -615,6 +593,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐",
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vdCaSS1tIzuyQ1Z4zRVnDNOiQco.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1517124,
+        "original_language": "it",
+        "original_title": "Ferdinando Scianna - Il fotografo dell'ombra",
+        "overview": "",
+        "popularity": 0.7561,
+        "poster_path": "/3W7mxjtWOMHN8hvQ2mXLn706P00.jpg",
+        "release_date": "2025-10-06",
+        "title": "Ferdinando Scianna - Il fotografo dell'ombra",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "纪录"
         ],
         "original_language_zh": "意大利语"
