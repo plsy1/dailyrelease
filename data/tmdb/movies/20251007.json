@@ -171,28 +171,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/b9GBH7vIDQjJmWevOGoUVnl9Yom.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1537147,
-        "original_language": "en",
-        "original_title": "In the Room",
-        "overview": "",
-        "popularity": 0.591,
-        "poster_path": "/dYDL0zBWrQsnJTdodOGFo60YDtP.jpg",
-        "release_date": "2025-10-07",
-        "title": "In the Room",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/jyqdtFZ9lYTjU8pkyggCan0y76x.jpg",
         "genre_ids": [
             99
@@ -265,7 +243,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/b9GBH7vIDQjJmWevOGoUVnl9Yom.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1537147,
+        "original_language": "en",
+        "original_title": "In the Room",
+        "overview": "",
+        "popularity": 0.591,
+        "poster_path": "/dYDL0zBWrQsnJTdodOGFo60YDtP.jpg",
+        "release_date": "2025-10-07",
+        "title": "In the Room",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6g0wje0F6Q5a9YWMyZyv9PqV1oO.jpg",
         "genre_ids": [
             28,
             10770
@@ -403,14 +403,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1539846,
+        "id": 1549897,
         "original_language": "en",
-        "original_title": "My Dad is an Astronaut",
+        "original_title": "The Other Skye",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
+        "popularity": 0.0261,
+        "poster_path": "/slhhMEUFm0EXDViIdnQNsibHmM.jpg",
         "release_date": "2025-10-07",
-        "title": "My Dad is an Astronaut",
+        "title": "The Other Skye",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -421,14 +421,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1549897,
+        "id": 1539846,
         "original_language": "en",
-        "original_title": "The Other Skye",
+        "original_title": "My Dad is an Astronaut",
         "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/slhhMEUFm0EXDViIdnQNsibHmM.jpg",
+        "popularity": 0.0143,
+        "poster_path": null,
         "release_date": "2025-10-07",
-        "title": "The Other Skye",
+        "title": "My Dad is an Astronaut",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
