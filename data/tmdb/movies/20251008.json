@@ -82,8 +82,8 @@
         "release_date": "2025-10-08",
         "title": "创：战神",
         "video": false,
-        "vote_average": 8.5,
-        "vote_count": 2,
+        "vote_average": 8.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "科幻",
             "冒险",
@@ -145,28 +145,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1543942,
-        "original_language": "en",
-        "original_title": "Haunted & Devoted",
-        "overview": "",
-        "popularity": 0.1996,
-        "poster_path": "/gRVSROgVu3j1LgLRuPzYs9HtffZ.jpg",
-        "release_date": "2025-10-08",
-        "title": "Haunted & Devoted",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ltGIxks5IausixW3O369YdokLNe.jpg",
         "genre_ids": [],
         "id": 1555009,
@@ -186,22 +164,40 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1553939,
+        "genre_ids": [],
+        "id": 1555443,
         "original_language": "en",
-        "original_title": "Niccolò",
+        "original_title": "Clash Of The Comics",
         "overview": "",
-        "popularity": 0.0932,
-        "poster_path": "/lFfwEOrrrNcZD8vZxbAZQuBXm77.jpg",
+        "popularity": 0.2225,
+        "poster_path": "/tcl4wl9UHOcJt88MPEvac1x5WXP.jpg",
         "release_date": "2025-10-08",
-        "title": "Niccolò",
+        "title": "Clash Of The Comics",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1543942,
+        "original_language": "en",
+        "original_title": "Haunted & Devoted",
+        "overview": "",
+        "popularity": 0.1996,
+        "poster_path": "/gRVSROgVu3j1LgLRuPzYs9HtffZ.jpg",
+        "release_date": "2025-10-08",
+        "title": "Haunted & Devoted",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -229,24 +225,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1555443,
-        "original_language": "en",
-        "original_title": "Clash Of The Comics",
-        "overview": "",
-        "popularity": 0.2225,
-        "poster_path": "/tcl4wl9UHOcJt88MPEvac1x5WXP.jpg",
-        "release_date": "2025-10-08",
-        "title": "Clash Of The Comics",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/tQ5bPSGyE5lQSXoAerTff5NPz9F.jpg",
         "genre_ids": [
             878,
@@ -266,6 +244,52 @@
         "genre_ids_zh": [
             "科幻",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1553939,
+        "original_language": "en",
+        "original_title": "Niccolò",
+        "overview": "",
+        "popularity": 0.0932,
+        "poster_path": "/lFfwEOrrrNcZD8vZxbAZQuBXm77.jpg",
+        "release_date": "2025-10-08",
+        "title": "Niccolò",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aexVxKSGC2n4LSfaiIzvGTPYNz3.jpg",
+        "genre_ids": [
+            27,
+            28
+        ],
+        "id": 1461601,
+        "original_language": "en",
+        "original_title": "Game Over",
+        "overview": "",
+        "popularity": 0.0687,
+        "poster_path": "/bRUuEWFIUi2PHaY2lVDsO5rdOOy.jpg",
+        "release_date": "2025-10-08",
+        "title": "Game Over",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -295,26 +319,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/aexVxKSGC2n4LSfaiIzvGTPYNz3.jpg",
-        "genre_ids": [
-            27,
-            28
-        ],
-        "id": 1461601,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1537174,
         "original_language": "en",
-        "original_title": "Game Over",
+        "original_title": "粒子のダンス",
         "overview": "",
-        "popularity": 0.0687,
-        "poster_path": "/bRUuEWFIUi2PHaY2lVDsO5rdOOy.jpg",
+        "popularity": 0.0311,
+        "poster_path": null,
         "release_date": "2025-10-08",
-        "title": "Game Over",
+        "title": "粒子のダンス",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "动作"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -364,24 +382,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1537174,
-        "original_language": "en",
-        "original_title": "粒子のダンス",
-        "overview": "",
-        "popularity": 0.0311,
-        "poster_path": null,
-        "release_date": "2025-10-08",
-        "title": "粒子のダンス",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             27
         ],
@@ -404,6 +404,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1557936,
+        "original_language": "en",
+        "original_title": "Echoes of Resilience: Daughters of Two Rivers",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/wnoCcp0XWyj91qcuTWxbCKIwQFh.jpg",
+        "release_date": "2025-10-08",
+        "title": "Echoes of Resilience: Daughters of Two Rivers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             16
         ],
@@ -421,24 +439,6 @@
         "genre_ids_zh": [
             "动画"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1557936,
-        "original_language": "en",
-        "original_title": "Echoes of Resilience: Daughters of Two Rivers",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/wnoCcp0XWyj91qcuTWxbCKIwQFh.jpg",
-        "release_date": "2025-10-08",
-        "title": "Echoes of Resilience: Daughters of Two Rivers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -635,6 +635,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/o64QqIHlkjh1y5Hh1laEosuCQtl.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1549177,
+        "original_language": "es",
+        "original_title": "Desesperadas medidas",
+        "overview": "",
+        "popularity": 0.1078,
+        "poster_path": "/4AdDUY5rmuLl8UuyqoNgBMXf645.jpg",
+        "release_date": "2025-10-08",
+        "title": "Desesperadas medidas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/7FA610UmwJJqZdX6gMnLgEAO4Dd.jpg",
         "genre_ids": [
             18,
@@ -654,28 +676,6 @@
         "genre_ids_zh": [
             "剧情",
             "家庭"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/o64QqIHlkjh1y5Hh1laEosuCQtl.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1549177,
-        "original_language": "es",
-        "original_title": "Desesperadas medidas",
-        "overview": "",
-        "popularity": 0.1078,
-        "poster_path": "/4AdDUY5rmuLl8UuyqoNgBMXf645.jpg",
-        "release_date": "2025-10-08",
-        "title": "Desesperadas medidas",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
