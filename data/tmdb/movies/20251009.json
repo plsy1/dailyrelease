@@ -980,6 +980,32 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            9648
+        ],
+        "id": 1558934,
+        "original_language": "es",
+        "original_title": "El oso de peluche",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xZy1l9oJ57ClkSs7ndgs7OH7h3W.jpg",
+        "release_date": "2025-10-09",
+        "title": "El oso de peluche",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "悬疑"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1558658,
         "original_language": "es",

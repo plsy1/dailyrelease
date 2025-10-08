@@ -82,8 +82,8 @@
         "release_date": "2025-10-08",
         "title": "创：战神",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 5,
+        "vote_average": 7.7,
+        "vote_count": 6,
         "genre_ids_zh": [
             "科幻",
             "冒险",
@@ -108,8 +108,8 @@
         "release_date": "2025-10-08",
         "title": "Roofman",
         "video": false,
-        "vote_average": 8.0,
-        "vote_count": 1,
+        "vote_average": 7.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "犯罪",
             "剧情",
@@ -146,19 +146,23 @@
     {
         "adult": false,
         "backdrop_path": "/ltGIxks5IausixW3O369YdokLNe.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 1555009,
         "original_language": "en",
-        "original_title": "The Diary Of A CEO: Louis Tomlinson",
+        "original_title": "The Diary of a CEO: Louis Tomlinson",
         "overview": "",
         "popularity": 0.3168,
         "poster_path": "/jC3iAwxC9W6k9ikyRij4PLIYDVt.jpg",
         "release_date": "2025-10-08",
-        "title": "The Diary Of A CEO: Louis Tomlinson",
+        "title": "The Diary of a CEO: Louis Tomlinson",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
