@@ -121,6 +121,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
+        "genre_ids": [
+            35,
+            18,
+            10768
+        ],
+        "id": 225647,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Boots",
+        "overview": "一时冲动加入美国海军陆战队后，一名被霸凌的青少年在背景各异的新兵中找到了新目标和意想不到的兄弟情谊。",
+        "popularity": 3.5483,
+        "poster_path": "/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+        "first_air_date": "2025-10-09",
+        "name": "军靴男孩",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "战争与政治"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/23z5vyz8DoUOIc4Bok8pNVXVMcr.jpg",
         "genre_ids": [
             18,
@@ -147,34 +175,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7a78G7fisRp9N9upjyX5b3GNRNI.jpg",
-        "genre_ids": [
-            35,
-            18,
-            10768
-        ],
-        "id": 225647,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Boots",
-        "overview": "",
-        "popularity": 3.5483,
-        "poster_path": "/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
-        "first_air_date": "2025-10-09",
-        "name": "Boots",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情",
-            "战争与政治"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/8yy8zWNVESHVcs0azqfDH4sLqk6.jpg",
         "genre_ids": [
             99
@@ -185,11 +185,11 @@
         ],
         "original_language": "en",
         "original_name": "Victoria Beckham",
-        "overview": "",
+        "overview": "走进维多利亚·贝克汉姆的伦敦工作室，跟随这位辣妹出身的实力派设计师为巴黎时装周做准备，听她讲述自己的生活。",
         "popularity": 1.2286,
-        "poster_path": "/tPwT7WIiTZ6TB84EjzkY7kYwiRD.jpg",
+        "poster_path": "/dJjWMwWk86zMGPQlMvAsptVEDYm.jpg",
         "first_air_date": "2025-10-09",
-        "name": "Victoria Beckham",
+        "name": "维多利亚·贝克汉姆",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -320,6 +320,30 @@
             "剧情"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 302590,
+        "origin_country": [
+            "意大利"
+        ],
+        "original_language": "it",
+        "original_name": "R.I.P. - Roast-in-Peace",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-10-09",
+        "name": "R.I.P. - Roast-in-Peace",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "意大利语"
     },
     {
         "adult": false,
