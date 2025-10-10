@@ -36,7 +36,7 @@
         "original_language": "en",
         "original_name": "Knife Edge: Chasing Michelin Stars",
         "overview": "见证全球顶尖主厨角逐终极荣誉米其林星的历程，体验激动人心的高潮和消磨人心的低潮。这些匿名评审员从未向任何人透露过他们的神秘行径，直到现在。",
-        "popularity": 1.1714,
+        "popularity": 1.7654,
         "poster_path": "/o9eVU92NKvna7ELTf4JlnkP60Mi.jpg",
         "first_air_date": "2025-10-10",
         "name": "Knife Edge: Chasing Michelin Stars",
@@ -49,30 +49,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/184cHTdiUXpf8VWUC2ipTygJfhc.jpg",
-        "genre_ids": [
-            80
-        ],
-        "id": 301586,
-        "origin_country": [
-            "印度"
-        ],
-        "original_language": "hi",
-        "original_name": "Search: The Naina Murder Case",
-        "overview": "",
-        "popularity": 1.1304,
-        "poster_path": "/dsYE7oJoJ9sz93uXbAVHAuynre4.jpg",
-        "first_air_date": "2025-10-10",
-        "name": "Search: The Naina Murder Case",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/2rZa0kML7un3fpK80EkdQwbhTd7.jpg",
         "genre_ids": [],
         "id": 302259,
@@ -82,7 +58,7 @@
         "original_language": "en",
         "original_name": "Carters Haunted House",
         "overview": "",
-        "popularity": 0.1233,
+        "popularity": 0.1518,
         "poster_path": null,
         "first_air_date": "2025-10-10",
         "name": "Carters Haunted House",
@@ -292,6 +268,30 @@
             "家庭"
         ],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/184cHTdiUXpf8VWUC2ipTygJfhc.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 301586,
+        "origin_country": [
+            "印度"
+        ],
+        "original_language": "hi",
+        "original_name": "Search: The Naina Murder Case",
+        "overview": "",
+        "popularity": 1.1304,
+        "poster_path": "/dsYE7oJoJ9sz93uXbAVHAuynre4.jpg",
+        "first_air_date": "2025-10-10",
+        "name": "Search: The Naina Murder Case",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪"
+        ],
+        "original_language_zh": "印地语"
     },
     {
         "adult": false,
