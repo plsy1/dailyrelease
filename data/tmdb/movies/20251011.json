@@ -307,28 +307,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1503865,
-        "original_language": "en",
-        "original_title": "Marilyn Minter: Pretty/Dirty",
-        "overview": "",
-        "popularity": 1.1035,
-        "poster_path": null,
-        "release_date": "2025-10-11",
-        "title": "Marilyn Minter: Pretty/Dirty",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/xAhdv009yERYVSzwVMyyREfOIa6.jpg",
         "genre_ids": [
             18,
@@ -353,6 +331,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1503865,
+        "original_language": "en",
+        "original_title": "Marilyn Minter: Pretty/Dirty",
+        "overview": "",
+        "popularity": 1.1035,
+        "poster_path": null,
+        "release_date": "2025-10-11",
+        "title": "Marilyn Minter: Pretty/Dirty",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mJKWpiPFDDQmYcobmcEgHCUL35w.jpg",
         "genre_ids": [
             27
@@ -370,32 +370,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            53,
-            10770
-        ],
-        "id": 1554622,
-        "original_language": "en",
-        "original_title": "Monster in the Family: The Stacey Kananen Story",
-        "overview": "",
-        "popularity": 0.735,
-        "poster_path": "/5H4fdm6YjdoIwMMCRYcABVYjAQC.jpg",
-        "release_date": "2025-10-11",
-        "title": "Monster in the Family: The Stacey Kananen Story",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚",
-            "电视电影"
         ],
         "original_language_zh": "英语"
     },
@@ -427,21 +401,25 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
+            18,
+            53,
+            10770
         ],
-        "id": 1502939,
+        "id": 1554622,
         "original_language": "en",
-        "original_title": "Harvest Brood",
+        "original_title": "Monster in the Family: The Stacey Kananen Story",
         "overview": "",
-        "popularity": 0.2604,
-        "poster_path": "/xdK42Hxfu7HgULmPitkqUqE8V1M.jpg",
+        "popularity": 0.735,
+        "poster_path": "/5H4fdm6YjdoIwMMCRYcABVYjAQC.jpg",
         "release_date": "2025-10-11",
-        "title": "Harvest Brood",
+        "title": "Monster in the Family: The Stacey Kananen Story",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "剧情",
+            "惊悚",
+            "电视电影"
         ],
         "original_language_zh": "英语"
     },
@@ -495,23 +473,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4nmSwWspK5otMWbGdyhM7vCxtF0.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            99
+            27
         ],
-        "id": 1548196,
+        "id": 1502939,
         "original_language": "en",
-        "original_title": "The Tenderness Tour",
+        "original_title": "Harvest Brood",
         "overview": "",
-        "popularity": 0.2048,
-        "poster_path": "/dXAzmPhT6VR5tgnRp75zQvfJYjR.jpg",
+        "popularity": 0.2604,
+        "poster_path": "/xdK42Hxfu7HgULmPitkqUqE8V1M.jpg",
         "release_date": "2025-10-11",
-        "title": "The Tenderness Tour",
+        "title": "Harvest Brood",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -536,6 +514,94 @@
         "genre_ids_zh": [
             "爱情",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1542072,
+        "original_language": "en",
+        "original_title": "Double Date",
+        "overview": "",
+        "popularity": 0.2076,
+        "poster_path": "/a6O72F8FHTGB4MZvJAeMANTBMZ7.jpg",
+        "release_date": "2025-10-11",
+        "title": "Double Date",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4nmSwWspK5otMWbGdyhM7vCxtF0.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1548196,
+        "original_language": "en",
+        "original_title": "The Tenderness Tour",
+        "overview": "",
+        "popularity": 0.2048,
+        "poster_path": "/dXAzmPhT6VR5tgnRp75zQvfJYjR.jpg",
+        "release_date": "2025-10-11",
+        "title": "The Tenderness Tour",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1531122,
+        "original_language": "en",
+        "original_title": "Riis: The People's Beach",
+        "overview": "",
+        "popularity": 0.2033,
+        "poster_path": "/sMpdBVJnI3LlXqTMslmqiflT7bc.jpg",
+        "release_date": "2025-10-11",
+        "title": "Riis: The People's Beach",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lAjS9IBV7Tp2lVQi9ZDvOMToWt7.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1460927,
+        "original_language": "en",
+        "original_title": "The Amateur Circus",
+        "overview": "",
+        "popularity": 0.2029,
+        "poster_path": "/vvCKCJ9qD1On7sWHo9vJpu5U4B.jpg",
+        "release_date": "2025-10-11",
+        "title": "The Amateur Circus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -583,6 +649,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3bEHwrpwpx4xKDrqr5VxnKtwmRC.jpg",
+        "genre_ids": [
+            99,
+            10751
+        ],
+        "id": 1548249,
+        "original_language": "en",
+        "original_title": "Pauline From 2 to 3",
+        "overview": "",
+        "popularity": 0.1436,
+        "poster_path": "/a7thBZPZlsGCMnF40DWNDAhS31r.jpg",
+        "release_date": "2025-10-11",
+        "title": "Pauline From 2 to 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vpACgTgin6svjo7WPYvbAkv8e3u.jpg",
         "genre_ids": [
             9648,
@@ -611,6 +701,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1547304,
+        "original_language": "en",
+        "original_title": "DreamWalker",
+        "overview": "",
+        "popularity": 0.1129,
+        "poster_path": "/dfI0qT6eKyj54WPDsBsII9ns5XI.jpg",
+        "release_date": "2025-10-11",
+        "title": "DreamWalker",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iha7ZvbeATahEmIcq9aJ8ZFzk8b.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1540771,
+        "original_language": "en",
+        "original_title": "UFC Fight Night 261: Oliveira vs Fiziev",
+        "overview": "",
+        "popularity": 0.0944,
+        "poster_path": "/4yIylzw64rTbCr2mEMlBl8zj8tR.jpg",
+        "release_date": "2025-10-11",
+        "title": "UFC Fight Night 261: Oliveira vs Fiziev",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/npjtmwqxv5rjHCss5AjdihkltRF.jpg",
         "genre_ids": [
             99
@@ -633,18 +767,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/lAjS9IBV7Tp2lVQi9ZDvOMToWt7.jpg",
+        "backdrop_path": "/lneF2l9TVHWiqvncGyf4gFQNm7h.jpg",
         "genre_ids": [
             99
         ],
-        "id": 1460927,
+        "id": 1548257,
         "original_language": "en",
-        "original_title": "The Amateur Circus",
+        "original_title": "Sincerely, Ric",
         "overview": "",
-        "popularity": 0.2029,
-        "poster_path": "/vvCKCJ9qD1On7sWHo9vJpu5U4B.jpg",
+        "popularity": 0.0776,
+        "poster_path": "/72blUaszknYMwSrKs1lI9YfkVRp.jpg",
         "release_date": "2025-10-11",
-        "title": "The Amateur Circus",
+        "title": "Sincerely, Ric",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -655,22 +789,70 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/eDCDg8nva4lEfBeyrjDbWfbQZDQ.jpg",
         "genre_ids": [
             35
         ],
-        "id": 1542072,
+        "id": 1557501,
         "original_language": "en",
-        "original_title": "Double Date",
+        "original_title": "The Parent Teacher Interview",
         "overview": "",
-        "popularity": 0.2076,
-        "poster_path": "/a6O72F8FHTGB4MZvJAeMANTBMZ7.jpg",
+        "popularity": 0.0744,
+        "poster_path": "/mjVl5SBk5wZ04eFOWQniwqNEt0d.jpg",
         "release_date": "2025-10-11",
-        "title": "Double Date",
+        "title": "The Parent Teacher Interview",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rbah4eOQ8SRJxALTX3leI6snuCN.jpg",
+        "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1535833,
+        "original_language": "en",
+        "original_title": "RACCOONS",
+        "overview": "",
+        "popularity": 0.0735,
+        "poster_path": "/aTQkDunmoXlqezWy6WzuHEbFgYD.jpg",
+        "release_date": "2025-10-11",
+        "title": "RACCOONS",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rjcqwKFJthoUGBOrWCcx3gxNs8L.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1547453,
+        "original_language": "en",
+        "original_title": "Blossom Needs A Ride Home",
+        "overview": "",
+        "popularity": 0.0688,
+        "poster_path": "/tTgx86Ol5Xu3nnO0QnoHge3qMO6.jpg",
+        "release_date": "2025-10-11",
+        "title": "Blossom Needs A Ride Home",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -701,117 +883,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/lneF2l9TVHWiqvncGyf4gFQNm7h.jpg",
+        "backdrop_path": "/kuv3ChKWvFucws1Bfw9pF9hDJCO.jpg",
         "genre_ids": [
-            99
-        ],
-        "id": 1548257,
-        "original_language": "en",
-        "original_title": "Sincerely, Ric",
-        "overview": "",
-        "popularity": 0.0776,
-        "poster_path": "/72blUaszknYMwSrKs1lI9YfkVRp.jpg",
-        "release_date": "2025-10-11",
-        "title": "Sincerely, Ric",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3bEHwrpwpx4xKDrqr5VxnKtwmRC.jpg",
-        "genre_ids": [
-            99,
-            10751
-        ],
-        "id": 1548249,
-        "original_language": "en",
-        "original_title": "Pauline From 2 to 3",
-        "overview": "",
-        "popularity": 0.1436,
-        "poster_path": "/a7thBZPZlsGCMnF40DWNDAhS31r.jpg",
-        "release_date": "2025-10-11",
-        "title": "Pauline From 2 to 3",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/iha7ZvbeATahEmIcq9aJ8ZFzk8b.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1540771,
-        "original_language": "en",
-        "original_title": "UFC Fight Night 261: Oliveira vs Fiziev",
-        "overview": "",
-        "popularity": 0.0944,
-        "poster_path": "/4yIylzw64rTbCr2mEMlBl8zj8tR.jpg",
-        "release_date": "2025-10-11",
-        "title": "UFC Fight Night 261: Oliveira vs Fiziev",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rjcqwKFJthoUGBOrWCcx3gxNs8L.jpg",
-        "genre_ids": [
-            27,
             35
         ],
-        "id": 1547453,
+        "id": 1480887,
         "original_language": "en",
-        "original_title": "Blossom Needs A Ride Home",
+        "original_title": "Girlfriend Girlfriend",
         "overview": "",
-        "popularity": 0.0688,
-        "poster_path": "/tTgx86Ol5Xu3nnO0QnoHge3qMO6.jpg",
+        "popularity": 0.052,
+        "poster_path": "/oUEg2PBFMZzAuGEHHApBBIKGvTl.jpg",
         "release_date": "2025-10-11",
-        "title": "Blossom Needs A Ride Home",
+        "title": "Girlfriend Girlfriend",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rbah4eOQ8SRJxALTX3leI6snuCN.jpg",
-        "genre_ids": [
-            35,
-            9648
-        ],
-        "id": 1535833,
-        "original_language": "en",
-        "original_title": "RACCOONS",
-        "overview": "",
-        "popularity": 0.0735,
-        "poster_path": "/aTQkDunmoXlqezWy6WzuHEbFgYD.jpg",
-        "release_date": "2025-10-11",
-        "title": "RACCOONS",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -843,111 +931,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kuv3ChKWvFucws1Bfw9pF9hDJCO.jpg",
+        "backdrop_path": "/bvJ26j90kVWQ43NhvJpXa1CTSqe.jpg",
         "genre_ids": [
-            35
+            18,
+            35,
+            10749
         ],
-        "id": 1480887,
+        "id": 1541893,
         "original_language": "en",
-        "original_title": "Girlfriend Girlfriend",
+        "original_title": "Loverboy",
         "overview": "",
-        "popularity": 0.052,
-        "poster_path": "/oUEg2PBFMZzAuGEHHApBBIKGvTl.jpg",
+        "popularity": 0.0362,
+        "poster_path": "/5ZfFYT50gLcW6eW1JYqBNjrRl4Y.jpg",
         "release_date": "2025-10-11",
-        "title": "Girlfriend Girlfriend",
+        "title": "Loverboy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eDCDg8nva4lEfBeyrjDbWfbQZDQ.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1557501,
-        "original_language": "en",
-        "original_title": "The Parent Teacher Interview",
-        "overview": "",
-        "popularity": 0.0744,
-        "poster_path": "/mjVl5SBk5wZ04eFOWQniwqNEt0d.jpg",
-        "release_date": "2025-10-11",
-        "title": "The Parent Teacher Interview",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1531122,
-        "original_language": "en",
-        "original_title": "Riis: The People's Beach",
-        "overview": "",
-        "popularity": 0.2033,
-        "poster_path": "/sMpdBVJnI3LlXqTMslmqiflT7bc.jpg",
-        "release_date": "2025-10-11",
-        "title": "Riis: The People's Beach",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1547304,
-        "original_language": "en",
-        "original_title": "DreamWalker",
-        "overview": "",
-        "popularity": 0.1129,
-        "poster_path": "/dfI0qT6eKyj54WPDsBsII9ns5XI.jpg",
-        "release_date": "2025-10-11",
-        "title": "DreamWalker",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1557989,
-        "original_language": "en",
-        "original_title": "Gloss Finish",
-        "overview": "",
-        "popularity": 0.0297,
-        "poster_path": "/so4656k2lsQQCnsTUR3ZB5MnEta.jpg",
-        "release_date": "2025-10-11",
-        "title": "Gloss Finish",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
+            "剧情",
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -972,6 +976,28 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1557989,
+        "original_language": "en",
+        "original_title": "Gloss Finish",
+        "overview": "",
+        "popularity": 0.0297,
+        "poster_path": "/so4656k2lsQQCnsTUR3ZB5MnEta.jpg",
+        "release_date": "2025-10-11",
+        "title": "Gloss Finish",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -1018,24 +1044,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1536981,
-        "original_language": "en",
-        "original_title": "Operation Wandering Soul ////////// Ghost Tape Number 10",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/2e1BOPYQZE5p1O92IPq1nH8RHGS.jpg",
-        "release_date": "2025-10-11",
-        "title": "Operation Wandering Soul ////////// Ghost Tape Number 10",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -1057,28 +1065,38 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/bvJ26j90kVWQ43NhvJpXa1CTSqe.jpg",
-        "genre_ids": [
-            18,
-            35,
-            10749
-        ],
-        "id": 1541893,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1536981,
         "original_language": "en",
-        "original_title": "Loverboy",
+        "original_title": "Operation Wandering Soul ////////// Ghost Tape Number 10",
         "overview": "",
-        "popularity": 0.0362,
-        "poster_path": "/5ZfFYT50gLcW6eW1JYqBNjrRl4Y.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/2e1BOPYQZE5p1O92IPq1nH8RHGS.jpg",
         "release_date": "2025-10-11",
-        "title": "Loverboy",
+        "title": "Operation Wandering Soul ////////// Ghost Tape Number 10",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧",
-            "爱情"
-        ],
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1559843,
+        "original_language": "en",
+        "original_title": "laugh",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/rDNvLSkXz9dS9owsVo2egJJ9LNM.jpg",
+        "release_date": "2025-10-11",
+        "title": "laugh",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1106,19 +1124,49 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1559843,
+        "genre_ids": [
+            99
+        ],
+        "id": 1560314,
         "original_language": "en",
-        "original_title": "laugh",
+        "original_title": "ODAMADO",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/rDNvLSkXz9dS9owsVo2egJJ9LNM.jpg",
+        "popularity": 0.0,
+        "poster_path": "/51WETgVUiSTu4MfBpaUZUtlCqp3.jpg",
         "release_date": "2025-10-11",
-        "title": "laugh",
+        "title": "ODAMADO",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53,
+            18
+        ],
+        "id": 1560202,
+        "original_language": "en",
+        "original_title": "The Devil and The Deep Blue Sea",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/njVHKkNFKo8VOV6C2eznOBorQ1S.jpg",
+        "release_date": "2025-10-11",
+        "title": "The Devil and The Deep Blue Sea",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1285,30 +1333,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/b1ZCPoDBfcpQY3lrMgoIVC2u60Q.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1554963,
-        "original_language": "fr",
-        "original_title": "Cendres",
-        "overview": "",
-        "popularity": 0.0393,
-        "poster_path": "/pPP86sCsNnl1z7bpA9LgHihnSFG.jpg",
-        "release_date": "2025-10-11",
-        "title": "Cendres",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10402
@@ -1375,23 +1399,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/b1ZCPoDBfcpQY3lrMgoIVC2u60Q.jpg",
         "genre_ids": [
-            18
+            18,
+            35
         ],
-        "id": 1553178,
+        "id": 1554963,
         "original_language": "fr",
-        "original_title": "Tant que nous sommes immortelles",
+        "original_title": "Cendres",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/3IPLmZrqR0PZT70hXKAbUoP75TV.jpg",
+        "popularity": 0.0393,
+        "poster_path": "/pPP86sCsNnl1z7bpA9LgHihnSFG.jpg",
         "release_date": "2025-10-11",
-        "title": "Tant que nous sommes immortelles",
+        "title": "Cendres",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
-            "剧情"
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -1431,6 +1457,28 @@
         "poster_path": "/98hqcGzvYzsDxR6WHwuYz9z0lR4.jpg",
         "release_date": "2025-10-11",
         "title": "Mon petit ange",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1553178,
+        "original_language": "fr",
+        "original_title": "Tant que nous sommes immortelles",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/3IPLmZrqR0PZT70hXKAbUoP75TV.jpg",
+        "release_date": "2025-10-11",
+        "title": "Tant que nous sommes immortelles",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
