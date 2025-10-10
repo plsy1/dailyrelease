@@ -1485,6 +1485,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ylGtKh2keWpUb72SedaJoFt3Y6h.jpg",
+        "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1490430,
+        "original_language": "es",
+        "original_title": "El Santo Oficio",
+        "overview": "",
+        "popularity": 0.697,
+        "poster_path": "/fW8BbD8ryX0Ko9e9XLSfVDuumoD.jpg",
+        "release_date": "2025-10-11",
+        "title": "El Santo Oficio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -1557,21 +1581,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
+            27,
+            35
         ],
         "id": 1548367,
         "original_language": "es",
         "original_title": "Muertas Vivas",
         "overview": "",
         "popularity": 0.0143,
-        "poster_path": null,
+        "poster_path": "/wv9roc3b3oAMxQin4FBgycFZYcj.jpg",
         "release_date": "2025-10-11",
         "title": "Muertas Vivas",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1658,6 +1684,28 @@
         "genre_ids_zh": [
             "奇幻",
             "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zV7NSWsHchQQYybN3BKRe8fiwPQ.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1543101,
+        "original_language": "es",
+        "original_title": "Contraluz",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/i93wQ1aLahja5MN5iBBgMEKvvm3.jpg",
+        "release_date": "2025-10-11",
+        "title": "Contraluz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },

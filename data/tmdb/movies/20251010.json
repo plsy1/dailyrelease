@@ -20,6 +20,42 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560046,
+        "original_language": "zh",
+        "original_title": "午后茶香",
+        "overview": "讲述了一家茶馆演绎四个不同故事。林小慧得知男友分手真相后追悔；王盛知晓身世想尽孝却痛失母亲；杨曦从反对外甥女婚事到理解支持；李瑾儿夫妻争吵后因意外怀孕和解，展现多样人生。以茶的冷暖自知，上演人生百态。",
+        "popularity": 0.0,
+        "poster_path": "/bAANmptDVZM0ZlN4HbEEvUcfnhE.jpg",
+        "release_date": "2025-10-10",
+        "title": "午后茶香",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560044,
+        "original_language": "zh",
+        "original_title": "金银决",
+        "overview": "遭遇灭门之灾的少年齐君元和自幼失去双亲的梦伊共同在离恨谷长大，他们各自练就了本领之后就各自分开了。多年之后在执行任务中二人再次相遇，在经历了种种磨难之后，终于引出了幕后的指使之人，梦伊饮恨离去，齐君元仍要寻找最终的答案。",
+        "popularity": 0.0,
+        "poster_path": "/48a9UYztlgj73SjX8gOvZlgA5Az.jpg",
+        "release_date": "2025-10-10",
+        "title": "金银决",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -135,6 +171,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1196791,
+        "original_language": "en",
+        "original_title": "Soul on Fire",
+        "overview": "",
+        "popularity": 2.6648,
+        "poster_path": "/w7jakgJVN9EJo9yBUPklt0jpmvs.jpg",
+        "release_date": "2025-10-10",
+        "title": "Soul on Fire",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/s9fYOkIpnjhuv7SxgtmFqDeeRcX.jpg",
         "genre_ids": [
             35,
@@ -155,28 +213,6 @@
         "genre_ids_zh": [
             "喜剧",
             "奇幻",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1196791,
-        "original_language": "en",
-        "original_title": "Soul on Fire",
-        "overview": "",
-        "popularity": 2.6648,
-        "poster_path": "/w7jakgJVN9EJo9yBUPklt0jpmvs.jpg",
-        "release_date": "2025-10-10",
-        "title": "Soul on Fire",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -513,6 +549,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1554454,
+        "original_language": "en",
+        "original_title": "Inmates with Talent",
+        "overview": "",
+        "popularity": 0.2622,
+        "poster_path": "/lbwrdJqadBTaNWulqAUybWhK7SG.jpg",
+        "release_date": "2025-10-10",
+        "title": "Inmates with Talent",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             35,
             14
@@ -603,24 +661,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1554454,
-        "original_language": "en",
-        "original_title": "Inmates with Talent",
-        "overview": "",
-        "popularity": 0.2622,
-        "poster_path": "/lbwrdJqadBTaNWulqAUybWhK7SG.jpg",
-        "release_date": "2025-10-10",
-        "title": "Inmates with Talent",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1096,6 +1136,74 @@
         "genre_ids_zh": [
             "犯罪",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560239,
+        "original_language": "en",
+        "original_title": "Surveillance Film",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cNzZ6qy3dZhexi6qjbu7JNE42Z8.jpg",
+        "release_date": "2025-10-10",
+        "title": "Surveillance Film",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iKxuRbx95DFGQfRcuku9aYWuK7q.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1560123,
+        "original_language": "en",
+        "original_title": "rambo",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5qFJjFCvD6xxWM6doa5ziu70Rk8.jpg",
+        "release_date": "2025-10-10",
+        "title": "rambo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sZTl6AIQSnoVqfKgyzc4migZYjw.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 1560115,
+        "original_language": "en",
+        "original_title": "\"The Bit\"",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/s2BNiY03TOlkBdGFOoWSIGVbZfF.jpg",
+        "release_date": "2025-10-10",
+        "title": "\"The Bit\"",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "犯罪",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -1625,6 +1733,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/egG3US8GESWiL8Kf3CNqOVT8wbE.jpg",
+        "genre_ids": [
+            27,
+            14
+        ],
+        "id": 1466397,
+        "original_language": "es",
+        "original_title": "El Retorno del Alma",
+        "overview": "",
+        "popularity": 0.0533,
+        "poster_path": "/l2UgLosLqItkLFTEiVYAlhUQ4Nw.jpg",
+        "release_date": "2025-10-10",
+        "title": "El Retorno del Alma",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "奇幻"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/9majMoxTAmS8FEEEAvNLNuYkjLQ.jpg",
         "genre_ids": [
             16
@@ -1661,6 +1793,96 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hw6ZXITXTqwYvmQ8MLAe7eeKEdP.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1560097,
+        "original_language": "es",
+        "original_title": "Regresión",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/fOgrqTTIalGRrcEzpT26Z0YiUZ5.jpg",
+        "release_date": "2025-10-10",
+        "title": "Regresión",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b8kDF2nwXi6Xusfyxx6TRTdmh0b.jpg",
+        "genre_ids": [
+            14
+        ],
+        "id": 1560089,
+        "original_language": "es",
+        "original_title": "Fantasmas",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9ZDxfOCJM3n0WKAqRD4PrRdIBU4.jpg",
+        "release_date": "2025-10-10",
+        "title": "Fantasmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ttuvVr1wkAoipjt6mCMiNS4NqyB.jpg",
+        "genre_ids": [
+            14,
+            18
+        ],
+        "id": 1560086,
+        "original_language": "es",
+        "original_title": "Entre Tijeras y Cartón",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/sIIMDpRuqdet752D8yVCyzJrJUH.jpg",
+        "release_date": "2025-10-10",
+        "title": "Entre Tijeras y Cartón",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/778sagmne7lgwex9mTMPU1mKzUz.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1560077,
+        "original_language": "es",
+        "original_title": "El Porteador",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lsuw1nBlOzo02tYeLLH7xBZVnUZ.jpg",
+        "release_date": "2025-10-10",
+        "title": "El Porteador",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1903,6 +2125,50 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1560227,
+        "original_language": "pt",
+        "original_title": "UnWelcome",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gKhzj7qthbXte3supjVUUsFZAcF.jpg",
+        "release_date": "2025-10-10",
+        "title": "UnWelcome",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1557555,
+        "original_language": "ru",
+        "original_title": "Fragments: Electronic Music of Uzbekistan",
+        "overview": "",
+        "popularity": 0.0571,
+        "poster_path": null,
+        "release_date": "2025-10-10",
+        "title": "Fragments: Electronic Music of Uzbekistan",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1556569,
@@ -2124,6 +2390,32 @@
             "纪录"
         ],
         "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x2TXCXr0rj2TlxzSfWiuyegjX0L.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 1553500,
+        "original_language": "tr",
+        "original_title": "Bin Pişman",
+        "overview": "",
+        "popularity": 0.0407,
+        "poster_path": "/ru2BmRd2m1p3kI2YSXKwO8IxL8F.jpg",
+        "release_date": "2025-10-10",
+        "title": "Bin Pişman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "犯罪"
+        ],
+        "original_language_zh": "土耳其语"
     },
     {
         "adult": false,
