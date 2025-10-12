@@ -609,30 +609,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/n559nQraGzgr3FUXLfztYelPWNJ.jpg",
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 1560211,
-        "original_language": "th",
-        "original_title": "Bone Voyage",
-        "overview": "",
-        "popularity": 0.2289,
-        "poster_path": "/oURcb2qPUiYGvCnbn1KrSaWPmed.jpg",
-        "release_date": "2025-10-12",
-        "title": "Bone Voyage",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "泰语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -685,6 +661,24 @@
         "poster_path": null,
         "release_date": "2025-10-12",
         "title": "Black Joy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1561238,
+        "original_language": "en",
+        "original_title": "Silent Fractures",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-12",
+        "title": "Silent Fractures",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -759,6 +753,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1559469,
+        "original_language": "en",
+        "original_title": "Clifton Park",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xyHR89uZBOP17wh74nIS05exuJ9.jpg",
+        "release_date": "2025-10-12",
+        "title": "Clifton Park",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             16
         ],
         "id": 1454946,
@@ -822,6 +838,30 @@
             "家庭"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n559nQraGzgr3FUXLfztYelPWNJ.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1560211,
+        "original_language": "th",
+        "original_title": "Bone Voyage",
+        "overview": "",
+        "popularity": 0.2289,
+        "poster_path": "/oURcb2qPUiYGvCnbn1KrSaWPmed.jpg",
+        "release_date": "2025-10-12",
+        "title": "Bone Voyage",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "泰语"
     },
     {
         "adult": false,
@@ -1170,6 +1210,32 @@
             "历史"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            18,
+            10752
+        ],
+        "id": 1561186,
+        "original_language": "ru",
+        "original_title": "Ermakovsky's First and Last Video...",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dHqCoUUwYq5zk0fxHoW03zqJq8E.jpg",
+        "release_date": "2025-10-12",
+        "title": "Ermakovsky's First and Last Video...",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情",
+            "战争"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
