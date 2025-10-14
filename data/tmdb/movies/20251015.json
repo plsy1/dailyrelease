@@ -15,8 +15,8 @@
         "release_date": "2025-10-15",
         "title": "黑色电话2",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 2,
+        "vote_average": 6.167,
+        "vote_count": 3,
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
@@ -77,28 +77,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/TQRAoUhQdIl4LurXr0WbZI4Dk.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1356053,
-        "original_language": "en",
-        "original_title": "Proclivitas",
-        "overview": "",
-        "popularity": 2.8187,
-        "poster_path": "/rCRTgyxad5T7GRmZtpM7Qdd1SIK.jpg",
-        "release_date": "2025-10-15",
-        "title": "Proclivitas",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ncxdXazDqt7U2wdbWuYhygLzV7z.jpg",
         "genre_ids": [
             18,
@@ -118,6 +96,28 @@
         "genre_ids_zh": [
             "剧情",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/TQRAoUhQdIl4LurXr0WbZI4Dk.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1356053,
+        "original_language": "en",
+        "original_title": "Proclivitas",
+        "overview": "",
+        "popularity": 2.8187,
+        "poster_path": "/rCRTgyxad5T7GRmZtpM7Qdd1SIK.jpg",
+        "release_date": "2025-10-15",
+        "title": "Proclivitas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -185,6 +185,46 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1534335,
+        "original_language": "en",
+        "original_title": "Vital",
+        "overview": "",
+        "popularity": 0.4639,
+        "poster_path": "/bcItlHnctMMU9DWEexAwZFPtp9f.jpg",
+        "release_date": "2025-10-15",
+        "title": "Vital",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1516583,
+        "original_language": "en",
+        "original_title": "The Threshing",
+        "overview": "",
+        "popularity": 0.3139,
+        "poster_path": "/i0fyzdHfqYoSzea8YJAYwE2EMTK.jpg",
+        "release_date": "2025-10-15",
+        "title": "The Threshing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hQ7B0E9mAN7Bod1qvkHKAyWmGbI.jpg",
         "genre_ids": [
             35,
@@ -210,59 +250,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1516583,
-        "original_language": "en",
-        "original_title": "The Threshing",
-        "overview": "",
-        "popularity": 0.3139,
-        "poster_path": "/i0fyzdHfqYoSzea8YJAYwE2EMTK.jpg",
-        "release_date": "2025-10-15",
-        "title": "The Threshing",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
-            18
+            27
         ],
-        "id": 1534335,
+        "id": 1558134,
         "original_language": "en",
-        "original_title": "Vital",
+        "original_title": "Meat Crayon",
         "overview": "",
-        "popularity": 0.4639,
-        "poster_path": "/bcItlHnctMMU9DWEexAwZFPtp9f.jpg",
+        "popularity": 0.2661,
+        "poster_path": "/nOoFaKs3Vkc2BSBUuWwMk0uoKwu.jpg",
         "release_date": "2025-10-15",
-        "title": "Vital",
+        "title": "Meat Crayon",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1548221,
-        "original_language": "en",
-        "original_title": "Spa Night",
-        "overview": "",
-        "popularity": 0.1745,
-        "poster_path": "/11FQfs4s5fgUN46MCa7TM0LbKAX.jpg",
-        "release_date": "2025-10-15",
-        "title": "Spa Night",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -313,28 +317,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xMPMUUoKLfTzfJHWlY02W7Zt3kA.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1541658,
-        "original_language": "en",
-        "original_title": "One Golden Summer",
-        "overview": "",
-        "popularity": 0.2362,
-        "poster_path": "/z0KEkkptc2kNHNrUdES1cZD2vRm.jpg",
-        "release_date": "2025-10-15",
-        "title": "One Golden Summer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1557982,
@@ -353,23 +335,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/xMPMUUoKLfTzfJHWlY02W7Zt3kA.jpg",
         "genre_ids": [
-            27
+            99
         ],
-        "id": 1558134,
+        "id": 1541658,
         "original_language": "en",
-        "original_title": "Meat Crayon",
+        "original_title": "One Golden Summer",
         "overview": "",
-        "popularity": 0.2661,
-        "poster_path": "/nOoFaKs3Vkc2BSBUuWwMk0uoKwu.jpg",
+        "popularity": 0.2362,
+        "poster_path": "/z0KEkkptc2kNHNrUdES1cZD2vRm.jpg",
         "release_date": "2025-10-15",
-        "title": "Meat Crayon",
+        "title": "One Golden Summer",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -399,30 +381,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jpTP4qr32LhoKsHZTkHVtUgZbOg.jpg",
-        "genre_ids": [
-            53,
-            27
-        ],
-        "id": 1458740,
-        "original_language": "en",
-        "original_title": "Wild Party",
-        "overview": "",
-        "popularity": 0.1367,
-        "poster_path": "/oSMcAeB1wae0iNq5dxUt6e7oFfe.jpg",
-        "release_date": "2025-10-15",
-        "title": "Wild Party",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/7Fw7xq0MtJTj0MB0KztndT5E3fe.jpg",
         "genre_ids": [
             18,
@@ -442,6 +400,96 @@
         "genre_ids_zh": [
             "剧情",
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1548221,
+        "original_language": "en",
+        "original_title": "Spa Night",
+        "overview": "",
+        "popularity": 0.1745,
+        "poster_path": "/11FQfs4s5fgUN46MCa7TM0LbKAX.jpg",
+        "release_date": "2025-10-15",
+        "title": "Spa Night",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zUSfUVotzdpESx2CzAudkaoUUVY.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1561859,
+        "original_language": "en",
+        "original_title": "The Old Man at the Bar",
+        "overview": "",
+        "popularity": 0.1714,
+        "poster_path": "/koinAuKu36PlNP5fjhBoEHT7Tyr.jpg",
+        "release_date": "2025-10-15",
+        "title": "The Old Man at the Bar",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1466208,
+        "original_language": "en",
+        "original_title": "Tight & Nerdy",
+        "overview": "",
+        "popularity": 0.1505,
+        "poster_path": "/z6eZBptXy3dOYGF64ACJzbdN0a3.jpg",
+        "release_date": "2025-10-15",
+        "title": "Tight & Nerdy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jpTP4qr32LhoKsHZTkHVtUgZbOg.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1458740,
+        "original_language": "en",
+        "original_title": "Wild Party",
+        "overview": "",
+        "popularity": 0.1367,
+        "poster_path": "/oSMcAeB1wae0iNq5dxUt6e7oFfe.jpg",
+        "release_date": "2025-10-15",
+        "title": "Wild Party",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -475,69 +523,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/2UjC8NHOKajwz9fHL8WdJOUOC5i.jpg",
         "genre_ids": [
+            35,
             27
         ],
-        "id": 1557174,
+        "id": 1549255,
         "original_language": "en",
-        "original_title": "Sweet Child of Mine",
+        "original_title": "A Bad (Facial) Hair Day",
         "overview": "",
-        "popularity": 0.0784,
-        "poster_path": null,
+        "popularity": 0.1251,
+        "poster_path": "/1uvQQn3mQGzgl68NTYeCy4RPi9h.jpg",
         "release_date": "2025-10-15",
-        "title": "Sweet Child of Mine",
+        "title": "A Bad (Facial) Hair Day",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "喜剧",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1553310,
-        "original_language": "en",
-        "original_title": "Winter Sky",
-        "overview": "",
-        "popularity": 0.0831,
-        "poster_path": "/u3tAb8D008SKMbnHu2bg2qsi1RW.jpg",
-        "release_date": "2025-10-15",
-        "title": "Winter Sky",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1466208,
-        "original_language": "en",
-        "original_title": "Tight & Nerdy",
-        "overview": "",
-        "popularity": 0.1505,
-        "poster_path": "/z6eZBptXy3dOYGF64ACJzbdN0a3.jpg",
-        "release_date": "2025-10-15",
-        "title": "Tight & Nerdy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -571,6 +575,72 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1555031,
+        "original_language": "en",
+        "original_title": "Terror Element",
+        "overview": "",
+        "popularity": 0.0954,
+        "poster_path": null,
+        "release_date": "2025-10-15",
+        "title": "Terror Element",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1553310,
+        "original_language": "en",
+        "original_title": "Winter Sky",
+        "overview": "",
+        "popularity": 0.0831,
+        "poster_path": "/u3tAb8D008SKMbnHu2bg2qsi1RW.jpg",
+        "release_date": "2025-10-15",
+        "title": "Winter Sky",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1557174,
+        "original_language": "en",
+        "original_title": "Sweet Child of Mine",
+        "overview": "",
+        "popularity": 0.0784,
+        "poster_path": null,
+        "release_date": "2025-10-15",
+        "title": "Sweet Child of Mine",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             37
         ],
@@ -588,52 +658,6 @@
         "genre_ids_zh": [
             "剧情",
             "西部"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2UjC8NHOKajwz9fHL8WdJOUOC5i.jpg",
-        "genre_ids": [
-            35,
-            27
-        ],
-        "id": 1549255,
-        "original_language": "en",
-        "original_title": "A Bad (Facial) Hair Day",
-        "overview": "",
-        "popularity": 0.1251,
-        "poster_path": "/1uvQQn3mQGzgl68NTYeCy4RPi9h.jpg",
-        "release_date": "2025-10-15",
-        "title": "A Bad (Facial) Hair Day",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1555031,
-        "original_language": "en",
-        "original_title": "Terror Element",
-        "overview": "",
-        "popularity": 0.0954,
-        "poster_path": null,
-        "release_date": "2025-10-15",
-        "title": "Terror Element",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -658,6 +682,78 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 1534593,
+        "original_language": "en",
+        "original_title": "BIG! RUSH!",
+        "overview": "",
+        "popularity": 0.0621,
+        "poster_path": null,
+        "release_date": "2025-10-15",
+        "title": "BIG! RUSH!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1556581,
+        "original_language": "en",
+        "original_title": "Gilbert & George Daytripping Forever!",
+        "overview": "",
+        "popularity": 0.0461,
+        "poster_path": null,
+        "release_date": "2025-10-15",
+        "title": "Gilbert & George Daytripping Forever!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1554923,
+        "original_language": "en",
+        "original_title": "Shiny Precious Things",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": null,
+        "release_date": "2025-10-15",
+        "title": "Shiny Precious Things",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -710,52 +806,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1554923,
-        "original_language": "en",
-        "original_title": "Shiny Precious Things",
-        "overview": "",
-        "popularity": 0.0429,
-        "poster_path": null,
-        "release_date": "2025-10-15",
-        "title": "Shiny Precious Things",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            99
-        ],
-        "id": 1556581,
-        "original_language": "en",
-        "original_title": "Gilbert & George Daytripping Forever!",
-        "overview": "",
-        "popularity": 0.0461,
-        "poster_path": null,
-        "release_date": "2025-10-15",
-        "title": "Gilbert & George Daytripping Forever!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1557927,
         "original_language": "en",
@@ -774,41 +824,15 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            80,
-            53,
-            18
-        ],
-        "id": 1534593,
-        "original_language": "en",
-        "original_title": "BIG! RUSH!",
-        "overview": "",
-        "popularity": 0.0621,
-        "poster_path": null,
-        "release_date": "2025-10-15",
-        "title": "BIG! RUSH!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
-        "id": 1557813,
+        "id": 1556957,
         "original_language": "en",
-        "original_title": "My Name is Forward",
+        "original_title": "Short Sharp Scares: Stille",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/xuYo4whwnNswfBFbyQu9ST76B28.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/pU4X9rmF90MOSy0UvCD9JX40L1R.jpg",
         "release_date": "2025-10-15",
-        "title": "My Name is Forward",
+        "title": "Short Sharp Scares: Stille",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -841,14 +865,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1556957,
+        "id": 1557813,
         "original_language": "en",
-        "original_title": "Short Sharp Scares: Stille",
+        "original_title": "My Name is Forward",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/pU4X9rmF90MOSy0UvCD9JX40L1R.jpg",
+        "popularity": 0.0071,
+        "poster_path": "/xuYo4whwnNswfBFbyQu9ST76B28.jpg",
         "release_date": "2025-10-15",
-        "title": "Short Sharp Scares: Stille",
+        "title": "My Name is Forward",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -874,30 +898,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/zUSfUVotzdpESx2CzAudkaoUUVY.jpg",
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1561859,
-        "original_language": "en",
-        "original_title": "The Old Man at the Bar",
-        "overview": "",
-        "popularity": 0.1714,
-        "poster_path": "/koinAuKu36PlNP5fjhBoEHT7Tyr.jpg",
-        "release_date": "2025-10-15",
-        "title": "The Old Man at the Bar",
-        "video": false,
-        "vote_average": 9.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
