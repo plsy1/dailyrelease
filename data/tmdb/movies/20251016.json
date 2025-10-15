@@ -143,8 +143,8 @@
         "release_date": "2025-10-16",
         "title": "消失的公主",
         "video": false,
-        "vote_average": 6.3,
-        "vote_count": 20,
+        "vote_average": 6.286,
+        "vote_count": 21,
         "genre_ids_zh": [
             "动作",
             "冒险"
@@ -372,6 +372,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1362199,
+        "original_language": "en",
+        "original_title": "Stardust: A Story of Love and Architecture",
+        "overview": "",
+        "popularity": 1.7457,
+        "poster_path": "/hoeCRtPFAkoVTpkMZzq5q2ypwap.jpg",
+        "release_date": "2025-10-16",
+        "title": "Stardust: A Story of Love and Architecture",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             35,
             27,
@@ -569,24 +587,6 @@
         "poster_path": "/f4UgLGogkU4ovZK2Jfmzy8fYUMw.jpg",
         "release_date": "2025-10-16",
         "title": "The Great Entertainer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1548217,
-        "original_language": "en",
-        "original_title": "Bird Boy",
-        "overview": "",
-        "popularity": 0.2969,
-        "poster_path": "/jdzNaGTOIungI7OE9QD0dEIvcSj.jpg",
-        "release_date": "2025-10-16",
-        "title": "Bird Boy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1025,6 +1025,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1557925,
+        "original_language": "en",
+        "original_title": "It’s Just a Fucking Opening",
+        "overview": "",
+        "popularity": 0.0281,
+        "poster_path": "/95OtfNRX36g20Pex6AP51M7K8hO.jpg",
+        "release_date": "2025-10-16",
+        "title": "It’s Just a Fucking Opening",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             16,
             878
         ],
@@ -1253,6 +1277,46 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563112,
+        "original_language": "en",
+        "original_title": "Self Portrait (Decomposed)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "Self Portrait (Decomposed)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1562939,
+        "original_language": "en",
+        "original_title": "For One Night Only",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4bKCzKSJLmW5S9wny8NYDJMzLv7.jpg",
+        "release_date": "2025-10-16",
+        "title": "For One Night Only",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1819,6 +1883,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/lMuN5nUboesQ9JR39JC2bHHLBzc.jpg",
+        "genre_ids": [],
+        "id": 1562214,
+        "original_language": "es",
+        "original_title": "El beso de la muerte",
+        "overview": "",
+        "popularity": 0.0929,
+        "poster_path": "/zlK5by9UBGcW6UZixEUNJJA3zne.jpg",
+        "release_date": "2025-10-16",
+        "title": "El beso de la muerte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -2137,28 +2219,6 @@
         "genre_ids": [
             16
         ],
-        "id": 1562038,
-        "original_language": "es",
-        "original_title": "Susurros y Colmillos",
-        "overview": "",
-        "popularity": 0.0193,
-        "poster_path": "/7w0ou08hke8MTZ7sEKdGIyPbuWv.jpg",
-        "release_date": "2025-10-16",
-        "title": "Susurros y Colmillos",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
         "id": 1562028,
         "original_language": "es",
         "original_title": "ECO",
@@ -2459,24 +2519,6 @@
         "genre_ids_zh": [
             "动画"
         ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lMuN5nUboesQ9JR39JC2bHHLBzc.jpg",
-        "genre_ids": [],
-        "id": 1562214,
-        "original_language": "es",
-        "original_title": "El beso de la muerte",
-        "overview": "",
-        "popularity": 0.0929,
-        "poster_path": "/zlK5by9UBGcW6UZixEUNJJA3zne.jpg",
-        "release_date": "2025-10-16",
-        "title": "El beso de la muerte",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
@@ -3066,6 +3108,50 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1563009,
+        "original_language": "it",
+        "original_title": "Oltre il confine: Le immagini di Mimmo e Francesco Jodice",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "Oltre il confine: Le immagini di Mimmo e Francesco Jodice",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1563003,
+        "original_language": "it",
+        "original_title": "La forza del destino",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "La forza del destino",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "意大利语"
     },
