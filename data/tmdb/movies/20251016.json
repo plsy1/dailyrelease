@@ -129,6 +129,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/7nkyTX6LAzNkplPNGcq0n0J4vKS.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1563169,
+        "original_language": "zh",
+        "original_title": "幽冥花开",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6elpKdCxbBgt4mUXFGeIsoDTk7R.jpg",
+        "release_date": "2025-10-16",
+        "title": "幽冥花开",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
         "genre_ids": [
             28,
@@ -143,8 +165,8 @@
         "release_date": "2025-10-16",
         "title": "消失的公主",
         "video": false,
-        "vote_average": 6.286,
-        "vote_count": 21,
+        "vote_average": 6.304,
+        "vote_count": 23,
         "genre_ids_zh": [
             "动作",
             "冒险"
@@ -273,23 +295,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iAjjxDEtGfXsxlVzNNHImfCuCjN.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            18,
+            10749,
+            14
         ],
-        "id": 1547038,
+        "id": 1550223,
         "original_language": "en",
-        "original_title": "The Shark Is Broken",
+        "original_title": "The Time That Remains",
         "overview": "",
-        "popularity": 1.9427,
-        "poster_path": "/rIG4KKNWz9ms70R7LU43szIfzNP.jpg",
+        "popularity": 2.2285,
+        "poster_path": "/bVELySnD8G6qVd8EIssSGeVNCIc.jpg",
         "release_date": "2025-10-16",
-        "title": "The Shark Is Broken",
+        "title": "The Time That Remains",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "剧情",
+            "爱情",
+            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -312,32 +338,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10749,
-            14
-        ],
-        "id": 1550223,
-        "original_language": "en",
-        "original_title": "The Time That Remains",
-        "overview": "",
-        "popularity": 2.2285,
-        "poster_path": "/bVELySnD8G6qVd8EIssSGeVNCIc.jpg",
-        "release_date": "2025-10-16",
-        "title": "The Time That Remains",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情",
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -371,6 +371,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/iAjjxDEtGfXsxlVzNNHImfCuCjN.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1547038,
+        "original_language": "en",
+        "original_title": "The Shark Is Broken",
+        "overview": "",
+        "popularity": 1.9427,
+        "poster_path": "/rIG4KKNWz9ms70R7LU43szIfzNP.jpg",
+        "release_date": "2025-10-16",
+        "title": "The Shark Is Broken",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bM9G0UGcOnO4p9JgCvvhmkiFonh.jpg",
+        "genre_ids": [
+            28,
+            14,
+            27,
+            53
+        ],
+        "id": 1043197,
+        "original_language": "en",
+        "original_title": "Dust Bunny",
+        "overview": "",
+        "popularity": 1.7637,
+        "poster_path": "/naydqShb7uLeurMojpObOkWiCQt.jpg",
+        "release_date": "2025-10-16",
+        "title": "Dust Bunny",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作",
+            "奇幻",
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1362199,
@@ -381,6 +431,24 @@
         "poster_path": "/hoeCRtPFAkoVTpkMZzq5q2ypwap.jpg",
         "release_date": "2025-10-16",
         "title": "Stardust: A Story of Love and Architecture",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1508031,
+        "original_language": "en",
+        "original_title": "Strip Mall",
+        "overview": "",
+        "popularity": 1.7156,
+        "poster_path": "/qWsPoJPl05O3uSi0flGM6jZdAWf.jpg",
+        "release_date": "2025-10-16",
+        "title": "Strip Mall",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -415,52 +483,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1508031,
-        "original_language": "en",
-        "original_title": "Strip Mall",
-        "overview": "",
-        "popularity": 1.7156,
-        "poster_path": "/qWsPoJPl05O3uSi0flGM6jZdAWf.jpg",
-        "release_date": "2025-10-16",
-        "title": "Strip Mall",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bM9G0UGcOnO4p9JgCvvhmkiFonh.jpg",
-        "genre_ids": [
-            28,
-            14,
-            27,
-            53
-        ],
-        "id": 1043197,
-        "original_language": "en",
-        "original_title": "Dust Bunny",
-        "overview": "",
-        "popularity": 1.7637,
-        "poster_path": "/naydqShb7uLeurMojpObOkWiCQt.jpg",
-        "release_date": "2025-10-16",
-        "title": "Dust Bunny",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "动作",
-            "奇幻",
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/yC12qMWesbH0V6CQVo5TbpL7HrY.jpg",
         "genre_ids": [
             99,
@@ -479,6 +501,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cSRqpyAlIQaS6bfv7LZfWBkbsuB.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1335821,
+        "original_language": "en",
+        "original_title": "Meadowhawk",
+        "overview": "",
+        "popularity": 1.0584,
+        "poster_path": "/59iG9I0VkA14EUfsDuBI1vl3Dr2.jpg",
+        "release_date": "2025-10-16",
+        "title": "Meadowhawk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -504,28 +548,6 @@
         "genre_ids_zh": [
             "剧情",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cSRqpyAlIQaS6bfv7LZfWBkbsuB.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1335821,
-        "original_language": "en",
-        "original_title": "Meadowhawk",
-        "overview": "",
-        "popularity": 1.0584,
-        "poster_path": "/59iG9I0VkA14EUfsDuBI1vl3Dr2.jpg",
-        "release_date": "2025-10-16",
-        "title": "Meadowhawk",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -579,14 +601,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1545240,
+        "id": 1548217,
         "original_language": "en",
-        "original_title": "The Great Entertainer",
+        "original_title": "Bird Boy",
         "overview": "",
-        "popularity": 0.2656,
-        "poster_path": "/f4UgLGogkU4ovZK2Jfmzy8fYUMw.jpg",
+        "popularity": 0.2969,
+        "poster_path": "/jdzNaGTOIungI7OE9QD0dEIvcSj.jpg",
         "release_date": "2025-10-16",
-        "title": "The Great Entertainer",
+        "title": "Bird Boy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -605,6 +627,24 @@
         "poster_path": null,
         "release_date": "2025-10-16",
         "title": "En Plads i Manegen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1545240,
+        "original_language": "en",
+        "original_title": "The Great Entertainer",
+        "overview": "",
+        "popularity": 0.2656,
+        "poster_path": "/f4UgLGogkU4ovZK2Jfmzy8fYUMw.jpg",
+        "release_date": "2025-10-16",
+        "title": "The Great Entertainer",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1031,6 +1071,48 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1551197,
+        "original_language": "en",
+        "original_title": "몬스트로 옵스큐라",
+        "overview": "",
+        "popularity": 0.054,
+        "poster_path": "/yHYYWvnmYSNhq8eddmkNvnOnsqN.jpg",
+        "release_date": "2025-10-16",
+        "title": "몬스트로 옵스큐라",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            878
+        ],
+        "id": 1556621,
+        "original_language": "en",
+        "original_title": "The Gun",
+        "overview": "",
+        "popularity": 0.0404,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "The Gun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1558490,
         "original_language": "en",
         "original_title": "Dogma 65",
@@ -1039,6 +1121,24 @@
         "poster_path": "/bTQwGrZTFHx9B8SHe8IfsYFnXSY.jpg",
         "release_date": "2025-10-16",
         "title": "Dogma 65",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1555040,
+        "original_language": "en",
+        "original_title": "New Territories (Spectacle is King)",
+        "overview": "",
+        "popularity": 0.0339,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "New Territories (Spectacle is King)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1072,25 +1172,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            16,
-            878
-        ],
-        "id": 1556621,
+        "genre_ids": [],
+        "id": 1562102,
         "original_language": "en",
-        "original_title": "The Gun",
+        "original_title": "Se Valiente, el amor vence al miedo",
         "overview": "",
-        "popularity": 0.0404,
+        "popularity": 0.0261,
         "poster_path": null,
         "release_date": "2025-10-16",
-        "title": "The Gun",
+        "title": "Se Valiente, el amor vence al miedo",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "科幻"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1105,24 +1199,6 @@
         "poster_path": "/cIqqsSnz7TJHre4PODbDWkShbsX.jpg",
         "release_date": "2025-10-16",
         "title": "Yolk",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1555040,
-        "original_language": "en",
-        "original_title": "New Territories (Spectacle is King)",
-        "overview": "",
-        "popularity": 0.0339,
-        "poster_path": null,
-        "release_date": "2025-10-16",
-        "title": "New Territories (Spectacle is King)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1153,28 +1229,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1557924,
-        "original_language": "en",
-        "original_title": "Madrina",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-16",
-        "title": "Madrina",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/6awUr35es3gPocLLMphEWoOe5UM.jpg",
         "genre_ids": [
             99
@@ -1191,6 +1245,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            99
+        ],
+        "id": 1561810,
+        "original_language": "en",
+        "original_title": "Vienna Killing",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/1uiIeDnhCrHSaxKCuiGyyB8jpbo.jpg",
+        "release_date": "2025-10-16",
+        "title": "Vienna Killing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
             "纪录"
         ],
         "original_language_zh": "英语"
@@ -1223,23 +1301,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            80,
-            99
+            35,
+            12
         ],
-        "id": 1561810,
+        "id": 1562313,
         "original_language": "en",
-        "original_title": "Vienna Killing",
+        "original_title": "faire un film",
         "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/1uiIeDnhCrHSaxKCuiGyyB8jpbo.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/uKBPC1TL0tNKxztsLK2TcSHoMDF.jpg",
         "release_date": "2025-10-16",
-        "title": "Vienna Killing",
+        "title": "faire un film",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪",
-            "纪录"
+            "喜剧",
+            "冒险"
         ],
         "original_language_zh": "英语"
     },
@@ -1264,53 +1342,17 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1562102,
-        "original_language": "en",
-        "original_title": "Se Valiente, el amor vence al miedo",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": null,
-        "release_date": "2025-10-16",
-        "title": "Se Valiente, el amor vence al miedo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563112,
-        "original_language": "en",
-        "original_title": "Self Portrait (Decomposed)",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "release_date": "2025-10-16",
-        "title": "Self Portrait (Decomposed)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             18
         ],
-        "id": 1562939,
+        "id": 1557924,
         "original_language": "en",
-        "original_title": "For One Night Only",
+        "original_title": "Madrina",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/4bKCzKSJLmW5S9wny8NYDJMzLv7.jpg",
+        "popularity": 0.0143,
+        "poster_path": null,
         "release_date": "2025-10-16",
-        "title": "For One Night Only",
+        "title": "Madrina",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1466,24 +1508,40 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            35,
-            12
-        ],
-        "id": 1562313,
+        "genre_ids": [],
+        "id": 1563112,
         "original_language": "en",
-        "original_title": "faire un film",
+        "original_title": "Self Portrait (Decomposed)",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/uKBPC1TL0tNKxztsLK2TcSHoMDF.jpg",
+        "popularity": 0.0,
+        "poster_path": null,
         "release_date": "2025-10-16",
-        "title": "faire un film",
+        "title": "Self Portrait (Decomposed)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1562939,
+        "original_language": "en",
+        "original_title": "For One Night Only",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4bKCzKSJLmW5S9wny8NYDJMzLv7.jpg",
+        "release_date": "2025-10-16",
+        "title": "For One Night Only",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "冒险"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1802,6 +1860,46 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1558434,
+        "original_language": "es",
+        "original_title": "Aquella Sombra Desvanecía",
+        "overview": "",
+        "popularity": 0.3575,
+        "poster_path": "/rmrck0d4EVt5GWq6vBRoN97wj9G.jpg",
+        "release_date": "2025-10-16",
+        "title": "Aquella Sombra Desvanecía",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1561087,
+        "original_language": "es",
+        "original_title": "Lucy",
+        "overview": "",
+        "popularity": 0.292,
+        "poster_path": "/84wVo9Pj1fMGRem1U51wAcpgUTb.jpg",
+        "release_date": "2025-10-16",
+        "title": "Lucy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             18
         ],
@@ -1824,19 +1922,45 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1558434,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562096,
         "original_language": "es",
-        "original_title": "Aquella Sombra Desvanecía",
+        "original_title": "El principito Oscar",
         "overview": "",
-        "popularity": 0.3575,
-        "poster_path": "/rmrck0d4EVt5GWq6vBRoN97wj9G.jpg",
+        "popularity": 0.2196,
+        "poster_path": "/to9ABp3zzs7vg3J8uZvdxsfODJz.jpg",
         "release_date": "2025-10-16",
-        "title": "Aquella Sombra Desvanecía",
+        "title": "El principito Oscar",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562094,
+        "original_language": "es",
+        "original_title": "Kill The Mosquito",
+        "overview": "",
+        "popularity": 0.1725,
+        "poster_path": "/x6VMURVzRNMqdQRjFLZAN8hg4hy.jpg",
+        "release_date": "2025-10-16",
+        "title": "Kill The Mosquito",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1860,64 +1984,6 @@
         "genre_ids_zh": [
             "剧情",
             "爱情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1558242,
-        "original_language": "es",
-        "original_title": "EN OTR4 VIDA ME CONOCÍ??",
-        "overview": "",
-        "popularity": 0.0934,
-        "poster_path": null,
-        "release_date": "2025-10-16",
-        "title": "EN OTR4 VIDA ME CONOCÍ??",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lMuN5nUboesQ9JR39JC2bHHLBzc.jpg",
-        "genre_ids": [],
-        "id": 1562214,
-        "original_language": "es",
-        "original_title": "El beso de la muerte",
-        "overview": "",
-        "popularity": 0.0929,
-        "poster_path": "/zlK5by9UBGcW6UZixEUNJJA3zne.jpg",
-        "release_date": "2025-10-16",
-        "title": "El beso de la muerte",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1560940,
-        "original_language": "es",
-        "original_title": "La noche del cazador",
-        "overview": "",
-        "popularity": 0.0862,
-        "poster_path": "/7BCdT2RbB0SoytKM13wqYr9dgv8.jpg",
-        "release_date": "2025-10-16",
-        "title": "La noche del cazador",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1948,22 +2014,102 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1551101,
+        "genre_ids": [],
+        "id": 1558242,
         "original_language": "es",
-        "original_title": "Tu Mañana Será Mi Canto",
+        "original_title": "EN OTR4 VIDA ME CONOCÍ??",
         "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/d5yvJJk9Y0qxUlASYh4Aftzc1hn.jpg",
+        "popularity": 0.0934,
+        "poster_path": "/oGeTb9ZkUInluRl3091ZncK4iWi.jpg",
         "release_date": "2025-10-16",
-        "title": "Tu Mañana Será Mi Canto",
+        "title": "EN OTR4 VIDA ME CONOCÍ??",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lMuN5nUboesQ9JR39JC2bHHLBzc.jpg",
+        "genre_ids": [],
+        "id": 1562214,
+        "original_language": "es",
+        "original_title": "El beso de la muerte",
+        "overview": "",
+        "popularity": 0.0929,
+        "poster_path": "/zlK5by9UBGcW6UZixEUNJJA3zne.jpg",
+        "release_date": "2025-10-16",
+        "title": "El beso de la muerte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562106,
+        "original_language": "es",
+        "original_title": "Motion Dreams",
+        "overview": "",
+        "popularity": 0.09,
+        "poster_path": "/5UAWidEFge74OOuAESgT9EyinTY.jpg",
+        "release_date": "2025-10-16",
+        "title": "Motion Dreams",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1560940,
+        "original_language": "es",
+        "original_title": "La noche del cazador",
+        "overview": "",
+        "popularity": 0.0862,
+        "poster_path": "/7BCdT2RbB0SoytKM13wqYr9dgv8.jpg",
+        "release_date": "2025-10-16",
+        "title": "La noche del cazador",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562088,
+        "original_language": "es",
+        "original_title": "Delirio",
+        "overview": "",
+        "popularity": 0.0639,
+        "poster_path": "/zj5PpRFXul2wtxL3nQk29Gfd4Ns.jpg",
+        "release_date": "2025-10-16",
+        "title": "Delirio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2043,28 +2189,6 @@
         "genre_ids": [
             16
         ],
-        "id": 1562025,
-        "original_language": "es",
-        "original_title": "Yungay",
-        "overview": "",
-        "popularity": 0.0218,
-        "poster_path": "/98JBBAJs2qDBNbLKukNk0xkT3SA.jpg",
-        "release_date": "2025-10-16",
-        "title": "Yungay",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
         "id": 1561098,
         "original_language": "es",
         "original_title": "La Receta",
@@ -2087,80 +2211,14 @@
         "genre_ids": [
             16
         ],
-        "id": 1561087,
+        "id": 1562025,
         "original_language": "es",
-        "original_title": "Lucy",
+        "original_title": "Yungay",
         "overview": "",
-        "popularity": 0.292,
-        "poster_path": "/84wVo9Pj1fMGRem1U51wAcpgUTb.jpg",
+        "popularity": 0.0218,
+        "poster_path": "/98JBBAJs2qDBNbLKukNk0xkT3SA.jpg",
         "release_date": "2025-10-16",
-        "title": "Lucy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562106,
-        "original_language": "es",
-        "original_title": "Motion Dreams",
-        "overview": "",
-        "popularity": 0.09,
-        "poster_path": "/5UAWidEFge74OOuAESgT9EyinTY.jpg",
-        "release_date": "2025-10-16",
-        "title": "Motion Dreams",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562096,
-        "original_language": "es",
-        "original_title": "El principito Oscar",
-        "overview": "",
-        "popularity": 0.2196,
-        "poster_path": "/to9ABp3zzs7vg3J8uZvdxsfODJz.jpg",
-        "release_date": "2025-10-16",
-        "title": "El principito Oscar",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562094,
-        "original_language": "es",
-        "original_title": "Kill The Mosquito",
-        "overview": "",
-        "popularity": 0.1725,
-        "poster_path": "/x6VMURVzRNMqdQRjFLZAN8hg4hy.jpg",
-        "release_date": "2025-10-16",
-        "title": "Kill The Mosquito",
+        "title": "Yungay",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2298,6 +2356,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1551101,
+        "original_language": "es",
+        "original_title": "Tu Mañana Será Mi Canto",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/d5yvJJk9Y0qxUlASYh4Aftzc1hn.jpg",
+        "release_date": "2025-10-16",
+        "title": "Tu Mañana Será Mi Canto",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2675,6 +2755,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/h8hGolw2YRm2ylYypA4Wr86v3rn.jpg",
+        "genre_ids": [
+            18,
+            27
+        ],
+        "id": 1451211,
+        "original_language": "pt",
+        "original_title": "The New Flesh",
+        "overview": "",
+        "popularity": 0.1306,
+        "poster_path": "/i2C9voVh0Sb4JYwjFCAhYWZoDRm.jpg",
+        "release_date": "2025-10-16",
+        "title": "The New Flesh",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -2721,25 +2825,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/h8hGolw2YRm2ylYypA4Wr86v3rn.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18,
-            27
+            14,
+            12,
+            16
         ],
-        "id": 1451211,
+        "id": 1562710,
         "original_language": "pt",
-        "original_title": "The New Flesh",
+        "original_title": "Herói de Papel",
         "overview": "",
-        "popularity": 0.1306,
-        "poster_path": "/i2C9voVh0Sb4JYwjFCAhYWZoDRm.jpg",
+        "popularity": 0.0571,
+        "poster_path": "/vbhhdqMxX1wXIpu4wa6DbF9RHqQ.jpg",
         "release_date": "2025-10-16",
-        "title": "The New Flesh",
+        "title": "Herói de Papel",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "恐怖"
+            "奇幻",
+            "冒险",
+            "动画"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -2793,28 +2899,6 @@
         "genre_ids": [
             99
         ],
-        "id": 1543108,
-        "original_language": "pt",
-        "original_title": "O Pai e o Pajé",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/eZlYENbMtAlUnR2PLtrss3RjyFB.jpg",
-        "release_date": "2025-10-16",
-        "title": "O Pai e o Pajé",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
         "id": 1561298,
         "original_language": "pt",
         "original_title": "Copinha",
@@ -2835,25 +2919,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            14,
-            12,
-            16
+            99
         ],
-        "id": 1562710,
+        "id": 1543108,
         "original_language": "pt",
-        "original_title": "Herói de Papel",
+        "original_title": "O Pai e o Pajé",
         "overview": "",
-        "popularity": 0.0571,
-        "poster_path": "/vbhhdqMxX1wXIpu4wa6DbF9RHqQ.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/eZlYENbMtAlUnR2PLtrss3RjyFB.jpg",
         "release_date": "2025-10-16",
-        "title": "Herói de Papel",
+        "title": "O Pai e o Pajé",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "奇幻",
-            "冒险",
-            "动画"
+            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
