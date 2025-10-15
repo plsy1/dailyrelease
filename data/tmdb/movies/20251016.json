@@ -613,20 +613,28 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/t8F2tPtVgsRn9Q8pPsnoY9Au8nE.jpg",
-        "genre_ids": [],
-        "id": 1557566,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            18,
+            9648
+        ],
+        "id": 1560075,
         "original_language": "en",
-        "original_title": "BFDI:TPOT 20",
+        "original_title": "The Perfectionist",
         "overview": "",
-        "popularity": 0.1395,
-        "poster_path": "/cSvlwSl1y8gIDtEbMhJTa5VnSOt.jpg",
+        "popularity": 0.2567,
+        "poster_path": "/iQjRAILbVbh7hAfA25M2zky9CgN.jpg",
         "release_date": "2025-10-16",
-        "title": "BFDI:TPOT 20",
+        "title": "The Perfectionist",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "科幻",
+            "剧情",
+            "悬疑"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -643,28 +651,6 @@
         "poster_path": null,
         "release_date": "2025-10-16",
         "title": "Untitled Oliver Jukes Movie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/5e9wvpYmcwsO8I23yK7t38DuqPP.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 720681,
-        "original_language": "en",
-        "original_title": "The Taverna",
-        "overview": "",
-        "popularity": 0.2019,
-        "poster_path": "/ssmKHbUtgVkR0pSb4FnxaNGoBV5.jpg",
-        "release_date": "2025-10-16",
-        "title": "The Taverna",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -717,6 +703,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/5e9wvpYmcwsO8I23yK7t38DuqPP.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 720681,
+        "original_language": "en",
+        "original_title": "The Taverna",
+        "overview": "",
+        "popularity": 0.2019,
+        "poster_path": "/ssmKHbUtgVkR0pSb4FnxaNGoBV5.jpg",
+        "release_date": "2025-10-16",
+        "title": "The Taverna",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -739,27 +747,41 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/t8F2tPtVgsRn9Q8pPsnoY9Au8nE.jpg",
+        "genre_ids": [],
+        "id": 1557566,
+        "original_language": "en",
+        "original_title": "BFDI:TPOT 20",
+        "overview": "",
+        "popularity": 0.1395,
+        "poster_path": "/cSvlwSl1y8gIDtEbMhJTa5VnSOt.jpg",
+        "release_date": "2025-10-16",
+        "title": "BFDI:TPOT 20",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            878,
-            18,
-            9648
+            18
         ],
-        "id": 1560075,
+        "id": 1555028,
         "original_language": "en",
-        "original_title": "The Perfectionist",
+        "original_title": "Tumtum",
         "overview": "",
-        "popularity": 0.2567,
-        "poster_path": "/iQjRAILbVbh7hAfA25M2zky9CgN.jpg",
+        "popularity": 0.1064,
+        "poster_path": "/cf9pRq2YQu2KWa1S10i3yK1ONp3.jpg",
         "release_date": "2025-10-16",
-        "title": "The Perfectionist",
+        "title": "Tumtum",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
-            "科幻",
-            "剧情",
-            "悬疑"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -776,7 +798,7 @@
         "original_title": "Bailey's Blues",
         "overview": "",
         "popularity": 0.106,
-        "poster_path": "/blPWLDd6SAKTQsMDut8aCbtk4eC.jpg",
+        "poster_path": "/mSJhhUo1waWgzOw11FlZj9ocIwI.jpg",
         "release_date": "2025-10-16",
         "title": "Bailey's Blues",
         "video": false,
@@ -786,28 +808,6 @@
             "剧情",
             "历史",
             "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1558791,
-        "original_language": "en",
-        "original_title": "Side by Side",
-        "overview": "",
-        "popularity": 0.078,
-        "poster_path": "/99L1K5KF47gPo6poJrgyBdq45Kh.jpg",
-        "release_date": "2025-10-16",
-        "title": "Side by Side",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -835,6 +835,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1548252,
+        "original_language": "en",
+        "original_title": "Sacred Wisdom Sacred Earth",
+        "overview": "",
+        "popularity": 0.0795,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "Sacred Wisdom Sacred Earth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/yRsly5bk2FhS11TQVcmfJSEzC2e.jpg",
         "genre_ids": [
             27
@@ -852,28 +874,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1555028,
-        "original_language": "en",
-        "original_title": "Tumtum",
-        "overview": "",
-        "popularity": 0.1064,
-        "poster_path": "/cf9pRq2YQu2KWa1S10i3yK1ONp3.jpg",
-        "release_date": "2025-10-16",
-        "title": "Tumtum",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -904,6 +904,52 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1558791,
+        "original_language": "en",
+        "original_title": "Side by Side",
+        "overview": "",
+        "popularity": 0.078,
+        "poster_path": "/99L1K5KF47gPo6poJrgyBdq45Kh.jpg",
+        "release_date": "2025-10-16",
+        "title": "Side by Side",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yQNROqD6uGGeRUyPiz9tH1NSTu3.jpg",
+        "genre_ids": [
+            53,
+            35
+        ],
+        "id": 1561893,
+        "original_language": "en",
+        "original_title": "The Ferberizing of Coral",
+        "overview": "",
+        "popularity": 0.0757,
+        "poster_path": "/gT6omwtjuhjmxn7IHimJLPfU0Rc.jpg",
+        "release_date": "2025-10-16",
+        "title": "The Ferberizing of Coral",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1548042,
         "original_language": "en",
@@ -922,23 +968,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1548252,
+        "genre_ids": [],
+        "id": 1560692,
         "original_language": "en",
-        "original_title": "Sacred Wisdom Sacred Earth",
+        "original_title": "Victoria's Secret Fashion Show 2025",
         "overview": "",
-        "popularity": 0.0795,
+        "popularity": 0.0658,
         "poster_path": null,
         "release_date": "2025-10-16",
-        "title": "Sacred Wisdom Sacred Earth",
+        "title": "Victoria's Secret Fashion Show 2025",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -961,24 +1003,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551197,
-        "original_language": "en",
-        "original_title": "몬스트로 옵스큐라",
-        "overview": "",
-        "popularity": 0.054,
-        "poster_path": "/yHYYWvnmYSNhq8eddmkNvnOnsqN.jpg",
-        "release_date": "2025-10-16",
-        "title": "몬스트로 옵스큐라",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1192,30 +1216,6 @@
         "genre_ids_zh": [
             "纪录",
             "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/yQNROqD6uGGeRUyPiz9tH1NSTu3.jpg",
-        "genre_ids": [
-            53,
-            35
-        ],
-        "id": 1561893,
-        "original_language": "en",
-        "original_title": "The Ferberizing of Coral",
-        "overview": "",
-        "popularity": 0.0757,
-        "poster_path": "/gT6omwtjuhjmxn7IHimJLPfU0Rc.jpg",
-        "release_date": "2025-10-16",
-        "title": "The Ferberizing of Coral",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1631,28 +1631,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1548878,
-        "original_language": "de",
-        "original_title": "Awakening",
-        "overview": "",
-        "popularity": 0.1084,
-        "poster_path": "/5v5LoWBjBo1WZPQKN1z9lYtvA51.jpg",
-        "release_date": "2025-10-16",
-        "title": "Awakening",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/xC13xTpEXZG8qIy5drMkpSkqXAa.jpg",
         "genre_ids": [],
         "id": 1493063,
@@ -1688,6 +1666,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1548878,
+        "original_language": "de",
+        "original_title": "Awakening",
+        "overview": "",
+        "popularity": 0.1084,
+        "poster_path": "/5v5LoWBjBo1WZPQKN1z9lYtvA51.jpg",
+        "release_date": "2025-10-16",
+        "title": "Awakening",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "德语"
     },
@@ -2239,6 +2239,50 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            16
+        ],
+        "id": 1562038,
+        "original_language": "es",
+        "original_title": "Susurros y Colmillos",
+        "overview": "",
+        "popularity": 0.0193,
+        "poster_path": "/7w0ou08hke8MTZ7sEKdGIyPbuWv.jpg",
+        "release_date": "2025-10-16",
+        "title": "Susurros y Colmillos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562084,
+        "original_language": "es",
+        "original_title": "TOC",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/A158AQMAkPx149TBOxBeUnxVEfm.jpg",
+        "release_date": "2025-10-16",
+        "title": "TOC",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1559450,
@@ -2263,28 +2307,6 @@
         "genre_ids": [
             16
         ],
-        "id": 1562088,
-        "original_language": "es",
-        "original_title": "Delirio",
-        "overview": "",
-        "popularity": 0.0639,
-        "poster_path": "/zj5PpRFXul2wtxL3nQk29Gfd4Ns.jpg",
-        "release_date": "2025-10-16",
-        "title": "Delirio",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
         "id": 1562087,
         "original_language": "es",
         "original_title": "El atajo",
@@ -2293,28 +2315,6 @@
         "poster_path": "/q7maSpbaDmxc3hX1cEpTzc17XEw.jpg",
         "release_date": "2025-10-16",
         "title": "El atajo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562084,
-        "original_language": "es",
-        "original_title": "TOC",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/A158AQMAkPx149TBOxBeUnxVEfm.jpg",
-        "release_date": "2025-10-16",
-        "title": "TOC",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2439,28 +2439,6 @@
         "genre_ids": [
             16
         ],
-        "id": 1562893,
-        "original_language": "es",
-        "original_title": "CUBE",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/r12RP66xkcQ9zXamqoiLvaqDSHx.jpg",
-        "release_date": "2025-10-16",
-        "title": "CUBE",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
         "id": 1562728,
         "original_language": "es",
         "original_title": "Ciudadano Franco",
@@ -2513,6 +2491,64 @@
         "poster_path": "/z082CBr119GueAOL9pK4bYlTkok.jpg",
         "release_date": "2025-10-16",
         "title": "Porcelain",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mOJPtWmHde9pv0BEzE7sIllTN0W.jpg",
+        "genre_ids": [],
+        "id": 1563204,
+        "original_language": "es",
+        "original_title": "Puercoespín.",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3Ez3UFIRuuhnisiGWh9ecmP3Qot.jpg",
+        "release_date": "2025-10-16",
+        "title": "Puercoespín.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563191,
+        "original_language": "es",
+        "original_title": "Tiempo de Híbridos o Twenty-Six New Gasoline Stations in Mexico",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-16",
+        "title": "Tiempo de Híbridos o Twenty-Six New Gasoline Stations in Mexico",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562893,
+        "original_language": "es",
+        "original_title": "CUBE",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/r12RP66xkcQ9zXamqoiLvaqDSHx.jpg",
+        "release_date": "2025-10-16",
+        "title": "CUBE",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
