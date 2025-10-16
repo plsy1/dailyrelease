@@ -104,8 +104,8 @@
         "release_date": "2025-10-17",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 8.4,
-        "vote_count": 5,
+        "vote_average": 8.7,
+        "vote_count": 6,
         "genre_ids_zh": [
             "剧情",
             "恐怖",
@@ -163,30 +163,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1188738,
-        "original_language": "en",
-        "original_title": "The Weedhacker Massacre",
-        "overview": "",
-        "popularity": 3.349,
-        "poster_path": "/qnefxYvU364FtW4pK7VxD07X4qw.jpg",
-        "release_date": "2025-10-17",
-        "title": "The Weedhacker Massacre",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/A1Jg9bpPrntyGzIwz948CdUT0aj.jpg",
         "genre_ids": [
             99
@@ -209,23 +185,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/uhg87gdth6jR36vhsGaDCqET7S9.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            27,
+            35
         ],
-        "id": 1429167,
+        "id": 1188738,
         "original_language": "en",
-        "original_title": "Brothers",
+        "original_title": "The Weedhacker Massacre",
         "overview": "",
-        "popularity": 1.5042,
-        "poster_path": "/zhPvJS3nrb10mSvhWoH1uFzVFRM.jpg",
+        "popularity": 3.349,
+        "poster_path": "/qnefxYvU364FtW4pK7VxD07X4qw.jpg",
         "release_date": "2025-10-17",
-        "title": "Brothers",
+        "title": "The Weedhacker Massacre",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -259,28 +237,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qLCjXbZDc12LEkkDfl9g0zliKzZ.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1408090,
-        "original_language": "en",
-        "original_title": "Bomba Bernal",
-        "overview": "",
-        "popularity": 2.8576,
-        "poster_path": "/nFnJZ6YSXbYH20mfms3m5YDfWrY.jpg",
-        "release_date": "2025-10-17",
-        "title": "Bomba Bernal",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -298,6 +254,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qLCjXbZDc12LEkkDfl9g0zliKzZ.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1408090,
+        "original_language": "en",
+        "original_title": "Bomba Bernal",
+        "overview": "",
+        "popularity": 2.8576,
+        "poster_path": "/nFnJZ6YSXbYH20mfms3m5YDfWrY.jpg",
+        "release_date": "2025-10-17",
+        "title": "Bomba Bernal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -387,32 +365,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/yUBjDdAfZqg09f1Uu3Lu5cw2xPP.jpg",
-        "genre_ids": [
-            36,
-            18,
-            53
-        ],
-        "id": 1443940,
-        "original_language": "en",
-        "original_title": "Truth & Treason",
-        "overview": "",
-        "popularity": 1.4577,
-        "poster_path": "/5HZch5gtsr01XVTkrBO7J9nVj81.jpg",
-        "release_date": "2025-10-17",
-        "title": "Truth & Treason",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "历史",
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/yAWj3YnnZBTLABqcs5wMHdNB8Za.jpg",
         "genre_ids": [
             10402
@@ -430,6 +382,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uhg87gdth6jR36vhsGaDCqET7S9.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1429167,
+        "original_language": "en",
+        "original_title": "Brothers",
+        "overview": "",
+        "popularity": 1.5042,
+        "poster_path": "/zhPvJS3nrb10mSvhWoH1uFzVFRM.jpg",
+        "release_date": "2025-10-17",
+        "title": "Brothers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -461,46 +435,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1554345,
-        "original_language": "en",
-        "original_title": "This Bloody Country",
-        "overview": "",
-        "popularity": 0.768,
-        "poster_path": "/bAtjLixuNrGJjtb8j1RB7q08V3x.jpg",
-        "release_date": "2025-10-17",
-        "title": "This Bloody Country",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nLJ12R2R6k7sHaPPOqf4MYDvuI5.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1517758,
-        "original_language": "en",
-        "original_title": "Stiller & Meara: Nothing Is Lost",
-        "overview": "",
-        "popularity": 0.7155,
-        "poster_path": "/w2f9LDWykTSoWXwyu78fdhXDzf2.jpg",
-        "release_date": "2025-10-17",
-        "title": "Stiller & Meara: Nothing Is Lost",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/lplhIdFpgi0KQJszI9pRgnj1feO.jpg",
         "genre_ids": [
             27,
@@ -521,6 +455,24 @@
             "恐怖",
             "奇幻"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1554345,
+        "original_language": "en",
+        "original_title": "This Bloody Country",
+        "overview": "",
+        "popularity": 0.768,
+        "poster_path": "/bAtjLixuNrGJjtb8j1RB7q08V3x.jpg",
+        "release_date": "2025-10-17",
+        "title": "This Bloody Country",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -547,6 +499,46 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/nLJ12R2R6k7sHaPPOqf4MYDvuI5.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1517758,
+        "original_language": "en",
+        "original_title": "Stiller & Meara: Nothing Is Lost",
+        "overview": "",
+        "popularity": 0.7155,
+        "poster_path": "/w2f9LDWykTSoWXwyu78fdhXDzf2.jpg",
+        "release_date": "2025-10-17",
+        "title": "Stiller & Meara: Nothing Is Lost",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1556614,
+        "original_language": "en",
+        "original_title": ".mp4",
+        "overview": "",
+        "popularity": 0.6292,
+        "poster_path": null,
+        "release_date": "2025-10-17",
+        "title": ".mp4",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -567,24 +559,6 @@
             "纪录",
             "犯罪"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1556614,
-        "original_language": "en",
-        "original_title": ".mp4",
-        "overview": "",
-        "popularity": 0.6292,
-        "poster_path": null,
-        "release_date": "2025-10-17",
-        "title": ".mp4",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1451,38 +1425,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/q5W7w4atAcUx3wahQIvMVkwYjwf.jpg",
-        "genre_ids": [
-            16,
-            18,
-            878,
-            10749,
-            35,
-            28
-        ],
-        "id": 1560358,
-        "original_language": "ja",
-        "original_title": "藤本タツキ 17-26 Part-1",
-        "overview": "",
-        "popularity": 1.1288,
-        "poster_path": "/cUw4o6gAuV34FDzorgyel34U35F.jpg",
-        "release_date": "2025-10-17",
-        "title": "藤本タツキ 17-26 Part-1",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情",
-            "科幻",
-            "爱情",
-            "喜剧",
-            "动作"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/akjtnEtV9PcsmHUnmjUj07D5LKB.jpg",
         "genre_ids": [
             16,
@@ -1510,6 +1452,38 @@
             "音乐",
             "动作",
             "喜剧"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q5W7w4atAcUx3wahQIvMVkwYjwf.jpg",
+        "genre_ids": [
+            16,
+            18,
+            878,
+            10749,
+            35,
+            28
+        ],
+        "id": 1560358,
+        "original_language": "ja",
+        "original_title": "藤本タツキ 17-26 Part-1",
+        "overview": "",
+        "popularity": 1.1288,
+        "poster_path": "/cUw4o6gAuV34FDzorgyel34U35F.jpg",
+        "release_date": "2025-10-17",
+        "title": "藤本タツキ 17-26 Part-1",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情",
+            "科幻",
+            "爱情",
+            "喜剧",
+            "动作"
         ],
         "original_language_zh": "日语"
     },
@@ -1923,28 +1897,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1561537,
-        "original_language": "fr",
-        "original_title": "Tasse-toi Mononcle",
-        "overview": "",
-        "popularity": 0.0239,
-        "poster_path": "/buQwc7iVfhjupptuCc6ufTUfDLM.jpg",
-        "release_date": "2025-10-17",
-        "title": "Tasse-toi Mononcle",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1132571,
@@ -1960,6 +1912,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1561537,
+        "original_language": "fr",
+        "original_title": "Tasse-toi Mononcle",
+        "overview": "",
+        "popularity": 0.0239,
+        "poster_path": "/buQwc7iVfhjupptuCc6ufTUfDLM.jpg",
+        "release_date": "2025-10-17",
+        "title": "Tasse-toi Mononcle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
@@ -2011,28 +1985,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1463240,
-        "original_language": "es",
-        "original_title": "Sujétame el cubata",
-        "overview": "",
-        "popularity": 1.2041,
-        "poster_path": "/rZl15mciFOCz7Rr4WyAGsuhC9Sv.jpg",
-        "release_date": "2025-10-17",
-        "title": "Sujétame el cubata",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qGzDNigrX8Q5o5Te6CuRlc184W2.jpg",
         "genre_ids": [],
         "id": 1559395,
@@ -2051,18 +2003,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rxFwyLPnOMLrq3uE3D2fTGe4nwV.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             35
         ],
-        "id": 1551900,
+        "id": 1463240,
         "original_language": "es",
-        "original_title": "Sobriedad Me Estás Matando",
+        "original_title": "Sujétame el cubata",
         "overview": "",
-        "popularity": 0.1543,
-        "poster_path": null,
+        "popularity": 1.2041,
+        "poster_path": "/rZl15mciFOCz7Rr4WyAGsuhC9Sv.jpg",
         "release_date": "2025-10-17",
-        "title": "Sobriedad Me Estás Matando",
+        "title": "Sujétame el cubata",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2097,6 +2049,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rxFwyLPnOMLrq3uE3D2fTGe4nwV.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1551900,
+        "original_language": "es",
+        "original_title": "Sobriedad Me Estás Matando",
+        "overview": "",
+        "popularity": 0.1543,
+        "poster_path": null,
+        "release_date": "2025-10-17",
+        "title": "Sobriedad Me Estás Matando",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/qGzDNigrX8Q5o5Te6CuRlc184W2.jpg",
         "genre_ids": [
             99,
@@ -2116,6 +2090,28 @@
         "genre_ids_zh": [
             "纪录",
             "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3pmtTkrLHWu3ep8z3KdVWfizL3F.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1562464,
+        "original_language": "es",
+        "original_title": "Segundo Plato",
+        "overview": "",
+        "popularity": 0.0443,
+        "poster_path": "/uOp1EFFkEDC9OcnJZToV4Z60dJV.jpg",
+        "release_date": "2025-10-17",
+        "title": "Segundo Plato",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2146,6 +2142,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562900,
+        "original_language": "es",
+        "original_title": "P.",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/aMMwcxYW2JC30Pqg7lT3dx7eh3F.jpg",
+        "release_date": "2025-10-17",
+        "title": "P.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1554544,
         "original_language": "es",
@@ -2159,6 +2177,50 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562910,
+        "original_language": "es",
+        "original_title": "R4t's d3n_!",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/ZKLomTMjvQQH2ASjGsPTh3gxMS.jpg",
+        "release_date": "2025-10-17",
+        "title": "R4t's d3n_!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1562902,
+        "original_language": "es",
+        "original_title": "Colores prestados",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/wEUJDFgwv42m6VXJeQVvtXjqwz6.jpg",
+        "release_date": "2025-10-17",
+        "title": "Colores prestados",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -2251,72 +2313,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562910,
-        "original_language": "es",
-        "original_title": "R4t's d3n_!",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/ZKLomTMjvQQH2ASjGsPTh3gxMS.jpg",
-        "release_date": "2025-10-17",
-        "title": "R4t's d3n_!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562902,
-        "original_language": "es",
-        "original_title": "Colores prestados",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/wEUJDFgwv42m6VXJeQVvtXjqwz6.jpg",
-        "release_date": "2025-10-17",
-        "title": "Colores prestados",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1562900,
-        "original_language": "es",
-        "original_title": "P.",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/aMMwcxYW2JC30Pqg7lT3dx7eh3F.jpg",
-        "release_date": "2025-10-17",
-        "title": "P.",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/7jfGBxHyaxtO5b53zeDVYLl1O24.jpg",
         "genre_ids": [
             16
@@ -2336,6 +2332,28 @@
             "动画"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xov1V59RdNdMIeAbUgq0vQmzOQe.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1538046,
+        "original_language": "pt",
+        "original_title": "Terra Vil",
+        "overview": "",
+        "popularity": 2.9484,
+        "poster_path": "/8MPV2AxDGNHwRKxPRdQHEpxBw05.jpg",
+        "release_date": "2025-10-17",
+        "title": "Terra Vil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
@@ -2363,6 +2381,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1543095,
+        "original_language": "pt",
+        "original_title": "Com Causa",
+        "overview": "",
+        "popularity": 0.085,
+        "poster_path": "/vDxusk83ThesIDdO4uTzsygvukG.jpg",
+        "release_date": "2025-10-17",
+        "title": "Com Causa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27,
             35
         ],
@@ -2380,28 +2420,6 @@
         "genre_ids_zh": [
             "恐怖",
             "喜剧"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1543095,
-        "original_language": "pt",
-        "original_title": "Com Causa",
-        "overview": "",
-        "popularity": 0.085,
-        "poster_path": "/vDxusk83ThesIDdO4uTzsygvukG.jpg",
-        "release_date": "2025-10-17",
-        "title": "Com Causa",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
