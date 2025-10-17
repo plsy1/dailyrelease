@@ -179,30 +179,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2A2khyRX3hKUwCmkYOdyZqvYpsO.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1547546,
-        "original_language": "en",
-        "original_title": "Pining",
-        "overview": "",
-        "popularity": 1.847,
-        "poster_path": "/cLf3FpqQuQH9fgy9MJ2dnG8JXG3.jpg",
-        "release_date": "2025-10-18",
-        "title": "Pining",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27,
@@ -222,72 +198,6 @@
         "genre_ids_zh": [
             "恐怖",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1558892,
-        "original_language": "en",
-        "original_title": "Sylvania",
-        "overview": "",
-        "popularity": 1.9191,
-        "poster_path": "/auopaUEdMaBNXcyu8RQeMXcisTa.jpg",
-        "release_date": "2025-10-18",
-        "title": "Sylvania",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1558025,
-        "original_language": "en",
-        "original_title": "Creeping Charlie",
-        "overview": "",
-        "popularity": 1.9197,
-        "poster_path": "/hSg9M3CcuoLyvFoxjMxC3xRffMJ.jpg",
-        "release_date": "2025-10-18",
-        "title": "Creeping Charlie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3HawkRVJ2uTZkE2aT0dsYTmPe4S.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1549823,
-        "original_language": "en",
-        "original_title": "Women Laughing",
-        "overview": "",
-        "popularity": 1.6219,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Women Laughing",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -321,19 +231,65 @@
         "genre_ids": [
             27
         ],
-        "id": 1323806,
+        "id": 1558025,
         "original_language": "en",
-        "original_title": "Bikini Shark",
+        "original_title": "Creeping Charlie",
         "overview": "",
-        "popularity": 1.5708,
-        "poster_path": "/vEAtuxFUJA09wCVYtBCRhJZXWdU.jpg",
+        "popularity": 1.9197,
+        "poster_path": "/hSg9M3CcuoLyvFoxjMxC3xRffMJ.jpg",
         "release_date": "2025-10-18",
-        "title": "Bikini Shark",
+        "title": "Creeping Charlie",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1558892,
+        "original_language": "en",
+        "original_title": "Sylvania",
+        "overview": "",
+        "popularity": 1.9191,
+        "poster_path": "/auopaUEdMaBNXcyu8RQeMXcisTa.jpg",
+        "release_date": "2025-10-18",
+        "title": "Sylvania",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2A2khyRX3hKUwCmkYOdyZqvYpsO.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1547546,
+        "original_language": "en",
+        "original_title": "Pining",
+        "overview": "",
+        "popularity": 1.847,
+        "poster_path": "/cLf3FpqQuQH9fgy9MJ2dnG8JXG3.jpg",
+        "release_date": "2025-10-18",
+        "title": "Pining",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -362,6 +318,50 @@
             "喜剧",
             "剧情",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3HawkRVJ2uTZkE2aT0dsYTmPe4S.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1549823,
+        "original_language": "en",
+        "original_title": "Women Laughing",
+        "overview": "",
+        "popularity": 1.6219,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Women Laughing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1323806,
+        "original_language": "en",
+        "original_title": "Bikini Shark",
+        "overview": "",
+        "popularity": 1.5708,
+        "poster_path": "/vEAtuxFUJA09wCVYtBCRhJZXWdU.jpg",
+        "release_date": "2025-10-18",
+        "title": "Bikini Shark",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -469,6 +469,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/oFG9HezhBNzF8JQCTQu0GSs2IVw.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1549751,
+        "original_language": "en",
+        "original_title": "UFC Fight Night 262: de Ridder vs. Allen",
+        "overview": "",
+        "popularity": 0.3875,
+        "poster_path": "/4AN5TFjodXnLTXxZvBaQVpdD2gm.jpg",
+        "release_date": "2025-10-18",
+        "title": "UFC Fight Night 262: de Ridder vs. Allen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -488,28 +510,6 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/oFG9HezhBNzF8JQCTQu0GSs2IVw.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1549751,
-        "original_language": "en",
-        "original_title": "UFC Fight Night 262: de Ridder vs. Allen",
-        "overview": "",
-        "popularity": 0.3875,
-        "poster_path": "/4AN5TFjodXnLTXxZvBaQVpdD2gm.jpg",
-        "release_date": "2025-10-18",
-        "title": "UFC Fight Night 262: de Ridder vs. Allen",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -541,6 +541,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/i4cxrUDc2xhemaGa6FUpf5GYv2z.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1553971,
+        "original_language": "en",
+        "original_title": "Mensonges Blancs",
+        "overview": "",
+        "popularity": 0.2866,
+        "poster_path": "/fM2CINQxg3LOzbEJoWwbzIbsdXd.jpg",
+        "release_date": "2025-10-18",
+        "title": "Mensonges Blancs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ryRW3ExO5DHccWjvng9FZRCGsx1.jpg",
+        "genre_ids": [
+            53,
+            14,
+            27,
+            18
+        ],
+        "id": 1555023,
+        "original_language": "en",
+        "original_title": "The Necromancer",
+        "overview": "",
+        "popularity": 0.2779,
+        "poster_path": "/atitH1tt8dQSJydVcVIomqDMaV9.jpg",
+        "release_date": "2025-10-18",
+        "title": "The Necromancer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "奇幻",
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fqYH8BV9MEIQ7wuRYQ5Pz9hGhWu.jpg",
         "genre_ids": [
             99
@@ -563,23 +613,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/i4cxrUDc2xhemaGa6FUpf5GYv2z.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27
+            878
         ],
-        "id": 1553971,
+        "id": 1562093,
         "original_language": "en",
-        "original_title": "Mensonges Blancs",
+        "original_title": "Jim vs the Future",
         "overview": "",
-        "popularity": 0.2866,
-        "poster_path": "/fM2CINQxg3LOzbEJoWwbzIbsdXd.jpg",
+        "popularity": 0.2583,
+        "poster_path": "/4y61aBoMfUrQhK61jh4Ntu8X2nN.jpg",
         "release_date": "2025-10-18",
-        "title": "Mensonges Blancs",
+        "title": "Jim vs the Future",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            10770
+        ],
+        "id": 1560613,
+        "original_language": "en",
+        "original_title": "The Widow's Payback",
+        "overview": "",
+        "popularity": 0.2347,
+        "poster_path": "/xSZLdTgHlS6OMhfBNMSN8scd52D.jpg",
+        "release_date": "2025-10-18",
+        "title": "The Widow's Payback",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "电视电影"
         ],
         "original_language_zh": "英语"
     },
@@ -603,23 +677,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fwy1EbIVDC6y2GYUM51wJ2fvR5E.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            35,
+            10749
         ],
-        "id": 1558481,
+        "id": 1562600,
         "original_language": "en",
-        "original_title": "Son of Sauna",
+        "original_title": "Let's Call the Whole Thing Off",
         "overview": "",
-        "popularity": 0.1098,
-        "poster_path": "/dwZPiiZRF8ed5oGIJlv5dJHPp0k.jpg",
+        "popularity": 0.1843,
+        "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "Son of Sauna",
+        "title": "Let's Call the Whole Thing Off",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -709,26 +785,60 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/fwy1EbIVDC6y2GYUM51wJ2fvR5E.jpg",
         "genre_ids": [
-            53,
-            10770
+            18
         ],
-        "id": 1560613,
+        "id": 1558481,
         "original_language": "en",
-        "original_title": "The Widow's Payback",
+        "original_title": "Son of Sauna",
         "overview": "",
-        "popularity": 0.2347,
-        "poster_path": "/xSZLdTgHlS6OMhfBNMSN8scd52D.jpg",
+        "popularity": 0.1098,
+        "poster_path": "/dwZPiiZRF8ed5oGIJlv5dJHPp0k.jpg",
         "release_date": "2025-10-18",
-        "title": "The Widow's Payback",
+        "title": "Son of Sauna",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚",
-            "电视电影"
+            "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560848,
+        "original_language": "en",
+        "original_title": "Cinema Kawakeb",
+        "overview": "",
+        "popularity": 0.0954,
+        "poster_path": "/aGEKs1KhfPamLZgz7LWVijmgVYC.jpg",
+        "release_date": "2025-10-18",
+        "title": "Cinema Kawakeb",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vVTyEhDeac4zSu9Fw1Z5oDf9TJy.jpg",
+        "genre_ids": [],
+        "id": 1408781,
+        "original_language": "en",
+        "original_title": "Euclidean Man",
+        "overview": "",
+        "popularity": 0.0655,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Euclidean Man",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -755,24 +865,6 @@
             "动作",
             "剧情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vVTyEhDeac4zSu9Fw1Z5oDf9TJy.jpg",
-        "genre_ids": [],
-        "id": 1408781,
-        "original_language": "en",
-        "original_title": "Euclidean Man",
-        "overview": "",
-        "popularity": 0.0655,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Euclidean Man",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -822,23 +914,37 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1546972,
+        "genre_ids": [],
+        "id": 1548722,
         "original_language": "en",
-        "original_title": "Second Bedroom",
+        "original_title": "The Upper Room",
         "overview": "",
-        "popularity": 0.0311,
-        "poster_path": null,
+        "popularity": 0.0487,
+        "poster_path": "/6rqspqojlazkMUZOZCUvE7p6eYB.jpg",
         "release_date": "2025-10-18",
-        "title": "Second Bedroom",
+        "title": "The Upper Room",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1540803,
+        "original_language": "en",
+        "original_title": "Afterlives",
+        "overview": "",
+        "popularity": 0.0461,
+        "poster_path": "/gaO8OWL9tBxEe9zuEJSMXNc11dy.jpg",
+        "release_date": "2025-10-18",
+        "title": "Afterlives",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -867,24 +973,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1540803,
-        "original_language": "en",
-        "original_title": "Afterlives",
-        "overview": "",
-        "popularity": 0.0461,
-        "poster_path": "/gaO8OWL9tBxEe9zuEJSMXNc11dy.jpg",
-        "release_date": "2025-10-18",
-        "title": "Afterlives",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 1558145,
         "original_language": "en",
         "original_title": "Something Bad That Happened in My Past",
@@ -901,30 +989,60 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ryRW3ExO5DHccWjvng9FZRCGsx1.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            53,
-            14,
-            27,
-            18
+            27
         ],
-        "id": 1555023,
+        "id": 1563102,
         "original_language": "en",
-        "original_title": "The Necromancer",
+        "original_title": "Muff",
         "overview": "",
-        "popularity": 0.2779,
-        "poster_path": "/atitH1tt8dQSJydVcVIomqDMaV9.jpg",
+        "popularity": 0.0379,
+        "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "The Necromancer",
+        "title": "Muff",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚",
-            "奇幻",
-            "恐怖",
-            "剧情"
+            "恐怖"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1562225,
+        "original_language": "en",
+        "original_title": "Kisses",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/liF2gcY4n08ztsy26xwFPf0sWEu.jpg",
+        "release_date": "2025-10-18",
+        "title": "Kisses",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560935,
+        "original_language": "en",
+        "original_title": "Manifesto for Future AIs",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Manifesto for Future AIs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -953,23 +1071,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6ablJFSnKdZZLH7Lx3E2Gd3NDOH.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            18
         ],
-        "id": 1535718,
+        "id": 1546972,
         "original_language": "en",
-        "original_title": "Red Rose",
+        "original_title": "Second Bedroom",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/m7vJJAc2jx8I8ACFBB2FMbgo3bC.jpg",
+        "popularity": 0.0311,
+        "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "Red Rose",
+        "title": "Second Bedroom",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            10749
+        ],
+        "id": 1557694,
+        "original_language": "en",
+        "original_title": "I've Been Feeling So Sick And Scared And Alone",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/4l89kBxRI2O6lGRW9wKikfQ1Wp1.jpg",
+        "release_date": "2025-10-18",
+        "title": "I've Been Feeling So Sick And Scared And Alone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -977,14 +1119,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1548722,
+        "id": 1562767,
         "original_language": "en",
-        "original_title": "The Upper Room",
+        "original_title": "Tales of the Tofu Goddess: The Artful Life of Flo Oy Wong",
         "overview": "",
-        "popularity": 0.0487,
-        "poster_path": "/6rqspqojlazkMUZOZCUvE7p6eYB.jpg",
+        "popularity": 0.0261,
+        "poster_path": "/3L43gyEZVWWK5lenWAU8ZVDJvcG.jpg",
         "release_date": "2025-10-18",
-        "title": "The Upper Room",
+        "title": "Tales of the Tofu Goddess: The Artful Life of Flo Oy Wong",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1562300,
+        "original_language": "en",
+        "original_title": "Remember",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/cD21lTxgxbH7dxPj25gIbnLWHcx.jpg",
+        "release_date": "2025-10-18",
+        "title": "Remember",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1029,76 +1189,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            10749
-        ],
-        "id": 1562600,
-        "original_language": "en",
-        "original_title": "Let's Call the Whole Thing Off",
-        "overview": "",
-        "popularity": 0.1843,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Let's Call the Whole Thing Off",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            10749
-        ],
-        "id": 1557694,
-        "original_language": "en",
-        "original_title": "I've Been Feeling So Sick And Scared And Alone",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/4l89kBxRI2O6lGRW9wKikfQ1Wp1.jpg",
-        "release_date": "2025-10-18",
-        "title": "I've Been Feeling So Sick And Scared And Alone",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1552450,
-        "original_language": "en",
-        "original_title": "Eye Colors",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Eye Colors",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1GhdZ2cY1A8DEFgilHCGDUKXoJs.jpg",
         "genre_ids": [
             35
@@ -1121,18 +1211,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/nXBMnLu9LwEbDSALY4jTfpi6y7J.jpg",
+        "backdrop_path": "/6ablJFSnKdZZLH7Lx3E2Gd3NDOH.jpg",
         "genre_ids": [
             35
         ],
-        "id": 1517018,
+        "id": 1535718,
         "original_language": "en",
-        "original_title": "Overthought & Overplayed",
+        "original_title": "Red Rose",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/uonRO4G396fbil7AwBWoU6Tp6lN.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/m7vJJAc2jx8I8ACFBB2FMbgo3bC.jpg",
         "release_date": "2025-10-18",
-        "title": "Overthought & Overplayed",
+        "title": "Red Rose",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1186,108 +1276,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            878
-        ],
-        "id": 1562093,
-        "original_language": "en",
-        "original_title": "Jim vs the Future",
-        "overview": "",
-        "popularity": 0.2583,
-        "poster_path": "/4y61aBoMfUrQhK61jh4Ntu8X2nN.jpg",
-        "release_date": "2025-10-18",
-        "title": "Jim vs the Future",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1560935,
-        "original_language": "en",
-        "original_title": "Manifesto for Future AIs",
-        "overview": "",
-        "popularity": 0.0362,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Manifesto for Future AIs",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1560848,
-        "original_language": "en",
-        "original_title": "Cinema Kawakeb",
-        "overview": "",
-        "popularity": 0.0954,
-        "poster_path": "/aGEKs1KhfPamLZgz7LWVijmgVYC.jpg",
-        "release_date": "2025-10-18",
-        "title": "Cinema Kawakeb",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1557934,
-        "original_language": "en",
-        "original_title": "Now, Be Still",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Now, Be Still",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1563102,
-        "original_language": "en",
-        "original_title": "Muff",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Muff",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1562812,
         "original_language": "en",
@@ -1297,60 +1285,6 @@
         "poster_path": null,
         "release_date": "2025-10-18",
         "title": "Seeds",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1562767,
-        "original_language": "en",
-        "original_title": "Tales of the Tofu Goddess: The Artful Life of Flo Oy Wong",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/3L43gyEZVWWK5lenWAU8ZVDJvcG.jpg",
-        "release_date": "2025-10-18",
-        "title": "Tales of the Tofu Goddess: The Artful Life of Flo Oy Wong",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1562300,
-        "original_language": "en",
-        "original_title": "Remember",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/cD21lTxgxbH7dxPj25gIbnLWHcx.jpg",
-        "release_date": "2025-10-18",
-        "title": "Remember",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1562225,
-        "original_language": "en",
-        "original_title": "Kisses",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/liF2gcY4n08ztsy26xwFPf0sWEu.jpg",
-        "release_date": "2025-10-18",
-        "title": "Kisses",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1383,6 +1317,94 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1557934,
+        "original_language": "en",
+        "original_title": "Now, Be Still",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Now, Be Still",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1552450,
+        "original_language": "en",
+        "original_title": "Eye Colors",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Eye Colors",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nXBMnLu9LwEbDSALY4jTfpi6y7J.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1517018,
+        "original_language": "en",
+        "original_title": "Overthought & Overplayed",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/uonRO4G396fbil7AwBWoU6Tp6lN.jpg",
+        "release_date": "2025-10-18",
+        "title": "Overthought & Overplayed",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1563873,
+        "original_language": "en",
+        "original_title": "Bagay La Nou Pòté",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Bagay La Nou Pòté",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1545395,
@@ -1398,6 +1420,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9OOZAvDPjSljDGW5vmGaAUhPEpm.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1532596,
+        "original_language": "en",
+        "original_title": "The Shadow I Wrote",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/7thSBUhxVr2z3Wj3tcGEOxatgci.jpg",
+        "release_date": "2025-10-18",
+        "title": "The Shadow I Wrote",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1429,6 +1475,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1564229,
+        "original_language": "en",
+        "original_title": "moving objects",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/81978058BUm3c4eRcZapz1Pucnm.jpg",
+        "release_date": "2025-10-18",
+        "title": "moving objects",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1564182,
         "original_language": "en",
         "original_title": "AEW WrestleDream 2025: Saturday Tailgate Brawl",
@@ -1441,28 +1505,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1563873,
-        "original_language": "en",
-        "original_title": "Bagay La Nou Pòté",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Bagay La Nou Pòté",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1825,6 +1867,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jIHSq8NM8Dyj2DOMMfEZwBkch0I.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1562131,
+        "original_language": "es",
+        "original_title": "Tata",
+        "overview": "",
+        "popularity": 0.1333,
+        "poster_path": "/rq2n62lmgncFbnIjp7qRhqdpNH3.jpg",
+        "release_date": "2025-10-18",
+        "title": "Tata",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/t9MsiW5Fzwwp1OydKLgVQEVA4aS.jpg",
         "genre_ids": [
             878,
@@ -1856,28 +1920,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1559287,
-        "original_language": "es",
-        "original_title": "Marcelo Peralta, un espíritu libre",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Marcelo Peralta, un espíritu libre",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1559249,
         "original_language": "es",
@@ -1895,18 +1937,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jIHSq8NM8Dyj2DOMMfEZwBkch0I.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
-        "id": 1562131,
+        "id": 1559287,
         "original_language": "es",
-        "original_title": "Tata",
+        "original_title": "Marcelo Peralta, un espíritu libre",
         "overview": "",
-        "popularity": 0.1333,
-        "poster_path": "/rq2n62lmgncFbnIjp7qRhqdpNH3.jpg",
+        "popularity": 0.0168,
+        "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "Tata",
+        "title": "Marcelo Peralta, un espíritu libre",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2055,6 +2097,56 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            10402,
+            99
+        ],
+        "id": 1564399,
+        "original_language": "pt",
+        "original_title": "Gilberto Gil: Tempo Rei - A Última Turnê",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4ULPePyuu1FRBzi6tJ6BoC7Hb62.jpg",
+        "release_date": "2025-10-18",
+        "title": "Gilberto Gil: Tempo Rei - A Última Turnê",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xRGvHUkctZFsgtoNCgUPx04gWlo.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            99
+        ],
+        "id": 1564276,
+        "original_language": "pt",
+        "original_title": "Memorial dos Metacarpos",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ve7xoEbrhZG4xlMEQNt52uzvMsE.jpg",
+        "release_date": "2025-10-18",
+        "title": "Memorial dos Metacarpos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "剧情",
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1148647,
@@ -2077,14 +2169,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1551614,
+        "id": 1551621,
         "original_language": "ru",
-        "original_title": "Курьеры Камиллы",
+        "original_title": "Песня для юного голоса",
         "overview": "",
-        "popularity": 0.0618,
+        "popularity": 0.2674,
         "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "Курьеры Камиллы",
+        "title": "Песня для юного голоса",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2116,15 +2208,37 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551608,
+        "genre_ids": [
+            99
+        ],
+        "id": 1560983,
         "original_language": "ru",
-        "original_title": "ДАНЕТ",
+        "original_title": "Пейзаж с ожиданием",
         "overview": "",
-        "popularity": 0.0411,
+        "popularity": 0.0621,
         "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "ДАНЕТ",
+        "title": "Пейзаж с ожиданием",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551614,
+        "original_language": "ru",
+        "original_title": "Курьеры Камиллы",
+        "overview": "",
+        "popularity": 0.0618,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Курьеры Камиллы",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2159,14 +2273,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1561157,
+        "id": 1561156,
         "original_language": "ru",
-        "original_title": "Изгнание Полиника",
+        "original_title": "В роще",
         "overview": "",
-        "popularity": 0.0363,
+        "popularity": 0.0437,
         "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "Изгнание Полиника",
+        "title": "В роще",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2179,130 +2293,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1551629,
+        "id": 1551608,
         "original_language": "ru",
-        "original_title": "После смерти остаются руины",
+        "original_title": "ДАНЕТ",
         "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/6KMEZKzRuHWzjf3SqEAEoX1dFwT.jpg",
-        "release_date": "2025-10-18",
-        "title": "После смерти остаются руины",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551617,
-        "original_language": "ru",
-        "original_title": "Отчёт о проделанной работе",
-        "overview": "",
-        "popularity": 0.0362,
+        "popularity": 0.0411,
         "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "Отчёт о проделанной работе",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551567,
-        "original_language": "ru",
-        "original_title": "Перелётная птица",
-        "overview": "",
-        "popularity": 0.0362,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Перелётная птица",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1560830,
-        "original_language": "ru",
-        "original_title": "Берёзы",
-        "overview": "",
-        "popularity": 0.0336,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Берёзы",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1555532,
-        "original_language": "ru",
-        "original_title": "Поля падения",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Поля падения",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551641,
-        "original_language": "ru",
-        "original_title": "Эфемерность",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Эфемерность",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551633,
-        "original_language": "ru",
-        "original_title": "Улица разбитых фонарей",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Улица разбитых фонарей",
+        "title": "ДАНЕТ",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2334,79 +2332,17 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551621,
-        "original_language": "ru",
-        "original_title": "Песня для юного голоса",
-        "overview": "",
-        "popularity": 0.2674,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Песня для юного голоса",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99
         ],
-        "id": 1561156,
+        "id": 1561157,
         "original_language": "ru",
-        "original_title": "В роще",
+        "original_title": "Изгнание Полиника",
         "overview": "",
-        "popularity": 0.0437,
+        "popularity": 0.0363,
         "poster_path": null,
         "release_date": "2025-10-18",
-        "title": "В роще",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1560983,
-        "original_language": "ru",
-        "original_title": "Пейзаж с ожиданием",
-        "overview": "",
-        "popularity": 0.0621,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Пейзаж с ожиданием",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1561153,
-        "original_language": "ru",
-        "original_title": "Sal’s Way",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Sal’s Way",
+        "title": "Изгнание Полиника",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2431,28 +2367,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1561143,
-        "original_language": "ru",
-        "original_title": "Русский Гамлет",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Русский Гамлет",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "俄语"
     },
     {
@@ -2533,6 +2447,184 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551617,
+        "original_language": "ru",
+        "original_title": "Отчёт о проделанной работе",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Отчёт о проделанной работе",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551567,
+        "original_language": "ru",
+        "original_title": "Перелётная птица",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Перелётная птица",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1560830,
+        "original_language": "ru",
+        "original_title": "Берёзы",
+        "overview": "",
+        "popularity": 0.0336,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Берёзы",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1561153,
+        "original_language": "ru",
+        "original_title": "Sal’s Way",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Sal’s Way",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1555532,
+        "original_language": "ru",
+        "original_title": "Поля падения",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Поля падения",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551641,
+        "original_language": "ru",
+        "original_title": "Эфемерность",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Эфемерность",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551633,
+        "original_language": "ru",
+        "original_title": "Улица разбитых фонарей",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Улица разбитых фонарей",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551629,
+        "original_language": "ru",
+        "original_title": "После смерти остаются руины",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/6KMEZKzRuHWzjf3SqEAEoX1dFwT.jpg",
+        "release_date": "2025-10-18",
+        "title": "После смерти остаются руины",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1561143,
+        "original_language": "ru",
+        "original_title": "Русский Гамлет",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-18",
+        "title": "Русский Гамлет",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "俄语"
     },
     {
