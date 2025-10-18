@@ -405,8 +405,8 @@
         "release_date": "2025-10-18",
         "title": "Penny Lane Is Dead",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.5,
+        "vote_count": 1,
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
@@ -1427,28 +1427,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1545395,
-        "original_language": "en",
-        "original_title": "One Summer Day, I Drank Bubble Tea",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/sxFXTkrJLmezucNAkkFsxsAqbvk.jpg",
-        "release_date": "2025-10-18",
-        "title": "One Summer Day, I Drank Bubble Tea",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/9OOZAvDPjSljDGW5vmGaAUhPEpm.jpg",
         "genre_ids": [
             18,
@@ -1529,6 +1507,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d3XNyE6bfPZXZ1Rzq7fjqxTkigV.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1250419,
+        "original_language": "en",
+        "original_title": "High Roads",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dq4Kv5pFdtP4tUcZbUn8MAWOunn.jpg",
+        "release_date": "2025-10-18",
+        "title": "High Roads",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -2002,6 +2002,28 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eD11k62FFYv08JgGqV52es93Nta.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1564634,
+        "original_language": "es",
+        "original_title": "¿Qué significa justicia para las mujeres?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/inL8cQj4O7YzgmisfPDxu4M832e.jpg",
+        "release_date": "2025-10-18",
+        "title": "¿Qué significa justicia para las mujeres?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2513,28 +2535,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1560830,
-        "original_language": "ru",
-        "original_title": "Берёзы",
-        "overview": "",
-        "popularity": 0.0336,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Берёзы",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1561153,
@@ -2587,24 +2587,6 @@
         "poster_path": null,
         "release_date": "2025-10-18",
         "title": "Эфемерность",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551633,
-        "original_language": "ru",
-        "original_title": "Улица разбитых фонарей",
-        "overview": "",
-        "popularity": 0.0218,
-        "poster_path": null,
-        "release_date": "2025-10-18",
-        "title": "Улица разбитых фонарей",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2792,6 +2774,24 @@
             "纪录"
         ],
         "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1564673,
+        "original_language": "tr",
+        "original_title": "Babacık Kandırdı mı Seni?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1lqiuedAei6tK5kHUwmr0zRGQBN.jpg",
+        "release_date": "2025-10-18",
+        "title": "Babacık Kandırdı mı Seni?",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
+        "original_language_zh": "土耳其语"
     },
     {
         "adult": false,
