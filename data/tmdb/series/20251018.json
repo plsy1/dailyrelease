@@ -26,7 +26,9 @@
     {
         "adult": false,
         "backdrop_path": "/iKfXCf2PEbi7opWssa04qjluM6p.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10764
+        ],
         "id": 302997,
         "origin_country": [
             "中国"
@@ -40,7 +42,9 @@
         "name": "一起开麦吧",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "汉语"
     },
     {
