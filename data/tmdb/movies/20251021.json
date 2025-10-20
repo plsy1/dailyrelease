@@ -5,6 +5,28 @@
         "genre_ids": [
             99
         ],
+        "id": 1537122,
+        "original_language": "zh",
+        "original_title": "婚・紗・罩",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/pKaUEbD2HaowaCEGjSQbiWHoYLH.jpg",
+        "release_date": "2025-10-21",
+        "title": "婚・紗・罩",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1537110,
         "original_language": "zh",
         "original_title": "萬歲家庭",
@@ -24,23 +46,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1537122,
+        "genre_ids": [],
+        "id": 1565663,
         "original_language": "zh",
-        "original_title": "婚・紗・罩",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/pKaUEbD2HaowaCEGjSQbiWHoYLH.jpg",
+        "original_title": "命运方程式",
+        "overview": "故事讲述了一个原本运气很好的少年，因为年少时的意外，丢失了自己的“好运”。长大后，努力生活的他，在宴会上意外碰见了女主角，使得两人的生活发生了天翻地覆的变化，最终两人摆脱了一系列的误会和困难，收获了事业和爱情",
+        "popularity": 0.0,
+        "poster_path": null,
         "release_date": "2025-10-21",
-        "title": "婚・紗・罩",
+        "title": "命运方程式",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
@@ -659,28 +677,6 @@
         "genre_ids": [
             99
         ],
-        "id": 1560966,
-        "original_language": "ru",
-        "original_title": "Стол",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-21",
-        "title": "Стол",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
         "id": 1560985,
         "original_language": "ru",
         "original_title": "Однажды в Ленинграде",
@@ -711,6 +707,28 @@
         "poster_path": null,
         "release_date": "2025-10-21",
         "title": "Разговор",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1560966,
+        "original_language": "ru",
+        "original_title": "Стол",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-21",
+        "title": "Стол",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -767,6 +785,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            36
+        ],
+        "id": 1549124,
+        "original_language": "it",
+        "original_title": "Elena Del Ghetto",
+        "overview": "",
+        "popularity": 0.2058,
+        "poster_path": null,
+        "release_date": "2025-10-21",
+        "title": "Elena Del Ghetto",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             53
         ],
@@ -791,23 +833,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            36
+            99
         ],
-        "id": 1549124,
+        "id": 1559953,
         "original_language": "it",
-        "original_title": "Elena Del Ghetto",
+        "original_title": "Noi e la grande ambizione",
         "overview": "",
-        "popularity": 0.2058,
-        "poster_path": null,
+        "popularity": 0.1292,
+        "poster_path": "/cneTLPEZitIj3OvhbnmR3SQe2oG.jpg",
         "release_date": "2025-10-21",
-        "title": "Elena Del Ghetto",
+        "title": "Noi e la grande ambizione",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "历史"
+            "纪录"
         ],
         "original_language_zh": "意大利语"
     },
@@ -854,28 +894,6 @@
         "genre_ids_zh": [
             "惊悚",
             "恐怖"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1559953,
-        "original_language": "it",
-        "original_title": "Noi e la grande ambizione",
-        "overview": "",
-        "popularity": 0.1292,
-        "poster_path": "/cneTLPEZitIj3OvhbnmR3SQe2oG.jpg",
-        "release_date": "2025-10-21",
-        "title": "Noi e la grande ambizione",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "意大利语"
     },
