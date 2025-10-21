@@ -15,8 +15,8 @@
         "release_date": "2025-10-22",
         "title": "为你遗憾",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 8.0,
+        "vote_count": 2,
         "genre_ids_zh": [
             "剧情",
             "爱情"
@@ -39,8 +39,8 @@
         "release_date": "2025-10-22",
         "title": "无处释放我",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "音乐"
@@ -164,28 +164,6 @@
         "vote_count": 2,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nbyJGXkKjpb7saKmXq6Fcx3AQ25.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1559612,
-        "original_language": "en",
-        "original_title": "Lazarus",
-        "overview": "",
-        "popularity": 0.865,
-        "poster_path": "/26R0CdRUoJrH76YpkklQdHcQfsT.jpg",
-        "release_date": "2025-10-22",
-        "title": "Lazarus",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1489,8 +1467,8 @@
         "release_date": "2025-10-22",
         "title": "最小的女儿",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "爱情"
@@ -1811,6 +1789,50 @@
         "poster_path": "/yD6bCUn1brj4pXnDjPnudWa8DGB.jpg",
         "release_date": "2025-10-22",
         "title": "Correrse no es mearse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AnD1uGKgyMm161w1q8qe0pvN0qv.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1540980,
+        "original_language": "es",
+        "original_title": "Grietas atraviesan este vidrio multicolor",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/urD1oheAFa8lsuHp27O47TbzFY1.jpg",
+        "release_date": "2025-10-22",
+        "title": "Grietas atraviesan este vidrio multicolor",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sb8wtyJRB4kcOG1XAnnGh0UsKbN.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1566009,
+        "original_language": "es",
+        "original_title": "Mamíferas: el hilo de Ariadna",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/A8SqNDhUbHdrwqYz2WSzJFrGdFH.jpg",
+        "release_date": "2025-10-22",
+        "title": "Mamíferas: el hilo de Ariadna",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
