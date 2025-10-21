@@ -72,7 +72,7 @@
         "original_language": "en",
         "original_title": "The Hand That Rocks the Cradle",
         "overview": "",
-        "popularity": 5.2252,
+        "popularity": 6.0212,
         "poster_path": "/hH953zlL3xdEDpizAquISRrSm1P.jpg",
         "release_date": "2025-10-21",
         "title": "The Hand That Rocks the Cradle",
@@ -95,7 +95,7 @@
         "original_language": "en",
         "original_title": "Mad Max and the Genius of George Miller",
         "overview": "",
-        "popularity": 1.5001,
+        "popularity": 1.6052,
         "poster_path": null,
         "release_date": "2025-10-21",
         "title": "Mad Max and the Genius of George Miller",
@@ -118,7 +118,7 @@
         "original_language": "en",
         "original_title": "DOORS",
         "overview": "",
-        "popularity": 0.5529,
+        "popularity": 0.6054,
         "poster_path": "/wLBVvl6duN3YmGSQRYLFvryRmzV.jpg",
         "release_date": "2025-10-21",
         "title": "DOORS",
@@ -142,7 +142,7 @@
         "original_language": "en",
         "original_title": "The Salem Chronicles",
         "overview": "",
-        "popularity": 0.3672,
+        "popularity": 0.5622,
         "poster_path": "/8xnHj2r7OOwkIfaKcxYkulnBZP0.jpg",
         "release_date": "2025-10-21",
         "title": "The Salem Chronicles",
@@ -165,7 +165,7 @@
         "original_language": "en",
         "original_title": "Spacewoman",
         "overview": "",
-        "popularity": 0.2891,
+        "popularity": 0.2986,
         "poster_path": "/ukLrLZa7Wuhvv9CKKZQu6uBWHRO.jpg",
         "release_date": "2025-10-21",
         "title": "Spacewoman",
@@ -185,7 +185,7 @@
         "original_language": "en",
         "original_title": "Project1",
         "overview": "",
-        "popularity": 0.2367,
+        "popularity": 0.2295,
         "poster_path": "/50cuacsLo2y94U1dWLOauCUyK98.jpg",
         "release_date": "2025-10-21",
         "title": "Project1",
@@ -224,7 +224,7 @@
         "original_language": "en",
         "original_title": "Where He Went",
         "overview": "",
-        "popularity": 0.0362,
+        "popularity": 0.0261,
         "poster_path": "/oftOTzR6gpgatN9yTZRWvrYNCJu.jpg",
         "release_date": "2025-10-21",
         "title": "Where He Went",
@@ -285,7 +285,7 @@
         "original_language": "en",
         "original_title": "Erewhon",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0357,
         "poster_path": null,
         "release_date": "2025-10-21",
         "title": "Erewhon",
@@ -417,6 +417,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/gHWdPK9EEGHNEtfJ1UQEuvok8FI.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1565945,
+        "original_language": "en",
+        "original_title": "Clownstalker: Episode III",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/vSh62KrxKdx3vdiGHtDfRodFgv7.jpg",
+        "release_date": "2025-10-21",
+        "title": "Clownstalker: Episode III",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ep2s1L51fKNx28Ox2EgINAL04I1.jpg",
         "genre_ids": [
             99
@@ -425,7 +447,7 @@
         "original_language": "de",
         "original_title": "KI: Der Tod des Internets",
         "overview": "",
-        "popularity": 0.5229,
+        "popularity": 0.481,
         "poster_path": "/iZd3A5ObVMhZCaBtMv4WxyjUvGs.jpg",
         "release_date": "2025-10-21",
         "title": "KI: Der Tod des Internets",
@@ -447,7 +469,7 @@
         "original_language": "de",
         "original_title": "50 Jahre Roland Kaiser - Ein Leben für die Musik",
         "overview": "",
-        "popularity": 0.271,
+        "popularity": 0.2184,
         "poster_path": "/e7IrUlobyOYoFrecRZ0VNOKF3mM.jpg",
         "release_date": "2025-10-21",
         "title": "50 Jahre Roland Kaiser - Ein Leben für die Musik",
@@ -469,7 +491,7 @@
         "original_language": "de",
         "original_title": "B wie Bartleby",
         "overview": "",
-        "popularity": 0.105,
+        "popularity": 0.1012,
         "poster_path": "/4enaKxASOKV12FWP0E9tprcOOyi.jpg",
         "release_date": "2025-10-21",
         "title": "B wie Bartleby",
@@ -535,7 +557,7 @@
         "original_language": "es",
         "original_title": "Sacha Guitarra, los misterios del monte",
         "overview": "",
-        "popularity": 0.0569,
+        "popularity": 0.064,
         "poster_path": null,
         "release_date": "2025-10-21",
         "title": "Sacha Guitarra, los misterios del monte",
@@ -557,7 +579,7 @@
         "original_language": "es",
         "original_title": "Reptile Nights",
         "overview": "",
-        "popularity": 0.0409,
+        "popularity": 0.0398,
         "poster_path": "/qrYDnT7fJR7Ooak3gWeFQOfDk9i.jpg",
         "release_date": "2025-10-21",
         "title": "Reptile Nights",
@@ -585,6 +607,72 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2dybebycQwdQBYETw8dzo4LbDe7.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1565961,
+        "original_language": "es",
+        "original_title": "Sin derecho a denunciar (Cooperativa El Bosque)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qn5VoEjy5E6WYOBrCZv0MYy9fhh.jpg",
+        "release_date": "2025-10-21",
+        "title": "Sin derecho a denunciar (Cooperativa El Bosque)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5RmoXYesIZsFHmYJinNpVwNOWx.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1565947,
+        "original_language": "es",
+        "original_title": "(In)adaptados",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/kTUe71mKiY6pr1FrAwOi0UHToMZ.jpg",
+        "release_date": "2025-10-21",
+        "title": "(In)adaptados",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oyNND5RKYLjntlWtcm7jJVDgP9A.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1565941,
+        "original_language": "es",
+        "original_title": "La vuelta",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/wMBVVclsOWxUEC6gSHgu1p8O9as.jpg",
+        "release_date": "2025-10-21",
+        "title": "La vuelta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
