@@ -1763,6 +1763,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/j7FMY426wY0H1mcaFnKpR15amGb.jpg",
+        "genre_ids": [
+            18,
+            10751
+        ],
+        "id": 1548073,
+        "original_language": "es",
+        "original_title": "Espacio Negativo",
+        "overview": "",
+        "popularity": 0.1541,
+        "poster_path": "/tEBgI3he33tcdfLtWUztFoCQO71.jpg",
+        "release_date": "2025-10-23",
+        "title": "Espacio Negativo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10749,
@@ -1809,30 +1833,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/j7FMY426wY0H1mcaFnKpR15amGb.jpg",
-        "genre_ids": [
-            18,
-            10751
-        ],
-        "id": 1548073,
-        "original_language": "es",
-        "original_title": "Espacio Negativo",
-        "overview": "",
-        "popularity": 0.1541,
-        "poster_path": "/tEBgI3he33tcdfLtWUztFoCQO71.jpg",
-        "release_date": "2025-10-23",
-        "title": "Espacio Negativo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "家庭"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/AlhP0Q9MivQjw9NoITdCOHEXICp.jpg",
         "genre_ids": [
             14,
@@ -1851,28 +1851,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "奇幻",
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1564889,
-        "original_language": "es",
-        "original_title": "Ümami",
-        "overview": "",
-        "popularity": 0.0256,
-        "poster_path": "/ynBDTqbUUhIbaVxEazDAdtOxUYC.jpg",
-        "release_date": "2025-10-23",
-        "title": "Ümami",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "西班牙语"
@@ -1913,6 +1891,28 @@
         "poster_path": "/km7ccMGKTm8M0v3Mn9Pf0w22pia.jpg",
         "release_date": "2025-10-23",
         "title": "Orph",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1564889,
+        "original_language": "es",
+        "original_title": "Ümami",
+        "overview": "",
+        "popularity": 0.0256,
+        "poster_path": "/ynBDTqbUUhIbaVxEazDAdtOxUYC.jpg",
+        "release_date": "2025-10-23",
+        "title": "Ümami",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1969,7 +1969,8 @@
         "adult": false,
         "backdrop_path": "/fD5BEPSQNqGGLsZHv1n63OQ82yl.jpg",
         "genre_ids": [
-            53
+            53,
+            18
         ],
         "id": 1280234,
         "original_language": "pt",
@@ -1983,7 +1984,8 @@
         "vote_average": 5.0,
         "vote_count": 1,
         "genre_ids_zh": [
-            "惊悚"
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -2051,25 +2053,65 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gK9Ukbr1pB9xLjmgBc0lnVUTw9D.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            16
+            18
         ],
-        "id": 1255369,
-        "original_language": "ru",
-        "original_title": "Финник 2",
+        "id": 1566885,
+        "original_language": "pt",
+        "original_title": "#Salve Rosa",
         "overview": "",
-        "popularity": 2.9248,
-        "poster_path": "/2CJ01g3An35uUwDwvfKQcEIg7T0.jpg",
+        "popularity": 0.0,
+        "poster_path": "/fCoRrp3Nsn1UGWM8cOGKh4H1hz.jpg",
         "release_date": "2025-10-23",
-        "title": "Финник 2",
+        "title": "#Salve Rosa",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画"
+            "剧情"
         ],
-        "original_language_zh": "俄语"
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1566725,
+        "original_language": "pt",
+        "original_title": "Contemplação Impasse Tentativa",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/uUAVlrdMjwyvWMaF8bd00B32Q9a.jpg",
+        "release_date": "2025-10-23",
+        "title": "Contemplação Impasse Tentativa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p3gJ2syuRSkL7iBpDny9LrjmqoH.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1566717,
+        "original_language": "pt",
+        "original_title": "Pescadores de Bubaque",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1oe1YVixecBJbQ5BUOaEsLNVh69.jpg",
+        "release_date": "2025-10-23",
+        "title": "Pescadores de Bubaque",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
@@ -2092,6 +2134,28 @@
         "genre_ids_zh": [
             "奇幻",
             "冒险"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gK9Ukbr1pB9xLjmgBc0lnVUTw9D.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1255369,
+        "original_language": "ru",
+        "original_title": "Финник 2",
+        "overview": "",
+        "popularity": 2.9248,
+        "poster_path": "/2CJ01g3An35uUwDwvfKQcEIg7T0.jpg",
+        "release_date": "2025-10-23",
+        "title": "Финник 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "俄语"
     },
