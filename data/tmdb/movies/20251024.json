@@ -1527,24 +1527,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1563233,
-        "original_language": "en",
-        "original_title": "Split Horizon",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Split Horizon",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 1563231,
         "original_language": "en",
         "original_title": "Alpine Tundra",
@@ -1553,66 +1535,6 @@
         "poster_path": null,
         "release_date": "2025-10-24",
         "title": "Alpine Tundra",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563229,
-        "original_language": "en",
-        "original_title": "Sandia",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Sandia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kxotGBnRz2sVmUApfXwjd2Wppy9.jpg",
-        "genre_ids": [
-            878,
-            18
-        ],
-        "id": 1565924,
-        "original_language": "en",
-        "original_title": "One More Final",
-        "overview": "",
-        "popularity": 0.0462,
-        "poster_path": "/u6Ye8d78HGtbtIYhXPX1dvf3MQR.jpg",
-        "release_date": "2025-10-24",
-        "title": "One More Final",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1557883,
-        "original_language": "en",
-        "original_title": "Where The Children Go To Play",
-        "overview": "",
-        "popularity": 0.0311,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Where The Children Go To Play",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1644,54 +1566,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1528306,
-        "original_language": "en",
-        "original_title": "Enbyknownst",
-        "overview": "",
-        "popularity": 0.0311,
-        "poster_path": "/zgeAktNwIGWaUeze2bVlKJUQF7g.jpg",
-        "release_date": "2025-10-24",
-        "title": "Enbyknownst",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            80,
-            53,
-            27
-        ],
-        "id": 1563936,
-        "original_language": "en",
-        "original_title": "Canvas",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/c52GwrF4S79q64wCEaAmtgoHm6H.jpg",
-        "release_date": "2025-10-24",
-        "title": "Canvas",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "惊悚",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1564603,
         "original_language": "en",
@@ -1701,6 +1575,96 @@
         "poster_path": null,
         "release_date": "2025-10-24",
         "title": "Kin Keeping 101",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563233,
+        "original_language": "en",
+        "original_title": "Split Horizon",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Split Horizon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563229,
+        "original_language": "en",
+        "original_title": "Sandia",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Sandia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1567051,
+        "original_language": "en",
+        "original_title": "Juliette",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/s9uS3DG7FgJtAfnqZJO4HYiLSKF.jpg",
+        "release_date": "2025-10-24",
+        "title": "Juliette",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1566358,
+        "original_language": "en",
+        "original_title": "Sloven",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/rqN9H34o7SSSrdeZt95CB2olGTV.jpg",
+        "release_date": "2025-10-24",
+        "title": "Sloven",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1564605,
+        "original_language": "en",
+        "original_title": "DogHouse",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "DogHouse",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1767,38 +1731,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1566358,
+        "backdrop_path": "/lrClcGLlKDW5KgvDJR8uxRQWCXz.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1567138,
         "original_language": "en",
-        "original_title": "Sloven",
+        "original_title": "8pm to 8am",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/rqN9H34o7SSSrdeZt95CB2olGTV.jpg",
+        "popularity": 0.0071,
+        "poster_path": "/pfzHaoHI3iAhcaKd6qRjO8406f2.jpg",
         "release_date": "2025-10-24",
-        "title": "Sloven",
+        "title": "8pm to 8am",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1564605,
-        "original_language": "en",
-        "original_title": "DogHouse",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "DogHouse",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "惊悚"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1879,68 +1829,6 @@
         "poster_path": null,
         "release_date": "2025-10-24",
         "title": "Mr. Ogre's Castle",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/k8dvCHdOIEkxS6UbacwOcaz9tBa.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1567326,
-        "original_language": "en",
-        "original_title": "Ghosts of Alderney: Hitler's Island Slaves",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/wdGA5RkHZUujW6QfFDJlfjnLSs7.jpg",
-        "release_date": "2025-10-24",
-        "title": "Ghosts of Alderney: Hitler's Island Slaves",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lrClcGLlKDW5KgvDJR8uxRQWCXz.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1567138,
-        "original_language": "en",
-        "original_title": "8pm to 8am",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/pfzHaoHI3iAhcaKd6qRjO8406f2.jpg",
-        "release_date": "2025-10-24",
-        "title": "8pm to 8am",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1567051,
-        "original_language": "en",
-        "original_title": "Juliette",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/s9uS3DG7FgJtAfnqZJO4HYiLSKF.jpg",
-        "release_date": "2025-10-24",
-        "title": "Juliette",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2047,6 +1935,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1533130,
+        "original_language": "ja",
+        "original_title": "おいしい給食 炎の修学旅行",
+        "overview": "",
+        "popularity": 1.836,
+        "poster_path": "/4Pqjrbwk3xolKXyUre1ojG5X1uD.jpg",
+        "release_date": "2025-10-24",
+        "title": "おいしい給食 炎の修学旅行",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6RFKiFQDSTSfejS1WGnW2pfEvCQ.jpg",
         "genre_ids": [
             18
@@ -2070,19 +1976,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1533130,
+        "genre_ids": [
+            18
+        ],
+        "id": 1528845,
         "original_language": "ja",
-        "original_title": "おいしい給食 炎の修学旅行",
+        "original_title": "幕末ヒポクラテス",
         "overview": "",
-        "popularity": 1.836,
-        "poster_path": "/4Pqjrbwk3xolKXyUre1ojG5X1uD.jpg",
+        "popularity": 0.3476,
+        "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "おいしい給食 炎の修学旅行",
+        "title": "幕末ヒポクラテス",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "日语"
     },
     {
@@ -2101,28 +2011,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1528845,
-        "original_language": "ja",
-        "original_title": "幕末ヒポクラテス",
-        "overview": "",
-        "popularity": 0.3476,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "幕末ヒポクラテス",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "日语"
     },
     {
@@ -3668,5 +3556,27 @@
             "惊悚"
         ],
         "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402
+        ],
+        "id": 1567425,
+        "original_language": "no",
+        "original_title": "Leprous: An Evening of Atonement",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Leprous: An Evening of Atonement",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "挪威语"
     }
 ]
