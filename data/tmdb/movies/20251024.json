@@ -225,30 +225,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            80,
-            18
-        ],
-        "id": 1528318,
-        "original_language": "en",
-        "original_title": "Trauma Bonds",
-        "overview": "",
-        "popularity": 2.5797,
-        "poster_path": "/1sgQT2TZvAMy3vwcJGVX3zuHc81.jpg",
-        "release_date": "2025-10-24",
-        "title": "Trauma Bonds",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/oYJiH11ytNhIXKYJdsnijgtSpOL.jpg",
         "genre_ids": [
             12,
@@ -273,28 +249,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/i7AGhLqUIMiejRs2lGi3EuUXqPV.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1557699,
-        "original_language": "en",
-        "original_title": "Iron Lake",
-        "overview": "",
-        "popularity": 2.0797,
-        "poster_path": "/8hx4FcoEjee7T5oQT9xfixrCdd1.jpg",
-        "release_date": "2025-10-24",
-        "title": "Iron Lake",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/iVhkaPUv0bFEjSxjxAPuxoMLQtz.jpg",
         "genre_ids": [
             35,
@@ -314,6 +268,30 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1528318,
+        "original_language": "en",
+        "original_title": "Trauma Bonds",
+        "overview": "",
+        "popularity": 2.5797,
+        "poster_path": "/1sgQT2TZvAMy3vwcJGVX3zuHc81.jpg",
+        "release_date": "2025-10-24",
+        "title": "Trauma Bonds",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -365,24 +343,22 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hi2Iz8VMTDeVpdKsSTXYLr60dNt.jpg",
+        "backdrop_path": "/i7AGhLqUIMiejRs2lGi3EuUXqPV.jpg",
         "genre_ids": [
-            35,
             18
         ],
-        "id": 1555551,
+        "id": 1557699,
         "original_language": "en",
-        "original_title": "Blasphemy",
+        "original_title": "Iron Lake",
         "overview": "",
-        "popularity": 1.586,
-        "poster_path": "/vY6CjZZED2IKwU1Zxg8Uov65bLs.jpg",
+        "popularity": 2.0797,
+        "poster_path": "/8hx4FcoEjee7T5oQT9xfixrCdd1.jpg",
         "release_date": "2025-10-24",
-        "title": "Blasphemy",
+        "title": "Iron Lake",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -413,6 +389,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/hi2Iz8VMTDeVpdKsSTXYLr60dNt.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1555551,
+        "original_language": "en",
+        "original_title": "Blasphemy",
+        "overview": "",
+        "popularity": 1.586,
+        "poster_path": "/vY6CjZZED2IKwU1Zxg8Uov65bLs.jpg",
+        "release_date": "2025-10-24",
+        "title": "Blasphemy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vqrw1TwujGvNcDBL6xVVU9cUKge.jpg",
         "genre_ids": [
             27
@@ -430,28 +430,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/uGiMhHMEU9m5pdkfeQi9qnD6Cvr.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1507563,
-        "original_language": "en",
-        "original_title": "National Theatre Live: Mrs. Warren's Profession",
-        "overview": "",
-        "popularity": 1.2359,
-        "poster_path": "/xh02VRO7Duh5LaU67cusKEcESTB.jpg",
-        "release_date": "2025-10-24",
-        "title": "National Theatre Live: Mrs. Warren's Profession",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -476,6 +454,28 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uGiMhHMEU9m5pdkfeQi9qnD6Cvr.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1507563,
+        "original_language": "en",
+        "original_title": "National Theatre Live: Mrs. Warren's Profession",
+        "overview": "",
+        "popularity": 1.2359,
+        "poster_path": "/xh02VRO7Duh5LaU67cusKEcESTB.jpg",
+        "release_date": "2025-10-24",
+        "title": "National Theatre Live: Mrs. Warren's Profession",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -523,24 +523,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/n78XgeTw2mAiK229PW74OCkXes1.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1542550,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1559848,
         "original_language": "en",
-        "original_title": "Power Slap 16: Wolverine vs. Klingbeil",
+        "original_title": "Leslie Jones: Life Part 2",
         "overview": "",
-        "popularity": 0.6836,
-        "poster_path": "/rzCziunEOA7SEs5UwBr3OMl9YmT.jpg",
+        "popularity": 0.8432,
+        "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "Power Slap 16: Wolverine vs. Klingbeil",
+        "title": "Leslie Jones: Life Part 2",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -567,20 +563,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1559848,
+        "backdrop_path": "/n78XgeTw2mAiK229PW74OCkXes1.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1542550,
         "original_language": "en",
-        "original_title": "Leslie Jones: Life Part 2",
+        "original_title": "Power Slap 16: Wolverine vs. Klingbeil",
         "overview": "",
-        "popularity": 0.8432,
-        "poster_path": null,
+        "popularity": 0.6836,
+        "poster_path": "/rzCziunEOA7SEs5UwBr3OMl9YmT.jpg",
         "release_date": "2025-10-24",
-        "title": "Leslie Jones: Life Part 2",
+        "title": "Power Slap 16: Wolverine vs. Klingbeil",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动作"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -602,6 +602,54 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1551766,
+        "original_language": "en",
+        "original_title": "What We Can Know About Edmond and Basile",
+        "overview": "",
+        "popularity": 0.4265,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "What We Can Know About Edmond and Basile",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1534685,
+        "original_language": "en",
+        "original_title": "i want to go to moscow",
+        "overview": "",
+        "popularity": 0.4186,
+        "poster_path": "/fjGdsDY01JpMIHLMMkJ4inCkNRR.jpg",
+        "release_date": "2025-10-24",
+        "title": "i want to go to moscow",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -635,30 +683,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1534685,
-        "original_language": "en",
-        "original_title": "i want to go to moscow",
-        "overview": "",
-        "popularity": 0.4186,
-        "poster_path": "/fjGdsDY01JpMIHLMMkJ4inCkNRR.jpg",
-        "release_date": "2025-10-24",
-        "title": "i want to go to moscow",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             10749
         ],
         "id": 1551627,
@@ -681,47 +705,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
-            878
+            35,
+            18
         ],
-        "id": 1513983,
+        "id": 1346540,
         "original_language": "en",
-        "original_title": "The End is at Hand",
+        "original_title": "No Hands",
         "overview": "",
-        "popularity": 0.3278,
-        "poster_path": "/6iGxqSaQXsHtmaRQ9NnIYMF2ncX.jpg",
+        "popularity": 0.3637,
+        "poster_path": "/ijl6YNWh8IoAWU8x6gfCd9uglTL.jpg",
         "release_date": "2025-10-24",
-        "title": "The End is at Hand",
+        "title": "No Hands",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1551766,
-        "original_language": "en",
-        "original_title": "What We Can Know About Edmond and Basile",
-        "overview": "",
-        "popularity": 0.4265,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "What We Can Know About Edmond and Basile",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -745,6 +745,48 @@
         "genre_ids_zh": [
             "恐怖"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1430589,
+        "original_language": "en",
+        "original_title": "Red Tops",
+        "overview": "",
+        "popularity": 0.3475,
+        "poster_path": "/7ORb0KEDfapYBnCofvM8QpgXDXj.jpg",
+        "release_date": "2025-10-24",
+        "title": "Red Tops",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1458968,
+        "original_language": "en",
+        "original_title": "Fever Dream",
+        "overview": "",
+        "popularity": 0.342,
+        "poster_path": "/7Yrky7mdEM4OgiKzBvH6o2gLmRb.jpg",
+        "release_date": "2025-10-24",
+        "title": "Fever Dream",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -777,23 +819,47 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
-            53
+            99,
+            35
         ],
-        "id": 1430589,
+        "id": 1497325,
         "original_language": "en",
-        "original_title": "Red Tops",
+        "original_title": "Mockbuster",
         "overview": "",
-        "popularity": 0.3475,
-        "poster_path": "/7ORb0KEDfapYBnCofvM8QpgXDXj.jpg",
+        "popularity": 0.3313,
+        "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "Red Tops",
+        "title": "Mockbuster",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            878
+        ],
+        "id": 1513983,
+        "original_language": "en",
+        "original_title": "The End is at Hand",
+        "overview": "",
+        "popularity": 0.3278,
+        "poster_path": "/6iGxqSaQXsHtmaRQ9NnIYMF2ncX.jpg",
+        "release_date": "2025-10-24",
+        "title": "The End is at Hand",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖",
-            "惊悚"
+            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -825,72 +891,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35,
-            10749
-        ],
-        "id": 1528315,
-        "original_language": "en",
-        "original_title": "The Pic",
-        "overview": "",
-        "popularity": 0.2513,
-        "poster_path": "/l5sOHRng24PuBQnePzXmjudYAHb.jpg",
-        "release_date": "2025-10-24",
-        "title": "The Pic",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1458968,
-        "original_language": "en",
-        "original_title": "Fever Dream",
-        "overview": "",
-        "popularity": 0.342,
-        "poster_path": "/7Yrky7mdEM4OgiKzBvH6o2gLmRb.jpg",
-        "release_date": "2025-10-24",
-        "title": "Fever Dream",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            35
-        ],
-        "id": 1497325,
-        "original_language": "en",
-        "original_title": "Mockbuster",
-        "overview": "",
-        "popularity": 0.3313,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Mockbuster",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             10402,
             99
         ],
@@ -913,27 +913,49 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ga3gQb9KHbxB3aTOZazNfBUkawx.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18,
-            53,
-            10751
+            35,
+            10749
         ],
-        "id": 1556122,
+        "id": 1528315,
         "original_language": "en",
-        "original_title": "Those Who Love Me Will Follow Me",
+        "original_title": "The Pic",
         "overview": "",
-        "popularity": 0.1277,
-        "poster_path": "/weX2AMnsfyF8WuW3TUOm6SCqJHT.jpg",
+        "popularity": 0.2513,
+        "poster_path": "/l5sOHRng24PuBQnePzXmjudYAHb.jpg",
         "release_date": "2025-10-24",
-        "title": "Those Who Love Me Will Follow Me",
+        "title": "The Pic",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "惊悚",
-            "家庭"
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oo68L4B53CUPqE3wz39tihhrCbM.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1523650,
+        "original_language": "en",
+        "original_title": "Crop Circles",
+        "overview": "",
+        "popularity": 0.2147,
+        "poster_path": "/rLyaUCiTAGGSpCiJO0oCOjHHU54.jpg",
+        "release_date": "2025-10-24",
+        "title": "Crop Circles",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -983,30 +1005,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/oo68L4B53CUPqE3wz39tihhrCbM.jpg",
-        "genre_ids": [
-            10749,
-            18
-        ],
-        "id": 1523650,
-        "original_language": "en",
-        "original_title": "Crop Circles",
-        "overview": "",
-        "popularity": 0.2147,
-        "poster_path": "/rLyaUCiTAGGSpCiJO0oCOjHHU54.jpg",
-        "release_date": "2025-10-24",
-        "title": "Crop Circles",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -1025,94 +1023,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 1346540,
-        "original_language": "en",
-        "original_title": "No Hands",
-        "overview": "",
-        "popularity": 0.3637,
-        "poster_path": "/ijl6YNWh8IoAWU8x6gfCd9uglTL.jpg",
-        "release_date": "2025-10-24",
-        "title": "No Hands",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/q5x6KXiGDimGK67VOUh89a8zWTx.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1555073,
-        "original_language": "en",
-        "original_title": "Big Money: A Spiritual Manifesto",
-        "overview": "",
-        "popularity": 0.1247,
-        "poster_path": "/k9dE9p0GjGamoQVPcpGOhgKfHSC.jpg",
-        "release_date": "2025-10-24",
-        "title": "Big Money: A Spiritual Manifesto",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6mQVa1z0YV6K4LykvDVJRExM2h5.jpg",
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1424844,
-        "original_language": "en",
-        "original_title": "Snah Morfar: Over Før Det Begynte",
-        "overview": "",
-        "popularity": 0.0867,
-        "poster_path": "/2FvCiJNAbPZshSZRd8H4FrOvFDF.jpg",
-        "release_date": "2025-10-24",
-        "title": "Snah Morfar: Over Før Det Begynte",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1535268,
-        "original_language": "en",
-        "original_title": "The Mascot",
-        "overview": "",
-        "popularity": 0.1162,
-        "poster_path": "/y7QleSpNdmfxPelDst42Kkd11YI.jpg",
-        "release_date": "2025-10-24",
-        "title": "The Mascot",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1141,25 +1051,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/oyBnRbNhdrvH6XWmWOr49FDvm7g.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35,
-            18
+            27
         ],
-        "id": 1553454,
+        "id": 1551829,
         "original_language": "en",
-        "original_title": "You & Me (& Chaz & Rodney)",
+        "original_title": "Sardonic",
         "overview": "",
-        "popularity": 0.0727,
-        "poster_path": "/bYbv7R1r3eHc7N3zsIWv8EfTBjj.jpg",
+        "popularity": 0.1555,
+        "poster_path": "/lBidjjIbappYgpDX8M1gwqAyjR0.jpg",
         "release_date": "2025-10-24",
-        "title": "You & Me (& Chaz & Rodney)",
+        "title": "Sardonic",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "剧情"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1189,152 +1097,86 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/33iLXarSVMDfOTnSCuE4NWn4PeI.jpg",
+        "backdrop_path": "/ga3gQb9KHbxB3aTOZazNfBUkawx.jpg",
         "genre_ids": [
-            16,
-            14,
-            35
+            18,
+            53,
+            10751
         ],
-        "id": 1552113,
+        "id": 1556122,
         "original_language": "en",
-        "original_title": "Fantasies of a Rescue Dummy",
+        "original_title": "Those Who Love Me Will Follow Me",
         "overview": "",
-        "popularity": 0.0676,
-        "poster_path": null,
+        "popularity": 0.1277,
+        "poster_path": "/weX2AMnsfyF8WuW3TUOm6SCqJHT.jpg",
         "release_date": "2025-10-24",
-        "title": "Fantasies of a Rescue Dummy",
+        "title": "Those Who Love Me Will Follow Me",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
-            "奇幻",
-            "喜剧"
+            "剧情",
+            "惊悚",
+            "家庭"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1555385,
-        "original_language": "en",
-        "original_title": "Daddy, Komplex",
-        "overview": "",
-        "popularity": 0.0785,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Daddy, Komplex",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hfCLgmKase5MWAr0eUSVCXsjbeI.jpg",
         "genre_ids": [
-            16
-        ],
-        "id": 1565222,
-        "original_language": "en",
-        "original_title": "Disney Jr. Cinema Club 2025",
-        "overview": "",
-        "popularity": 0.0811,
-        "poster_path": "/4O7eReQpPH3jNTbe8JSXzt67GF1.jpg",
-        "release_date": "2025-10-24",
-        "title": "Disney Jr. Cinema Club 2025",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1551829,
-        "original_language": "en",
-        "original_title": "Sardonic",
-        "overview": "",
-        "popularity": 0.1555,
-        "poster_path": "/lBidjjIbappYgpDX8M1gwqAyjR0.jpg",
-        "release_date": "2025-10-24",
-        "title": "Sardonic",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/7h6EJjCZ7qTuKGL4JaOLObb03KO.jpg",
-        "genre_ids": [
-            9648,
             18
         ],
-        "id": 1428381,
+        "id": 1456907,
         "original_language": "en",
-        "original_title": "Bene Culturale",
+        "original_title": "Family Video",
         "overview": "",
-        "popularity": 0.0743,
-        "poster_path": "/u4NHORxTmrg5ukMmzbKZwBM1T6j.jpg",
+        "popularity": 0.1258,
+        "poster_path": "/n05LBG5zJJYS4dlAQApRlqLB572.jpg",
         "release_date": "2025-10-24",
-        "title": "Bene Culturale",
+        "title": "Family Video",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "悬疑",
             "剧情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/q5x6KXiGDimGK67VOUh89a8zWTx.jpg",
         "genre_ids": [
-            16,
-            28
+            99
         ],
-        "id": 1446601,
+        "id": 1555073,
         "original_language": "en",
-        "original_title": "Bullseye",
+        "original_title": "Big Money: A Spiritual Manifesto",
         "overview": "",
-        "popularity": 0.088,
-        "poster_path": "/jRGNXai3s0cdqpY4p4QBMaD14Aj.jpg",
+        "popularity": 0.1247,
+        "poster_path": "/k9dE9p0GjGamoQVPcpGOhgKfHSC.jpg",
         "release_date": "2025-10-24",
-        "title": "Bullseye",
+        "title": "Big Money: A Spiritual Manifesto",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
-            "动作"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/dabpjQtPFv0YFNFVQr4JFGRhGDN.jpg",
+        "backdrop_path": null,
         "genre_ids": [],
-        "id": 1558233,
+        "id": 1535268,
         "original_language": "en",
-        "original_title": "Joe Hunt",
+        "original_title": "The Mascot",
         "overview": "",
-        "popularity": 0.0799,
-        "poster_path": null,
+        "popularity": 0.1162,
+        "poster_path": "/y7QleSpNdmfxPelDst42Kkd11YI.jpg",
         "release_date": "2025-10-24",
-        "title": "Joe Hunt",
+        "title": "The Mascot",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1366,33 +1208,85 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563235,
+        "genre_ids": [
+            16,
+            28
+        ],
+        "id": 1446601,
         "original_language": "en",
-        "original_title": "Ochlockonee Split",
+        "original_title": "Bullseye",
         "overview": "",
-        "popularity": 0.0264,
-        "poster_path": null,
+        "popularity": 0.088,
+        "poster_path": "/jRGNXai3s0cdqpY4p4QBMaD14Aj.jpg",
         "release_date": "2025-10-24",
-        "title": "Ochlockonee Split",
+        "title": "Bullseye",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画",
+            "动作"
+        ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/RxJIqTOAjeCk5HqfJBNy2a64vi.jpg",
-        "genre_ids": [],
-        "id": 1556255,
+        "backdrop_path": "/6mQVa1z0YV6K4LykvDVJRExM2h5.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1424844,
         "original_language": "en",
-        "original_title": "harrison ford's wavelength",
+        "original_title": "Snah Morfar: Over Før Det Begynte",
         "overview": "",
-        "popularity": 0.0368,
-        "poster_path": "/wUyQ3FCnKoZC3uJw3NhakmU2jAT.jpg",
+        "popularity": 0.0867,
+        "poster_path": "/2FvCiJNAbPZshSZRd8H4FrOvFDF.jpg",
         "release_date": "2025-10-24",
-        "title": "harrison ford's wavelength",
+        "title": "Snah Morfar: Over Før Det Begynte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1565222,
+        "original_language": "en",
+        "original_title": "Disney Jr. Cinema Club 2025",
+        "overview": "",
+        "popularity": 0.0811,
+        "poster_path": "/4O7eReQpPH3jNTbe8JSXzt67GF1.jpg",
+        "release_date": "2025-10-24",
+        "title": "Disney Jr. Cinema Club 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dabpjQtPFv0YFNFVQr4JFGRhGDN.jpg",
+        "genre_ids": [],
+        "id": 1558233,
+        "original_language": "en",
+        "original_title": "Joe Hunt",
+        "overview": "",
+        "popularity": 0.0799,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Joe Hunt",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1403,14 +1297,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1563236,
+        "id": 1555385,
         "original_language": "en",
-        "original_title": "Where Are the Wild Things?",
+        "original_title": "Daddy, Komplex",
         "overview": "",
-        "popularity": 0.0239,
+        "popularity": 0.0785,
         "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "Where Are the Wild Things?",
+        "title": "Daddy, Komplex",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1443,22 +1337,98 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/pxdGU0eNB3WUe1mhQ7ma1V6e2PQ.jpg",
+        "backdrop_path": "/7h6EJjCZ7qTuKGL4JaOLObb03KO.jpg",
         "genre_ids": [
+            9648,
             18
         ],
-        "id": 1566286,
+        "id": 1428381,
         "original_language": "en",
-        "original_title": "Group: The Schopenheuer Project",
+        "original_title": "Bene Culturale",
         "overview": "",
-        "popularity": 0.0218,
-        "poster_path": null,
+        "popularity": 0.0743,
+        "poster_path": "/u4NHORxTmrg5ukMmzbKZwBM1T6j.jpg",
         "release_date": "2025-10-24",
-        "title": "Group: The Schopenheuer Project",
+        "title": "Bene Culturale",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "悬疑",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oyBnRbNhdrvH6XWmWOr49FDvm7g.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1553454,
+        "original_language": "en",
+        "original_title": "You & Me (& Chaz & Rodney)",
+        "overview": "",
+        "popularity": 0.0727,
+        "poster_path": "/bYbv7R1r3eHc7N3zsIWv8EfTBjj.jpg",
+        "release_date": "2025-10-24",
+        "title": "You & Me (& Chaz & Rodney)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/33iLXarSVMDfOTnSCuE4NWn4PeI.jpg",
+        "genre_ids": [
+            16,
+            14,
+            35
+        ],
+        "id": 1552113,
+        "original_language": "en",
+        "original_title": "Fantasies of a Rescue Dummy",
+        "overview": "",
+        "popularity": 0.0676,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Fantasies of a Rescue Dummy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kxotGBnRz2sVmUApfXwjd2Wppy9.jpg",
+        "genre_ids": [
+            878,
+            18
+        ],
+        "id": 1565924,
+        "original_language": "en",
+        "original_title": "One More Final",
+        "overview": "",
+        "popularity": 0.0462,
+        "poster_path": "/u6Ye8d78HGtbtIYhXPX1dvf3MQR.jpg",
+        "release_date": "2025-10-24",
+        "title": "One More Final",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -1489,6 +1459,90 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/RxJIqTOAjeCk5HqfJBNy2a64vi.jpg",
+        "genre_ids": [],
+        "id": 1556255,
+        "original_language": "en",
+        "original_title": "harrison ford's wavelength",
+        "overview": "",
+        "popularity": 0.0368,
+        "poster_path": "/wUyQ3FCnKoZC3uJw3NhakmU2jAT.jpg",
+        "release_date": "2025-10-24",
+        "title": "harrison ford's wavelength",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1557883,
+        "original_language": "en",
+        "original_title": "Where The Children Go To Play",
+        "overview": "",
+        "popularity": 0.0311,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Where The Children Go To Play",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1528306,
+        "original_language": "en",
+        "original_title": "Enbyknownst",
+        "overview": "",
+        "popularity": 0.0311,
+        "poster_path": "/zgeAktNwIGWaUeze2bVlKJUQF7g.jpg",
+        "release_date": "2025-10-24",
+        "title": "Enbyknownst",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 1563936,
+        "original_language": "en",
+        "original_title": "Canvas",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/c52GwrF4S79q64wCEaAmtgoHm6H.jpg",
+        "release_date": "2025-10-24",
+        "title": "Canvas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1564602,
@@ -1509,14 +1563,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1563224,
+        "id": 1563236,
         "original_language": "en",
-        "original_title": "This Immeasurable Sea",
+        "original_title": "Where Are the Wild Things?",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0239,
         "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "This Immeasurable Sea",
+        "title": "Where Are the Wild Things?",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1560,6 +1614,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pxdGU0eNB3WUe1mhQ7ma1V6e2PQ.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1566286,
+        "original_language": "en",
+        "original_title": "Group: The Schopenheuer Project",
+        "overview": "",
+        "popularity": 0.0218,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Group: The Schopenheuer Project",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1665,6 +1741,24 @@
         "poster_path": null,
         "release_date": "2025-10-24",
         "title": "DogHouse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563224,
+        "original_language": "en",
+        "original_title": "This Immeasurable Sea",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "This Immeasurable Sea",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2237,6 +2331,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1554732,
+        "original_language": "de",
+        "original_title": "Irgendwas wollte ich gerade noch tun",
+        "overview": "",
+        "popularity": 0.0953,
+        "poster_path": "/kDQ0YQKTjjDkWEj0eUWDnnSeBVo.jpg",
+        "release_date": "2025-10-24",
+        "title": "Irgendwas wollte ich gerade noch tun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1540087,
+        "original_language": "de",
+        "original_title": "Die Ratte",
+        "overview": "",
+        "popularity": 0.0926,
+        "poster_path": "/grPk34MfuYJ6yStETt9Bphau5wk.jpg",
+        "release_date": "2025-10-24",
+        "title": "Die Ratte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/kOYyj4z0G4jrKCljV4QpNKojAOn.jpg",
         "genre_ids": [
             35,
@@ -2281,42 +2417,22 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
             18
         ],
-        "id": 1540087,
+        "id": 1556406,
         "original_language": "de",
-        "original_title": "Die Ratte",
+        "original_title": "In Geld Baden oder wie wir gemeinsam untergingen",
         "overview": "",
-        "popularity": 0.0926,
-        "poster_path": "/grPk34MfuYJ6yStETt9Bphau5wk.jpg",
+        "popularity": 0.051,
+        "poster_path": "/xkNZHDRo7IUn7zKQjQ4nMRRZgDG.jpg",
         "release_date": "2025-10-24",
-        "title": "Die Ratte",
+        "title": "In Geld Baden oder wie wir gemeinsam untergingen",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
             "剧情"
         ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1554732,
-        "original_language": "de",
-        "original_title": "Irgendwas wollte ich gerade noch tun",
-        "overview": "",
-        "popularity": 0.0953,
-        "poster_path": "/kDQ0YQKTjjDkWEj0eUWDnnSeBVo.jpg",
-        "release_date": "2025-10-24",
-        "title": "Irgendwas wollte ich gerade noch tun",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "德语"
     },
     {
@@ -2362,6 +2478,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1497757,
+        "original_language": "de",
+        "original_title": "Future Is Panorama",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": "/7yni61qCdU9uGgAKG9834NfGx43.jpg",
+        "release_date": "2025-10-24",
+        "title": "Future Is Panorama",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -2378,6 +2512,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1559055,
+        "original_language": "de",
+        "original_title": "Ende des Kreises",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Ende des Kreises",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "德语"
     },
@@ -2424,6 +2580,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1559117,
+        "original_language": "de",
+        "original_title": "Deutschland wieder im Herbst",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Deutschland wieder im Herbst",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -2440,28 +2614,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1559055,
-        "original_language": "de",
-        "original_title": "Ende des Kreises",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Ende des Kreises",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "德语"
     },
@@ -2492,23 +2644,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1556406,
+        "genre_ids": [],
+        "id": 1554740,
         "original_language": "de",
-        "original_title": "In Geld Baden oder wie wir gemeinsam untergingen",
+        "original_title": "White Castle",
         "overview": "",
-        "popularity": 0.051,
-        "poster_path": "/xkNZHDRo7IUn7zKQjQ4nMRRZgDG.jpg",
+        "popularity": 0.0143,
+        "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "In Geld Baden oder wie wir gemeinsam untergingen",
+        "title": "White Castle",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "德语"
     },
     {
@@ -2577,24 +2725,6 @@
         "poster_path": null,
         "release_date": "2025-10-24",
         "title": "Fantasy of Love",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1559117,
-        "original_language": "de",
-        "original_title": "Deutschland wieder im Herbst",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Deutschland wieder im Herbst",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2679,24 +2809,6 @@
         "genre_ids_zh": [
             "剧情"
         ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1554740,
-        "original_language": "de",
-        "original_title": "White Castle",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "White Castle",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "德语"
     },
     {
@@ -2795,6 +2907,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ngMZPj9zaQO6GKeMMfjusj9Q4qJ.jpg",
+        "genre_ids": [
+            16,
+            18
+        ],
+        "id": 1559145,
+        "original_language": "fr",
+        "original_title": "Les Fleurs de Malva",
+        "overview": "",
+        "popularity": 0.0806,
+        "poster_path": "/qa4LmRVzS5agYREoQMLd8KnNlTN.jpg",
+        "release_date": "2025-10-24",
+        "title": "Les Fleurs de Malva",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rGDs2419zKdtbRsVOeGbs9BDXex.jpg",
         "genre_ids": [
             99
@@ -2834,30 +2970,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/ngMZPj9zaQO6GKeMMfjusj9Q4qJ.jpg",
-        "genre_ids": [
-            16,
-            18
-        ],
-        "id": 1559145,
-        "original_language": "fr",
-        "original_title": "Les Fleurs de Malva",
-        "overview": "",
-        "popularity": 0.0806,
-        "poster_path": "/qa4LmRVzS5agYREoQMLd8KnNlTN.jpg",
-        "release_date": "2025-10-24",
-        "title": "Les Fleurs de Malva",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情"
         ],
         "original_language_zh": "法语"
     },
@@ -3110,6 +3222,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1261248,
+        "original_language": "pt",
+        "original_title": "O Cadáver do Papai",
+        "overview": "",
+        "popularity": 0.0877,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "O Cadáver do Papai",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -3127,24 +3257,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1261248,
-        "original_language": "pt",
-        "original_title": "O Cadáver do Papai",
-        "overview": "",
-        "popularity": 0.0877,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "O Cadáver do Papai",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
@@ -3221,28 +3333,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1528037,
-        "original_language": "it",
-        "original_title": "Malavia",
-        "overview": "故事讲述了那不勒斯郊区一个13岁男孩 Sasà 的生活。他每天和朋友们在一起，听着说唱乐，梦想着成为一名著名的说唱歌手，好让年轻的妈妈 Rusè 过上更好的生活。  他们母子关系紧密，但这份亲情也受到嫉妒、贫困和严酷环境的考验。当 Sasà 遇见那不勒斯传奇说唱歌手 Yodi 后，他的梦想似乎触手可及。然而，残酷的音乐产业和街头生活的现实，却迫使他为了支持母亲而走上了贩毒的道路。",
-        "popularity": 0.0627,
-        "poster_path": null,
-        "release_date": "2025-10-24",
-        "title": "Malavia",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             28,
             12,
             10749
@@ -3271,14 +3361,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1565955,
+        "id": 1528037,
         "original_language": "it",
-        "original_title": "Cristina",
-        "overview": "",
-        "popularity": 0.0256,
-        "poster_path": "/rgbVEEBxHXGMejOKnseA654ylrl.jpg",
+        "original_title": "Malavia",
+        "overview": "故事讲述了那不勒斯郊区一个13岁男孩 Sasà 的生活。他每天和朋友们在一起，听着说唱乐，梦想着成为一名著名的说唱歌手，好让年轻的妈妈 Rusè 过上更好的生活。  他们母子关系紧密，但这份亲情也受到嫉妒、贫困和严酷环境的考验。当 Sasà 遇见那不勒斯传奇说唱歌手 Yodi 后，他的梦想似乎触手可及。然而，残酷的音乐产业和街头生活的现实，却迫使他为了支持母亲而走上了贩毒的道路。",
+        "popularity": 0.0627,
+        "poster_path": null,
         "release_date": "2025-10-24",
-        "title": "Cristina",
+        "title": "Malavia",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3313,21 +3403,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1562996,
+        "id": 1565955,
         "original_language": "it",
-        "original_title": "Easy to Love - La vera storia di Massimo Urbani",
+        "original_title": "Cristina",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
+        "popularity": 0.0256,
+        "poster_path": "/rgbVEEBxHXGMejOKnseA654ylrl.jpg",
         "release_date": "2025-10-24",
-        "title": "Easy to Love - La vera storia di Massimo Urbani",
+        "title": "Cristina",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情"
         ],
         "original_language_zh": "意大利语"
     },
@@ -3347,6 +3437,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1562996,
+        "original_language": "it",
+        "original_title": "Easy to Love - La vera storia di Massimo Urbani",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Easy to Love - La vera storia di Massimo Urbani",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "意大利语"
     },
     {
@@ -3465,6 +3577,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1370934,
+        "original_language": "tr",
+        "original_title": "Bağlar, Kökler ve Tutkular",
+        "overview": "",
+        "popularity": 0.6982,
+        "poster_path": "/jweGji2KOfnCXhILIPvQQSSSTdI.jpg",
+        "release_date": "2025-10-24",
+        "title": "Bağlar, Kökler ve Tutkular",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fQbXpZVhWsnZO9D7OSuRRof6tPb.jpg",
         "genre_ids": [
             53
@@ -3491,6 +3625,72 @@
         "genre_ids": [
             99
         ],
+        "id": 1566322,
+        "original_language": "tr",
+        "original_title": "Yavaş Ölüm",
+        "overview": "",
+        "popularity": 0.0521,
+        "poster_path": "/xtXUqBSdGOvXePjyr1nkhLuCyxG.jpg",
+        "release_date": "2025-10-24",
+        "title": "Yavaş Ölüm",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1566274,
+        "original_language": "tr",
+        "original_title": "Hayatın Çizgisi",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/fJEMs6FiAERd8e3DfuNzbhbM0DR.jpg",
+        "release_date": "2025-10-24",
+        "title": "Hayatın Çizgisi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xLVuywzDVZVldSh29z6Pal8ZgvP.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1566258,
+        "original_language": "tr",
+        "original_title": "Vefalı Galip",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/oIQgrqI7SlLBlljiQ9QzeZcQ9OO.jpg",
+        "release_date": "2025-10-24",
+        "title": "Vefalı Galip",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1566126,
         "original_language": "tr",
         "original_title": "HOP Hayal Gücü Oyun Parkı",
@@ -3505,6 +3705,68 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1566312,
+        "original_language": "tr",
+        "original_title": "Hümanist Bir Deha: Gazi Yaşargil",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/cideyGCiXRNNY9zOsWeiX9wv7Zj.jpg",
+        "release_date": "2025-10-24",
+        "title": "Hümanist Bir Deha: Gazi Yaşargil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1566305,
+        "original_language": "tr",
+        "original_title": "Köklere Yolculuk",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/7rSUXc1WXJ89ROVjkPpu1TORduc.jpg",
+        "release_date": "2025-10-24",
+        "title": "Köklere Yolculuk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1566211,
+        "original_language": "tr",
+        "original_title": "Cumhuriyete Giden Yol",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/72cXkn88td7XJQWXmyXWWOtvD3S.jpg",
+        "release_date": "2025-10-24",
+        "title": "Cumhuriyete Giden Yol",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "土耳其语"
     },
     {
