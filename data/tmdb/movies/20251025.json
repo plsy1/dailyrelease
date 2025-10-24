@@ -621,6 +621,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            28
+        ],
+        "id": 1556992,
+        "original_language": "en",
+        "original_title": "The Last of Them Part I",
+        "overview": "",
+        "popularity": 0.1419,
+        "poster_path": "/ctrXm1s7RtFf4Ub0t7F4SHIhf0l.jpg",
+        "release_date": "2025-10-25",
+        "title": "The Last of Them Part I",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/29uMKexfu4ErtvL0hAcALrooKea.jpg",
         "genre_ids": [
             18,
@@ -693,6 +717,46 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            9648
+        ],
+        "id": 1565671,
+        "original_language": "en",
+        "original_title": "Foreign Objects",
+        "overview": "",
+        "popularity": 0.0658,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "Foreign Objects",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563237,
+        "original_language": "en",
+        "original_title": "OLETHROS [havoc + destruction]",
+        "overview": "",
+        "popularity": 0.0641,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "OLETHROS [havoc + destruction]",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1546265,
@@ -714,19 +778,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563237,
+        "genre_ids": [
+            99
+        ],
+        "id": 1555074,
         "original_language": "en",
-        "original_title": "OLETHROS [havoc + destruction]",
+        "original_title": "Lab Man",
         "overview": "",
-        "popularity": 0.0641,
-        "poster_path": null,
+        "popularity": 0.0362,
+        "poster_path": "/mCYJspsxer7adlax3ICJEGgRFjY.jpg",
         "release_date": "2025-10-25",
-        "title": "OLETHROS [havoc + destruction]",
+        "title": "Lab Man",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -755,21 +823,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            27,
+            53
         ],
-        "id": 1555074,
+        "id": 1566483,
         "original_language": "en",
-        "original_title": "Lab Man",
+        "original_title": "The Pledge",
         "overview": "",
-        "popularity": 0.0362,
-        "poster_path": "/mCYJspsxer7adlax3ICJEGgRFjY.jpg",
+        "popularity": 0.0311,
+        "poster_path": null,
         "release_date": "2025-10-25",
-        "title": "Lab Man",
+        "title": "The Pledge",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -793,156 +863,6 @@
         "genre_ids_zh": [
             "惊悚"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1565783,
-        "original_language": "en",
-        "original_title": "Pookie Die",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/wb1frbgw9DdRWwaQeuyQtGyvUEz.jpg",
-        "release_date": "2025-10-25",
-        "title": "Pookie Die",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            10751
-        ],
-        "id": 1557940,
-        "original_language": "en",
-        "original_title": "Vor meiner Tür auf einer Matte",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": null,
-        "release_date": "2025-10-25",
-        "title": "Vor meiner Tür auf einer Matte",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563241,
-        "original_language": "en",
-        "original_title": "Custom Trailer Series: Austin Powers",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2025-10-25",
-        "title": "Custom Trailer Series: Austin Powers",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563239,
-        "original_language": "en",
-        "original_title": "What Wide Web?",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-10-25",
-        "title": "What Wide Web?",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1566483,
-        "original_language": "en",
-        "original_title": "The Pledge",
-        "overview": "",
-        "popularity": 0.0311,
-        "poster_path": null,
-        "release_date": "2025-10-25",
-        "title": "The Pledge",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/oVkGjVCeKIJKKm5gXzeSpmJcUvW.jpg",
-        "genre_ids": [
-            35,
-            10402
-        ],
-        "id": 1561097,
-        "original_language": "en",
-        "original_title": "In-Famous",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/85c5XsHSN5dyvdzpXjZs3ehkuNh.jpg",
-        "release_date": "2025-10-25",
-        "title": "In-Famous",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1551081,
-        "original_language": "en",
-        "original_title": "The Art of Imperfection (And All the Things We’ll Never Finish)",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": null,
-        "release_date": "2025-10-25",
-        "title": "The Art of Imperfection (And All the Things We’ll Never Finish)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -973,6 +893,182 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1565783,
+        "original_language": "en",
+        "original_title": "Pookie Die",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/wb1frbgw9DdRWwaQeuyQtGyvUEz.jpg",
+        "release_date": "2025-10-25",
+        "title": "Pookie Die",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oVkGjVCeKIJKKm5gXzeSpmJcUvW.jpg",
+        "genre_ids": [
+            35,
+            10402
+        ],
+        "id": 1561097,
+        "original_language": "en",
+        "original_title": "In-Famous",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/85c5XsHSN5dyvdzpXjZs3ehkuNh.jpg",
+        "release_date": "2025-10-25",
+        "title": "In-Famous",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            10751
+        ],
+        "id": 1557940,
+        "original_language": "en",
+        "original_title": "Vor meiner Tür auf einer Matte",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "Vor meiner Tür auf einer Matte",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sJcV1FoJ1v0sZyjO9zMNelgTttg.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1553167,
+        "original_language": "en",
+        "original_title": "The Relict",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/kQ4sKoAsYmvjEoEhTBC0BWaSFK2.jpg",
+        "release_date": "2025-10-25",
+        "title": "The Relict",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1552136,
+        "original_language": "en",
+        "original_title": "Rick on the Roof",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "Rick on the Roof",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/atqra3n6stwpuKRWyNjzrxeNZjg.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1517106,
+        "original_language": "en",
+        "original_title": "Elastoplastic",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/5hB1ttHyVvoYCuS5U9ksqG7wzpA.jpg",
+        "release_date": "2025-10-25",
+        "title": "Elastoplastic",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1552421,
+        "original_language": "en",
+        "original_title": "Flickers",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "Flickers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1551081,
+        "original_language": "en",
+        "original_title": "The Art of Imperfection (And All the Things We’ll Never Finish)",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "The Art of Imperfection (And All the Things We’ll Never Finish)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1566825,
@@ -994,23 +1090,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            9648
-        ],
-        "id": 1565671,
+        "genre_ids": [],
+        "id": 1563239,
         "original_language": "en",
-        "original_title": "Foreign Objects",
+        "original_title": "What Wide Web?",
         "overview": "",
-        "popularity": 0.0658,
+        "popularity": 0.0143,
         "poster_path": null,
         "release_date": "2025-10-25",
-        "title": "Foreign Objects",
+        "title": "What Wide Web?",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1127,6 +1219,24 @@
         "poster_path": null,
         "release_date": "2025-10-25",
         "title": "NAGORDOLA - THE FERRIS WHEEL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1563241,
+        "original_language": "en",
+        "original_title": "Custom Trailer Series: Austin Powers",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-10-25",
+        "title": "Custom Trailer Series: Austin Powers",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1451,6 +1561,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1291618,
+        "original_language": "es",
+        "original_title": "El Hombre Flotante",
+        "overview": "",
+        "popularity": 0.1007,
+        "poster_path": "/buQ2xKpXjUv2wsXNbBDzTjbfiWQ.jpg",
+        "release_date": "2025-10-25",
+        "title": "El Hombre Flotante",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/5ewh5IE4UlvGOOVDI9Vpz8WsjNP.jpg",
         "genre_ids": [
             10749,
@@ -1502,30 +1636,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "悬疑",
-            "剧情",
-            "科幻"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            878
-        ],
-        "id": 1291618,
-        "original_language": "es",
-        "original_title": "El Hombre Flotante",
-        "overview": "",
-        "popularity": 0.1007,
-        "poster_path": "/buQ2xKpXjUv2wsXNbBDzTjbfiWQ.jpg",
-        "release_date": "2025-10-25",
-        "title": "El Hombre Flotante",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "剧情",
             "科幻"
         ],
