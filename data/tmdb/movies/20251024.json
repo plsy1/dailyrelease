@@ -915,6 +915,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            27
+        ],
+        "id": 1563276,
+        "original_language": "en",
+        "original_title": "Will I Survive The Night?",
+        "overview": "",
+        "popularity": 0.2233,
+        "poster_path": "/hryvr1IjKh6svk2Sw53DevXwbXe.jpg",
+        "release_date": "2025-10-24",
+        "title": "Will I Survive The Night?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/oo68L4B53CUPqE3wz39tihhrCbM.jpg",
         "genre_ids": [
             10749,
@@ -934,28 +958,6 @@
         "genre_ids_zh": [
             "爱情",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402
-        ],
-        "id": 1563276,
-        "original_language": "en",
-        "original_title": "Will I Survive The Night?",
-        "overview": "",
-        "popularity": 0.2233,
-        "poster_path": "/hryvr1IjKh6svk2Sw53DevXwbXe.jpg",
-        "release_date": "2025-10-24",
-        "title": "Will I Survive The Night?",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1674,6 +1676,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1269295,
+        "original_language": "en",
+        "original_title": "Fluff",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/woGcD1KisfjZnZS7964VWktBN5F.jpg",
+        "release_date": "2025-10-24",
+        "title": "Fluff",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1563233,
         "original_language": "en",
@@ -1941,6 +1967,70 @@
         "poster_path": null,
         "release_date": "2025-10-24",
         "title": "Mr. Ogre's Castle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1567933,
+        "original_language": "en",
+        "original_title": "Parallel 2",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3wd3sdLVz69HCW9tO9n2m17Dpw8.jpg",
+        "release_date": "2025-10-24",
+        "title": "Parallel 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 1567872,
+        "original_language": "en",
+        "original_title": "Parable",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-24",
+        "title": "Parable",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1567851,
+        "original_language": "en",
+        "original_title": "My Dog Accidentally Turned Into a Human!",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4exZzxcwtwseydIpnoosfIEIzAh.jpg",
+        "release_date": "2025-10-24",
+        "title": "My Dog Accidentally Turned Into a Human!",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3004,36 +3094,14 @@
         "original_title": "Homos en politique, le dire ou pas ?",
         "overview": "",
         "popularity": 0.0639,
-        "poster_path": "/1X6E3XLrrQcXAqjPbM3bbAja8qt.jpg",
+        "poster_path": "/rYDKMMpHFx0fZgEIMTBXJgnZOvX.jpg",
         "release_date": "2025-10-24",
         "title": "Homos en politique, le dire ou pas ?",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/s19gJPCEvZr8Ac8AeuNOdDYLWrq.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1539843,
-        "original_language": "fr",
-        "original_title": "Nos panthéons",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/w8v4hQHWy5gAtJex8AYMQeOTfRO.jpg",
-        "release_date": "2025-10-24",
-        "title": "Nos panthéons",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -3528,6 +3596,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1554715,
+        "original_language": "it",
+        "original_title": "Il Criaturo Sintetico",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/3UXFaKr2U100qGV3MHSP8yECfUL.jpg",
+        "release_date": "2025-10-24",
+        "title": "Il Criaturo Sintetico",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -3545,24 +3631,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1554715,
-        "original_language": "it",
-        "original_title": "Il Criaturo Sintetico",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/3UXFaKr2U100qGV3MHSP8yECfUL.jpg",
-        "release_date": "2025-10-24",
-        "title": "Il Criaturo Sintetico",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     },
     {
@@ -3907,7 +3975,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/2gT1CLXQXR7Snwxn1aGWURrs7CL.jpg",
         "genre_ids": [
             10402
         ],
@@ -3916,7 +3984,7 @@
         "original_title": "Leprous: An Evening of Atonement",
         "overview": "",
         "popularity": 0.0357,
-        "poster_path": null,
+        "poster_path": "/4vgUBeAxvlkixnkf0O7A7do5zNy.jpg",
         "release_date": "2025-10-24",
         "title": "Leprous: An Evening of Atonement",
         "video": false,
