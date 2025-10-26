@@ -677,7 +677,9 @@
         "adult": false,
         "backdrop_path": "/a9mgPlazmXXLNXbMulQMNQVgXvj.jpg",
         "genre_ids": [
-            28
+            28,
+            878,
+            14
         ],
         "id": 1537768,
         "original_language": "ja",
@@ -691,7 +693,9 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动作"
+            "动作",
+            "科幻",
+            "奇幻"
         ],
         "original_language_zh": "日语"
     },
