@@ -251,7 +251,7 @@
         "original_language": "es",
         "original_name": "Contrato de corazones, Tú y Yo",
         "overview": "",
-        "popularity": 0.0504,
+        "popularity": 0.057,
         "poster_path": null,
         "first_air_date": "2025-10-27",
         "name": "Contrato de corazones, Tú y Yo",
@@ -290,7 +290,10 @@
     {
         "adult": false,
         "backdrop_path": "/67jTvvsQPOPxVdFkMlUvrtsK2Fp.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            80,
+            18
+        ],
         "id": 304024,
         "origin_country": [
             "土耳其"
@@ -298,13 +301,16 @@
         "original_language": "tr",
         "original_name": "Persona",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0714,
         "poster_path": "/vPO3BT7jRHR2eGkuGR3kFl0QqJp.jpg",
         "first_air_date": "2025-10-27",
         "name": "Persona",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情"
+        ],
         "original_language_zh": "土耳其语"
     },
     {
