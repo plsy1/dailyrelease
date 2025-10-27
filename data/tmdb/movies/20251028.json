@@ -131,6 +131,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eA6IHD6FH60xP2gZAShRCx8uUdK.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1560615,
+        "original_language": "en",
+        "original_title": "Jump Scare",
+        "overview": "",
+        "popularity": 0.8566,
+        "poster_path": "/jKQXqalNkei7puN7oFNtoqFG3zG.jpg",
+        "release_date": "2025-10-28",
+        "title": "Jump Scare",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oyXP0AVyrWBgZKxL8aE5AWa9ocx.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1382964,
+        "original_language": "en",
+        "original_title": "Sane Inside Insanity",
+        "overview": "",
+        "popularity": 0.8471,
+        "poster_path": "/plvks1xjFka5Jz1ZEMCtlqvaZ6M.jpg",
+        "release_date": "2025-10-28",
+        "title": "Sane Inside Insanity",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -170,52 +216,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/oyXP0AVyrWBgZKxL8aE5AWa9ocx.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1382964,
-        "original_language": "en",
-        "original_title": "Sane Inside Insanity",
-        "overview": "",
-        "popularity": 0.8471,
-        "poster_path": "/plvks1xjFka5Jz1ZEMCtlqvaZ6M.jpg",
-        "release_date": "2025-10-28",
-        "title": "Sane Inside Insanity",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eA6IHD6FH60xP2gZAShRCx8uUdK.jpg",
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1560615,
-        "original_language": "en",
-        "original_title": "Jump Scare",
-        "overview": "",
-        "popularity": 0.8566,
-        "poster_path": "/jKQXqalNkei7puN7oFNtoqFG3zG.jpg",
-        "release_date": "2025-10-28",
-        "title": "Jump Scare",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -307,6 +307,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1567655,
+        "original_language": "en",
+        "original_title": "El comisario",
+        "overview": "",
+        "popularity": 0.1717,
+        "poster_path": "/viow6YqgmiDfAC38E8kGLgfeYKo.jpg",
+        "release_date": "2025-10-28",
+        "title": "El comisario",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/tonkXoEQSVjT5XZLXbyxFHVb9Fr.jpg",
         "genre_ids": [
             27,
@@ -332,19 +350,67 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1567655,
+        "genre_ids": [
+            18
+        ],
+        "id": 1560167,
         "original_language": "en",
-        "original_title": "El comisario",
+        "original_title": "Divide",
         "overview": "",
-        "popularity": 0.1717,
-        "poster_path": "/viow6YqgmiDfAC38E8kGLgfeYKo.jpg",
+        "popularity": 0.0807,
+        "poster_path": null,
         "release_date": "2025-10-28",
-        "title": "El comisario",
+        "title": "Divide",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m1TIxN4131dYCgOlQP1ZPEzHIcW.jpg",
+        "genre_ids": [
+            878
+        ],
+        "id": 1562595,
+        "original_language": "en",
+        "original_title": "Dalle fogne",
+        "overview": "",
+        "popularity": 0.0789,
+        "poster_path": "/x3U55NWS9rgZI26PTm5Ujplp4XK.jpg",
+        "release_date": "2025-10-28",
+        "title": "Dalle fogne",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1559667,
+        "original_language": "en",
+        "original_title": "EX-tract",
+        "overview": "",
+        "popularity": 0.0757,
+        "poster_path": null,
+        "release_date": "2025-10-28",
+        "title": "EX-tract",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -395,21 +461,43 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            80
         ],
-        "id": 1560167,
+        "id": 1568639,
         "original_language": "en",
-        "original_title": "Divide",
+        "original_title": "Pizza Time",
         "overview": "",
-        "popularity": 0.0807,
-        "poster_path": null,
+        "popularity": 0.0614,
+        "poster_path": "/nGdl9tEcxC59PLw1NumqeKIfBxx.jpg",
         "release_date": "2025-10-28",
-        "title": "Divide",
+        "title": "Pizza Time",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1535382,
+        "original_language": "en",
+        "original_title": "Natura rzeki",
+        "overview": "",
+        "popularity": 0.0521,
+        "poster_path": "/yUcF12IS7ecbldpzaScn2RDJRI9.jpg",
+        "release_date": "2025-10-28",
+        "title": "Natura rzeki",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -455,23 +543,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/m1TIxN4131dYCgOlQP1ZPEzHIcW.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            878
+            16
         ],
-        "id": 1562595,
+        "id": 1560121,
         "original_language": "en",
-        "original_title": "Dalle fogne",
+        "original_title": "Books Are Made of Trees",
         "overview": "",
-        "popularity": 0.0789,
-        "poster_path": "/x3U55NWS9rgZI26PTm5Ujplp4XK.jpg",
+        "popularity": 0.0214,
+        "poster_path": null,
         "release_date": "2025-10-28",
-        "title": "Dalle fogne",
+        "title": "Books Are Made of Trees",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "科幻"
+            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -501,28 +589,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            16
-        ],
-        "id": 1559667,
-        "original_language": "en",
-        "original_title": "EX-tract",
-        "overview": "",
-        "popularity": 0.0757,
-        "poster_path": null,
-        "release_date": "2025-10-28",
-        "title": "EX-tract",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1559648,
@@ -538,28 +604,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1560121,
-        "original_language": "en",
-        "original_title": "Books Are Made of Trees",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": null,
-        "release_date": "2025-10-28",
-        "title": "Books Are Made of Trees",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -1006,6 +1050,34 @@
             "纪录",
             "历史",
             "冒险"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            10749,
+            14,
+            10402
+        ],
+        "id": 1569905,
+        "original_language": "es",
+        "original_title": "SOMOS LA NOCHE",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5gYLHsyhQ5Mw8Z63sc3UEiU1yG8.jpg",
+        "release_date": "2025-10-28",
+        "title": "SOMOS LA NOCHE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "爱情",
+            "奇幻",
+            "音乐"
         ],
         "original_language_zh": "西班牙语"
     },
