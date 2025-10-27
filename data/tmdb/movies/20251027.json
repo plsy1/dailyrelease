@@ -87,7 +87,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/ltP3r8m3gymkIV6I9bSC2oUGr4f.jpg",
         "genre_ids": [
             99,
             36
@@ -97,7 +97,7 @@
         "original_title": "Kissinger",
         "overview": "",
         "popularity": 0.5367,
-        "poster_path": null,
+        "poster_path": "/6BB5qZyZzCxmwJVG9pVX8O2svX.jpg",
         "release_date": "2025-10-27",
         "title": "Kissinger",
         "video": false,
@@ -415,6 +415,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1569650,
+        "original_language": "en",
+        "original_title": "Adult Animation",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/oKYOVXtW7Cw2ABYYCfgZ0E2fw8W.jpg",
+        "release_date": "2025-10-27",
+        "title": "Adult Animation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/dkK5A1NMWccOXDu97tpgFMofAdW.jpg",
         "genre_ids": [
             28
@@ -491,6 +509,72 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8bwYQUHbPxChHP8T7CT9BFiPaVs.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1537005,
+        "original_language": "es",
+        "original_title": "El Revisor",
+        "overview": "",
+        "popularity": 0.0621,
+        "poster_path": "/vnxfFg6LgaKrptJi9lYdMvdSYz9.jpg",
+        "release_date": "2025-10-27",
+        "title": "El Revisor",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1486296,
+        "original_language": "es",
+        "original_title": "Joven Púgil Atormentado",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/xg0ywx0HvIACVVMbUV3YRCQRcuB.jpg",
+        "release_date": "2025-10-27",
+        "title": "Joven Púgil Atormentado",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/euEQCfYcuoVW888N4pJYoOCc3dL.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1569585,
+        "original_language": "es",
+        "original_title": "BELL",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/moY1x8oiNIHbk1kty8VOmInKSzx.jpg",
+        "release_date": "2025-10-27",
+        "title": "BELL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
         "original_language_zh": "西班牙语"
     },
     {

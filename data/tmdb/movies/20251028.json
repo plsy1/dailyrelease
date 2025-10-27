@@ -153,6 +153,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1563050,
+        "original_language": "en",
+        "original_title": "Making Madness",
+        "overview": "",
+        "popularity": 0.7154,
+        "poster_path": "/18cl11Ehq3dWsWsVXeIrTmLpOep.jpg",
+        "release_date": "2025-10-28",
+        "title": "Making Madness",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/oyXP0AVyrWBgZKxL8aE5AWa9ocx.jpg",
         "genre_ids": [
             99
@@ -222,24 +244,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1563050,
-        "original_language": "en",
-        "original_title": "Making Madness",
-        "overview": "",
-        "popularity": 0.7154,
-        "poster_path": "/18cl11Ehq3dWsWsVXeIrTmLpOep.jpg",
-        "release_date": "2025-10-28",
-        "title": "Making Madness",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -303,28 +307,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1559589,
-        "original_language": "en",
-        "original_title": "Elephants & Squirrels",
-        "overview": "",
-        "popularity": 0.0627,
-        "poster_path": null,
-        "release_date": "2025-10-28",
-        "title": "Elephants & Squirrels",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/tonkXoEQSVjT5XZLXbyxFHVb9Fr.jpg",
         "genre_ids": [
             27,
@@ -379,6 +361,28 @@
         "poster_path": null,
         "release_date": "2025-10-28",
         "title": "I Don't Think I'm Alone in This",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1559589,
+        "original_language": "en",
+        "original_title": "Elephants & Squirrels",
+        "overview": "",
+        "popularity": 0.0627,
+        "poster_path": "/jBYrpzFrdOfJsJjZgMTLgiljJqC.jpg",
+        "release_date": "2025-10-28",
+        "title": "Elephants & Squirrels",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
