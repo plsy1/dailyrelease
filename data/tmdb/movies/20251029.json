@@ -589,6 +589,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1569919,
+        "original_language": "en",
+        "original_title": "The Masked Threat",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": "/sMf8si3vxNI8GJJFFUinulmXWh6.jpg",
+        "release_date": "2025-10-29",
+        "title": "The Masked Threat",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1545601,
@@ -654,6 +676,50 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1570227,
+        "original_language": "en",
+        "original_title": "Carrot Farmer",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-29",
+        "title": "Carrot Farmer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1570211,
+        "original_language": "en",
+        "original_title": "Short Sharp Scares: Cassette",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8r22BJNlBD8WDcJFxtwTrYU1nzk.jpg",
+        "release_date": "2025-10-29",
+        "title": "Short Sharp Scares: Cassette",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1222,6 +1288,50 @@
             "动作",
             "剧情",
             "惊悚"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1563989,
+        "original_language": "tr",
+        "original_title": "Noir",
+        "overview": "",
+        "popularity": 0.2421,
+        "poster_path": "/70MZ4EBvlqGneqaKfEKaHl2LxsN.jpg",
+        "release_date": "2025-10-29",
+        "title": "Noir",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6mPSYdPJ8cQxLETKWmPk9SgXt3A.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1570299,
+        "original_language": "tr",
+        "original_title": "Pırıl: Saklı Robotlar",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/bEaXXsJwKtWkqY44XtHeu7dMhyb.jpg",
+        "release_date": "2025-10-29",
+        "title": "Pırıl: Saklı Robotlar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "土耳其语"
     },
