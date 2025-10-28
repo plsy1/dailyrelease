@@ -121,6 +121,33 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            18
+        ],
+        "id": 304196,
+        "origin_country": [
+            "巴基斯坦",
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "HairCog TV Series",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-10-28",
+        "name": "HairCog TV Series",
+        "vote_average": 1.0,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/aKarHQqgA3tKrcWeuRxPnZNkQa0.jpg",
         "genre_ids": [
             10764
