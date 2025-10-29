@@ -9,7 +9,7 @@
         "original_language": "zh",
         "original_title": "春树",
         "overview": "",
-        "popularity": 1.422,
+        "popularity": 1.6344,
         "poster_path": "/1HozIW2hxGau9H78dbFhY5gXcB1.jpg",
         "release_date": "2025-10-29",
         "title": "春树",
@@ -19,6 +19,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1570773,
+        "original_language": "zh",
+        "original_title": "追凶",
+        "overview": "为友追凶，以武证道。女警江敏挚友张如遭富豪徐飞侵害后，反被诬陷“自杀”且身败名裂。江敏立誓追凶，拒贿赂、斗刺客，历经生死波折找到关键证人。最终她独闯贼窝，徒手制服欲潜逃的徐飞，使其伏法，还好友清白。",
+        "popularity": 0.0,
+        "poster_path": "/1ejjVL9oIsMYmJroOB8GPVskVDs.jpg",
+        "release_date": "2025-10-29",
+        "title": "追凶",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
@@ -506,7 +524,7 @@
         "original_language": "en",
         "original_title": "Hidden in the Dark",
         "overview": "",
-        "popularity": 0.0768,
+        "popularity": 0.09,
         "poster_path": null,
         "release_date": "2025-10-29",
         "title": "Hidden in the Dark",
@@ -589,13 +607,65 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            14,
+            18,
+            10749
+        ],
+        "id": 1412439,
+        "original_language": "en",
+        "original_title": "disappear here",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": "/l74BARgfTnqAOO1px2OVsIDY2yg.jpg",
+        "release_date": "2025-10-29",
+        "title": "disappear here",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            28,
+            18
+        ],
+        "id": 1412421,
+        "original_language": "en",
+        "original_title": "The Mental Traveller",
+        "overview": "",
+        "popularity": 0.0496,
+        "poster_path": "/d0X5bDBmAMx3aCkvelUVzyNPXGM.jpg",
+        "release_date": "2025-10-29",
+        "title": "The Mental Traveller",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27
         ],
         "id": 1569919,
         "original_language": "en",
         "original_title": "The Masked Threat",
         "overview": "",
-        "popularity": 0.0357,
+        "popularity": 0.1775,
         "poster_path": "/sMf8si3vxNI8GJJFFUinulmXWh6.jpg",
         "release_date": "2025-10-29",
         "title": "The Masked Threat",
@@ -626,6 +696,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1565502,
+        "original_language": "en",
+        "original_title": "Second Layer",
+        "overview": "",
+        "popularity": 0.0218,
+        "poster_path": "/zy5eHQMGJcGQ3buStDLyVUfU6iM.jpg",
+        "release_date": "2025-10-29",
+        "title": "Second Layer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -667,7 +759,7 @@
         "original_language": "en",
         "original_title": "Ink",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0639,
         "poster_path": null,
         "release_date": "2025-10-29",
         "title": "Ink",
@@ -707,11 +799,55 @@
         "genre_ids": [
             99
         ],
+        "id": 1570722,
+        "original_language": "en",
+        "original_title": "Against the odds",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-10-29",
+        "title": "Against the odds",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1570688,
+        "original_language": "en",
+        "original_title": "Counterintuitive",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-10-29",
+        "title": "Counterintuitive",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1570588,
         "original_language": "en",
         "original_title": "Cumberland Terrace",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0214,
         "poster_path": "/ypPGLs6oflfn6y6kQeZqc69Fp38.jpg",
         "release_date": "2025-10-29",
         "title": "Cumberland Terrace",
@@ -733,7 +869,7 @@
         "original_language": "en",
         "original_title": "Chère Fin",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": null,
         "release_date": "2025-10-29",
         "title": "Chère Fin",
@@ -756,7 +892,7 @@
         "original_language": "en",
         "original_title": "The Wingfeather Saga: The Journey Begins",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.05,
         "poster_path": "/hUlFq9hBL97wIC3zbuvPf5vsZJI.jpg",
         "release_date": "2025-10-29",
         "title": "The Wingfeather Saga: The Journey Begins",
@@ -771,7 +907,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/3BLoSjrV9B9w4WjF55yEOas2VO5.jpg",
         "genre_ids": [
             35
         ],
@@ -779,8 +915,8 @@
         "original_language": "en",
         "original_title": "Carrot Farmer",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
+        "popularity": 0.0214,
+        "poster_path": "/AatglmSqWPotrjhbGDDMrXUtg7P.jpg",
         "release_date": "2025-10-29",
         "title": "Carrot Farmer",
         "video": false,
@@ -801,7 +937,7 @@
         "original_language": "en",
         "original_title": "Short Sharp Scares: Cassette",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0143,
         "poster_path": "/8r22BJNlBD8WDcJFxtwTrYU1nzk.jpg",
         "release_date": "2025-10-29",
         "title": "Short Sharp Scares: Cassette",
@@ -823,7 +959,7 @@
         "original_language": "en",
         "original_title": "All the Time in the World",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": "/fDQGFaZAJimSn16xDnuknVolaHE.jpg",
         "release_date": "2025-10-29",
         "title": "All the Time in the World",
@@ -845,7 +981,7 @@
         "original_language": "ja",
         "original_title": "恒星の向こう側",
         "overview": "",
-        "popularity": 1.2145,
+        "popularity": 1.1586,
         "poster_path": "/tVbTwTO7c1xQO1LNY0jfXJrZJyB.jpg",
         "release_date": "2025-10-29",
         "title": "恒星の向こう側",
@@ -865,7 +1001,7 @@
         "original_language": "ja",
         "original_title": "NJPW Super Junior Tag League 2025 - Day 6",
         "overview": "",
-        "popularity": 0.2259,
+        "popularity": 0.3341,
         "poster_path": "/hrdnqV2l6zYwUuREDSUQGbLxeUo.jpg",
         "release_date": "2025-10-29",
         "title": "NJPW Super Junior Tag League 2025 - Day 6",
@@ -1099,7 +1235,7 @@
         "original_language": "de",
         "original_title": "Nonna",
         "overview": "",
-        "popularity": 0.1806,
+        "popularity": 0.1276,
         "poster_path": "/5aKpVha9ovtuu4WbSoK6qdyJUw8.jpg",
         "release_date": "2025-10-29",
         "title": "Nonna",
@@ -1119,7 +1255,7 @@
         "original_language": "de",
         "original_title": "Solo Show",
         "overview": "",
-        "popularity": 0.0795,
+        "popularity": 0.0839,
         "poster_path": "/bxQRBQr6YUy00S1jWICg9RXA2SV.jpg",
         "release_date": "2025-10-29",
         "title": "Solo Show",
@@ -1369,7 +1505,7 @@
         "original_language": "tr",
         "original_title": "Uykucu",
         "overview": "",
-        "popularity": 1.4261,
+        "popularity": 2.0095,
         "poster_path": "/jS3QZLD2zwcJYmulMESZnkfNlUD.jpg",
         "release_date": "2025-10-29",
         "title": "Uykucu",
@@ -1393,7 +1529,7 @@
         "original_language": "tr",
         "original_title": "Noir",
         "overview": "",
-        "popularity": 0.2421,
+        "popularity": 0.2378,
         "poster_path": "/70MZ4EBvlqGneqaKfEKaHl2LxsN.jpg",
         "release_date": "2025-10-29",
         "title": "Noir",
@@ -1415,7 +1551,7 @@
         "original_language": "tr",
         "original_title": "Pırıl: Saklı Robotlar",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": "/bEaXXsJwKtWkqY44XtHeu7dMhyb.jpg",
         "release_date": "2025-10-29",
         "title": "Pırıl: Saklı Robotlar",
