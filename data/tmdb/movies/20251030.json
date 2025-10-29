@@ -141,7 +141,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/6qF087d61IjlVrbOuAQ9lPtKgW5.jpg",
         "genre_ids": [
             28,
             53
@@ -186,6 +186,30 @@
             "音乐",
             "爱情",
             "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nGeX2NcR4WgtZUXCSJpRa5Wgt7H.jpg",
+        "genre_ids": [
+            16,
+            12
+        ],
+        "id": 1439741,
+        "original_language": "en",
+        "original_title": "Éiru",
+        "overview": "",
+        "popularity": 1.4994,
+        "poster_path": "/wvOfnk0C4feSr8poq7P9qUsC1va.jpg",
+        "release_date": "2025-10-30",
+        "title": "Éiru",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "冒险"
         ],
         "original_language_zh": "英语"
     },
@@ -349,6 +373,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1565948,
+        "original_language": "en",
+        "original_title": "The Pale Pumpkin",
+        "overview": "",
+        "popularity": 0.3482,
+        "poster_path": "/jMCUtSBCVkOURrVaR2DUfs6yzut.jpg",
+        "release_date": "2025-10-30",
+        "title": "The Pale Pumpkin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/zLVwFwozTKGFrUkSmc0AANvp9aF.jpg",
         "genre_ids": [
             99
@@ -361,6 +403,28 @@
         "poster_path": "/zkN2P4Z8D3AfDDZvpWfipxO3ntD.jpg",
         "release_date": "2025-10-30",
         "title": "Journey Home, David Gulpilil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Ii8ipgCTxIljjKfpmxlVycXLTB.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1245362,
+        "original_language": "en",
+        "original_title": "Invisible People",
+        "overview": "",
+        "popularity": 0.3188,
+        "poster_path": "/yOUjFAtGknop0QhibLC0wYwaAGi.jpg",
+        "release_date": "2025-10-30",
+        "title": "Invisible People",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -389,22 +453,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4Ii8ipgCTxIljjKfpmxlVycXLTB.jpg",
+        "backdrop_path": "/bAAlXvAhxa93yigcHkKXJXBy6gu.jpg",
         "genre_ids": [
+            35,
             99
         ],
-        "id": 1245362,
+        "id": 1569589,
         "original_language": "en",
-        "original_title": "Invisible People",
+        "original_title": "ABSOLUTE CINEMA",
         "overview": "",
-        "popularity": 0.3188,
-        "poster_path": "/yOUjFAtGknop0QhibLC0wYwaAGi.jpg",
+        "popularity": 0.2525,
+        "poster_path": "/aSqpaPnbjdSvv0nGa0vnuPV09fC.jpg",
         "release_date": "2025-10-30",
-        "title": "Invisible People",
+        "title": "ABSOLUTE CINEMA",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
+            "喜剧",
             "纪录"
         ],
         "original_language_zh": "英语"
@@ -457,29 +523,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4YYCmDx8hP5FQZfV7bhMfXSZ19l.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            9648,
-            53,
-            878,
-            37
+            18,
+            35
         ],
-        "id": 1516446,
+        "id": 1568634,
         "original_language": "en",
-        "original_title": "Rosewood",
+        "original_title": "Our Lady",
         "overview": "",
-        "popularity": 0.0896,
-        "poster_path": "/jIH33gdceRqxLm2Noh1WEw2Wgtx.jpg",
+        "popularity": 0.1173,
+        "poster_path": "/2JpiA1YOSq97cBSxZXRbh5JZUCx.jpg",
         "release_date": "2025-10-30",
-        "title": "Rosewood",
+        "title": "Our Lady",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "悬疑",
-            "惊悚",
-            "科幻",
-            "西部"
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -510,30 +572,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1568634,
-        "original_language": "en",
-        "original_title": "Our Lady",
-        "overview": "",
-        "popularity": 0.1173,
-        "poster_path": "/2JpiA1YOSq97cBSxZXRbh5JZUCx.jpg",
-        "release_date": "2025-10-30",
-        "title": "Our Lady",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1564280,
         "original_language": "en",
@@ -547,6 +585,34 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4YYCmDx8hP5FQZfV7bhMfXSZ19l.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            878,
+            37
+        ],
+        "id": 1516446,
+        "original_language": "en",
+        "original_title": "Rosewood",
+        "overview": "",
+        "popularity": 0.0896,
+        "poster_path": "/jIH33gdceRqxLm2Noh1WEw2Wgtx.jpg",
+        "release_date": "2025-10-30",
+        "title": "Rosewood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚",
+            "科幻",
+            "西部"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -994,6 +1060,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1564687,
+        "original_language": "de",
+        "original_title": "wedLOCK tradWIFE",
+        "overview": "",
+        "popularity": 0.1378,
+        "poster_path": null,
+        "release_date": "2025-10-30",
+        "title": "wedLOCK tradWIFE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             18
         ],
@@ -1011,24 +1095,6 @@
         "genre_ids_zh": [
             "剧情"
         ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1564687,
-        "original_language": "de",
-        "original_title": "wedLOCK tradWIFE",
-        "overview": "",
-        "popularity": 0.1378,
-        "poster_path": null,
-        "release_date": "2025-10-30",
-        "title": "wedLOCK tradWIFE",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "德语"
     },
     {
@@ -1893,6 +1959,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ng0f3ScrNXOKcqorKcBSV0jrCZf.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1550874,
+        "original_language": "hi",
+        "original_title": "Mard Mombatti",
+        "overview": "",
+        "popularity": 0.2104,
+        "poster_path": "/14ndcPvH9ykAqDhaFJTZZPgv4rd.jpg",
+        "release_date": "2025-10-30",
+        "title": "Mard Mombatti",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             14,
@@ -1912,28 +2000,6 @@
         "genre_ids_zh": [
             "奇幻",
             "恐怖"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/ng0f3ScrNXOKcqorKcBSV0jrCZf.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1550874,
-        "original_language": "hi",
-        "original_title": "Mard Mombatti",
-        "overview": "",
-        "popularity": 0.2104,
-        "poster_path": "/14ndcPvH9ykAqDhaFJTZZPgv4rd.jpg",
-        "release_date": "2025-10-30",
-        "title": "Mard Mombatti",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "印地语"
     },
@@ -1979,6 +2045,90 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1390561,
+        "original_language": "hi",
+        "original_title": "Alaav",
+        "overview": "",
+        "popularity": 0.1373,
+        "poster_path": "/pRWF96GgztWUQpBSThnUBKOUPWR.jpg",
+        "release_date": "2025-10-30",
+        "title": "Alaav",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1564958,
+        "original_language": "hi",
+        "original_title": "Babi",
+        "overview": "",
+        "popularity": 0.119,
+        "poster_path": "/522tOcMq6clrsp7bd241HRY6PqM.jpg",
+        "release_date": "2025-10-30",
+        "title": "Babi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1564995,
+        "original_language": "hi",
+        "original_title": "No Space To Pray",
+        "overview": "",
+        "popularity": 0.1037,
+        "poster_path": "/nbVjqL3I5BbU6NLDur6tqSRLmYy.jpg",
+        "release_date": "2025-10-30",
+        "title": "No Space To Pray",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1566677,
+        "original_language": "hi",
+        "original_title": "Hijabi Hacker",
+        "overview": "",
+        "popularity": 0.1035,
+        "poster_path": "/2JvaVZPaOzgP0p6BHCZ2P7J0gpo.jpg",
+        "release_date": "2025-10-30",
+        "title": "Hijabi Hacker",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "印地语"
     },
     {
@@ -2053,60 +2203,20 @@
         "genre_ids": [
             99
         ],
-        "id": 1564995,
+        "id": 1564978,
         "original_language": "hi",
-        "original_title": "No Space To Pray",
+        "original_title": "Disco Deewane",
         "overview": "",
-        "popularity": 0.1037,
-        "poster_path": "/nbVjqL3I5BbU6NLDur6tqSRLmYy.jpg",
+        "popularity": 0.0853,
+        "poster_path": "/vRt0z34r6YvdARfkls5xOsw6fGM.jpg",
         "release_date": "2025-10-30",
-        "title": "No Space To Pray",
+        "title": "Disco Deewane",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1390561,
-        "original_language": "hi",
-        "original_title": "Alaav",
-        "overview": "",
-        "popularity": 0.1373,
-        "poster_path": "/pRWF96GgztWUQpBSThnUBKOUPWR.jpg",
-        "release_date": "2025-10-30",
-        "title": "Alaav",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1566677,
-        "original_language": "hi",
-        "original_title": "Hijabi Hacker",
-        "overview": "",
-        "popularity": 0.1035,
-        "poster_path": "/2JvaVZPaOzgP0p6BHCZ2P7J0gpo.jpg",
-        "release_date": "2025-10-30",
-        "title": "Hijabi Hacker",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "印地语"
     },
     {
@@ -2123,50 +2233,6 @@
         "poster_path": "/jhpZiJ3fxBKUE86whxBJwNZnKj3.jpg",
         "release_date": "2025-10-30",
         "title": "Roohrangi",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1564958,
-        "original_language": "hi",
-        "original_title": "Babi",
-        "overview": "",
-        "popularity": 0.119,
-        "poster_path": "/522tOcMq6clrsp7bd241HRY6PqM.jpg",
-        "release_date": "2025-10-30",
-        "title": "Babi",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1564978,
-        "original_language": "hi",
-        "original_title": "Disco Deewane",
-        "overview": "",
-        "popularity": 0.0853,
-        "poster_path": "/vRt0z34r6YvdARfkls5xOsw6fGM.jpg",
-        "release_date": "2025-10-30",
-        "title": "Disco Deewane",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
