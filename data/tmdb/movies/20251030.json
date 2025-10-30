@@ -752,6 +752,54 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1561565,
+        "original_language": "en",
+        "original_title": "Pop",
+        "overview": "",
+        "popularity": 0.0377,
+        "poster_path": "/t3abomIXWxUEAFKD96IldNEYpMC.jpg",
+        "release_date": "2025-10-30",
+        "title": "Pop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1568835,
+        "original_language": "en",
+        "original_title": "Quiet After Supper",
+        "overview": "",
+        "popularity": 0.0297,
+        "poster_path": "/2sGXM2sfqdwuBx17lK03M580BDc.jpg",
+        "release_date": "2025-10-30",
+        "title": "Quiet After Supper",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1570108,
         "original_language": "en",
@@ -808,30 +856,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            53,
-            10749
-        ],
-        "id": 1571314,
-        "original_language": "en",
-        "original_title": "Bocado",
-        "overview": "",
-        "popularity": 0.05,
-        "poster_path": "/qEdaRQZZvMRvNr2KUDZRmBUwLIN.jpg",
-        "release_date": "2025-10-30",
-        "title": "Bocado",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1467,6 +1491,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/okzsTgJJVIm816idh9FQRoT6zdi.jpg",
+        "genre_ids": [
+            18,
+            27
+        ],
+        "id": 1485481,
+        "original_language": "es",
+        "original_title": "Los muchachos",
+        "overview": "",
+        "popularity": 0.2141,
+        "poster_path": "/ceHUqydDNSecqS6w6eTPo1loyjU.jpg",
+        "release_date": "2025-10-30",
+        "title": "Los muchachos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/kTqkwub81kSbcqlVNowsW9woX68.jpg",
         "genre_ids": [
             12,
@@ -1508,6 +1556,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            10749
+        ],
+        "id": 1571314,
+        "original_language": "es",
+        "original_title": "Bocado",
+        "overview": "",
+        "popularity": 0.05,
+        "poster_path": "/qEdaRQZZvMRvNr2KUDZRmBUwLIN.jpg",
+        "release_date": "2025-10-30",
+        "title": "Bocado",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "爱情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1566,6 +1638,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wDmxJwgEsZyaAa74PdnCrPTywyQ.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1571439,
+        "original_language": "es",
+        "original_title": "Luz de Penumbra",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7Sd8YaybwOHmGR4B5FW9I0IdIX3.jpg",
+        "release_date": "2025-10-30",
+        "title": "Luz de Penumbra",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
