@@ -59,8 +59,8 @@
         "release_date": "2025-10-30",
         "title": "Worldbreaker",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "科幻",
             "动作"
@@ -93,7 +93,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/lTxj12C5hROBCFHMARawqgvfgn2.jpg",
+        "backdrop_path": "/bF9TE1PsxtupqJqdECTWBOBU1nN.jpg",
         "genre_ids": [
             18
         ],
@@ -191,6 +191,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/t9lM4sK2VlXM6Dv8Ex7eticpZDd.jpg",
+        "genre_ids": [
+            16,
+            10751
+        ],
+        "id": 1507275,
+        "original_language": "en",
+        "original_title": "A Paw Patrol Christmas",
+        "overview": "",
+        "popularity": 1.5869,
+        "poster_path": "/uxIXUIp96lOBEB2dR654GRGQnIE.jpg",
+        "release_date": "2025-10-30",
+        "title": "A Paw Patrol Christmas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/nGeX2NcR4WgtZUXCSJpRa5Wgt7H.jpg",
         "genre_ids": [
             16,
@@ -237,30 +261,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/t9lM4sK2VlXM6Dv8Ex7eticpZDd.jpg",
-        "genre_ids": [
-            16,
-            10751
-        ],
-        "id": 1507275,
-        "original_language": "en",
-        "original_title": "A Paw Patrol Christmas",
-        "overview": "",
-        "popularity": 1.5869,
-        "poster_path": "/uxIXUIp96lOBEB2dR654GRGQnIE.jpg",
-        "release_date": "2025-10-30",
-        "title": "A Paw Patrol Christmas",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/nW92yZEGidfDBYNU8I10YTPGelG.jpg",
         "genre_ids": [],
         "id": 1544725,
@@ -287,11 +287,11 @@
         "id": 1550569,
         "original_language": "en",
         "original_title": "Aileen: Queen of the Serial Killers",
-        "overview": "",
+        "overview": "作为一名女性连环杀手，艾琳·乌尔诺斯仍然是个稀罕人物。从童年受虐的经历到被判死刑的真相，这部纪录片重新审视了她的生平与罪行。",
         "popularity": 0.6844,
         "poster_path": "/zpjxOV4yLapsZbw6E1paoZPlHnu.jpg",
         "release_date": "2025-10-30",
-        "title": "Aileen: Queen of the Serial Killers",
+        "title": "艾琳：连环杀手女王",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -907,7 +907,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/rJ8COZlSpgoDz5IMOeK2NERSbN4.jpg",
         "genre_ids": [],
         "id": 1565192,
         "original_language": "ja",
@@ -959,6 +959,28 @@
         "poster_path": "/xVcHX9SAo1N58l9GMBrqMpEcLm.jpg",
         "release_date": "2025-10-30",
         "title": "내일의 민재",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1311212,
+        "original_language": "ko",
+        "original_title": "이름에게",
+        "overview": "",
+        "popularity": 1.2467,
+        "poster_path": "/slLYITkj1psrtu4Fmd0VITpcg2b.jpg",
+        "release_date": "2025-10-30",
+        "title": "이름에게",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1090,7 +1112,10 @@
     {
         "adult": false,
         "backdrop_path": "/6JBKObEWdGUVri67t6SwF6jBTcU.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            99,
+            10402
+        ],
         "id": 1525993,
         "original_language": "de",
         "original_title": "Songs For Joy - Der Film zur Musik",
@@ -1102,7 +1127,10 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
         "original_language_zh": "德语"
     },
     {
