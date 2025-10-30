@@ -1019,49 +1019,113 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kZMlosdfVIp0b4Mv1nkmHCvcbYF.jpg",
-        "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1540544,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1459540,
         "original_language": "en",
-        "original_title": "Shotgun",
+        "original_title": "Last Tape",
         "overview": "",
-        "popularity": 0.169,
-        "poster_path": "/A01IrAgKYBF3t6Z24fiGtWNSx90.jpg",
+        "popularity": 0.2269,
+        "poster_path": null,
         "release_date": "2025-10-31",
-        "title": "Shotgun",
+        "title": "Last Tape",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1558218,
+        "original_language": "en",
+        "original_title": "Scream a Little Dream",
+        "overview": "",
+        "popularity": 0.2185,
+        "poster_path": "/vgKCET2wfI70XjiTJctriCnzhny.jpg",
+        "release_date": "2025-10-31",
+        "title": "Scream a Little Dream",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/qnZ4VVNODe13m9d4aTiFUg6HBDD.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            9648
+            10749,
+            35
         ],
-        "id": 1567143,
+        "id": 1570554,
         "original_language": "en",
-        "original_title": "Alone",
+        "original_title": "Joy to the World",
         "overview": "",
-        "popularity": 0.1205,
-        "poster_path": "/pAvB8dqEstPOGgvwGA6M4NI4A33.jpg",
+        "popularity": 0.2179,
+        "poster_path": "/emCiD6jX88KPM4xuTpf0b4A3tTE.jpg",
         "release_date": "2025-10-31",
-        "title": "Alone",
+        "title": "Joy to the World",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
+            "爱情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6H43Rurc508lwgfyD1MVWgGqtpY.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1540452,
+        "original_language": "en",
+        "original_title": "Filme-Copacabana",
+        "overview": "",
+        "popularity": 0.217,
+        "poster_path": "/2XKHyMHIVOPB1ToW4rohrzFyOaQ.jpg",
+        "release_date": "2025-10-31",
+        "title": "Filme-Copacabana",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/woRZF46QBNbmqBizZR9QG7c8YGd.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            27
+        ],
+        "id": 1459933,
+        "original_language": "en",
+        "original_title": "Unlike You",
+        "overview": "",
+        "popularity": 0.1916,
+        "poster_path": "/deTbTivutVQqeYBgHU2Q3k2Vi8f.jpg",
+        "release_date": "2025-10-31",
+        "title": "Unlike You",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "悬疑",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1089,133 +1153,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/eVWUMIt1arLueOxr5LlYRxgOJ5A.jpg",
         "genre_ids": [
-            27
+            14,
+            9648,
+            878
         ],
-        "id": 1455794,
+        "id": 1536829,
         "original_language": "en",
-        "original_title": "Edgar’s Nightmare",
+        "original_title": "The Legend of Dewey Winslow",
         "overview": "",
-        "popularity": 0.1545,
-        "poster_path": "/zObxu1N0mPXJIP8aPQNjECL3Cp5.jpg",
+        "popularity": 0.1815,
+        "poster_path": "/nTaoGQNQnulwx1HVv92ADFMflwJ.jpg",
         "release_date": "2025-10-31",
-        "title": "Edgar’s Nightmare",
+        "title": "The Legend of Dewey Winslow",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/sNO5EekZvIfNZ6OA8vjp8mDBXJD.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1564470,
-        "original_language": "en",
-        "original_title": "The Girl of Dull Entrapment",
-        "overview": "",
-        "popularity": 0.1607,
-        "poster_path": "/7SwoEMH6zrdcEVdNQrSGJNNCp0M.jpg",
-        "release_date": "2025-10-31",
-        "title": "The Girl of Dull Entrapment",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1388030,
-        "original_language": "en",
-        "original_title": "Bodoach",
-        "overview": "",
-        "popularity": 0.1545,
-        "poster_path": "/wMsDBPwCRhn7DBElKor4ud2fX9K.jpg",
-        "release_date": "2025-10-31",
-        "title": "Bodoach",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1546925,
-        "original_language": "en",
-        "original_title": "We Luv Video",
-        "overview": "",
-        "popularity": 0.1773,
-        "poster_path": "/iaXqn8sKPL1hvaOjxzWAQzMCOLQ.jpg",
-        "release_date": "2025-10-31",
-        "title": "We Luv Video",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1524571,
-        "original_language": "en",
-        "original_title": "Absolve Yourself",
-        "overview": "",
-        "popularity": 0.1369,
-        "poster_path": "/xik72dACOjXZZqPVBx2ytln15ez.jpg",
-        "release_date": "2025-10-31",
-        "title": "Absolve Yourself",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1463031,
-        "original_language": "en",
-        "original_title": "ACID SOMNIA 2",
-        "overview": "",
-        "popularity": 0.1543,
-        "poster_path": "/wCrLvV7cgkXf1jnoGPlGpeJavQj.jpg",
-        "release_date": "2025-10-31",
-        "title": "ACID SOMNIA 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
+            "奇幻",
+            "悬疑",
+            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -1247,88 +1205,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/uTKlbPf9zLsSOHpt1furt0gCLQ5.jpg",
-        "genre_ids": [
-            35,
-            27
-        ],
-        "id": 1402249,
-        "original_language": "en",
-        "original_title": "The End of The Punchline",
-        "overview": "",
-        "popularity": 0.1626,
-        "poster_path": null,
-        "release_date": "2025-10-31",
-        "title": "The End of The Punchline",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1526376,
-        "original_language": "en",
-        "original_title": "Project Butterfly: Flatwoods",
-        "overview": "",
-        "popularity": 0.1412,
-        "poster_path": "/90uNoD7QQtvxarPTuoHO9U0N2Xz.jpg",
-        "release_date": "2025-10-31",
-        "title": "Project Butterfly: Flatwoods",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eNvfP3ZdbdBPoDjIV2EUKR3cwTD.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1453109,
-        "original_language": "en",
-        "original_title": "Hotel Attack",
-        "overview": "",
-        "popularity": 0.1599,
-        "poster_path": "/pkeYFpCZvZruQLBRBxl94ywWCms.jpg",
-        "release_date": "2025-10-31",
-        "title": "Hotel Attack",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6H43Rurc508lwgfyD1MVWgGqtpY.jpg",
         "genre_ids": [
             99
         ],
-        "id": 1540452,
+        "id": 1546925,
         "original_language": "en",
-        "original_title": "Filme-Copacabana",
+        "original_title": "We Luv Video",
         "overview": "",
-        "popularity": 0.217,
-        "poster_path": "/2XKHyMHIVOPB1ToW4rohrzFyOaQ.jpg",
+        "popularity": 0.1773,
+        "poster_path": "/iaXqn8sKPL1hvaOjxzWAQzMCOLQ.jpg",
         "release_date": "2025-10-31",
-        "title": "Filme-Copacabana",
+        "title": "We Luv Video",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1367,6 +1255,186 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1535820,
+        "original_language": "en",
+        "original_title": "Please Wait Here",
+        "overview": "",
+        "popularity": 0.1738,
+        "poster_path": null,
+        "release_date": "2025-10-31",
+        "title": "Please Wait Here",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kZMlosdfVIp0b4Mv1nkmHCvcbYF.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1540544,
+        "original_language": "en",
+        "original_title": "Shotgun",
+        "overview": "",
+        "popularity": 0.169,
+        "poster_path": "/A01IrAgKYBF3t6Z24fiGtWNSx90.jpg",
+        "release_date": "2025-10-31",
+        "title": "Shotgun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uTKlbPf9zLsSOHpt1furt0gCLQ5.jpg",
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1402249,
+        "original_language": "en",
+        "original_title": "The End of The Punchline",
+        "overview": "",
+        "popularity": 0.1626,
+        "poster_path": null,
+        "release_date": "2025-10-31",
+        "title": "The End of The Punchline",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sNO5EekZvIfNZ6OA8vjp8mDBXJD.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1564470,
+        "original_language": "en",
+        "original_title": "The Girl of Dull Entrapment",
+        "overview": "",
+        "popularity": 0.1607,
+        "poster_path": "/7SwoEMH6zrdcEVdNQrSGJNNCp0M.jpg",
+        "release_date": "2025-10-31",
+        "title": "The Girl of Dull Entrapment",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eNvfP3ZdbdBPoDjIV2EUKR3cwTD.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1453109,
+        "original_language": "en",
+        "original_title": "Hotel Attack",
+        "overview": "",
+        "popularity": 0.1599,
+        "poster_path": "/pkeYFpCZvZruQLBRBxl94ywWCms.jpg",
+        "release_date": "2025-10-31",
+        "title": "Hotel Attack",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1455794,
+        "original_language": "en",
+        "original_title": "Edgar’s Nightmare",
+        "overview": "",
+        "popularity": 0.1545,
+        "poster_path": "/zObxu1N0mPXJIP8aPQNjECL3Cp5.jpg",
+        "release_date": "2025-10-31",
+        "title": "Edgar’s Nightmare",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1388030,
+        "original_language": "en",
+        "original_title": "Bodoach",
+        "overview": "",
+        "popularity": 0.1545,
+        "poster_path": "/wMsDBPwCRhn7DBElKor4ud2fX9K.jpg",
+        "release_date": "2025-10-31",
+        "title": "Bodoach",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1463031,
+        "original_language": "en",
+        "original_title": "ACID SOMNIA 2",
+        "overview": "",
+        "popularity": 0.1543,
+        "poster_path": "/wCrLvV7cgkXf1jnoGPlGpeJavQj.jpg",
+        "release_date": "2025-10-31",
+        "title": "ACID SOMNIA 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             27
         ],
@@ -1384,6 +1452,148 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1526376,
+        "original_language": "en",
+        "original_title": "Project Butterfly: Flatwoods",
+        "overview": "",
+        "popularity": 0.1412,
+        "poster_path": "/90uNoD7QQtvxarPTuoHO9U0N2Xz.jpg",
+        "release_date": "2025-10-31",
+        "title": "Project Butterfly: Flatwoods",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1524571,
+        "original_language": "en",
+        "original_title": "Absolve Yourself",
+        "overview": "",
+        "popularity": 0.1369,
+        "poster_path": "/xik72dACOjXZZqPVBx2ytln15ez.jpg",
+        "release_date": "2025-10-31",
+        "title": "Absolve Yourself",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kJ3bFkpgDfawRIe8tehDbkDirbk.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1317449,
+        "original_language": "en",
+        "original_title": "One Pizza, Bloody as Hell",
+        "overview": "",
+        "popularity": 0.124,
+        "poster_path": "/pMyg2yqUgCBmbchoICsnc1RHwqY.jpg",
+        "release_date": "2025-10-31",
+        "title": "One Pizza, Bloody as Hell",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4lLaC7AhVADFXgIeOs1eY9KpvDm.jpg",
+        "genre_ids": [
+            27,
+            53,
+            9648
+        ],
+        "id": 1549254,
+        "original_language": "en",
+        "original_title": "Closer",
+        "overview": "",
+        "popularity": 0.1238,
+        "poster_path": "/iPVoQLyuJIgplh5CVmeCo5zo2NB.jpg",
+        "release_date": "2025-10-31",
+        "title": "Closer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1556464,
+        "original_language": "en",
+        "original_title": "Sonic.exe",
+        "overview": "",
+        "popularity": 0.1214,
+        "poster_path": "/hqJp1nZAgNOd0NPXnatfmMnEVhm.jpg",
+        "release_date": "2025-10-31",
+        "title": "Sonic.exe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qnZ4VVNODe13m9d4aTiFUg6HBDD.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1567143,
+        "original_language": "en",
+        "original_title": "Alone",
+        "overview": "",
+        "popularity": 0.1205,
+        "poster_path": "/pAvB8dqEstPOGgvwGA6M4NI4A33.jpg",
+        "release_date": "2025-10-31",
+        "title": "Alone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -1410,56 +1620,6 @@
             "恐怖",
             "惊悚",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eVWUMIt1arLueOxr5LlYRxgOJ5A.jpg",
-        "genre_ids": [
-            14,
-            9648,
-            878
-        ],
-        "id": 1536829,
-        "original_language": "en",
-        "original_title": "The Legend of Dewey Winslow",
-        "overview": "",
-        "popularity": 0.1815,
-        "poster_path": "/nTaoGQNQnulwx1HVv92ADFMflwJ.jpg",
-        "release_date": "2025-10-31",
-        "title": "The Legend of Dewey Winslow",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "悬疑",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kJ3bFkpgDfawRIe8tehDbkDirbk.jpg",
-        "genre_ids": [
-            53,
-            80
-        ],
-        "id": 1317449,
-        "original_language": "en",
-        "original_title": "One Pizza, Bloody as Hell",
-        "overview": "",
-        "popularity": 0.124,
-        "poster_path": "/pMyg2yqUgCBmbchoICsnc1RHwqY.jpg",
-        "release_date": "2025-10-31",
-        "title": "One Pizza, Bloody as Hell",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -1511,28 +1671,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
-        ],
-        "id": 1556464,
-        "original_language": "en",
-        "original_title": "Sonic.exe",
-        "overview": "",
-        "popularity": 0.1214,
-        "poster_path": "/hqJp1nZAgNOd0NPXnatfmMnEVhm.jpg",
-        "release_date": "2025-10-31",
-        "title": "Sonic.exe",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             27,
             35,
             18
@@ -1552,6 +1690,74 @@
             "恐怖",
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1557882,
+        "original_language": "en",
+        "original_title": "Lights Out",
+        "overview": "",
+        "popularity": 0.094,
+        "poster_path": "/r80spCAecFU0yXqLvr5SQjKIw7g.jpg",
+        "release_date": "2025-10-31",
+        "title": "Lights Out",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7oEAaruPUXRdcOjUSdVxE3SDZKv.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1554012,
+        "original_language": "en",
+        "original_title": "Street Beast",
+        "overview": "",
+        "popularity": 0.0933,
+        "poster_path": "/w0EFYoD3ON9Isy0zADZ3DrkKU1y.jpg",
+        "release_date": "2025-10-31",
+        "title": "Street Beast",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1543557,
+        "original_language": "en",
+        "original_title": "O Segredo Dos Djinn 2",
+        "overview": "",
+        "popularity": 0.087,
+        "poster_path": "/oS7deJr7Jta8wiXmIWKZbsXo2qI.jpg",
+        "release_date": "2025-10-31",
+        "title": "O Segredo Dos Djinn 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1602,90 +1808,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1566743,
-        "original_language": "en",
-        "original_title": "The Clam Guy",
-        "overview": "",
-        "popularity": 0.0657,
-        "poster_path": "/kSSgeR1fTCMJJUG5E1iTE9Vf09e.jpg",
-        "release_date": "2025-10-31",
-        "title": "The Clam Guy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1564320,
-        "original_language": "en",
-        "original_title": "Killing of a Machine",
-        "overview": "",
-        "popularity": 0.0792,
-        "poster_path": "/dWOmPLXGA6jYZ5kgSK7AKYdm1Yf.jpg",
-        "release_date": "2025-10-31",
-        "title": "Killing of a Machine",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/7oEAaruPUXRdcOjUSdVxE3SDZKv.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1554012,
-        "original_language": "en",
-        "original_title": "Street Beast",
-        "overview": "",
-        "popularity": 0.0933,
-        "poster_path": "/w0EFYoD3ON9Isy0zADZ3DrkKU1y.jpg",
-        "release_date": "2025-10-31",
-        "title": "Street Beast",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4lLaC7AhVADFXgIeOs1eY9KpvDm.jpg",
-        "genre_ids": [
-            27,
-            53,
-            9648
-        ],
-        "id": 1549254,
-        "original_language": "en",
-        "original_title": "Closer",
-        "overview": "",
-        "popularity": 0.1238,
-        "poster_path": "/iPVoQLyuJIgplh5CVmeCo5zo2NB.jpg",
-        "release_date": "2025-10-31",
-        "title": "Closer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             27,
             878,
@@ -1712,24 +1834,62 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1557882,
+        "genre_ids": [],
+        "id": 1567545,
         "original_language": "en",
-        "original_title": "Lights Out",
+        "original_title": "The Mountain that Slept",
         "overview": "",
-        "popularity": 0.094,
-        "poster_path": "/r80spCAecFU0yXqLvr5SQjKIw7g.jpg",
+        "popularity": 0.0806,
+        "poster_path": "/qjrzzmiv3jWCQ1IA8nKdX0cjOs2.jpg",
         "release_date": "2025-10-31",
-        "title": "Lights Out",
+        "title": "The Mountain that Slept",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1564320,
+        "original_language": "en",
+        "original_title": "Killing of a Machine",
+        "overview": "",
+        "popularity": 0.0792,
+        "poster_path": "/dWOmPLXGA6jYZ5kgSK7AKYdm1Yf.jpg",
+        "release_date": "2025-10-31",
+        "title": "Killing of a Machine",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            35,
+            28
+        ],
+        "id": 1571066,
+        "original_language": "en",
+        "original_title": "Against All Odds",
+        "overview": "",
+        "popularity": 0.0786,
+        "poster_path": "/c2IJugTaDVhBUWtYl2TDSNuRXdD.jpg",
+        "release_date": "2025-10-31",
+        "title": "Against All Odds",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
+            "科幻",
+            "喜剧",
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -1755,14 +1915,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1518766,
+        "id": 1569958,
         "original_language": "en",
-        "original_title": "PSYCHO KILLER 2",
+        "original_title": "Spike and Mike's Animation Extravaganza",
         "overview": "",
-        "popularity": 0.0462,
-        "poster_path": "/3ryXNZwQ22xkwb6evwYw5eINXKg.jpg",
+        "popularity": 0.0732,
+        "poster_path": "/v7ILggr8W1M2abcWrvVp5UgqO7n.jpg",
         "release_date": "2025-10-31",
-        "title": "PSYCHO KILLER 2",
+        "title": "Spike and Mike's Animation Extravaganza",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1773,14 +1933,76 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1567545,
+        "id": 1566743,
         "original_language": "en",
-        "original_title": "The Mountain that Slept",
+        "original_title": "The Clam Guy",
         "overview": "",
-        "popularity": 0.0806,
-        "poster_path": "/qjrzzmiv3jWCQ1IA8nKdX0cjOs2.jpg",
+        "popularity": 0.0657,
+        "poster_path": "/kSSgeR1fTCMJJUG5E1iTE9Vf09e.jpg",
         "release_date": "2025-10-31",
-        "title": "The Mountain that Slept",
+        "title": "The Clam Guy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1539639,
+        "original_language": "en",
+        "original_title": "Fixing a Popped Balloon (aka Phantom Suicides)",
+        "overview": "",
+        "popularity": 0.0641,
+        "poster_path": "/iRLqnMj5KvNp4jMoQxCKCfhBqGA.jpg",
+        "release_date": "2025-10-31",
+        "title": "Fixing a Popped Balloon (aka Phantom Suicides)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/any5dj0lQ0ON84SjEWOpq4IYk4C.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1570376,
+        "original_language": "en",
+        "original_title": "Domestic Enclosure",
+        "overview": "",
+        "popularity": 0.0639,
+        "poster_path": "/ieIY8vNCCOceZkuVAqqjBxAysoe.jpg",
+        "release_date": "2025-10-31",
+        "title": "Domestic Enclosure",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1566748,
+        "original_language": "en",
+        "original_title": "VERA",
+        "overview": "",
+        "popularity": 0.0634,
+        "poster_path": "/6vSGSVEPgbGSiFV25lCGRoiLJsC.jpg",
+        "release_date": "2025-10-31",
+        "title": "VERA",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1840,81 +2062,23 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1566748,
-        "original_language": "en",
-        "original_title": "VERA",
-        "overview": "",
-        "popularity": 0.0634,
-        "poster_path": "/6vSGSVEPgbGSiFV25lCGRoiLJsC.jpg",
-        "release_date": "2025-10-31",
-        "title": "VERA",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/pys81x9qDVLb8cch5Qwh6HJExPk.jpg",
         "genre_ids": [
-            27
+            9648
         ],
-        "id": 1509997,
+        "id": 1567643,
         "original_language": "en",
-        "original_title": "The Showdown",
+        "original_title": "Lady",
         "overview": "",
-        "popularity": 0.0489,
-        "poster_path": "/1nUQeTlJDrm6pyVcrACBQ5kKl8K.jpg",
+        "popularity": 0.0609,
+        "poster_path": "/p4rSjf5E1j1ONExGWdpPA7LZd7F.jpg",
         "release_date": "2025-10-31",
-        "title": "The Showdown",
+        "title": "Lady",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "悬疑"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1543557,
-        "original_language": "en",
-        "original_title": "O Segredo Dos Djinn 2",
-        "overview": "",
-        "popularity": 0.087,
-        "poster_path": "/oS7deJr7Jta8wiXmIWKZbsXo2qI.jpg",
-        "release_date": "2025-10-31",
-        "title": "O Segredo Dos Djinn 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1566769,
-        "original_language": "en",
-        "original_title": "Bottled Milk",
-        "overview": "",
-        "popularity": 0.0552,
-        "poster_path": "/uVfGaDPdb8aMAA2Am4GzCt18DG6.jpg",
-        "release_date": "2025-10-31",
-        "title": "Bottled Milk",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1945,38 +2109,16 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1539639,
-        "original_language": "en",
-        "original_title": "Fixing a Popped Balloon (aka Phantom Suicides)",
-        "overview": "",
-        "popularity": 0.0641,
-        "poster_path": "/iRLqnMj5KvNp4jMoQxCKCfhBqGA.jpg",
-        "release_date": "2025-10-31",
-        "title": "Fixing a Popped Balloon (aka Phantom Suicides)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/jQnpCHCkAFdu2sGCEgvMsxlQMQO.jpg",
-        "genre_ids": [
             27
         ],
-        "id": 1453222,
+        "id": 1540503,
         "original_language": "en",
-        "original_title": "Earful",
+        "original_title": "Vampyr",
         "overview": "",
-        "popularity": 0.053,
-        "poster_path": "/qtMBPKH2zh0r1XbP1xiGpQzS3PV.jpg",
+        "popularity": 0.0589,
+        "poster_path": "/ppgFuGbKAer5pqUlpTFkxlRMHwC.jpg",
         "release_date": "2025-10-31",
-        "title": "Earful",
+        "title": "Vampyr",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1988,23 +2130,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            9648
-        ],
-        "id": 1567643,
+        "genre_ids": [],
+        "id": 1566769,
         "original_language": "en",
-        "original_title": "Lady",
+        "original_title": "Bottled Milk",
         "overview": "",
-        "popularity": 0.0609,
-        "poster_path": "/p4rSjf5E1j1ONExGWdpPA7LZd7F.jpg",
+        "popularity": 0.0552,
+        "poster_path": "/uVfGaDPdb8aMAA2Am4GzCt18DG6.jpg",
         "release_date": "2025-10-31",
-        "title": "Lady",
+        "title": "Bottled Milk",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -2027,18 +2165,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/jQnpCHCkAFdu2sGCEgvMsxlQMQO.jpg",
         "genre_ids": [
             27
         ],
-        "id": 1540503,
+        "id": 1453222,
         "original_language": "en",
-        "original_title": "Vampyr",
+        "original_title": "Earful",
         "overview": "",
-        "popularity": 0.0589,
-        "poster_path": "/ppgFuGbKAer5pqUlpTFkxlRMHwC.jpg",
+        "popularity": 0.053,
+        "poster_path": "/qtMBPKH2zh0r1XbP1xiGpQzS3PV.jpg",
         "release_date": "2025-10-31",
-        "title": "Vampyr",
+        "title": "Earful",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2085,72 +2223,64 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749,
-            35
-        ],
-        "id": 1570554,
-        "original_language": "en",
-        "original_title": "Joy to the World",
-        "overview": "",
-        "popularity": 0.2179,
-        "poster_path": "/emCiD6jX88KPM4xuTpf0b4A3tTE.jpg",
-        "release_date": "2025-10-31",
-        "title": "Joy to the World",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1314140,
-        "original_language": "en",
-        "original_title": "Tell Me You Love Me",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/ceWiMfoc9EeuOQKNnZq0Yceavpl.jpg",
-        "release_date": "2025-10-31",
-        "title": "Tell Me You Love Me",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bm2mrHsmFjZR0Ki1YWMnKrXOZw6.jpg",
+        "backdrop_path": "/hH43mbpMutCBiOPf0w9rreIwsg2.jpg",
         "genre_ids": [
             27
         ],
-        "id": 1564349,
+        "id": 1570556,
         "original_language": "en",
-        "original_title": "life is but a dream",
+        "original_title": "Soaked In Tears",
         "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/f0G6FngOqFff4sca0OVscnq27XL.jpg",
+        "popularity": 0.0504,
+        "poster_path": "/pjFinBLUYLrdRPu3IcZ7PJZGTYl.jpg",
         "release_date": "2025-10-31",
-        "title": "life is but a dream",
+        "title": "Soaked In Tears",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pys81x9qDVLb8cch5Qwh6HJExPk.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1509997,
+        "original_language": "en",
+        "original_title": "The Showdown",
+        "overview": "",
+        "popularity": 0.0489,
+        "poster_path": "/1nUQeTlJDrm6pyVcrACBQ5kKl8K.jpg",
+        "release_date": "2025-10-31",
+        "title": "The Showdown",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1518766,
+        "original_language": "en",
+        "original_title": "PSYCHO KILLER 2",
+        "overview": "",
+        "popularity": 0.0462,
+        "poster_path": "/3ryXNZwQ22xkwb6evwYw5eINXKg.jpg",
+        "release_date": "2025-10-31",
+        "title": "PSYCHO KILLER 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -2214,40 +2344,24 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1567558,
-        "original_language": "en",
-        "original_title": "Freya",
-        "overview": "",
-        "popularity": 0.0431,
-        "poster_path": "/kiviUm9WwH6Zgty204zszrvUWIk.jpg",
-        "release_date": "2025-10-31",
-        "title": "Freya",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hH43mbpMutCBiOPf0w9rreIwsg2.jpg",
         "genre_ids": [
-            27
+            18,
+            53
         ],
-        "id": 1570556,
+        "id": 1314140,
         "original_language": "en",
-        "original_title": "Soaked In Tears",
+        "original_title": "Tell Me You Love Me",
         "overview": "",
-        "popularity": 0.0504,
-        "poster_path": "/pjFinBLUYLrdRPu3IcZ7PJZGTYl.jpg",
+        "popularity": 0.0379,
+        "poster_path": "/ceWiMfoc9EeuOQKNnZq0Yceavpl.jpg",
         "release_date": "2025-10-31",
-        "title": "Soaked In Tears",
+        "title": "Tell Me You Love Me",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -2293,6 +2407,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bm2mrHsmFjZR0Ki1YWMnKrXOZw6.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1564349,
+        "original_language": "en",
+        "original_title": "life is but a dream",
+        "overview": "",
+        "popularity": 0.0338,
+        "poster_path": "/f0G6FngOqFff4sca0OVscnq27XL.jpg",
+        "release_date": "2025-10-31",
+        "title": "life is but a dream",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -3057,6 +3193,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1555240,
+        "original_language": "de",
+        "original_title": "Alle Märchen sind gelogen",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": "/3EDnJ8WuAR53BtvZV4yoZVRHQBd.jpg",
+        "release_date": "2025-10-31",
+        "title": "Alle Märchen sind gelogen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/p44sfybqlxqMD3smJCnVrH93kiT.jpg",
         "genre_ids": [
             53,
@@ -3120,28 +3278,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1555240,
-        "original_language": "de",
-        "original_title": "Alle Märchen sind gelogen",
-        "overview": "",
-        "popularity": 0.0643,
-        "poster_path": "/3EDnJ8WuAR53BtvZV4yoZVRHQBd.jpg",
-        "release_date": "2025-10-31",
-        "title": "Alle Märchen sind gelogen",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "德语"
     },
@@ -3263,6 +3399,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4kBYmXhK3ltyITf8zQc3wE2giQx.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1536732,
+        "original_language": "fr",
+        "original_title": "Il est temps d'atterrir",
+        "overview": "",
+        "popularity": 0.08,
+        "poster_path": "/tRsXZxJkkZvh5gEhKzxVuGWet2K.jpg",
+        "release_date": "2025-10-31",
+        "title": "Il est temps d'atterrir",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fzRi30sVjBaEUeSSt4xLMGotxDa.jpg",
         "genre_ids": [
             35,
@@ -3287,18 +3445,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4kBYmXhK3ltyITf8zQc3wE2giQx.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
-        "id": 1536732,
+        "id": 1527009,
         "original_language": "fr",
-        "original_title": "Il est temps d'atterrir",
+        "original_title": "QUE TON RÈGNE VIENNE : Une histoire du satanisme en France",
         "overview": "",
-        "popularity": 0.08,
-        "poster_path": "/tRsXZxJkkZvh5gEhKzxVuGWet2K.jpg",
+        "popularity": 0.0536,
+        "poster_path": "/aRc3bFxuZjAjAL2uJCW3VWRIyvy.jpg",
         "release_date": "2025-10-31",
-        "title": "Il est temps d'atterrir",
+        "title": "QUE TON RÈGNE VIENNE : Une histoire du satanisme en France",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3333,30 +3491,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iEiXnj5eeFVo6JZCdw3bildhBS8.jpg",
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1500357,
-        "original_language": "fr",
-        "original_title": "Couleur Carmin",
-        "overview": "",
-        "popularity": 0.0441,
-        "poster_path": "/pp9ZluwFhYYV2JTpfXoOaveKvuT.jpg",
-        "release_date": "2025-10-31",
-        "title": "Couleur Carmin",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -3381,23 +3515,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/iEiXnj5eeFVo6JZCdw3bildhBS8.jpg",
         "genre_ids": [
-            99
+            27,
+            35
         ],
-        "id": 1527009,
+        "id": 1500357,
         "original_language": "fr",
-        "original_title": "QUE TON RÈGNE VIENNE : Une histoire du satanisme en France",
+        "original_title": "Couleur Carmin",
         "overview": "",
-        "popularity": 0.0536,
-        "poster_path": "/aRc3bFxuZjAjAL2uJCW3VWRIyvy.jpg",
+        "popularity": 0.0441,
+        "poster_path": "/pp9ZluwFhYYV2JTpfXoOaveKvuT.jpg",
         "release_date": "2025-10-31",
-        "title": "QUE TON RÈGNE VIENNE : Une histoire du satanisme en France",
+        "title": "Couleur Carmin",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -3469,28 +3605,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hQyZKQmOyp6k07gxRa9IJdqz3Fi.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1428747,
-        "original_language": "es",
-        "original_title": "Souvenir",
-        "overview": "",
-        "popularity": 0.337,
-        "poster_path": "/ycmhqiuoYuvKztjz5loWudPlwgm.jpg",
-        "release_date": "2025-10-31",
-        "title": "Souvenir",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/l3gjl1MAGn8yfeXUO1gdKQ9EfcQ.jpg",
         "genre_ids": [
             27,
@@ -3510,6 +3624,28 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hQyZKQmOyp6k07gxRa9IJdqz3Fi.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1428747,
+        "original_language": "es",
+        "original_title": "Souvenir",
+        "overview": "",
+        "popularity": 0.337,
+        "poster_path": "/ycmhqiuoYuvKztjz5loWudPlwgm.jpg",
+        "release_date": "2025-10-31",
+        "title": "Souvenir",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -3583,6 +3719,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1570074,
+        "original_language": "es",
+        "original_title": "Wolfmask",
+        "overview": "",
+        "popularity": 0.0552,
+        "poster_path": "/f1lxL2uRWNrPLYWHrjLO0iqDtpJ.jpg",
+        "release_date": "2025-10-31",
+        "title": "Wolfmask",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27,
             9648
         ],
@@ -3617,28 +3775,6 @@
         "poster_path": "/pPypxzFTxterca8bSqHWG3wYjUP.jpg",
         "release_date": "2025-10-31",
         "title": "La Flor",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1570074,
-        "original_language": "es",
-        "original_title": "Wolfmask",
-        "overview": "",
-        "popularity": 0.0552,
-        "poster_path": "/f1lxL2uRWNrPLYWHrjLO0iqDtpJ.jpg",
-        "release_date": "2025-10-31",
-        "title": "Wolfmask",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -4009,28 +4145,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1531858,
-        "original_language": "hi",
-        "original_title": "The Taj Story",
-        "overview": "",
-        "popularity": 0.9724,
-        "poster_path": "/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
-        "release_date": "2025-10-31",
-        "title": "The Taj Story",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35
         ],
         "id": 1352528,
@@ -4046,6 +4160,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1531858,
+        "original_language": "hi",
+        "original_title": "The Taj Story",
+        "overview": "",
+        "popularity": 0.9724,
+        "poster_path": "/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
+        "release_date": "2025-10-31",
+        "title": "The Taj Story",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "印地语"
     },
