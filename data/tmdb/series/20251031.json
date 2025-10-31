@@ -119,6 +119,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4YogiuBRm9cU8EbvjjlQX5CgDiY.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 302854,
+        "origin_country": [
+            "南非"
+        ],
+        "original_language": "en",
+        "original_name": "Bad Influencer",
+        "overview": "单亲妈妈阿贝是个小本经营的骗徒，必须为有特殊需求的儿子努力赚钱，于是她和向往奢华生活的网红粉宝合作，在网上卖起假名牌包。两人的生意被仿冒集团的危险罪犯亚历克斯盯上，一位迷人的警官坦巴也注意到她们。夹在犯罪集团与执法机关之间，这对奇特搭档必须靠智慧避免牢狱之灾，在保命的同时让事业蒸蒸日上。",
+        "popularity": 0.701,
+        "poster_path": "/mzt7pHN76oSw1sfzfY59zlf8lpX.jpg",
+        "first_air_date": "2025-10-31",
+        "name": "不良网红",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -140,32 +166,6 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4YogiuBRm9cU8EbvjjlQX5CgDiY.jpg",
-        "genre_ids": [
-            18,
-            80
-        ],
-        "id": 302854,
-        "origin_country": [
-            "南非"
-        ],
-        "original_language": "en",
-        "original_name": "Bad Influencer",
-        "overview": "为了卖包还债，这位以伪造奢牌包为生的单身母亲与一名自恋的网红展开合作。",
-        "popularity": 0.701,
-        "poster_path": "/mzt7pHN76oSw1sfzfY59zlf8lpX.jpg",
-        "first_air_date": "2025-10-31",
-        "name": "不良网红",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -199,6 +199,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35,
+            16
+        ],
+        "id": 304078,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Skelly",
+        "overview": "",
+        "popularity": 0.1492,
+        "poster_path": null,
+        "first_air_date": "2025-10-31",
+        "name": "Skelly",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 304172,
@@ -223,25 +249,27 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35,
-            16
+            18,
+            80,
+            99
         ],
-        "id": 304078,
+        "id": 304488,
         "origin_country": [
             "美国"
         ],
         "original_language": "en",
-        "original_name": "Skelly",
+        "original_name": "গণশত্রু",
         "overview": "",
-        "popularity": 0.1492,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/jZf1DtQ4xRq4Fz7UpWlTkTDB5Tq.jpg",
         "first_air_date": "2025-10-31",
-        "name": "Skelly",
+        "name": "গণশত্রু",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "动画"
+            "剧情",
+            "犯罪",
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
