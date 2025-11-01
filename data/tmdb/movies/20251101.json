@@ -511,7 +511,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hnuL67Y2i0FlVGeXxN8ZCyscbc3.jpg",
         "genre_ids": [
             10770,
             35,
@@ -1129,6 +1129,72 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/cInHeJyVK5ewR6BlrkdqAVTV4rC.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1571123,
+        "original_language": "en",
+        "original_title": "Night Flight",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/8Je9yC7VDKF5SEuzZPL5qUhiPIN.jpg",
+        "release_date": "2025-11-01",
+        "title": "Night Flight",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1572741,
+        "original_language": "en",
+        "original_title": "October Glow",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-01",
+        "title": "October Glow",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1572641,
+        "original_language": "en",
+        "original_title": "COSMOS Embassy: Ho Chi Minh City, Vietnam",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-01",
+        "title": "COSMOS Embassy: Ho Chi Minh City, Vietnam",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1572584,
@@ -1285,7 +1351,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qQyCRKsjnCJh4nbbSqSbao4ZoOm.jpg",
+        "backdrop_path": "/1GXPWjdfA0pP8OhccjRQEorCp6H.jpg",
         "genre_ids": [],
         "id": 1565194,
         "original_language": "ja",
@@ -1409,8 +1475,8 @@
         "release_date": "2025-11-01",
         "title": "Miraculous World : Tokyo, Stellar Force",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "冒险",
             "动画",
@@ -1774,6 +1840,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1572631,
+        "original_language": "es",
+        "original_title": "Madriguera",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/44SqQCVcPYyyS4X9qoUaZKPKJec.jpg",
+        "release_date": "2025-11-01",
+        "title": "Madriguera",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
