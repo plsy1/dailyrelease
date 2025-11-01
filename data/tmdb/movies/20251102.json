@@ -703,28 +703,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1563190,
-        "original_language": "it",
-        "original_title": "LA FORZA DEL DESTINO",
-        "overview": "",
-        "popularity": 0.5609,
-        "poster_path": "/pNdqX47tvC8Iu8d4Fus8cAvQCbW.jpg",
-        "release_date": "2025-11-02",
-        "title": "LA FORZA DEL DESTINO",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18,
             35
         ],
@@ -748,20 +726,24 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1571567,
-        "original_language": "nl",
-        "original_title": "Stars on stage liam ao special",
+        "genre_ids": [
+            99
+        ],
+        "id": 1563190,
+        "original_language": "it",
+        "original_title": "LA FORZA DEL DESTINO",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/yMlNlFEmHstETcyq8szVFYFToYJ.jpg",
+        "popularity": 0.5609,
+        "poster_path": "/pNdqX47tvC8Iu8d4Fus8cAvQCbW.jpg",
         "release_date": "2025-11-02",
-        "title": "Stars on stage liam ao special",
+        "title": "LA FORZA DEL DESTINO",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "荷兰语"
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "意大利语"
     },
     {
         "adult": false,
@@ -807,6 +789,24 @@
             "恐怖",
             "纪录"
         ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1571567,
+        "original_language": "nl",
+        "original_title": "Stars on stage liam ao special",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/yMlNlFEmHstETcyq8szVFYFToYJ.jpg",
+        "release_date": "2025-11-02",
+        "title": "Stars on stage liam ao special",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "荷兰语"
     }
 ]
