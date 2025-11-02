@@ -93,8 +93,8 @@
         "poster_path": "/bb69I9np1EYqLHfRUkmoFKSdfTY.jpg",
         "first_air_date": "2025-11-02",
         "name": "Robin Hood",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.7,
+        "vote_count": 3,
         "genre_ids_zh": [
             "剧情",
             "动作与冒险"
@@ -234,6 +234,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/k624xUZq8vEpiQpGCtAf03OFrWC.jpg",
+        "genre_ids": [
+            10764
+        ],
+        "id": 304482,
+        "origin_country": [
+            "澳大利亚"
+        ],
+        "original_language": "en",
+        "original_name": "Portrait Artist Of The Year",
+        "overview": "",
+        "popularity": 0.0496,
+        "poster_path": "/ZyUwJ1Y3Nz1rcjFW8j3TrWnWKI.jpg",
+        "first_air_date": "2025-11-02",
+        "name": "Portrait Artist Of The Year",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -259,27 +283,32 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/k624xUZq8vEpiQpGCtAf03OFrWC.jpg",
+        "backdrop_path": "/rcwsrgWHIsnPn02y1iW6Kmu16ni.jpg",
         "genre_ids": [
-            10764
+            18,
+            9648,
+            80
         ],
-        "id": 304482,
+        "id": 272468,
         "origin_country": [
-            "澳大利亚"
+            "法国",
+            "瑞士"
         ],
-        "original_language": "en",
-        "original_name": "Portrait Artist Of The Year",
+        "original_language": "fr",
+        "original_name": "Intraçables",
         "overview": "",
-        "popularity": 0.0496,
-        "poster_path": "/ZyUwJ1Y3Nz1rcjFW8j3TrWnWKI.jpg",
+        "popularity": 1.4459,
+        "poster_path": "/cWR0eZfXeab2aBnAiaqBUT7oTc1.jpg",
         "first_air_date": "2025-11-02",
-        "name": "Portrait Artist Of The Year",
+        "name": "Intraçables",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "真人秀"
+            "剧情",
+            "悬疑",
+            "犯罪"
         ],
-        "original_language_zh": "英语"
+        "original_language_zh": "法语"
     },
     {
         "adult": false,
