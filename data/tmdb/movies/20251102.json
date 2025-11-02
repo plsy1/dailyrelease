@@ -98,7 +98,7 @@
         "original_title": "冰箱",
         "overview": "",
         "popularity": 0.1032,
-        "poster_path": null,
+        "poster_path": "/7ufYxhCLMGM6MYdUtmtT6Cluw4N.jpg",
         "release_date": "2025-11-02",
         "title": "冰箱",
         "video": false,
@@ -226,7 +226,7 @@
         "original_title": "我和我的8bit",
         "overview": "",
         "popularity": 0.0143,
-        "poster_path": null,
+        "poster_path": "/zamEqpbO2PevxnAZyQRKVeZPpPv.jpg",
         "release_date": "2025-11-02",
         "title": "我和我的8bit",
         "video": false,
@@ -234,6 +234,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1573214,
+        "original_language": "zh",
+        "original_title": "您許下的三顆星星",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/uTi2C5ZcenmT8d1k5dy4p8zrYu9.jpg",
+        "release_date": "2025-11-02",
+        "title": "您許下的三顆星星",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -389,6 +411,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/drpY0X6Is8D6s5KkZM3eoaAUVmQ.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1561877,
+        "original_language": "en",
+        "original_title": "LE CINEMA DE TERRY GILLIAM, L'IMAGINATION AU POUVOIR",
+        "overview": "",
+        "popularity": 0.0522,
+        "poster_path": "/AcGUXvTa2ep2oZN7C9dhvUbhdC8.jpg",
+        "release_date": "2025-11-02",
+        "title": "LE CINEMA DE TERRY GILLIAM, L'IMAGINATION AU POUVOIR",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -524,6 +568,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cvh94exdgfRSPu6hVci3hx45RmK.jpg",
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1573162,
+        "original_language": "en",
+        "original_title": "It did happen",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aINnbKsKlQpLCRjQ5oQRppnsrmw.jpg",
+        "release_date": "2025-11-02",
+        "title": "It did happen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -723,6 +791,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ahxF1RuyiqvDr0yuRF1qDZCaK8D.jpg",
+        "genre_ids": [
+            27,
+            10751
+        ],
+        "id": 1573199,
+        "original_language": "pt",
+        "original_title": "Até o Caroco",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jUKxYsk6VW8dUChYY3djYdDh3XE.jpg",
+        "release_date": "2025-11-02",
+        "title": "Até o Caroco",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "家庭"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -830,5 +922,27 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6jirJq63JRgv5fbOeEps2T2ijFM.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1573221,
+        "original_language": "sv",
+        "original_title": "Tombeau de Glace",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/sfrQI5fYxZppggkziyI172Iovjq.jpg",
+        "release_date": "2025-11-02",
+        "title": "Tombeau de Glace",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
