@@ -71,6 +71,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rAClsKEEyQgKxANB9B6oiGgSlSG.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1081595,
+        "original_language": "en",
+        "original_title": "Caterpillar",
+        "overview": "",
+        "popularity": 11.4063,
+        "poster_path": "/1J4LaOTB47Sd2HtDyszmHVTRfQs.jpg",
+        "release_date": "2025-11-07",
+        "title": "Caterpillar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rXFLeEPgrrV5PT1LoXgzSoGvQ8c.jpg",
         "genre_ids": [
             28,
@@ -95,23 +117,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rAClsKEEyQgKxANB9B6oiGgSlSG.jpg",
+        "backdrop_path": "/407Kbt1TL4cybgbavHeZeWjMb3U.jpg",
         "genre_ids": [
-            99
+            27,
+            35,
+            14,
+            10402
         ],
-        "id": 1081595,
+        "id": 1442787,
         "original_language": "en",
-        "original_title": "Caterpillar",
+        "original_title": "Tempo Rubato",
         "overview": "",
-        "popularity": 11.4063,
-        "poster_path": "/1J4LaOTB47Sd2HtDyszmHVTRfQs.jpg",
+        "popularity": 4.99,
+        "poster_path": "/8HyEHocDbc9y11LfjEr6t2TNmp4.jpg",
         "release_date": "2025-11-07",
-        "title": "Caterpillar",
+        "title": "Tempo Rubato",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖",
+            "喜剧",
+            "奇幻",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -136,50 +164,6 @@
         "genre_ids_zh": [
             "惊悚",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/qge6MBb1UU9pyRWiTFA6WoaYF93.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1325678,
-        "original_language": "en",
-        "original_title": "Sarah's Oil",
-        "overview": "",
-        "popularity": 4.3021,
-        "poster_path": "/4pkdtlpExaX7vjUW80apb38fcA3.jpg",
-        "release_date": "2025-11-07",
-        "title": "Sarah's Oil",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/l9ZBieaCfICMaTIop3AZRZiO5Qy.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1555396,
-        "original_language": "en",
-        "original_title": "Colossal Wreck",
-        "overview": "",
-        "popularity": 3.3562,
-        "poster_path": "/btTTlt790z1hqgOSqjjrmUovY6G.jpg",
-        "release_date": "2025-11-07",
-        "title": "Colossal Wreck",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -233,6 +217,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/l9ZBieaCfICMaTIop3AZRZiO5Qy.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1555396,
+        "original_language": "en",
+        "original_title": "Colossal Wreck",
+        "overview": "",
+        "popularity": 3.3562,
+        "poster_path": "/btTTlt790z1hqgOSqjjrmUovY6G.jpg",
+        "release_date": "2025-11-07",
+        "title": "Colossal Wreck",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wQDKtX5TfZCytF4byb58UpXM7Rl.jpg",
         "genre_ids": [
             53,
@@ -276,60 +282,6 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/407Kbt1TL4cybgbavHeZeWjMb3U.jpg",
-        "genre_ids": [
-            27,
-            35,
-            14,
-            10402
-        ],
-        "id": 1442787,
-        "original_language": "en",
-        "original_title": "Tempo Rubato",
-        "overview": "",
-        "popularity": 4.99,
-        "poster_path": "/8HyEHocDbc9y11LfjEr6t2TNmp4.jpg",
-        "release_date": "2025-11-07",
-        "title": "Tempo Rubato",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧",
-            "奇幻",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            10751,
-            35
-        ],
-        "id": 1564306,
-        "original_language": "en",
-        "original_title": "Zootopia: Better Zoogether!",
-        "overview": "",
-        "popularity": 2.4022,
-        "poster_path": "/kKYoUUZbNW6N2LwDmszcAvsgaWE.jpg",
-        "release_date": "2025-11-07",
-        "title": "Zootopia: Better Zoogether!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "家庭",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -417,23 +369,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tP0Jf7cnySUU23CghX9UtU3UC86.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            16,
+            10751,
+            35
         ],
-        "id": 1478111,
+        "id": 1564306,
         "original_language": "en",
-        "original_title": "Christmas Eve",
+        "original_title": "Zootopia: Better Zoogether!",
         "overview": "",
-        "popularity": 2.1566,
-        "poster_path": "/cEbqciNUyoOhopWTvv8nFImjhVX.jpg",
+        "popularity": 2.4022,
+        "poster_path": "/kKYoUUZbNW6N2LwDmszcAvsgaWE.jpg",
         "release_date": "2025-11-07",
-        "title": "Christmas Eve",
+        "title": "Zootopia: Better Zoogether!",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "动画",
+            "家庭",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -463,6 +419,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/tP0Jf7cnySUU23CghX9UtU3UC86.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1478111,
+        "original_language": "en",
+        "original_title": "Christmas Eve",
+        "overview": "",
+        "popularity": 2.1566,
+        "poster_path": "/cEbqciNUyoOhopWTvv8nFImjhVX.jpg",
+        "release_date": "2025-11-07",
+        "title": "Christmas Eve",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1552055,
+        "original_language": "en",
+        "original_title": "Finding Hozho",
+        "overview": "",
+        "popularity": 2.1466,
+        "poster_path": "/zQPkKfBwMJMA2AlzABvYtGyTR7V.jpg",
+        "release_date": "2025-11-07",
+        "title": "Finding Hozho",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/bkSaUZgRL2J2Wp4NPq8cYha8SJs.jpg",
         "genre_ids": [
             28,
@@ -478,8 +478,8 @@
         "release_date": "2025-11-07",
         "title": "Stone Cold Fox",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.7,
+        "vote_count": 3,
         "genre_ids_zh": [
             "动作",
             "惊悚",
@@ -508,6 +508,30 @@
         "genre_ids_zh": [
             "家庭",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2w64nBl0F8oBwWGtbcKy9u9JIw.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1022888,
+        "original_language": "en",
+        "original_title": "I Wish You All the Best",
+        "overview": "",
+        "popularity": 1.4342,
+        "poster_path": "/eTioKbfWfuCZOycyDtfiipDrNzD.jpg",
+        "release_date": "2025-11-07",
+        "title": "I Wish You All the Best",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -543,45 +567,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            27,
+            35
         ],
-        "id": 1552055,
+        "id": 1145348,
         "original_language": "en",
-        "original_title": "Finding Hozho",
+        "original_title": "The Fuzzies",
         "overview": "",
-        "popularity": 2.1466,
-        "poster_path": "/zQPkKfBwMJMA2AlzABvYtGyTR7V.jpg",
+        "popularity": 1.1143,
+        "poster_path": "/b5n1W3T3TBcVQ8sU7rIbMtLTkNR.jpg",
         "release_date": "2025-11-07",
-        "title": "Finding Hozho",
+        "title": "The Fuzzies",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/q2w64nBl0F8oBwWGtbcKy9u9JIw.jpg",
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1022888,
-        "original_language": "en",
-        "original_title": "I Wish You All the Best",
-        "overview": "",
-        "popularity": 1.4342,
-        "poster_path": "/eTioKbfWfuCZOycyDtfiipDrNzD.jpg",
-        "release_date": "2025-11-07",
-        "title": "I Wish You All the Best",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -632,30 +634,6 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1145348,
-        "original_language": "en",
-        "original_title": "The Fuzzies",
-        "overview": "",
-        "popularity": 1.1143,
-        "poster_path": "/b5n1W3T3TBcVQ8sU7rIbMtLTkNR.jpg",
-        "release_date": "2025-11-07",
-        "title": "The Fuzzies",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -731,24 +709,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1432924,
-        "original_language": "en",
-        "original_title": "FANTOMI",
-        "overview": "",
-        "popularity": 0.3229,
-        "poster_path": null,
-        "release_date": "2025-11-07",
-        "title": "FANTOMI",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/dFNz5garwL8neHp2zFUnbz5BEAq.jpg",
         "genre_ids": [
             27,
@@ -771,6 +731,24 @@
             "悬疑",
             "喜剧"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1432924,
+        "original_language": "en",
+        "original_title": "FANTOMI",
+        "overview": "",
+        "popularity": 0.3229,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "FANTOMI",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -885,6 +863,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/5DuwBMSkl4pU3cETFKCSRQFW1gP.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1567419,
+        "original_language": "en",
+        "original_title": "The Lights: Test Run",
+        "overview": "",
+        "popularity": 0.1087,
+        "poster_path": "/vNUTwBHHOQoI37iR8PtMNUzdYj7.jpg",
+        "release_date": "2025-11-07",
+        "title": "The Lights: Test Run",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1569511,
+        "original_language": "en",
+        "original_title": "The Swede of Philadelphia",
+        "overview": "",
+        "popularity": 0.1038,
+        "poster_path": "/roVjZQWGICxuJwYDvOOXuNmPcVy.jpg",
+        "release_date": "2025-11-07",
+        "title": "The Swede of Philadelphia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/9TC0M67WIJgezd1PlQJDWkhiM7X.jpg",
         "genre_ids": [
             18
@@ -903,6 +927,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560492,
+        "original_language": "en",
+        "original_title": "Pandora",
+        "overview": "",
+        "popularity": 0.0994,
+        "poster_path": "/bUMiTIV6B0k8SerqrIDOgW3Cyei.jpg",
+        "release_date": "2025-11-07",
+        "title": "Pandora",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -931,25 +973,29 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5DuwBMSkl4pU3cETFKCSRQFW1gP.jpg",
+        "backdrop_path": "/vpACgTgin6svjo7WPYvbAkv8e3u.jpg",
         "genre_ids": [
-            27,
-            53
+            9648,
+            53,
+            80,
+            27
         ],
-        "id": 1567419,
+        "id": 1502283,
         "original_language": "en",
-        "original_title": "The Lights: Test Run",
+        "original_title": "Something Was in the Tunnels Vol. 2",
         "overview": "",
-        "popularity": 0.1087,
-        "poster_path": "/vNUTwBHHOQoI37iR8PtMNUzdYj7.jpg",
+        "popularity": 0.0802,
+        "poster_path": "/j14NBGxzE97H0AWXBqDkVQDP3qM.jpg",
         "release_date": "2025-11-07",
-        "title": "The Lights: Test Run",
+        "title": "Something Was in the Tunnels Vol. 2",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
+            "悬疑",
+            "惊悚",
+            "犯罪",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -993,52 +1039,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1560492,
-        "original_language": "en",
-        "original_title": "Pandora",
-        "overview": "",
-        "popularity": 0.0994,
-        "poster_path": "/bUMiTIV6B0k8SerqrIDOgW3Cyei.jpg",
-        "release_date": "2025-11-07",
-        "title": "Pandora",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vpACgTgin6svjo7WPYvbAkv8e3u.jpg",
-        "genre_ids": [
-            9648,
-            53,
-            80,
-            27
-        ],
-        "id": 1502283,
-        "original_language": "en",
-        "original_title": "Something Was in the Tunnels Vol. 2",
-        "overview": "",
-        "popularity": 0.0802,
-        "poster_path": "/j14NBGxzE97H0AWXBqDkVQDP3qM.jpg",
-        "release_date": "2025-11-07",
-        "title": "Something Was in the Tunnels Vol. 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "惊悚",
-            "犯罪",
-            "恐怖"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1091,46 +1091,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1569511,
+        "backdrop_path": "/nxkOBQsuM52gGy8wCVcPM3KCUHJ.jpg",
+        "genre_ids": [],
+        "id": 1547037,
         "original_language": "en",
-        "original_title": "The Swede of Philadelphia",
+        "original_title": "Language of Life",
         "overview": "",
-        "popularity": 0.1038,
-        "poster_path": "/roVjZQWGICxuJwYDvOOXuNmPcVy.jpg",
+        "popularity": 0.0404,
+        "poster_path": "/eevSjnNHNCr3zXPtbXLmexxyYZB.jpg",
         "release_date": "2025-11-07",
-        "title": "The Swede of Philadelphia",
+        "title": "Language of Life",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1560489,
-        "original_language": "en",
-        "original_title": "Yearn",
-        "overview": "",
-        "popularity": 0.0239,
-        "poster_path": null,
-        "release_date": "2025-11-07",
-        "title": "Yearn",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1153,86 +1127,6 @@
         "genre_ids_zh": [
             "音乐"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nxkOBQsuM52gGy8wCVcPM3KCUHJ.jpg",
-        "genre_ids": [],
-        "id": 1547037,
-        "original_language": "en",
-        "original_title": "Language of Life",
-        "overview": "",
-        "popularity": 0.0404,
-        "poster_path": "/eevSjnNHNCr3zXPtbXLmexxyYZB.jpg",
-        "release_date": "2025-11-07",
-        "title": "Language of Life",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1561824,
-        "original_language": "en",
-        "original_title": "The Immovable Structure",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": null,
-        "release_date": "2025-11-07",
-        "title": "The Immovable Structure",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1560423,
-        "original_language": "en",
-        "original_title": "The Impossible Mission",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/ryDRhoU8SMfhF9uDerqO6osh1UW.jpg",
-        "release_date": "2025-11-07",
-        "title": "The Impossible Mission",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1575093,
-        "original_language": "en",
-        "original_title": "Sovereign",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/9pQ8WIJpgF5GexstVledeH9G406.jpg",
-        "release_date": "2025-11-07",
-        "title": "Sovereign",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1260,6 +1154,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1560489,
+        "original_language": "en",
+        "original_title": "Yearn",
+        "overview": "",
+        "popularity": 0.0239,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "Yearn",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1572471,
         "original_language": "en",
@@ -1273,6 +1189,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1561824,
+        "original_language": "en",
+        "original_title": "The Immovable Structure",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "The Immovable Structure",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1323,6 +1261,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1575093,
+        "original_language": "en",
+        "original_title": "Sovereign",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/9pQ8WIJpgF5GexstVledeH9G406.jpg",
+        "release_date": "2025-11-07",
+        "title": "Sovereign",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1566881,
         "original_language": "en",
         "original_title": "The Dream Portal",
@@ -1335,6 +1291,52 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            9648
+        ],
+        "id": 1447176,
+        "original_language": "en",
+        "original_title": "KALULU",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "KALULU",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1575227,
+        "original_language": "en",
+        "original_title": "Kartoffeln",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "Kartoffeln",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1381,98 +1383,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            53,
-            9648
-        ],
-        "id": 1447176,
-        "original_language": "en",
-        "original_title": "KALULU",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-11-07",
-        "title": "KALULU",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/36YXpEY6VeRkhwaGBFsT9ECc9An.jpg",
-        "genre_ids": [
-            27,
-            18
-        ],
-        "id": 1575600,
-        "original_language": "en",
-        "original_title": "Lauren",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/tH1bGQhhqnBNlFddx6ST5HZIYii.jpg",
-        "release_date": "2025-11-07",
-        "title": "Lauren",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mNlLgK52FqOlmougPkyk0K7YB2o.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1575302,
-        "original_language": "en",
-        "original_title": "Forest Floor",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/mp4dqO6M2SfEVURlV0PgJfjwEhg.jpg",
-        "release_date": "2025-11-07",
-        "title": "Forest Floor",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1575227,
-        "original_language": "en",
-        "original_title": "Kartoffeln",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2025-11-07",
-        "title": "Kartoffeln",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1560443,
@@ -1483,6 +1393,52 @@
         "poster_path": null,
         "release_date": "2025-11-07",
         "title": "Trash",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1UWv5fBQFMvsknAePNmNpbY5E93.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1575775,
+        "original_language": "en",
+        "original_title": "The Song of All Time",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/nIlOlU9s0ymB4DjuDRpUpRX4bAS.jpg",
+        "release_date": "2025-11-07",
+        "title": "The Song of All Time",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1560423,
+        "original_language": "en",
+        "original_title": "The Impossible Mission",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ryDRhoU8SMfhF9uDerqO6osh1UW.jpg",
+        "release_date": "2025-11-07",
+        "title": "The Impossible Mission",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2391,6 +2347,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1387798,
+        "original_language": "it",
+        "original_title": "Notturno fluviale (meditazione sul rumore)",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": "/8STIRDOc9dtvZFG8vOVf5RQqUW0.jpg",
+        "release_date": "2025-11-07",
+        "title": "Notturno fluviale (meditazione sul rumore)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/aaXakb4gBzlVUy59XV7tp1aldb3.jpg",
         "genre_ids": [
             10402,
@@ -2411,24 +2385,6 @@
             "音乐",
             "纪录"
         ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1387798,
-        "original_language": "it",
-        "original_title": "Notturno fluviale (meditazione sul rumore)",
-        "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/8STIRDOc9dtvZFG8vOVf5RQqUW0.jpg",
-        "release_date": "2025-11-07",
-        "title": "Notturno fluviale (meditazione sul rumore)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     },
     {
