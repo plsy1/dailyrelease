@@ -194,12 +194,14 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 305017,
         "origin_country": [
-            "美国"
+            "印度"
         ],
-        "original_language": "en",
+        "original_language": "hi",
         "original_name": "Thode Door Thode Paas",
         "overview": "",
         "popularity": 0.0,
@@ -208,8 +210,10 @@
         "name": "Thode Door Thode Paas",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "印地语"
     },
     {
         "adult": false,
