@@ -33,7 +33,7 @@
         "id": 1329673,
         "original_language": "zh",
         "original_title": "日掛中天",
-        "overview": "　　昔日的恋人，数年后意外重逢。疏离又羁绊的日常，揭开唏嘘的过往。爱与牺牲，忏悔和偿还。沉重的包袱，背负的不只是她还有他。迷途的两人用情偿债是否能两不相欠？终于再一次诀别，痛彻心扉却又幡然梦醒。",
+        "overview": "困于七年前一桩意外的两人再度相遇，美云（辛芷蕾 饰）与葆树（张颂文 饰）开始了一段爱恨交织、扭曲而痛苦的共生关系。在美云试图借其峰（冯绍峰 饰）展望新的未来时，却发现自己仍深陷旧日漩涡。那些关于情与债的执念，再度将所有人推向命运的十字路口……",
         "popularity": 3.5953,
         "poster_path": "/2jOa1BbHNBYykiOIfddXmA2vtsu.jpg",
         "release_date": "2025-11-07",
@@ -1945,6 +1945,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1563718,
+        "original_language": "fr",
+        "original_title": "Africa Blanca",
+        "overview": "",
+        "popularity": 0.0956,
+        "poster_path": "/4jTmQOtSFQQ2aFPPWcYSbBJdB1k.jpg",
+        "release_date": "2025-11-07",
+        "title": "Africa Blanca",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/bwEBPrA0iKBlPWkqozCRGhXhatv.jpg",
         "genre_ids": [
             99
@@ -2099,30 +2121,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            14,
-            27
-        ],
-        "id": 1554737,
-        "original_language": "es",
-        "original_title": "Metamorfosis",
-        "overview": "",
-        "popularity": 0.0832,
-        "poster_path": "/bpvJCFcyvtvnsAKv56b931tneQk.jpg",
-        "release_date": "2025-11-07",
-        "title": "Metamorfosis",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "恐怖"
-        ],
         "original_language_zh": "西班牙语"
     },
     {
