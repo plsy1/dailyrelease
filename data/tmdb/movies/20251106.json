@@ -51,6 +51,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3dgklKoEwdeehcXNMIyw9ukdZQ5.jpg",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "id": 1287322,
+        "original_language": "en",
+        "original_title": "Christy",
+        "overview": "",
+        "popularity": 5.3687,
+        "poster_path": "/dYQ63YbeHgaukE7I2d3cC9Lnoor.jpg",
+        "release_date": "2025-11-06",
+        "title": "Christy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/dslbKPzA3uiwU9jCbGnu9qr7MhR.jpg",
         "genre_ids": [
             16,
@@ -72,30 +96,6 @@
             "动画",
             "喜剧",
             "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3dgklKoEwdeehcXNMIyw9ukdZQ5.jpg",
-        "genre_ids": [
-            18,
-            36
-        ],
-        "id": 1287322,
-        "original_language": "en",
-        "original_title": "Christy",
-        "overview": "",
-        "popularity": 5.3687,
-        "poster_path": "/dYQ63YbeHgaukE7I2d3cC9Lnoor.jpg",
-        "release_date": "2025-11-06",
-        "title": "Christy",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "历史"
         ],
         "original_language_zh": "英语"
     },
@@ -399,28 +399,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3zgW48knYuzBJmNWoDdtNgSRqqi.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1566556,
-        "original_language": "en",
-        "original_title": "Rise of the Underdog",
-        "overview": "",
-        "popularity": 0.1483,
-        "poster_path": "/fk5k0vesS0yY97QWVQUzTAaF1kM.jpg",
-        "release_date": "2025-11-06",
-        "title": "Rise of the Underdog",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ysYujEt3pN4etOGfHVGBIbIgenT.jpg",
         "genre_ids": [],
         "id": 1566050,
@@ -478,6 +456,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3zgW48knYuzBJmNWoDdtNgSRqqi.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1566556,
+        "original_language": "en",
+        "original_title": "Rise of the Underdog",
+        "overview": "",
+        "popularity": 0.1483,
+        "poster_path": "/fk5k0vesS0yY97QWVQUzTAaF1kM.jpg",
+        "release_date": "2025-11-06",
+        "title": "Rise of the Underdog",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -844,7 +844,7 @@
         "original_title": "The Last Thinkers Before the Edge of a Cliff",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": null,
+        "poster_path": "/t9AXJ1pfHBoZv0qhbK7Nc8vLZXf.jpg",
         "release_date": "2025-11-06",
         "title": "The Last Thinkers Before the Edge of a Cliff",
         "video": false,
@@ -911,6 +911,98 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4Z6dypAT5HPkWhAhLy4qNOk86tj.jpg",
+        "genre_ids": [],
+        "id": 1328843,
+        "original_language": "en",
+        "original_title": "SLASH S.E.R.P.E.N.T. Festival : Live from Denver",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/oIP6Ca09CjATiLUm47bbmBPdfBW.jpg",
+        "release_date": "2025-11-06",
+        "title": "SLASH S.E.R.P.E.N.T. Festival : Live from Denver",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1575635,
+        "original_language": "en",
+        "original_title": "7.83",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/68yDCPMJvXl5GTpzKCmkaFBtH4g.jpg",
+        "release_date": "2025-11-06",
+        "title": "7.83",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            27,
+            36
+        ],
+        "id": 1575620,
+        "original_language": "en",
+        "original_title": "I Love You and I Am Going to Fix You",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/im2cKXDwqK4x8ZijYhbIY1yGnIn.jpg",
+        "release_date": "2025-11-06",
+        "title": "I Love You and I Am Going to Fix You",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
+            "恐怖",
+            "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1575619,
+        "original_language": "en",
+        "original_title": "A Knock in the Dark",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jkEkEmUOLXQds0SpChZlVe2dYbO.jpg",
+        "release_date": "2025-11-06",
+        "title": "A Knock in the Dark",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wfj2XP62mGH5l2wtw8CfucAf9eJ.jpg",
         "genre_ids": [],
         "id": 1575375,
@@ -966,30 +1058,6 @@
             "动画"
         ],
         "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2i63ELE0jc8lenShNBez1w0aCld.jpg",
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1555417,
-        "original_language": "ko",
-        "original_title": "제이홉 투어 '홉 온 더 스테이지' 더 무비",
-        "overview": "",
-        "popularity": 4.0763,
-        "poster_path": "/qBPGwW2hFRmwMwqteRM9LcE3od2.jpg",
-        "release_date": "2025-11-06",
-        "title": "제이홉 투어 '홉 온 더 스테이지' 더 무비",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
-        ],
-        "original_language_zh": "韩语"
     },
     {
         "adult": false,
@@ -1657,6 +1725,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1575612,
+        "original_language": "es",
+        "original_title": "Santa Zeta",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-06",
+        "title": "Santa Zeta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1555542,
@@ -2001,7 +2093,8 @@
         "adult": false,
         "backdrop_path": "/ia0auSuriX1bcAlz9KkpR6PMKa4.jpg",
         "genre_ids": [
-            35
+            35,
+            18
         ],
         "id": 1397072,
         "original_language": "it",
@@ -2015,7 +2108,8 @@
         "vote_average": 2.0,
         "vote_count": 1,
         "genre_ids_zh": [
-            "喜剧"
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "意大利语"
     },
