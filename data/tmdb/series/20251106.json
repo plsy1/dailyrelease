@@ -143,6 +143,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 246386,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "All Her Fault",
+        "overview": "玛丽莎去接年幼的儿子米洛，他刚和新学校的一名男孩结束第一次的玩伴聚会。然而，开门的女人并不是她认识的那位母亲或保姆，更没有米洛的踪影。全天下父母最不愿面对的噩梦就此展开…",
+        "popularity": 7.2312,
+        "poster_path": "/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+        "first_air_date": "2025-11-06",
+        "name": "都是她的错",
+        "vote_average": 7.0,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/l89mjyc8tGfhEalwDIeGqmXLR1N.jpg",
         "genre_ids": [
             18,
@@ -154,13 +180,13 @@
         ],
         "original_language": "en",
         "original_name": "Death by Lightning",
-        "overview": "　　改编自詹姆斯·加菲尔德和查尔斯·吉托两人之间比小说更精彩离奇的真实故事，讲述詹姆斯当上了美国第 20 任总统六个月后，被向来最支持他的查尔斯刺杀。",
+        "overview": "改编自詹姆斯·加菲尔德和查尔斯·吉托两人之间比小说更精彩离奇的真实故事，讲述詹姆斯当上了美国第 20 任总统六个月后，被向来最支持他的查尔斯刺杀。",
         "popularity": 4.7848,
         "poster_path": "/fFXIzuSMQ9zSCOJtAkNDuJDzHVW.jpg",
         "first_air_date": "2025-11-06",
         "name": "雷殛元首",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "犯罪"
@@ -217,34 +243,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg",
-        "genre_ids": [
-            10759,
-            10765,
-            18
-        ],
-        "id": 304371,
-        "origin_country": [
-            "德国"
-        ],
-        "original_language": "de",
-        "original_name": "Die Nibelungen - Kampf der Königreiche",
-        "overview": "",
-        "popularity": 0.3358,
-        "poster_path": "/z7jLXCnh1xHsqwHczoRFpa8BaQ0.jpg",
-        "first_air_date": "2025-11-06",
-        "name": "Die Nibelungen - Kampf der Königreiche",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作与冒险",
-            "科幻与奇幻",
-            "剧情"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/jg5YEtslTml4OFaOafOfS1IbBL5.jpg",
         "genre_ids": [
             80,
@@ -292,6 +290,34 @@
             "剧情"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wX9a0mqhgJyLiRXbNjuPULjwakZ.jpg",
+        "genre_ids": [
+            10759,
+            10765,
+            18
+        ],
+        "id": 304371,
+        "origin_country": [
+            "德国"
+        ],
+        "original_language": "de",
+        "original_name": "Die Nibelungen - Kampf der Königreiche",
+        "overview": "",
+        "popularity": 0.3358,
+        "poster_path": "/z7jLXCnh1xHsqwHczoRFpa8BaQ0.jpg",
+        "first_air_date": "2025-11-06",
+        "name": "Die Nibelungen - Kampf der Königreiche",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作与冒险",
+            "科幻与奇幻",
+            "剧情"
+        ],
+        "original_language_zh": "德语"
     },
     {
         "adult": false,
