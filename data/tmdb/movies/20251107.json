@@ -71,6 +71,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/reb8E4CkTaFsG0Y82f2otWLr5zQ.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1576128,
+        "original_language": "zh",
+        "original_title": "搏击手",
+        "overview": "搏击争霸赛期间，程志江让张浩正打假拳未果，失手打死了数落自己的顺子。程志江出狱后，意外夺冠的张浩正接到了打黑拳的邀约。报警后，张浩正充当线人深入虎穴。随着调查的继续，他发现程志江早已不是情同手足的兄弟，六爷也隐藏着巨大阴...",
+        "popularity": 0.0,
+        "poster_path": "/m4HiEDvFZTvIRx0NPfj66nufKKP.jpg",
+        "release_date": "2025-11-07",
+        "title": "搏击手",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rAClsKEEyQgKxANB9B6oiGgSlSG.jpg",
         "genre_ids": [
             99
@@ -88,30 +112,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rXFLeEPgrrV5PT1LoXgzSoGvQ8c.jpg",
-        "genre_ids": [
-            28,
-            53
-        ],
-        "id": 1448560,
-        "original_language": "en",
-        "original_title": "Wildcat",
-        "overview": "",
-        "popularity": 8.7493,
-        "poster_path": "/2FY7Ee0zjtOIFYoF6Xyl3YTAuKU.jpg",
-        "release_date": "2025-11-07",
-        "title": "Wildcat",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1001,6 +1001,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jDBVivZMe2FXJSUek4eO7UZbyTD.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1575852,
+        "original_language": "en",
+        "original_title": "CEO IN THE HOUSE",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": "/ArF0Uadmn8T7QypBB7OrWmEvD6j.jpg",
+        "release_date": "2025-11-07",
+        "title": "CEO IN THE HOUSE",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -1126,6 +1148,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mNlLgK52FqOlmougPkyk0K7YB2o.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1575302,
+        "original_language": "en",
+        "original_title": "Forest Floor",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/mp4dqO6M2SfEVURlV0PgJfjwEhg.jpg",
+        "release_date": "2025-11-07",
+        "title": "Forest Floor",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1428,6 +1472,160 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            53,
+            27
+        ],
+        "id": 1576313,
+        "original_language": "en",
+        "original_title": "Shadows of Self",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "Shadows of Self",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1576312,
+        "original_language": "en",
+        "original_title": "The Watcher",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "The Watcher",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/16pzCxNJ6pV6kI9hvM1eLn0KtuO.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1576287,
+        "original_language": "en",
+        "original_title": "Frankenstein: the anatomy lesson",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wkKT3EKaG9bVwHO0F8MADnfdcbX.jpg",
+        "release_date": "2025-11-07",
+        "title": "Frankenstein: the anatomy lesson",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1576178,
+        "original_language": "en",
+        "original_title": "Mae and Hazel invade the Channel Awesome Movies",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/nJRqCgM3k0dQuAiWLrLei0f59tC.jpg",
+        "release_date": "2025-11-07",
+        "title": "Mae and Hazel invade the Channel Awesome Movies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1576159,
+        "original_language": "en",
+        "original_title": "Brothers on Three",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "Brothers on Three",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9tNfW0VJnj9N1WGfIm4m60XvI2S.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1576117,
+        "original_language": "en",
+        "original_title": "Greasy Burger",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yzgayQqCuZVFKYavooQQJOCTWpQ.jpg",
+        "release_date": "2025-11-07",
+        "title": "Greasy Burger",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1576107,
+        "original_language": "en",
+        "original_title": "FRIDAY",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-07",
+        "title": "FRIDAY",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -2001,6 +2199,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bwEBPrA0iKBlPWkqozCRGhXhatv.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1534059,
+        "original_language": "fr",
+        "original_title": "Le grand retour des annulés",
+        "overview": "",
+        "popularity": 0.102,
+        "poster_path": "/lgfiqJAbCX2yhVFBIY7rNlTHUjS.jpg",
+        "release_date": "2025-11-07",
+        "title": "Le grand retour des annulés",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -2037,28 +2257,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bwEBPrA0iKBlPWkqozCRGhXhatv.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1534059,
-        "original_language": "fr",
-        "original_title": "Le grand retour des annulés",
-        "overview": "",
-        "popularity": 0.102,
-        "poster_path": "/lgfiqJAbCX2yhVFBIY7rNlTHUjS.jpg",
-        "release_date": "2025-11-07",
-        "title": "Le grand retour des annulés",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "法语"
     },
     {
@@ -2379,6 +2577,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/enk5Xv7N4GSojw7LVFF2rxOq29p.jpg",
+        "genre_ids": [],
+        "id": 1576283,
+        "original_language": "pt",
+        "original_title": "Manga",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/rmZ58zzKrGZV1kBQAjIkhwTf3xe.jpg",
+        "release_date": "2025-11-07",
+        "title": "Manga",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -2588,7 +2804,7 @@
         "original_title": "हक़",
         "overview": "",
         "popularity": 2.6263,
-        "poster_path": "/lzCum341P3m96Z2mLzTW2jdo0jV.jpg",
+        "poster_path": "/q0RBhxG9BQu4YR4wg28rCutCOZ2.jpg",
         "release_date": "2025-11-07",
         "title": "हक़",
         "video": false,
