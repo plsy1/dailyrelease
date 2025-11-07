@@ -992,19 +992,27 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1566900,
+        "genre_ids": [
+            9648,
+            53,
+            35
+        ],
+        "id": 1576109,
         "original_language": "en",
-        "original_title": "Carta Monir BDSM Film Club",
+        "original_title": "Khaani",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/jbYzCn6nXX18lcWMNc9KxhWcSfB.jpg",
         "release_date": "2025-11-08",
-        "title": "Carta Monir BDSM Film Club",
+        "title": "Khaani",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1166,22 +1174,26 @@
         "backdrop_path": null,
         "genre_ids": [
             16,
+            10751,
+            28,
             14,
             35
         ],
-        "id": 1568504,
+        "id": 1569114,
         "original_language": "ko",
-        "original_title": "마루는 강쥐",
+        "original_title": "샤샤 & 마일로",
         "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/xx5HZyZswunMzUVimZ069K47OSe.jpg",
+        "popularity": 0.0806,
+        "poster_path": "/lEXiVt3i6OTTbF9hca1onZMM1Vl.jpg",
         "release_date": "2025-11-08",
-        "title": "마루는 강쥐",
+        "title": "샤샤 & 마일로",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "动画",
+            "家庭",
+            "动作",
             "奇幻",
             "喜剧"
         ],
@@ -1208,6 +1220,32 @@
         "genre_ids_zh": [
             "动画",
             "家庭"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            14,
+            35
+        ],
+        "id": 1568504,
+        "original_language": "ko",
+        "original_title": "마루는 강쥐",
+        "overview": "",
+        "popularity": 0.0338,
+        "poster_path": "/xx5HZyZswunMzUVimZ069K47OSe.jpg",
+        "release_date": "2025-11-08",
+        "title": "마루는 강쥐",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻",
+            "喜剧"
         ],
         "original_language_zh": "韩语"
     },
@@ -1433,6 +1471,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/nVBLtadDjcnwofa5XPJYKOTzhkK.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1576079,
+        "original_language": "fr",
+        "original_title": "IGNITION(S)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-08",
+        "title": "IGNITION(S)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/oIvjuHgSaYW49hMdUs1fJ4wJpC0.jpg",
         "genre_ids": [
             18,
@@ -1625,6 +1685,50 @@
         "poster_path": "/jgbPSBLSVLEC6DJHHAzqrp4Zysu.jpg",
         "release_date": "2025-11-08",
         "title": "La Sábana de Marruecos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1576102,
+        "original_language": "es",
+        "original_title": "Al final del camino",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xjJLdCyVlyjgqq2DWCPjJaaK7pM.jpg",
+        "release_date": "2025-11-08",
+        "title": "Al final del camino",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wKjOeQqsIcAVGWpTXaqcXFAOeTv.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1576095,
+        "original_language": "es",
+        "original_title": "Oxidado",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xEFcb8hhEzpYgguMO0UeST0vdrx.jpg",
+        "release_date": "2025-11-08",
+        "title": "Oxidado",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
