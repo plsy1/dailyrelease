@@ -112,7 +112,7 @@
         "original_language": "ko",
         "original_name": "쉐어하우스",
         "overview": "",
-        "popularity": 0.1591,
+        "popularity": 0.2775,
         "poster_path": "/sg1FSJk1zKEjVsMh8tlDKK6HCwy.jpg",
         "first_air_date": "2025-11-09",
         "name": "쉐어하우스",
@@ -136,7 +136,7 @@
         "original_language": "de",
         "original_name": "Herbertstraße – Geschichte einer Domina",
         "overview": "",
-        "popularity": 0.2154,
+        "popularity": 0.1695,
         "poster_path": "/fIOHsOdKVxZUT7FZGF4vtbOMurD.jpg",
         "first_air_date": "2025-11-09",
         "name": "Herbertstraße – Geschichte einer Domina",
@@ -178,13 +178,37 @@
         "original_language": "es",
         "original_name": "Granjas en acción",
         "overview": "",
-        "popularity": 0.1758,
+        "popularity": 0.1216,
         "poster_path": null,
         "first_air_date": "2025-11-09",
         "name": "Granjas en acción",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10764
+        ],
+        "id": 305219,
+        "origin_country": [
+            "西班牙"
+        ],
+        "original_language": "es",
+        "original_name": "Cazadores de imágenes",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/fAq1r0H1QE1euGnNg4ahBGJEnFB.jpg",
+        "first_air_date": "2025-11-09",
+        "name": "Cazadores de imágenes",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
