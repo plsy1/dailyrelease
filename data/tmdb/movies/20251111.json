@@ -268,6 +268,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1575497,
+        "original_language": "en",
+        "original_title": "Frenzy Moon",
+        "overview": "",
+        "popularity": 0.0956,
+        "poster_path": "/osACv2BILtpdW2oyuIL0U7JotKe.jpg",
+        "release_date": "2025-11-11",
+        "title": "Frenzy Moon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1560200,
         "original_language": "en",
@@ -505,6 +527,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1578076,
+        "original_language": "en",
+        "original_title": "The Cradle",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-11",
+        "title": "The Cradle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/f1NQs26goRiyxczRV3dtshbKFyp.jpg",
         "genre_ids": [
             99,
@@ -525,24 +565,6 @@
             "纪录",
             "战争"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1578076,
-        "original_language": "en",
-        "original_title": "The Cradle",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "release_date": "2025-11-11",
-        "title": "The Cradle",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -872,5 +894,29 @@
             "剧情"
         ],
         "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1578123,
+        "original_language": "it",
+        "original_title": "UNLOVED BOY",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-11",
+        "title": "UNLOVED BOY",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "意大利语"
     }
 ]
