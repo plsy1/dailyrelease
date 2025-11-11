@@ -1,6 +1,26 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 302246,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "声渊",
+        "overview": "本剧讲述刑警队长苏凌宇与声像室主任姜诚携手破案、共同成长的故事。案件由钢材厂发现的被虐男尸引发，线索指向死者自导录音，五十斤黄金与被绑架者神秘消失。调查过程中，警方揭露死者涉及校园霸凌、诈骗、性贿赂、高利贷等罪行，并挖出一桩陈年灭门案。同时，黑寡妇接连情杀与毒杀多人，医院停尸间也出现尸体离奇失踪。随着深入调查，警方发现背后隐藏着庞大犯罪网络及意想不到的幕后黑手。最终，苏凌宇与姜诚默契合作，成功抓获罪犯，揭开姜诚父母死亡之谜，并彻底摧毁犯罪团伙。",
+        "popularity": 1.0755,
+        "poster_path": "/4dP1ZbwI4l2TTPD8WIhOAd6gVPq.jpg",
+        "first_air_date": "2025-11-12",
+        "name": "声渊",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/2rJG0ODgGPE5nGm2g2mIo3WNgl4.jpg",
         "genre_ids": [
             18
@@ -26,21 +46,25 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 302246,
+        "genre_ids": [
+            18
+        ],
+        "id": 305294,
         "origin_country": [
             "中国"
         ],
         "original_language": "zh",
-        "original_name": "声渊",
-        "overview": "本剧讲述刑警队长苏凌宇与声像室主任姜诚携手破案、共同成长的故事。案件由钢材厂发现的被虐男尸引发，线索指向死者自导录音，五十斤黄金与被绑架者神秘消失。调查过程中，警方揭露死者涉及校园霸凌、诈骗、性贿赂、高利贷等罪行，并挖出一桩陈年灭门案。同时，黑寡妇接连情杀与毒杀多人，医院停尸间也出现尸体离奇失踪。随着深入调查，警方发现背后隐藏着庞大犯罪网络及意想不到的幕后黑手。最终，苏凌宇与姜诚默契合作，成功抓获罪犯，揭开姜诚父母死亡之谜，并彻底摧毁犯罪团伙。",
-        "popularity": 1.0755,
-        "poster_path": "/4dP1ZbwI4l2TTPD8WIhOAd6gVPq.jpg",
+        "original_name": "入梦师：拂衣与阿七",
+        "overview": "镖局千金何拂衣家族遭劫，身负上古神器七星灯坠崖，血唤醒灯灵阿七，二者共生。为复仇追凶，也为借灯续命，她与阿七结伴“解梦破念”。途中卷入清末乱世风云，与贝勒小五爷同行，在见证无数悲欢执念后，终揭开真相。",
+        "popularity": 0.0786,
+        "poster_path": "/7yeUS8YfywBdTxeOisIV8ayfO9t.jpg",
         "first_air_date": "2025-11-12",
-        "name": "声渊",
+        "name": "入梦师：拂衣与阿七",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -60,30 +84,6 @@
         "poster_path": "/v8PnjkA16BcceJU9kZwMoPh4NbG.jpg",
         "first_air_date": "2025-11-12",
         "name": "笼中花火",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 305294,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "入梦师：拂衣与阿七",
-        "overview": "镖局千金何拂衣家族遭劫，身负上古神器七星灯坠崖，血唤醒灯灵阿七，二者共生。为复仇追凶，也为借灯续命，她与阿七结伴“解梦破念”。途中卷入清末乱世风云，与贝勒小五爷同行，在见证无数悲欢执念后，终揭开真相。",
-        "popularity": 0.0786,
-        "poster_path": "/7yeUS8YfywBdTxeOisIV8ayfO9t.jpg",
-        "first_air_date": "2025-11-12",
-        "name": "入梦师：拂衣与阿七",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -232,5 +232,41 @@
             "真人秀"
         ],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10759,
+            80,
+            35,
+            18,
+            9648,
+            10764,
+            10768
+        ],
+        "id": 305417,
+        "origin_country": [
+            "土耳其"
+        ],
+        "original_language": "tr",
+        "original_name": "Beş Parmak Çetesi",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cMsMLawS6v6LnpxgWRodFYQJJ2k.jpg",
+        "first_air_date": "2025-11-12",
+        "name": "Beş Parmak Çetesi",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作与冒险",
+            "犯罪",
+            "喜剧",
+            "剧情",
+            "悬疑",
+            "真人秀",
+            "战争与政治"
+        ],
+        "original_language_zh": "土耳其语"
     }
 ]
