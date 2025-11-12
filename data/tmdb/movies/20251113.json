@@ -85,6 +85,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1579324,
+        "original_language": "zh",
+        "original_title": "珍爱之地",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yTMqg3nkAJ6FrN2p9zNHmMDItgK.jpg",
+        "release_date": "2025-11-13",
+        "title": "珍爱之地",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            28
+        ],
+        "id": 1579226,
+        "original_language": "zh",
+        "original_title": "迷雾双刀",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/rkJ0qbIa98n9lOIAi0gaf2jghrv.jpg",
+        "release_date": "2025-11-13",
+        "title": "迷雾双刀",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/AdiKeyNXhm84JUaLejJqLnLwqwv.jpg",
         "genre_ids": [
             10770,
@@ -140,7 +186,8 @@
         "backdrop_path": "/93XmVprgOBYALHp40a4agOh4BhM.jpg",
         "genre_ids": [
             27,
-            14
+            14,
+            53
         ],
         "id": 1286185,
         "original_language": "en",
@@ -155,7 +202,8 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖",
-            "奇幻"
+            "奇幻",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -501,6 +549,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/s3p4yJm7SrMgD2pxGASDBFPZLAq.jpg",
+        "genre_ids": [],
+        "id": 1578431,
+        "original_language": "en",
+        "original_title": "Sospiri",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/ciFCYuJsUo733fT7LS3HiYj2EQr.jpg",
+        "release_date": "2025-11-13",
+        "title": "Sospiri",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/yrJ3RYMomdswMNeh89QS7GeWsME.jpg",
         "genre_ids": [
             99
@@ -575,24 +641,6 @@
         "poster_path": null,
         "release_date": "2025-11-13",
         "title": "Kids, Forever",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1578431,
-        "original_language": "en",
-        "original_title": "Sospiri",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": null,
-        "release_date": "2025-11-13",
-        "title": "Sospiri",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1680,6 +1728,30 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cXJ5hNa7zywJeslE8JhyTgtAmOn.jpg",
+        "genre_ids": [
+            35,
+            53
+        ],
+        "id": 1483317,
+        "original_language": "pt",
+        "original_title": "Dragkiller",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/kw6PDHwlSV1cC0CJA2MPJKoFIDr.jpg",
+        "release_date": "2025-11-13",
+        "title": "Dragkiller",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚"
         ],
         "original_language_zh": "葡萄牙语"
     },

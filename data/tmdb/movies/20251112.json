@@ -38,8 +38,8 @@
         "release_date": "2025-11-12",
         "title": "惊天魔盗团3",
         "video": false,
-        "vote_average": 7.1,
-        "vote_count": 9,
+        "vote_average": 7.0,
+        "vote_count": 12,
         "genre_ids_zh": [
             "惊悚",
             "犯罪",
@@ -73,7 +73,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
+        "backdrop_path": "/U4AjFm7CVkzhwW1phbsEk7FoYS.jpg",
         "genre_ids": [
             10749,
             35
@@ -81,14 +81,14 @@
         "id": 1401318,
         "original_language": "en",
         "original_title": "A Merry Little Ex-Mas",
-        "overview": "",
+        "overview": "凯特和埃弗里特圣诞节唯一想要的就是和平离婚，以及一家人最后一次共度节日，但新欢和旧情令他们的计划变得复杂起来。",
         "popularity": 3.727,
         "poster_path": "/iHBN6wA2cGbTPG1MqRoqmsuFw4a.jpg",
         "release_date": "2025-11-12",
-        "title": "A Merry Little Ex-Mas",
+        "title": "圣诞前缘",
         "video": false,
-        "vote_average": 6.0,
-        "vote_count": 1,
+        "vote_average": 7.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "爱情",
             "喜剧"
@@ -1636,5 +1636,27 @@
             "纪录"
         ],
         "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aV3MuN3mg4cn5pqJTMPU85VzXMi.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1579366,
+        "original_language": "sv",
+        "original_title": "Jorden 2025",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6IStt5JHsPVrlwf7Xq4cd33coSp.jpg",
+        "release_date": "2025-11-12",
+        "title": "Jorden 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
