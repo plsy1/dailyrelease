@@ -216,13 +216,13 @@
         ],
         "original_language": "ja",
         "original_name": "イクサガミ",
-        "overview": "",
+        "overview": "时值19世纪末明治时期，包括嵯峨愁二郎（冈田准一 饰）在内的 292 位武士受到丰厚奖金吸引，深夜齐聚京都天龙寺，参加一场宛如人间炼狱的比赛：每人分得一块木札，唯有夺取他人木札并率先抵达东京，方能获得奖金。夜幕低垂，寺院内弥漫诡谲气息，嗜血武士蠢蠢欲动。随着比赛号令一响，武士立刻展开血腥而残酷的生存之战。",
         "popularity": 5.7167,
-        "poster_path": "/gqRYKh3eZX6KZcvrPO9UVcjoNNv.jpg",
+        "poster_path": "/wsvxr5FBgrSIdbJ1nX5GKz9kF4T.jpg",
         "first_air_date": "2025-11-13",
         "name": "武士生死斗",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动作与冒险",
             "剧情"
@@ -299,7 +299,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/AiH3pDVAxt485WzCaBjRQHcP599.jpg",
         "genre_ids": [
             99,
             80
@@ -312,7 +312,7 @@
         "original_name": "50 segundos: El caso Fernando Báez Sosa",
         "overview": "",
         "popularity": 0.378,
-        "poster_path": null,
+        "poster_path": "/jkOtjdo6GuIH7LEmjEocABUEDfM.jpg",
         "first_air_date": "2025-11-13",
         "name": "50 segundos: El caso Fernando Báez Sosa",
         "vote_average": 0.0,
@@ -351,6 +351,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 305576,
+        "origin_country": [
+            "西班牙"
+        ],
+        "original_language": "es",
+        "original_name": "Amor a lo bestia",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-11-13",
+        "name": "Amor a lo bestia",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/oib0JzlgECslnXdTkvRmL9i6STp.jpg",
         "genre_ids": [
             18,
@@ -374,6 +394,36 @@
             "犯罪"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            9648,
+            35,
+            10765
+        ],
+        "id": 250981,
+        "origin_country": [
+            "俄罗斯"
+        ],
+        "original_language": "ru",
+        "original_name": "Гостья",
+        "overview": "",
+        "popularity": 2.3777,
+        "poster_path": "/v1zP0bmmzDecOkrSJx1VHNLmE1o.jpg",
+        "first_air_date": "2025-11-13",
+        "name": "Гостья",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑",
+            "喜剧",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
