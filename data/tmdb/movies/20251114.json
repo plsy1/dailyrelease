@@ -170,8 +170,8 @@
         "release_date": "2025-11-14",
         "title": "Eternity",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 5,
+        "vote_average": 7.333,
+        "vote_count": 6,
         "genre_ids_zh": [
             "爱情",
             "喜剧",
@@ -251,6 +251,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ajYw16ISz3qsdYTg4zy5rob1iAQ.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1425122,
+        "original_language": "en",
+        "original_title": "A Very Jonas Christmas Movie",
+        "overview": "",
+        "popularity": 3.0891,
+        "poster_path": "/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
+        "release_date": "2025-11-14",
+        "title": "A Very Jonas Christmas Movie",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/m2iLJhONxXaC5HTfSX02pQrOcMH.jpg",
         "genre_ids": [
             80,
@@ -287,7 +309,7 @@
         "original_title": "Jay Kelly",
         "overview": "著名演员杰·凯利（乔治·克鲁尼 饰）与经纪人罗恩（亚当·桑德勒 饰）在欧洲旅行，反思彼此人生的选择、关系与意义。",
         "popularity": 3.1294,
-        "poster_path": "/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+        "poster_path": "/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
         "release_date": "2025-11-14",
         "title": "影星杰·凯利",
         "video": false,
@@ -295,28 +317,6 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/ajYw16ISz3qsdYTg4zy5rob1iAQ.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1425122,
-        "original_language": "en",
-        "original_title": "A Very Jonas Christmas Movie",
-        "overview": "",
-        "popularity": 3.0891,
-        "poster_path": "/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
-        "release_date": "2025-11-14",
-        "title": "A Very Jonas Christmas Movie",
-        "video": false,
-        "vote_average": 6.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "英语"
