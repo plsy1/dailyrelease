@@ -841,6 +841,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1476281,
+        "original_language": "de",
+        "original_title": "Dahlmanns letzte Bescherung",
+        "overview": "",
+        "popularity": 0.7821,
+        "poster_path": null,
+        "release_date": "2025-11-15",
+        "title": "Dahlmanns letzte Bescherung",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "犯罪"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ynNVmdqdcIT66J1FmRylK7x4bIS.jpg",
         "genre_ids": [
             14,
@@ -884,6 +908,54 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            35
+        ],
+        "id": 1580660,
+        "original_language": "de",
+        "original_title": "Weihnachten im Olymp",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-15",
+        "title": "Weihnachten im Olymp",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "喜剧"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1580654,
+        "original_language": "de",
+        "original_title": "Eine fast perfekte Bescherung",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-15",
+        "title": "Eine fast perfekte Bescherung",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "德语"
     },
