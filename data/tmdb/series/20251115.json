@@ -1,6 +1,30 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 302478,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "顾禁南囚",
+        "overview": "17岁的温海在父母意外去世后，被判交由素未谋面的同父异母哥哥顾淮州监护。性格冷峻的顾淮州与叛逆的温海相处紧张，矛盾不断。随着顾冷的介入，兄弟间的关系愈发复杂，情感与仇怨交织，命运的走向也逐渐失控。",
+        "popularity": 3.4293,
+        "poster_path": "/dnBnX59E3E7vQ4TMogFxaBEoyQ2.jpg",
+        "first_air_date": "2025-11-15",
+        "name": "顾禁南囚",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sWXmWuEskjMAJc8YtaEaXM9DprR.jpg",
         "genre_ids": [
             35
@@ -12,7 +36,7 @@
         "original_language": "zh",
         "original_name": "監所男子囚生記",
         "overview": "跆拳道的明日之星阿耀因伤退役沉迷赌博，为了还债被恶势力胁迫逼进监狱当监所管理员，照顾狱中老大吉娃娃。原以为自己最衰小，进去才发现同事人人惨到爆，这些『职场菜鸟』天天迎来荒谬震撼教育---镇暴被揍、检身被喷屎、囚犯还闹自杀。你以为的管理员威风八面，实际上要哈腰陪笑，地位低到连犯人都不如。僵硬体制逼人窒息，偏偏教诲师姜一杰还盯紧阿要和吉娃娃的『特殊关系』，简直每天都像在玩命。 没想到比犯人更像坐牢的是社畜！但荒唐又残酷的日子里，阿耀和同伴们逐渐磨出默契、友情及爱情。一起在混乱中求生存，甚至一起找到了这个工作的真正意义。",
-        "popularity": 2.7443,
+        "popularity": 3.4148,
         "poster_path": "/jxJK5oYYkEYSVHg5XShvNxAjuBF.jpg",
         "first_air_date": "2025-11-15",
         "name": "监所男子囚生记",
@@ -36,7 +60,7 @@
         "original_language": "zh",
         "original_name": "勿扰飞升",
         "overview": "一位在凡尘界备受冷遇的亡国公主箜篌，因机缘巧合意外进入修仙世界，为磨练心智，主动下山闯荡，偶遇了病弱男子桓宗一起升级打怪闯荡修仙界并发展出深厚的感情的故事。",
-        "popularity": 2.7065,
+        "popularity": 2.4416,
         "poster_path": "/lSWRaywc7t9ivEoIjfRgblTgN36.jpg",
         "first_air_date": "2025-11-15",
         "name": "勿扰飞升",
@@ -60,34 +84,10 @@
         "original_language": "zh",
         "original_name": "吾岸",
         "overview": "大型医药企业的高级主管游书朗，在一场车祸中，与泰国财阀继承人樊霄意外相遇。樊霄以「游戏」之名强制追求游书朗，却在占有欲和虐恋中沉沦。表面游戏的权势攻防，实则是彼此救赎的命定纠缠，从强制爱走向真心爱，一场跨越罪与爱的眷恋，能走向彼此的吾岸吗？",
-        "popularity": 2.2399,
+        "popularity": 2.6494,
         "poster_path": "/1zJGcswwb9YTDNcNBNLEc0R0xtz.jpg",
         "first_air_date": "2025-11-15",
         "name": "吾岸",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 302478,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "顾禁南囚",
-        "overview": "17岁的温海在父母意外去世后，被判交由素未谋面的同父异母哥哥顾淮州监护。性格冷峻的顾淮州与叛逆的温海相处紧张，矛盾不断。随着顾冷的介入，兄弟间的关系愈发复杂，情感与仇怨交织，命运的走向也逐渐失控。",
-        "popularity": 1.9736,
-        "poster_path": "/dnBnX59E3E7vQ4TMogFxaBEoyQ2.jpg",
-        "first_air_date": "2025-11-15",
-        "name": "顾禁南囚",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -108,7 +108,7 @@
         "original_language": "zh",
         "original_name": "我本将心向明月",
         "overview": "楚月如从小与顾家二少有婚约，但因为一次出游，顾二失踪，五年未归，为了完成两家联姻楚月如嫁给了顾二的哥哥顾霆君。但顾霆君是私生子，本没有资格继承顾家，但因与楚氏联姻，又因为迟迟找不到顾宴舟，所以顾霆君顺利掌管顾氏集团。顾宴舟被继母李艳设计流落异国他乡，回国后发现顾氏大局已定，听信李艳的假消息:楚月如对顾霆君一见钟情，所以设计顾宴舟，还在顾二回国后对他大肆打压。导致顾二对顾氏夫妇恨之入骨，决定夺妻灭兄重新拿回继承权。于是在国内卧薪尝胆三年，终于找到一举成功的时机.…",
-        "popularity": 0.0143,
+        "popularity": 0.0286,
         "poster_path": "/c8Vi1XBZBda4RLtCoZoCFWjDYwv.jpg",
         "first_air_date": "2025-11-15",
         "name": "我本将心向明月",
@@ -248,7 +248,7 @@
         "original_language": "de",
         "original_name": "Die Unzerquizbaren",
         "overview": "",
-        "popularity": 0.2455,
+        "popularity": 0.2029,
         "poster_path": "/lEMc5ZyG1Ysi0ffKkA8vMnsCRnz.jpg",
         "first_air_date": "2025-11-15",
         "name": "Die Unzerquizbaren",
