@@ -60,8 +60,8 @@
         "release_date": "2025-11-17",
         "title": "魔法坏女巫2",
         "video": false,
-        "vote_average": 4.769,
-        "vote_count": 26,
+        "vote_average": 5.0,
+        "vote_count": 27,
         "genre_ids_zh": [
             "爱情",
             "奇幻",
@@ -227,6 +227,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jjgqI87TemL3UUrhyLOf0G2XFjC.jpg",
+        "genre_ids": [
+            9648
+        ],
+        "id": 1506066,
+        "original_language": "en",
+        "original_title": "Trinity",
+        "overview": "",
+        "popularity": 0.1857,
+        "poster_path": "/h5VKtN48YeT9u5NIk2KQB3PRaU4.jpg",
+        "release_date": "2025-11-17",
+        "title": "Trinity",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1553382,
@@ -311,28 +333,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/veXxaZXEUrJofyZoN01AvgfDoxk.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1566658,
-        "original_language": "en",
-        "original_title": "Epiphanies",
-        "overview": "",
-        "popularity": 0.0409,
-        "poster_path": "/8h4dIIqpwjaHGxrDJ2tMi96wpeN.jpg",
-        "release_date": "2025-11-17",
-        "title": "Epiphanies",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/x3anaKVhBkGmwttLTB5pCvvKH4j.jpg",
         "genre_ids": [
             27,
@@ -374,6 +374,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1581632,
+        "original_language": "en",
+        "original_title": "Blood Friends",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-17",
+        "title": "Blood Friends",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -583,21 +605,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            99,
+            16
         ],
         "id": 1568042,
         "original_language": "fr",
         "original_title": "À vol d’oiseau",
         "overview": "",
         "popularity": 0.0143,
-        "poster_path": null,
+        "poster_path": "/g2Pqoy1PVTEYT6d6hThoOshkmWV.jpg",
         "release_date": "2025-11-17",
         "title": "À vol d’oiseau",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "动画"
         ],
         "original_language_zh": "法语"
     },
