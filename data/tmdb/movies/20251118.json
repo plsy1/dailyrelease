@@ -148,8 +148,8 @@
         "release_date": "2025-11-18",
         "title": "Melt My Heart This Christmas",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 4.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "爱情"
         ],
@@ -181,32 +181,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xvy8lbYXQd14IS0LgW7ZftR7KyV.jpg",
-        "genre_ids": [
-            35,
-            10749,
-            10402
-        ],
-        "id": 1566518,
-        "original_language": "en",
-        "original_title": "Zucchini",
-        "overview": "",
-        "popularity": 0.2525,
-        "poster_path": "/g2ZeZTmpXdwkPKWtLLc8uJdvHWP.jpg",
-        "release_date": "2025-11-18",
-        "title": "Zucchini",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "爱情",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/AtqLSoAPeblZYSFCEiknp9wfxll.jpg",
         "genre_ids": [
             10749,
@@ -228,6 +202,32 @@
             "爱情",
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xvy8lbYXQd14IS0LgW7ZftR7KyV.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            10402
+        ],
+        "id": 1566518,
+        "original_language": "en",
+        "original_title": "Zucchini",
+        "overview": "",
+        "popularity": 0.2525,
+        "poster_path": "/g2ZeZTmpXdwkPKWtLLc8uJdvHWP.jpg",
+        "release_date": "2025-11-18",
+        "title": "Zucchini",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
