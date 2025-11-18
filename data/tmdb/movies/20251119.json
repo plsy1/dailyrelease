@@ -673,28 +673,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10752
-        ],
-        "id": 1493020,
-        "original_language": "fr",
-        "original_title": "7 Jours en Juin",
-        "overview": "",
-        "popularity": 0.3547,
-        "poster_path": "/kVvlE3EEyfwIulYtywErgFAG4sf.jpg",
-        "release_date": "2025-11-19",
-        "title": "7 Jours en Juin",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "战争"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/lihcTVEgoJJnCzsO00XvrqwYIfH.jpg",
         "genre_ids": [
             99
@@ -712,6 +690,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10752
+        ],
+        "id": 1493020,
+        "original_language": "fr",
+        "original_title": "7 Jours en Juin",
+        "overview": "",
+        "popularity": 0.3547,
+        "poster_path": "/kVvlE3EEyfwIulYtywErgFAG4sf.jpg",
+        "release_date": "2025-11-19",
+        "title": "7 Jours en Juin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "战争"
         ],
         "original_language_zh": "法语"
     },
@@ -800,6 +800,28 @@
         "genre_ids_zh": [
             "纪录",
             "电视电影"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wUFFjrcxaQaosWSu9JaHZmzQ9ZI.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1582915,
+        "original_language": "fr",
+        "original_title": "Pablo Mira : Passé simple",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/p9Otf0io0vtDwJKOxK2e5ABEX0Q.jpg",
+        "release_date": "2025-11-19",
+        "title": "Pablo Mira : Passé simple",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
