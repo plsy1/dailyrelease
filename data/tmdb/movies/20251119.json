@@ -85,6 +85,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6S8QJSqdz5R8Q6PyHrs4glxccUV.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1582905,
+        "original_language": "zh",
+        "original_title": "离恨谷",
+        "overview": "一场血腥的灭门惨案，牵出江湖帮派针对离恨谷的阴险计划。少年齐君元目睹全家被杀忍痛拜师离恨谷鬼愁判官，蛰伏十年修炼等待复仇，不料灭门真相另有隐情。",
+        "popularity": 0.0,
+        "poster_path": "/k3E00aqcquRlgvsgevNjJeCQA1P.jpg",
+        "release_date": "2025-11-19",
+        "title": "离恨谷",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/AhOpwEfpOBrZlaf1cwTBGohfSDo.jpg",
         "genre_ids": [],
         "id": 1568274,
@@ -512,6 +534,34 @@
         "genre_ids_zh": [
             "音乐",
             "纪录"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35,
+            10402,
+            10749
+        ],
+        "id": 1583105,
+        "original_language": "ko",
+        "original_title": "산토스를 찾아서",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xupJxQMmzWf4pxXzTLsOKgFXD3A.jpg",
+        "release_date": "2025-11-19",
+        "title": "산토스를 찾아서",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "音乐",
+            "爱情"
         ],
         "original_language_zh": "韩语"
     },
