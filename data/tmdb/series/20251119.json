@@ -255,8 +255,9 @@
         "adult": false,
         "backdrop_path": "/2pi53UfC61zRYDU7BOlNoEG3myo.jpg",
         "genre_ids": [
-            10751,
-            35
+            18,
+            35,
+            10751
         ],
         "id": 304774,
         "origin_country": [
@@ -272,8 +273,9 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "家庭",
-            "喜剧"
+            "剧情",
+            "喜剧",
+            "家庭"
         ],
         "original_language_zh": "土耳其语"
     },
