@@ -291,30 +291,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/k0CZEh4k4YDU8W4fxFIWoA5Lp3Y.jpg",
-        "genre_ids": [
-            14,
-            18
-        ],
-        "id": 1582350,
-        "original_language": "en",
-        "original_title": "Ishmael",
-        "overview": "",
-        "popularity": 0.1336,
-        "poster_path": "/gF53mLybM45aKaOYEHgY5d2D7KL.jpg",
-        "release_date": "2025-11-22",
-        "title": "Ishmael",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "奇幻",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1578680,
@@ -783,6 +759,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1584965,
+        "original_language": "en",
+        "original_title": "Green Melancholia",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yst2kSszSCrhb9YE5R6hgeBoi6c.jpg",
+        "release_date": "2025-11-22",
+        "title": "Green Melancholia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35
         ],
         "id": 1584738,
@@ -1077,8 +1075,8 @@
         "release_date": "2025-11-22",
         "title": "Aurore",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "音乐",
             "剧情"
@@ -1287,6 +1285,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/su9O9T24gTwX9k5aYrz8uI0FLZY.jpg",
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1584819,
+        "original_language": "es",
+        "original_title": "DesHechos",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/oKSifc9M1m08FRKbihE1lrnxpbf.jpg",
+        "release_date": "2025-11-22",
+        "title": "DesHechos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
