@@ -599,6 +599,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1586063,
+        "original_language": "en",
+        "original_title": "Chris McCausland: Seeing into The Future",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-23",
+        "title": "Chris McCausland: Seeing into The Future",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/g6bSyADMLjTxJB54ypglw0qvEbc.jpg",
         "genre_ids": [
             99,
@@ -684,7 +706,7 @@
         "original_title": "日記箱の恋",
         "overview": "",
         "popularity": 0.8407,
-        "poster_path": null,
+        "poster_path": "/t6WK4FojEB1vvpZ0R9WgqXSS0nq.jpg",
         "release_date": "2025-11-23",
         "title": "日記箱の恋",
         "video": false,
@@ -915,6 +937,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hNfTAVnvuPrIoy7qnloSiwnu8rk.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1585983,
+        "original_language": "fr",
+        "original_title": "Lorsque l'enfant paraît",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vVq2MbG46lx6plVyJxvOwzm5bhz.jpg",
+        "release_date": "2025-11-23",
+        "title": "Lorsque l'enfant paraît",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "法语"
     },
     {
