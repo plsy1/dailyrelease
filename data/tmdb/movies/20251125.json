@@ -472,19 +472,25 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1542946,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1586763,
         "original_language": "en",
-        "original_title": "What's in your Bag?",
+        "original_title": "The December Blues",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/9Ys6x9iRr9TCEQGapma3pXAhKV5.jpg",
+        "popularity": 0.0,
+        "poster_path": "/f5RQQOjCJYOfeOONRDhy2U0uMho.jpg",
         "release_date": "2025-11-25",
-        "title": "What's in your Bag?",
+        "title": "The December Blues",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
