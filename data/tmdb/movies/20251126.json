@@ -94,7 +94,7 @@
         "release_date": "2025-11-26",
         "title": "Eternity",
         "video": false,
-        "vote_average": 7.125,
+        "vote_average": 7.1,
         "vote_count": 4,
         "genre_ids_zh": [
             "爱情",
@@ -1361,6 +1361,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1587048,
+        "original_language": "es",
+        "original_title": "Hambre",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-26",
+        "title": "Hambre",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wE7qLwpOSWb0hAiiFqWUj0zcfWo.jpg",
         "genre_ids": [
             18
@@ -1560,6 +1584,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1587056,
+        "original_language": "pt",
+        "original_title": "Olhe Para os Dois Lados",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-26",
+        "title": "Olhe Para os Dois Lados",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
         ],
         "original_language_zh": "葡萄牙语"
     },
