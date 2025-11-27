@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/xA1nqK1rHVRfBU0T1T12ldA5oFy.jpg",
+        "backdrop_path": "/yB0WlkEWHk8MKVptutO5awGUM23.jpg",
         "genre_ids": [
             18
         ],
@@ -13,7 +13,7 @@
         "original_name": "亦舞之城",
         "overview": "芭蕾舞艺术家谭思婷退役归国，欲与当年被迫分开的恋人冯睿破镜重圆，但是过去的误会如同天堑一般隔断两人。如今的冯睿独自一个人带着孩子，生活如同深潭静水，谭思婷回来如同一颗石子搅乱了一切。而谭思婷身边也有一个默默爱了她十年的暗恋者，这次勇敢追爱对她不离不弃。冯睿和谭思婷彼此逃避对方，但是命运的漩涡却不断的将两人裹挟其中，令他们爱恨两难。",
         "popularity": 1.5468,
-        "poster_path": "/e1u5kRKMCabP2wlGIYF8v3ETdNF.jpg",
+        "poster_path": "/nCQJIhSTssXlmXSQn3c6qIJB8p4.jpg",
         "first_air_date": "2025-11-27",
         "name": "亦舞之城",
         "vote_average": 0.0,
@@ -194,7 +194,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 306539,
         "origin_country": [
             "中国"
@@ -208,7 +210,9 @@
         "name": "100道古代美食",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "汉语"
     },
     {
