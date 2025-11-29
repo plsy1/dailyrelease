@@ -805,6 +805,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/vqFHTZmqtGa6nl0EUM2CC8cAik4.jpg",
+        "genre_ids": [],
+        "id": 1589729,
+        "original_language": "ja",
+        "original_title": "DDT BE AMBITIOUS ~Autumn Battle Rhapsody~",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jL7uIGqUA2SzESWVag5y74XEMut.jpg",
+        "release_date": "2025-11-30",
+        "title": "DDT BE AMBITIOUS ~Autumn Battle Rhapsody~",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1562532,
@@ -967,20 +985,28 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3A2zzzKFtc5R6HvLBh2qVbUOPt6.jpg",
-        "genre_ids": [],
-        "id": 1587575,
+        "backdrop_path": "/62MmgXY0sS23VMKKwSsXP807s6y.jpg",
+        "genre_ids": [
+            99,
+            10752,
+            36
+        ],
+        "id": 1586597,
         "original_language": "fr",
-        "original_title": "J'ai perdu mes clés",
+        "original_title": "Les fantômes de l'Ukraine",
         "overview": "",
-        "popularity": 0.095,
-        "poster_path": "/1ipDN0R8bcbarZcSorEyPRQ6ZjR.jpg",
+        "popularity": 0.1877,
+        "poster_path": "/puPXZEDyOV2fmie6LblJML3Sr9c.jpg",
         "release_date": "2025-11-30",
-        "title": "J'ai perdu mes clés",
+        "title": "Les fantômes de l'Ukraine",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录",
+            "战争",
+            "历史"
+        ],
         "original_language_zh": "法语"
     },
     {
@@ -1007,6 +1033,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3A2zzzKFtc5R6HvLBh2qVbUOPt6.jpg",
+        "genre_ids": [],
+        "id": 1587575,
+        "original_language": "fr",
+        "original_title": "J'ai perdu mes clés",
+        "overview": "",
+        "popularity": 0.095,
+        "poster_path": "/1ipDN0R8bcbarZcSorEyPRQ6ZjR.jpg",
+        "release_date": "2025-11-30",
+        "title": "J'ai perdu mes clés",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1024,32 +1068,6 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/62MmgXY0sS23VMKKwSsXP807s6y.jpg",
-        "genre_ids": [
-            99,
-            10752,
-            36
-        ],
-        "id": 1586597,
-        "original_language": "fr",
-        "original_title": "Les fantômes de l'Ukraine",
-        "overview": "",
-        "popularity": 0.1877,
-        "poster_path": "/puPXZEDyOV2fmie6LblJML3Sr9c.jpg",
-        "release_date": "2025-11-30",
-        "title": "Les fantômes de l'Ukraine",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "战争",
-            "历史"
         ],
         "original_language_zh": "法语"
     },
@@ -1198,6 +1216,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1589770,
+        "original_language": "pt",
+        "original_title": "Raso, Fundo e Oceano",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/b0WECJKryjOo0PGlfPHOaQZcDHM.jpg",
+        "release_date": "2025-11-30",
+        "title": "Raso, Fundo e Oceano",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             53,
             27,
@@ -1219,6 +1255,24 @@
             "恐怖",
             "动作"
         ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1589762,
+        "original_language": "it",
+        "original_title": "Carosello in Love",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-30",
+        "title": "Carosello in Love",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     }
 ]
