@@ -249,6 +249,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1588156,
+        "original_language": "en",
+        "original_title": "Phone Clone",
+        "overview": "",
+        "popularity": 0.1408,
+        "poster_path": null,
+        "release_date": "2025-11-30",
+        "title": "Phone Clone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1558107,
@@ -480,30 +504,6 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1588156,
-        "original_language": "en",
-        "original_title": "Phone Clone",
-        "overview": "",
-        "popularity": 0.1408,
-        "poster_path": null,
-        "release_date": "2025-11-30",
-        "title": "Phone Clone",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -781,6 +781,46 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/aeocKP7fBfsiFVvyHbhB9dzbDP.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1590048,
+        "original_language": "en",
+        "original_title": "The Man of the Sea",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mB8tPIYR7ow1vNaZun3oT6URHIO.jpg",
+        "release_date": "2025-11-30",
+        "title": "The Man of the Sea",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1590035,
+        "original_language": "en",
+        "original_title": "Spilled Milk",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zTB3j3IRrnrdy1ZoxYHAiw53wa0.jpg",
+        "release_date": "2025-11-30",
+        "title": "Spilled Milk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1567112,
@@ -860,7 +900,7 @@
         "original_title": "유영",
         "overview": "",
         "popularity": 1.1622,
-        "poster_path": null,
+        "poster_path": "/aWLWmb1R70vfzHDFXSFUC4QEaLK.jpg",
         "release_date": "2025-11-30",
         "title": "유영",
         "video": false,
@@ -1366,5 +1406,49 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1590106,
+        "original_language": "nl",
+        "original_title": "Searching for Ludo",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-11-30",
+        "title": "Searching for Ludo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rHcegniVXv1RXdFEmbivmCXMdun.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1590136,
+        "original_language": "sv",
+        "original_title": "Lång dags färd med Krister Henriksson",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/q4gXSUsEV3GHKtNKp2MT8ubeP3D.jpg",
+        "release_date": "2025-11-30",
+        "title": "Lång dags färd med Krister Henriksson",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]

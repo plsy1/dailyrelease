@@ -1,6 +1,24 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1590028,
+        "original_language": "zh",
+        "original_title": "双塔英雄",
+        "overview": "影片以1945年抗日战争末期为背景，讲述冀热辽军区为配合苏联红军反攻承德，派出连长张峻接任双塔山游击区区队长，开展里应外合作战的故事。张峻到任前，因地主闫世昌勾结日伪，游击队屡遭重创，前队长赵山林牺牲，根据地濒临失守。张峻在上任途中智擒伪军队长吴德全，迫使其据点缴械，获一批武器，缓解了游击队的装备短缺。随后，他联合村长林江、妇教会主任春玲等人，重整队伍，并结识原鸡冠山头目冯佳吉。冯因与闫世昌有旧仇，一心报仇，后与张峻合作歼敌。张峻利用闫世昌强娶赵山林之女赵佳慧之机设伏，歼灭日伪数人，佳慧亲手击毙杀父仇人日军军官小林，冯佳吉也手刃闫世昌。",
+        "popularity": 0.0,
+        "poster_path": "/nuZ1vMB1qud6riq7Wksi21E0zTn.jpg",
+        "release_date": "2025-12-01",
+        "title": "双塔英雄",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pHNWk1XXUjSWRLL5itCgyH41xfG.jpg",
         "genre_ids": [
             18
@@ -748,7 +766,7 @@
         "original_title": "Room",
         "overview": "",
         "popularity": 0.0496,
-        "poster_path": "/vddNrDbSy0oh0Pks7KCeR93FRX1.jpg",
+        "poster_path": "/4IYNcIFHShHk1AOaWVz7O74MV1X.jpg",
         "release_date": "2025-12-01",
         "title": "Room",
         "video": false,
@@ -1372,8 +1390,8 @@
         "release_date": "2025-12-01",
         "title": "Troll 2",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "奇幻",
             "动作",
