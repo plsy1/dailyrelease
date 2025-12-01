@@ -451,6 +451,56 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99,
+            36
+        ],
+        "id": 1570215,
+        "original_language": "ko",
+        "original_title": "잊혀진 대통령: 김영삼의 개혁시대",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/k3aLhp7BKKJYtrz2WKYKLK7S1es.jpg",
+        "release_date": "2025-12-02",
+        "title": "잊혀진 대통령: 김영삼의 개혁시대",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "历史"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6vuss7yhmL24e3BeP78HpInFJv8.jpg",
+        "genre_ids": [
+            99,
+            35,
+            12
+        ],
+        "id": 1537892,
+        "original_language": "th",
+        "original_title": "อย่าให้มันจบที่กินข้าว",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/uzBWCR8XbTovrSBTap1s3lTJ3Ej.jpg",
+        "release_date": "2025-12-02",
+        "title": "อย่าให้มันจบที่กินข้าว",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "喜剧",
+            "冒险"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1045994,
@@ -681,20 +731,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/uKSqniFq0z8CCnmF5zjQntK2PfY.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
         "id": 1579561,
         "original_language": "hi",
         "original_title": "Laptein",
         "overview": "",
         "popularity": 0.0143,
-        "poster_path": "/A4jkZb7h82TPMIxFvB4eP1JYMCf.jpg",
+        "poster_path": "/bW1pyrBAx56mEWkE6KKKUBZkm2H.jpg",
         "release_date": "2025-12-02",
         "title": "Laptein",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
         "original_language_zh": "印地语"
     }
 ]
