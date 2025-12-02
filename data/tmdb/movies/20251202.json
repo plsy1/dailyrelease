@@ -672,7 +672,7 @@
         "original_title": "妄想ファンファーレ",
         "overview": "",
         "popularity": 1.2146,
-        "poster_path": null,
+        "poster_path": "/egNxRW3xGGaV35Fg8JR9TOGTPmm.jpg",
         "release_date": "2025-12-02",
         "title": "妄想ファンファーレ",
         "video": false,
@@ -803,6 +803,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mYa7KQAmuyTgnnOgqcvbJneM4YX.jpg",
+        "genre_ids": [
+            878,
+            10749
+        ],
+        "id": 1589048,
+        "original_language": "es",
+        "original_title": "De mis ojos a mi memoria",
+        "overview": "",
+        "popularity": 0.1251,
+        "poster_path": "/pnIyEJVlM4kG1gMMpTdfzxgrkxJ.jpg",
+        "release_date": "2025-12-02",
+        "title": "De mis ojos a mi memoria",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "爱情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eTKyZeFWcRKprNmWgicGMhkd368.jpg",
         "genre_ids": [
             16
@@ -839,30 +863,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mYa7KQAmuyTgnnOgqcvbJneM4YX.jpg",
-        "genre_ids": [
-            878,
-            10749
-        ],
-        "id": 1589048,
-        "original_language": "es",
-        "original_title": "De mis ojos a mi memoria",
-        "overview": "",
-        "popularity": 0.1251,
-        "poster_path": "/pnIyEJVlM4kG1gMMpTdfzxgrkxJ.jpg",
-        "release_date": "2025-12-02",
-        "title": "De mis ojos a mi memoria",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "爱情"
-        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -954,6 +954,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1590327,
+        "original_language": "pt",
+        "original_title": "Todas As Partes",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/bw7G6fLurrpPIcPxOxprFp1i15T.jpg",
+        "release_date": "2025-12-02",
+        "title": "Todas As Partes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             27
         ],
@@ -971,24 +989,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1590327,
-        "original_language": "pt",
-        "original_title": "Todas As Partes",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2025-12-02",
-        "title": "Todas As Partes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
