@@ -242,7 +242,10 @@
     {
         "adult": false,
         "backdrop_path": "/hBL5WNTiwfSLv3WHWvOiWe8z25N.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            80,
+            9648
+        ],
         "id": 259615,
         "origin_country": [
             "西班牙"
@@ -256,7 +259,10 @@
         "name": "Terra Alta",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "犯罪",
+            "悬疑"
+        ],
         "original_language_zh": "西班牙语"
     }
 ]
