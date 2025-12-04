@@ -1871,6 +1871,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rOlFDAbkC8gjv7frYIOuybdfBpu.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1588413,
+        "original_language": "es",
+        "original_title": "Mirreyes contra Godínez: Un Especial de Navidad",
+        "overview": "",
+        "popularity": 1.908,
+        "poster_path": "/ywWxuqRI2QAohTWweSddbDmL4mX.jpg",
+        "release_date": "2025-12-05",
+        "title": "Mirreyes contra Godínez: Un Especial de Navidad",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/oBaCA8TDnBTyXkXcY5v13wovi5Z.jpg",
         "genre_ids": [
             28,
@@ -1897,23 +1919,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rOlFDAbkC8gjv7frYIOuybdfBpu.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            27
         ],
-        "id": 1588413,
+        "id": 1589339,
         "original_language": "es",
-        "original_title": "Mirreyes contra Godínez: Un Especial de Navidad",
+        "original_title": "Carne",
         "overview": "",
-        "popularity": 1.908,
-        "poster_path": "/ywWxuqRI2QAohTWweSddbDmL4mX.jpg",
+        "popularity": 0.3188,
+        "poster_path": "/lYcH4h5SEcZTIWTl7N7OMbonFtm.jpg",
         "release_date": "2025-12-05",
-        "title": "Mirreyes contra Godínez: Un Especial de Navidad",
+        "title": "Carne",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2071,28 +2093,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1589289,
-        "original_language": "es",
-        "original_title": "Encías",
-        "overview": "",
-        "popularity": 0.0404,
-        "poster_path": "/1itxLrhViHVzsP2WsRcfPbFZITc.jpg",
-        "release_date": "2025-12-05",
-        "title": "Encías",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/sLkwIIeFm26jPRYk3R7A1cJ2l2v.jpg",
         "genre_ids": [
             53,
@@ -2123,6 +2123,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1589289,
+        "original_language": "es",
+        "original_title": "Encías",
+        "overview": "",
+        "popularity": 0.0404,
+        "poster_path": "/1itxLrhViHVzsP2WsRcfPbFZITc.jpg",
+        "release_date": "2025-12-05",
+        "title": "Encías",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1589343,
@@ -2138,28 +2160,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1589339,
-        "original_language": "es",
-        "original_title": "Carne",
-        "overview": "",
-        "popularity": 0.3188,
-        "poster_path": "/lYcH4h5SEcZTIWTl7N7OMbonFtm.jpg",
-        "release_date": "2025-12-05",
-        "title": "Carne",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
