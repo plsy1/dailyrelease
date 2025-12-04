@@ -193,6 +193,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/9KZ0c6sPo8ssTvco409XR8PtYgm.jpg",
+        "genre_ids": [
+            28,
+            16,
+            14
+        ],
+        "id": 1588237,
+        "original_language": "en",
+        "original_title": "The Lost Chapter: Yuki's Revenge",
+        "overview": "",
+        "popularity": 5.0758,
+        "poster_path": "/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
+        "release_date": "2025-12-05",
+        "title": "The Lost Chapter: Yuki's Revenge",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "动作",
+            "动画",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/s8p8UkTQHchFJsZ0aiciZNbtRQ3.jpg",
         "genre_ids": [
             18
@@ -260,32 +286,6 @@
         "genre_ids_zh": [
             "西部",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/h33uSTfunxyIcLqiwvPEpZzqp6E.jpg",
-        "genre_ids": [
-            28,
-            16,
-            14
-        ],
-        "id": 1588237,
-        "original_language": "en",
-        "original_title": "The Lost Chapter: Yuki's Revenge",
-        "overview": "",
-        "popularity": 5.0758,
-        "poster_path": "/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
-        "release_date": "2025-12-05",
-        "title": "The Lost Chapter: Yuki's Revenge",
-        "video": false,
-        "vote_average": 8.5,
-        "vote_count": 2,
-        "genre_ids_zh": [
-            "动作",
-            "动画",
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -1381,6 +1381,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1592598,
+        "original_language": "en",
+        "original_title": "we need to talk...",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-05",
+        "title": "we need to talk...",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -2515,7 +2537,8 @@
         "genre_ids": [
             28,
             80,
-            53
+            53,
+            18
         ],
         "id": 1291608,
         "original_language": "hi",
@@ -2531,7 +2554,8 @@
         "genre_ids_zh": [
             "动作",
             "犯罪",
-            "惊悚"
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "印地语"
     },
