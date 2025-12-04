@@ -39,8 +39,8 @@
         "release_date": "2025-12-04",
         "title": "殺手#4",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动作",
             "剧情"
@@ -85,8 +85,8 @@
         "release_date": "2025-12-04",
         "title": "Not Without Hope",
         "video": false,
-        "vote_average": 4.333,
-        "vote_count": 3,
+        "vote_average": 5.75,
+        "vote_count": 4,
         "genre_ids_zh": [
             "剧情",
             "惊悚"
@@ -169,7 +169,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ufE6KfbzXp3RORaSjYgFWOYRFEA.jpg",
+        "backdrop_path": "/aPcHRnEYmr6Fn0ijwgwPT5fY4c0.jpg",
         "genre_ids": [
             10749
         ],
@@ -178,7 +178,7 @@
         "original_title": "The Christmas Baby",
         "overview": "",
         "popularity": 3.2025,
-        "poster_path": "/CXvHKAYjhqk3CuvArUl6arRssN.jpg",
+        "poster_path": "/6PSxu99G31ipYwlK6cYS0CNQGv3.jpg",
         "release_date": "2025-12-04",
         "title": "The Christmas Baby",
         "video": false,
@@ -300,10 +300,32 @@
         "release_date": "2025-12-04",
         "title": "Jack Dee: Small World",
         "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v9yfRBHcaAWZ5fL7Ub0UovbcBfT.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1559659,
+        "original_language": "en",
+        "original_title": "The World of Hans Zimmer: A New Dimension",
+        "overview": "",
+        "popularity": 0.3783,
+        "poster_path": "/vS01WS0GRX8rjYqC1rQ4mreayNl.jpg",
+        "release_date": "2025-12-04",
+        "title": "The World of Hans Zimmer: A New Dimension",
+        "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -319,24 +341,6 @@
         "poster_path": null,
         "release_date": "2025-12-04",
         "title": "Un Milagro de Navidad en La Paz",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/v9yfRBHcaAWZ5fL7Ub0UovbcBfT.jpg",
-        "genre_ids": [],
-        "id": 1559659,
-        "original_language": "en",
-        "original_title": "The World of Hans Zimmer - A new Dimension",
-        "overview": "",
-        "popularity": 0.3783,
-        "poster_path": "/vS01WS0GRX8rjYqC1rQ4mreayNl.jpg",
-        "release_date": "2025-12-04",
-        "title": "The World of Hans Zimmer - A new Dimension",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -509,6 +513,70 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/lDsXO06g2Lf54tPzTBaqpckFnXH.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1457784,
+        "original_language": "en",
+        "original_title": "Hangman?",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/rsbtwLthqjv3qidgeRVzuGnm6gD.jpg",
+        "release_date": "2025-12-04",
+        "title": "Hangman?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1592788,
+        "original_language": "en",
+        "original_title": "Overconsumption",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/u3kxYQBAL67uxaWQyqow7opGurQ.jpg",
+        "release_date": "2025-12-04",
+        "title": "Overconsumption",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1592774,
+        "original_language": "en",
+        "original_title": "Pellegrinis: A Melbourne Legacy",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9srr4YptXBmwGNnwV8kzsDG00dQ.jpg",
+        "release_date": "2025-12-04",
+        "title": "Pellegrinis: A Melbourne Legacy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             16
@@ -572,6 +640,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "爱情"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1592770,
+        "original_language": "ko",
+        "original_title": "살아지다",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/rW060wzr1doSJHskDXk6ZzAbBXR.jpg",
+        "release_date": "2025-12-04",
+        "title": "살아지다",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "韩语"
     },
@@ -869,6 +959,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eIfO0rRZpgDfqn6On1uCex9u2gY.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1592731,
+        "original_language": "fr",
+        "original_title": "Juste pour Rire Montréal 2025",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/w3DPpUYZX0zjoHsTsNPdQ4VrYAv.jpg",
+        "release_date": "2025-12-04",
+        "title": "Juste pour Rire Montréal 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/dKmlUGviXpGxKUPjZuICDri8ulm.jpg",
         "genre_ids": [
             99,
@@ -919,6 +1031,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            10402,
+            99
+        ],
+        "id": 1547050,
+        "original_language": "es",
+        "original_title": "Lali: La que le gana al tiempo",
+        "overview": "跟随这部纪录片了解拉里退出舞台四年后复出的历程，了解她如何蜕变为如今的这位非凡艺人。",
+        "popularity": 0.4784,
+        "poster_path": "/cz6U9ot1XKRjw8OMMAb3XKSGhnA.jpg",
+        "release_date": "2025-12-04",
+        "title": "拉里·埃斯波西托：时光之歌",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             18,
             10751
@@ -938,30 +1074,6 @@
             "喜剧",
             "剧情",
             "家庭"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402,
-            99
-        ],
-        "id": 1547050,
-        "original_language": "es",
-        "original_title": "Lali: La que le gana al tiempo",
-        "overview": "",
-        "popularity": 0.4784,
-        "poster_path": "/cz6U9ot1XKRjw8OMMAb3XKSGhnA.jpg",
-        "release_date": "2025-12-04",
-        "title": "Lali: La que le gana al tiempo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1366,12 +1478,12 @@
         ],
         "id": 1370559,
         "original_language": "it",
-        "original_title": "Ammazzare stanca - Autobiografia di un assassino",
+        "original_title": "Ammazzare stanca",
         "overview": "",
         "popularity": 1.5981,
         "poster_path": "/suFZXwjLx4po8Jcl9PhzyrWvELE.jpg",
         "release_date": "2025-12-04",
-        "title": "Ammazzare stanca - Autobiografia di un assassino",
+        "title": "Ammazzare stanca",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1396,8 +1508,8 @@
         "release_date": "2025-12-04",
         "title": "Attitudini: Nessuna",
         "video": false,
-        "vote_average": 2.0,
-        "vote_count": 1,
+        "vote_average": 5.0,
+        "vote_count": 2,
         "genre_ids_zh": [
             "纪录"
         ],
@@ -1462,6 +1574,32 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tAfdEeeB2wKsDs9t6zNi90uaxSn.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            18
+        ],
+        "id": 1592713,
+        "original_language": "tr",
+        "original_title": "The Lost Construction",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yqWitHvcm0EuJI7PqiogZIayCCQ.jpg",
+        "release_date": "2025-12-04",
+        "title": "The Lost Construction",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "土耳其语"
     }
