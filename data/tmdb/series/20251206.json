@@ -14,7 +14,7 @@
         "original_language": "zh",
         "original_name": "我的哪吒与变形金刚",
         "overview": "故事讲述一名叫小吒的当代中国男孩，他崇拜哪吒，也喜欢变形金刚。他渴望通过穿上铠甲获得非凡的力量，和自己心目中的英雄一起并肩打败坏蛋。在梦中的奇幻世界，小吒实现了自己的梦想，与哪吒和汽车人携手合作，一起阻止石矶和霸天虎的邪恶阴谋。在与邪恶抗争的过程中，小吒经历了挫折、失败、迷茫，但最终领悟到“真正的强大源于内心对正义信念的坚持”。他主动脱下铠甲，完成了从依赖外在铠甲到重视内在正义信念的转变，获得了精神上的成长。",
-        "popularity": 0.0998,
+        "popularity": 0.0777,
         "poster_path": null,
         "first_air_date": "2025-12-06",
         "name": "我的哪吒与变形金刚",
@@ -133,30 +133,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/duXUA6kzqCa56MNfUqoJQa6c6Gg.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 281005,
-        "origin_country": [
-            "韩国"
-        ],
-        "original_language": "ko",
-        "original_name": "경도를 기다리며",
-        "overview": "曾在20岁和28岁时两次恋爱并分手的李京道和徐智友，在以曝光出轨丑闻的记者和丑闻主角的妻子的身份重逢后，再次展开既心酸又真挚的恋情。",
-        "popularity": 1.9888,
-        "poster_path": "/pkEq1AhKKkUzYomIw5hhz4exWFv.jpg",
-        "first_air_date": "2025-12-06",
-        "name": "等待京道",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/8OW4GVjpZt06m9KVhrHYR7asmJq.jpg",
         "genre_ids": [
             35,
@@ -169,7 +145,7 @@
         "original_language": "ko",
         "original_name": "프로보노",
         "overview": "讲述了一家大型律师事务所内一个零收入的公益律师团队，在公益法律领域中应对各种挑战的故事 。",
-        "popularity": 1.8297,
+        "popularity": 1.8614,
         "poster_path": "/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
         "first_air_date": "2025-12-06",
         "name": "公益律师",
@@ -178,6 +154,30 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/duXUA6kzqCa56MNfUqoJQa6c6Gg.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 281005,
+        "origin_country": [
+            "韩国"
+        ],
+        "original_language": "ko",
+        "original_name": "경도를 기다리며",
+        "overview": "曾在20岁和28岁时两次恋爱并分手的李京道和徐智友，在以曝光出轨丑闻的记者和丑闻主角的妻子的身份重逢后，再次展开既心酸又真挚的恋情。",
+        "popularity": 1.7187,
+        "poster_path": "/pkEq1AhKKkUzYomIw5hhz4exWFv.jpg",
+        "first_air_date": "2025-12-06",
+        "name": "等待京道",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "韩语"
     },
@@ -218,7 +218,7 @@
         "original_language": "nl",
         "original_name": "Vals Spel",
         "overview": "",
-        "popularity": 0.1383,
+        "popularity": 0.1126,
         "poster_path": "/niDsoIfWIOLsOUvZXMwDmTkJFw2.jpg",
         "first_air_date": "2025-12-06",
         "name": "Vals Spel",
@@ -243,7 +243,7 @@
         "original_language": "nl",
         "original_name": "Live live live",
         "overview": "",
-        "popularity": 0.0637,
+        "popularity": 0.053,
         "poster_path": "/gcETMaD9cEETIPXIansxLBEr189.jpg",
         "first_air_date": "2025-12-06",
         "name": "Live live live",
@@ -257,7 +257,67 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/lGFnb8ds3MhE849BNObfGJQO6l0.jpg",
+        "genre_ids": [],
+        "id": 307519,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Icons of the 20th Century: An Historical Journey",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/A8yfTSFpp3za0yZ8A91hOkdTQkk.jpg",
+        "first_air_date": "2025-12-06",
+        "name": "Icons of the 20th Century: An Historical Journey",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kbCoQM2H2u5KGV6F68pPYhnokx6.jpg",
+        "genre_ids": [],
+        "id": 307517,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Unknown Madagascar",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/tdPnCl7eXmVWvW3tTlLTuoNGsBp.jpg",
+        "first_air_date": "2025-12-06",
+        "name": "Unknown Madagascar",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9aUUUru3kxYjygm0C5bWCSt3Ahp.jpg",
+        "genre_ids": [],
+        "id": 307514,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Alfred Nobel - kärlek och dynamit",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/uXJCrEW00nNdVluOR1rhDm7vupV.jpg",
+        "first_air_date": "2025-12-06",
+        "name": "Alfred Nobel - kärlek och dynamit",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/llrtBUkgYRrIdzYDFzpUy97v6SI.jpg",
         "genre_ids": [],
         "id": 307513,
         "origin_country": [
@@ -266,8 +326,8 @@
         "original_language": "sv",
         "original_name": "Plastikkirurgerna",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
+        "popularity": 0.0071,
+        "poster_path": "/6wInVFZVSlTKIyUJz4RIQKPJTWa.jpg",
         "first_air_date": "2025-12-06",
         "name": "Plastikkirurgerna",
         "vote_average": 0.0,
