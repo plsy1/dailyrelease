@@ -189,6 +189,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/9KZ0c6sPo8ssTvco409XR8PtYgm.jpg",
+        "genre_ids": [
+            28,
+            16,
+            14
+        ],
+        "id": 1588237,
+        "original_language": "en",
+        "original_title": "The Lost Chapter: Yuki's Revenge",
+        "overview": "鬼才导演Quentin Tarantino曾为《杀死比尔》构想了一个章节，这一未曾搬上银幕的章节就是“雪姬的复仇”。时隔二十余载，Tarantino与Epic联手让这段传奇故事在Fortnite中重焕新生。由虚幻引擎打造，并采用Fortnite的角色模型，Tarantino的《失落之章：雪姬的复仇》由Uma Thurman主演。",
+        "popularity": 8.3678,
+        "poster_path": "/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
+        "release_date": "2025-12-05",
+        "title": "The Lost Chapter: Yuki's Revenge",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 4,
+        "genre_ids_zh": [
+            "动作",
+            "动画",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gpDBSOq3S7d1Ww7lUYS8oJFkdSJ.jpg",
+        "genre_ids": [
+            14,
+            10749
+        ],
+        "id": 1354518,
+        "original_language": "en",
+        "original_title": "100 Nights of Hero",
+        "overview": "",
+        "popularity": 4.9627,
+        "poster_path": "/7OYSJJFU2E9iBGPfU9C9PM56APM.jpg",
+        "release_date": "2025-12-05",
+        "title": "100 Nights of Hero",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             12,
@@ -208,56 +258,6 @@
         "genre_ids_zh": [
             "冒险",
             "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cuojG4fZiOzp0KpCFG75yeJCI7n.jpg",
-        "genre_ids": [
-            14,
-            10749
-        ],
-        "id": 1354518,
-        "original_language": "en",
-        "original_title": "100 Nights of Hero",
-        "overview": "",
-        "popularity": 4.9627,
-        "poster_path": "/aZUUqYHRapGTwAQjc9ZHkP72M63.jpg",
-        "release_date": "2025-12-05",
-        "title": "100 Nights of Hero",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/9KZ0c6sPo8ssTvco409XR8PtYgm.jpg",
-        "genre_ids": [
-            28,
-            16,
-            14
-        ],
-        "id": 1588237,
-        "original_language": "en",
-        "original_title": "The Lost Chapter: Yuki's Revenge",
-        "overview": "",
-        "popularity": 8.3678,
-        "poster_path": "/dOMsyboGMCVgG3PAidO5EQ9sFKl.jpg",
-        "release_date": "2025-12-05",
-        "title": "The Lost Chapter: Yuki's Revenge",
-        "video": false,
-        "vote_average": 7.2,
-        "vote_count": 4,
-        "genre_ids_zh": [
-            "动作",
-            "动画",
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -368,38 +368,16 @@
         "original_title": "Man Finds Tape",
         "overview": "",
         "popularity": 4.0009,
-        "poster_path": "/9k7xK1tOqofssWKqiGyGYz0EaEB.jpg",
+        "poster_path": "/taXRoZVvoeRR2A38yyBJLhMp6I4.jpg",
         "release_date": "2025-12-05",
         "title": "Man Finds Tape",
         "video": false,
         "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "恐怖",
             "悬疑",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/h56vspzGBmlNMgtPWZdgWdR04yq.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 766520,
-        "original_language": "en",
-        "original_title": "Rosemead",
-        "overview": "",
-        "popularity": 2.7955,
-        "poster_path": "/uVilyfKrB5ZkhXh7MMaIaevzueR.jpg",
-        "release_date": "2025-12-05",
-        "title": "Rosemead",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -423,6 +401,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gTEdRmDzxvTzkNUjXWUtNWCCXXL.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 766520,
+        "original_language": "en",
+        "original_title": "Rosemead",
+        "overview": "改编自Frank Shyong撰写的《洛杉矶时报》报道《一个垂死母亲的计划》(A Dying Mother’s Plan)。来自真实事件，被形容为“让人心碎的故事，聚焦理解心理疾病的多层面的重要性，尤其是亚裔社群中”，讲述在圣盖博谷，一个患上癌症绝症的母亲奋力想要帮助自己情绪不稳定的儿子——她发现儿子对大规模枪击案越发沉迷。",
+        "popularity": 2.7955,
+        "poster_path": "/uVilyfKrB5ZkhXh7MMaIaevzueR.jpg",
+        "release_date": "2025-12-05",
+        "title": "柔似蜜",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -541,7 +541,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/w9Z8FEwmyh9TSgn3YWfJ9DVcKou.jpg",
         "genre_ids": [
             35,
             10749
@@ -680,24 +680,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1567052,
-        "original_language": "en",
-        "original_title": "Hour of the Flower",
-        "overview": "",
-        "popularity": 0.5663,
-        "poster_path": "/xCU9CmElDWHJYHRmXKutJMAFqrM.jpg",
-        "release_date": "2025-12-05",
-        "title": "Hour of the Flower",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             18,
             37
@@ -717,6 +699,24 @@
             "剧情",
             "西部"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1567052,
+        "original_language": "en",
+        "original_title": "Hour of the Flower",
+        "overview": "",
+        "popularity": 0.5663,
+        "poster_path": "/xCU9CmElDWHJYHRmXKutJMAFqrM.jpg",
+        "release_date": "2025-12-05",
+        "title": "Hour of the Flower",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -890,6 +890,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1592877,
+        "original_language": "en",
+        "original_title": "New Blue",
+        "overview": "",
+        "popularity": 0.0786,
+        "poster_path": "/4VE2QygPem2TgsrH506W9GGBClS.jpg",
+        "release_date": "2025-12-05",
+        "title": "New Blue",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1582838,
         "original_language": "en",
@@ -993,28 +1015,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hJDaelVLXSQMylwv8YLCqxtWHto.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1578116,
-        "original_language": "en",
-        "original_title": "Departure",
-        "overview": "",
-        "popularity": 0.0441,
-        "poster_path": "/7vt5J4GOtV2iF7aHAaonaEMKphN.jpg",
-        "release_date": "2025-12-05",
-        "title": "Departure",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1561209,
@@ -1047,6 +1047,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hJDaelVLXSQMylwv8YLCqxtWHto.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1578116,
+        "original_language": "en",
+        "original_title": "Departure",
+        "overview": "",
+        "popularity": 0.0441,
+        "poster_path": "/7vt5J4GOtV2iF7aHAaonaEMKphN.jpg",
+        "release_date": "2025-12-05",
+        "title": "Departure",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1573,6 +1597,92 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1593329,
+        "original_language": "en",
+        "original_title": "Racin' Jason",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-05",
+        "title": "Racin' Jason",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1593307,
+        "original_language": "en",
+        "original_title": "Bells Will Be Ringing",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-05",
+        "title": "Bells Will Be Ringing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1593276,
+        "original_language": "en",
+        "original_title": "A Love in Brief",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-05",
+        "title": "A Love in Brief",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1593274,
+        "original_language": "en",
+        "original_title": "The Cranker",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-05",
+        "title": "The Cranker",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35
         ],
         "id": 1593189,
@@ -1602,7 +1712,7 @@
         "original_title": "Stages",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/inBeur3JtXNuzDkgwTkLUlVxb8d.jpg",
         "release_date": "2025-12-05",
         "title": "Stages",
         "video": false,
@@ -1809,7 +1919,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/lnLVwC3l1P2eTksdb1LydiNXfiJ.jpg",
         "genre_ids": [],
         "id": 1573363,
         "original_language": "ja",
@@ -1948,7 +2058,7 @@
         "original_title": "Groenland, annexe-moi si tu peux",
         "overview": "",
         "popularity": 0.0239,
-        "poster_path": "/cXhm2Q1V3oM4QcP8YgDXmBCZ1dr.jpg",
+        "poster_path": "/fd5WSNKuFkFcgM5iYxUGTGzN9zV.jpg",
         "release_date": "2025-12-05",
         "title": "Groenland, annexe-moi si tu peux",
         "video": false,
@@ -2733,6 +2843,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1593420,
+        "original_language": "nl",
+        "original_title": "Sint en de leeuw 2025",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1khGCCFs9HQ4dHmgR0AQBUmt6x6.jpg",
+        "release_date": "2025-12-05",
+        "title": "Sint en de leeuw 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/xlDLKxpVBja48g4jRuMkzKkF4Jn.jpg",
         "genre_ids": [
             18
@@ -2804,16 +2932,14 @@
         "backdrop_path": "/yRYgvo2crAeHzqKwXMVtEaDx7Qq.jpg",
         "genre_ids": [
             28,
-            80,
-            53,
-            18
+            53
         ],
         "id": 1291608,
         "original_language": "hi",
         "original_title": "धुरंधर",
         "overview": "",
         "popularity": 8.0894,
-        "poster_path": "/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg",
+        "poster_path": "/qdtm0wQmLmAYmj2QZI9EDInZ6uG.jpg",
         "release_date": "2025-12-05",
         "title": "धुरंधर",
         "video": false,
@@ -2821,9 +2947,7 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动作",
-            "犯罪",
-            "惊悚",
-            "剧情"
+            "惊悚"
         ],
         "original_language_zh": "印地语"
     },
@@ -2906,12 +3030,12 @@
         "original_title": "Beck 53 - Ur askan",
         "overview": "",
         "popularity": 2.155,
-        "poster_path": "/hZ4PORs9q54UUoQbXfJRhoHTOff.jpg",
+        "poster_path": "/w9IrNPKEEQ49rUwEqCVJl7FyUWS.jpg",
         "release_date": "2025-12-05",
         "title": "Beck 53 - Ur askan",
         "video": false,
         "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "犯罪",
             "悬疑",
