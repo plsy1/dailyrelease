@@ -191,7 +191,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/i0DgO8V4rNG64kfLckFPEaJKL8S.jpg",
         "genre_ids": [
             18
         ],
@@ -206,8 +206,8 @@
         "poster_path": "/fq0NNBbZ2tlXUCpmXyZyJn6zVLe.jpg",
         "first_air_date": "2025-12-07",
         "name": "Um Olhar Adolescente: Recomeço",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
         ],
@@ -215,8 +215,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/stl7wquscaZKOHIPMOYtwYTi3Zu.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/t2lfVf6WK77Y61C8nDbvE2nSvDJ.jpg",
+        "genre_ids": [
+            99
+        ],
         "id": 307256,
         "origin_country": [
             "瑞典"
@@ -225,12 +227,14 @@
         "original_name": "Guldtvisten",
         "overview": "",
         "popularity": 0.0456,
-        "poster_path": null,
+        "poster_path": "/pannHNXuJoJce4GEA2wct2Pdih8.jpg",
         "first_air_date": "2025-12-07",
         "name": "Guldtvisten",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "瑞典语"
     }
 ]
