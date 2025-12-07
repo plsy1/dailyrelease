@@ -247,6 +247,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1588016,
+        "original_language": "en",
+        "original_title": "Dr. Dr. Themefart",
+        "overview": "",
+        "popularity": 0.5719,
+        "poster_path": null,
+        "release_date": "2025-12-07",
+        "title": "Dr. Dr. Themefart",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/cd4np2DdMiiJoHV9k3BIYIQ2opm.jpg",
         "genre_ids": [
             10770,
@@ -268,28 +290,6 @@
             "电视电影",
             "喜剧",
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1588016,
-        "original_language": "en",
-        "original_title": "Dr. Dr. Themefart",
-        "overview": "",
-        "popularity": 0.5719,
-        "poster_path": null,
-        "release_date": "2025-12-07",
-        "title": "Dr. Dr. Themefart",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -503,6 +503,48 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1594482,
+        "original_language": "en",
+        "original_title": "Sounds From The Past",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jg95WAukG2Zg3FGgFJudZMIzBxF.jpg",
+        "release_date": "2025-12-07",
+        "title": "Sounds From The Past",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rEVqStA5aydZQgT9hHAJJMT3hzw.jpg",
+        "genre_ids": [
+            878,
+            18
+        ],
+        "id": 1594450,
+        "original_language": "en",
+        "original_title": "[LOOM]",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4vCixDAcrcYP7rzatN2oJEGYpDI.jpg",
+        "release_date": "2025-12-07",
+        "title": "[LOOM]",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -738,15 +780,37 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1594504,
+        "original_language": "fr",
+        "original_title": "La fabrique des idées : Institut Montaigne, penser la société de demain",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eBcGP9vlxx8fktSsTD5iJFEcDXC.jpg",
+        "release_date": "2025-12-07",
+        "title": "La fabrique des idées : Institut Montaigne, penser la société de demain",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1583867,
         "original_language": "es",
-        "original_title": "Estampas De Mi Tierra",
+        "original_title": "Estampas de mi tierra",
         "overview": "",
         "popularity": 0.0599,
         "poster_path": null,
         "release_date": "2025-12-07",
-        "title": "Estampas De Mi Tierra",
+        "title": "Estampas de mi tierra",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
