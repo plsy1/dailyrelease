@@ -97,28 +97,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1588890,
-        "original_language": "en",
-        "original_title": "Dawn of the Dogman",
-        "overview": "",
-        "popularity": 0.1064,
-        "poster_path": null,
-        "release_date": "2025-12-09",
-        "title": "Dawn of the Dogman",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18,
             14
         ],
@@ -143,23 +121,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35,
-            18
+            99
         ],
-        "id": 1593803,
+        "id": 1588890,
         "original_language": "en",
-        "original_title": "Bathwater",
+        "original_title": "Dawn of the Dogman",
         "overview": "",
-        "popularity": 0.0729,
-        "poster_path": "/smF8zi8q3Bd3WJLfJ8CYhwPhMp0.jpg",
+        "popularity": 0.1064,
+        "poster_path": null,
         "release_date": "2025-12-09",
-        "title": "Bathwater",
+        "title": "Dawn of the Dogman",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "剧情"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -189,6 +165,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8rRSMplLLY7pNeY7Qjck7mbnFDf.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1585189,
+        "original_language": "en",
+        "original_title": "The Mighty Oaks",
+        "overview": "",
+        "popularity": 0.076,
+        "poster_path": "/k3QQQTOoa4CXpd0GPB2eDib6ZJJ.jpg",
+        "release_date": "2025-12-09",
+        "title": "The Mighty Oaks",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1593747,
+        "original_language": "en",
+        "original_title": "Chicago Works with Geoffrey Baer",
+        "overview": "",
+        "popularity": 0.0741,
+        "poster_path": "/81cWGK78T3ZGcJttOywjQxJxCL7.jpg",
+        "release_date": "2025-12-09",
+        "title": "Chicago Works with Geoffrey Baer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/5DaHyCQM7bXezfTHRyOD8EtqIyy.jpg",
         "genre_ids": [
             99
@@ -211,47 +231,51 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zXWpyWtHdHGYUAzvLiVGjXjZKAq.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             35,
-            28
+            18
         ],
-        "id": 1561656,
+        "id": 1593803,
         "original_language": "en",
-        "original_title": "Sock Puppet Uprising",
+        "original_title": "Bathwater",
         "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/6xgWtOg0jnOYWubJ6j8zasBClIC.jpg",
+        "popularity": 0.0729,
+        "poster_path": "/smF8zi8q3Bd3WJLfJ8CYhwPhMp0.jpg",
         "release_date": "2025-12-09",
-        "title": "Sock Puppet Uprising",
+        "title": "Bathwater",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
-            "动作"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/8rRSMplLLY7pNeY7Qjck7mbnFDf.jpg",
+        "backdrop_path": "/aVZMPhysyL1rpTERFTWw0V9Wwz1.jpg",
         "genre_ids": [
-            99
+            35,
+            18,
+            10749
         ],
-        "id": 1585189,
+        "id": 1515457,
         "original_language": "en",
-        "original_title": "The Mighty Oaks",
+        "original_title": "Floating Ecstasy",
         "overview": "",
-        "popularity": 0.076,
-        "poster_path": "/k3QQQTOoa4CXpd0GPB2eDib6ZJJ.jpg",
+        "popularity": 0.0614,
+        "poster_path": "/tXWepFYPFypMyk2PVrJ4hvZGrBu.jpg",
         "release_date": "2025-12-09",
-        "title": "The Mighty Oaks",
+        "title": "Floating Ecstasy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "喜剧",
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -305,27 +329,71 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/aVZMPhysyL1rpTERFTWw0V9Wwz1.jpg",
+        "backdrop_path": "/zXWpyWtHdHGYUAzvLiVGjXjZKAq.jpg",
         "genre_ids": [
             35,
-            18,
-            10749
+            28
         ],
-        "id": 1515457,
+        "id": 1561656,
         "original_language": "en",
-        "original_title": "Floating Ecstasy",
+        "original_title": "Sock Puppet Uprising",
         "overview": "",
-        "popularity": 0.0614,
-        "poster_path": "/tXWepFYPFypMyk2PVrJ4hvZGrBu.jpg",
+        "popularity": 0.0429,
+        "poster_path": "/6xgWtOg0jnOYWubJ6j8zasBClIC.jpg",
         "release_date": "2025-12-09",
-        "title": "Floating Ecstasy",
+        "title": "Sock Puppet Uprising",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
-            "剧情",
-            "爱情"
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hYUm03F4ycDEbEgjqvQr0XdcCiw.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1593186,
+        "original_language": "en",
+        "original_title": "#@$%",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/kTrquOu55cgf78570g0LDtXQE1Z.jpg",
+        "release_date": "2025-12-09",
+        "title": "#@$%",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3nGaKUwAkRQdMaHMNeGglXJLezB.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1593255,
+        "original_language": "en",
+        "original_title": "Serena",
+        "overview": "",
+        "popularity": 0.0361,
+        "poster_path": "/vdxdh4vytwlW3ABUxC818rlLWJJ.jpg",
+        "release_date": "2025-12-09",
+        "title": "Serena",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -379,74 +447,6 @@
             "爱情",
             "犯罪",
             "动作",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1593747,
-        "original_language": "en",
-        "original_title": "Chicago Works with Geoffrey Baer",
-        "overview": "",
-        "popularity": 0.0741,
-        "poster_path": "/81cWGK78T3ZGcJttOywjQxJxCL7.jpg",
-        "release_date": "2025-12-09",
-        "title": "Chicago Works with Geoffrey Baer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hYUm03F4ycDEbEgjqvQr0XdcCiw.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1593186,
-        "original_language": "en",
-        "original_title": "#@$%",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/kTrquOu55cgf78570g0LDtXQE1Z.jpg",
-        "release_date": "2025-12-09",
-        "title": "#@$%",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3nGaKUwAkRQdMaHMNeGglXJLezB.jpg",
-        "genre_ids": [
-            27,
-            18
-        ],
-        "id": 1593255,
-        "original_language": "en",
-        "original_title": "Serena",
-        "overview": "",
-        "popularity": 0.0361,
-        "poster_path": "/vdxdh4vytwlW3ABUxC818rlLWJJ.jpg",
-        "release_date": "2025-12-09",
-        "title": "Serena",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -597,28 +597,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sjk2o4IPPHttsPKwwz5i9OiuQjj.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1591603,
-        "original_language": "fr",
-        "original_title": "Cuisine solidaire, ça mijote ensemble",
-        "overview": "",
-        "popularity": 0.0256,
-        "poster_path": null,
-        "release_date": "2025-12-09",
-        "title": "Cuisine solidaire, ça mijote ensemble",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1525895,
@@ -651,6 +629,78 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sjk2o4IPPHttsPKwwz5i9OiuQjj.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1591603,
+        "original_language": "fr",
+        "original_title": "Cuisine solidaire, ça mijote ensemble",
+        "overview": "",
+        "popularity": 0.0256,
+        "poster_path": null,
+        "release_date": "2025-12-09",
+        "title": "Cuisine solidaire, ça mijote ensemble",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/56eLYULVQzTpIrdHtXlCiioIdtC.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1595160,
+        "original_language": "fr",
+        "original_title": "Hallyday par David",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4iUIWf3jnXXjhgUa0st1OLVwiEE.jpg",
+        "release_date": "2025-12-09",
+        "title": "Hallyday par David",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2oI9gQafUx1RGBSTYRWUVB2nmf3.jpg",
+        "genre_ids": [
+            36,
+            99,
+            18
+        ],
+        "id": 1595121,
+        "original_language": "fr",
+        "original_title": "Laïcité : l'exception française",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/umRSOYMW0xh5iYCAipdz9TEgOkB.jpg",
+        "release_date": "2025-12-09",
+        "title": "Laïcité : l'exception française",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "历史",
+            "纪录",
+            "剧情"
+        ],
         "original_language_zh": "法语"
     },
     {
@@ -700,6 +750,30 @@
             "剧情"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1595153,
+        "original_language": "pt",
+        "original_title": "Deixe o Mar Levar os Meus Pecados",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/d5y9zIPfNA0brT3wIpIGl5t6tSt.jpg",
+        "release_date": "2025-12-09",
+        "title": "Deixe o Mar Levar os Meus Pecados",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
