@@ -11,12 +11,12 @@
         "original_title": "Merv",
         "overview": "",
         "popularity": 4.4238,
-        "poster_path": "/9yfwLB2BBBG5YSuJXtSRTaT8poS.jpg",
+        "poster_path": "/84ltW2FwGaLMbRvAnKNlTFlceov.jpg",
         "release_date": "2025-12-10",
-        "title": "Merv",
+        "title": "爱犬莫福",
         "video": false,
-        "vote_average": 7.0,
-        "vote_count": 1,
+        "vote_average": 7.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "喜剧",
             "爱情"
@@ -467,6 +467,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/g0gxFYO35EmTb7enSNn2ZRF1Irw.jpg",
+        "genre_ids": [
+            53,
+            35,
+            27
+        ],
+        "id": 1595452,
+        "original_language": "en",
+        "original_title": "Velapse",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/hUp8UQSjtbDRmPUiYLViXU4qhMJ.jpg",
+        "release_date": "2025-12-10",
+        "title": "Velapse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/2KjVdtNRI7NrIsClEnnpR3cUAdg.jpg",
         "genre_ids": [
             35,
@@ -486,6 +512,30 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1595486,
+        "original_language": "en",
+        "original_title": "789",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/bKrwouHuRt3SpcABLBoFg9kE6vd.jpg",
+        "release_date": "2025-12-10",
+        "title": "789",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -550,28 +600,6 @@
         "genre_ids_zh": [
             "恐怖",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/qYlnljwsqQXHzRMRmR4iV5N8gpk.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1584830,
-        "original_language": "en",
-        "original_title": "Please take your shoes off",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/gWhyw6akunO4dcwGyoNJtICrKi5.jpg",
-        "release_date": "2025-12-10",
-        "title": "Please take your shoes off",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -662,6 +690,28 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1595910,
+        "original_language": "en",
+        "original_title": "Classic!",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9JhymG6ACEuf2HKVSa28nFpqg7T.jpg",
+        "release_date": "2025-12-10",
+        "title": "Classic!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -820,56 +870,6 @@
             "喜剧",
             "剧情",
             "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            35
-        ],
-        "id": 1595486,
-        "original_language": "en",
-        "original_title": "789",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/bKrwouHuRt3SpcABLBoFg9kE6vd.jpg",
-        "release_date": "2025-12-10",
-        "title": "789",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            35,
-            27
-        ],
-        "id": 1595452,
-        "original_language": "en",
-        "original_title": "Velapse",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/hUp8UQSjtbDRmPUiYLViXU4qhMJ.jpg",
-        "release_date": "2025-12-10",
-        "title": "Velapse",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧",
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -1441,6 +1441,24 @@
         "poster_path": "/66UKXrDDKSHMkePmTO67dST7Nno.jpg",
         "release_date": "2025-12-10",
         "title": "Todos los nombres de mis amigos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1596046,
+        "original_language": "es",
+        "original_title": "Bruce Lee. Dentro del dragón",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/r9uDemrjQSYMMVRS6Yj4KAfyeH.jpg",
+        "release_date": "2025-12-10",
+        "title": "Bruce Lee. Dentro del dragón",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,

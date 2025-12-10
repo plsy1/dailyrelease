@@ -152,10 +152,32 @@
         "title": "Silent Night, Deadly Night",
         "video": false,
         "vote_average": 7.0,
-        "vote_count": 1,
+        "vote_count": 2,
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vUDG0ACgpFZ4CrY1edVe2Vxhgdk.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1562010,
+        "original_language": "en",
+        "original_title": "Taylor Swift | The Eras Tour | The Final Show",
+        "overview": "",
+        "popularity": 5.5168,
+        "poster_path": "/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
+        "release_date": "2025-12-11",
+        "title": "Taylor Swift | The Eras Tour | The Final Show",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -184,28 +206,6 @@
             "奇幻",
             "恐怖",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vUDG0ACgpFZ4CrY1edVe2Vxhgdk.jpg",
-        "genre_ids": [
-            10402
-        ],
-        "id": 1562010,
-        "original_language": "en",
-        "original_title": "Taylor Swift | The Eras Tour | The Final Show",
-        "overview": "",
-        "popularity": 5.5168,
-        "poster_path": "/c11km7kLK2F30fTNHP5Si9m8foG.jpg",
-        "release_date": "2025-12-11",
-        "title": "Taylor Swift | The Eras Tour | The Final Show",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -1034,7 +1034,7 @@
         "original_title": "País es una Palabra Corta",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": null,
+        "poster_path": "/lE1ZBnBjUs7F5BqWgPXztivhPEp.jpg",
         "release_date": "2025-12-11",
         "title": "País es una Palabra Corta",
         "video": false,
@@ -1406,6 +1406,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1596081,
+        "original_language": "nl",
+        "original_title": "Nijmegen, in de tijd verdwaald",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tnSspTQx9wFmjLT1nkfmxNRmSDj.jpg",
+        "release_date": "2025-12-11",
+        "title": "Nijmegen, in de tijd verdwaald",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "荷兰语"
     },
