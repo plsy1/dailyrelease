@@ -113,6 +113,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1411520,
+        "original_language": "en",
+        "original_title": "Queen of the Rats",
+        "overview": "",
+        "popularity": 3.1151,
+        "poster_path": "/lbINKc5DkXp7WmCKEJ2O8XU95sr.jpg",
+        "release_date": "2025-12-12",
+        "title": "Queen of the Rats",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/1hBbAO6OwF15nzkDGSo3Bj5k8SR.jpg",
         "genre_ids": [
             35,
@@ -132,28 +154,6 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1411520,
-        "original_language": "en",
-        "original_title": "Queen of the Rats",
-        "overview": "",
-        "popularity": 3.1151,
-        "poster_path": "/lbINKc5DkXp7WmCKEJ2O8XU95sr.jpg",
-        "release_date": "2025-12-12",
-        "title": "Queen of the Rats",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -180,28 +180,6 @@
             "爱情",
             "剧情",
             "电视电影"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/37vus3DvFELdQOz7w5poPylDMFU.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1567893,
-        "original_language": "en",
-        "original_title": "Sarah Squirm: Live + in the Flesh",
-        "overview": "",
-        "popularity": 0.7834,
-        "poster_path": "/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
-        "release_date": "2025-12-12",
-        "title": "Sarah Squirm: Live + in the Flesh",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -253,6 +231,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/37vus3DvFELdQOz7w5poPylDMFU.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1567893,
+        "original_language": "en",
+        "original_title": "Sarah Squirm: Live + in the Flesh",
+        "overview": "",
+        "popularity": 0.7834,
+        "poster_path": "/73wbpsAR1OK0faQCNXYHA37rAld.jpg",
+        "release_date": "2025-12-12",
+        "title": "Sarah Squirm: Live + in the Flesh",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/dk9uPAND5RxwnyXytu08Fb6nEqE.jpg",
         "genre_ids": [
             14,
@@ -280,27 +280,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            28,
-            53,
-            18
-        ],
-        "id": 1547548,
+        "genre_ids": [],
+        "id": 1594857,
         "original_language": "en",
-        "original_title": "Ruthless Atonement",
+        "original_title": "Sholay: The Final Cut",
         "overview": "",
-        "popularity": 0.1006,
-        "poster_path": "/2XcSKeD9A91My1Jj9hSABSQt2HW.jpg",
+        "popularity": 0.3061,
+        "poster_path": "/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg",
         "release_date": "2025-12-12",
-        "title": "Ruthless Atonement",
+        "title": "Sholay: The Final Cut",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "惊悚",
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -329,30 +321,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jSpmlXkvqvdf4LBcOLqqdzPKCMk.jpg",
-        "genre_ids": [
-            35,
-            878
-        ],
-        "id": 1593045,
-        "original_language": "en",
-        "original_title": "Boomer Rebirth",
-        "overview": "",
-        "popularity": 0.153,
-        "poster_path": "/ztwMUvoNoRdLhgHZ2jBmiNJJJr4.jpg",
-        "release_date": "2025-12-12",
-        "title": "Boomer Rebirth",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -372,6 +340,78 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
+            "喜剧",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7I0vE87MwT8XpntuT2RhEX4abLJ.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1499468,
+        "original_language": "en",
+        "original_title": "Everybody Wants to go to The Party",
+        "overview": "",
+        "popularity": 0.1679,
+        "poster_path": "/hT1xOKhpCfpBUzykJ5uP6WiMGnB.jpg",
+        "release_date": "2025-12-12",
+        "title": "Everybody Wants to go to The Party",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pNWjBQvZBkzEBAvxpn5sQokhcRl.jpg",
+        "genre_ids": [
+            35,
+            27,
+            9648
+        ],
+        "id": 1573153,
+        "original_language": "en",
+        "original_title": "Fall Dies",
+        "overview": "",
+        "popularity": 0.1573,
+        "poster_path": "/lsw0iEGBRKMElU39GxXX03KjT2s.jpg",
+        "release_date": "2025-12-12",
+        "title": "Fall Dies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jSpmlXkvqvdf4LBcOLqqdzPKCMk.jpg",
+        "genre_ids": [
+            35,
+            878
+        ],
+        "id": 1593045,
+        "original_language": "en",
+        "original_title": "Boomer Rebirth",
+        "overview": "",
+        "popularity": 0.153,
+        "poster_path": "/ztwMUvoNoRdLhgHZ2jBmiNJJJr4.jpg",
+        "release_date": "2025-12-12",
+        "title": "Boomer Rebirth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "喜剧",
             "科幻"
         ],
@@ -405,75 +445,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/pNWjBQvZBkzEBAvxpn5sQokhcRl.jpg",
+        "backdrop_path": "/mLWNQADI1oCmpoghDX6st3AWG41.jpg",
         "genre_ids": [
-            35,
-            27,
-            9648
+            10749,
+            18
         ],
-        "id": 1573153,
+        "id": 1595842,
         "original_language": "en",
-        "original_title": "Fall Dies",
+        "original_title": "Split",
         "overview": "",
-        "popularity": 0.1573,
-        "poster_path": "/lsw0iEGBRKMElU39GxXX03KjT2s.jpg",
+        "popularity": 0.1439,
+        "poster_path": "/xTQAnoY0qBu4UzRDvMFqJIkvObU.jpg",
         "release_date": "2025-12-12",
-        "title": "Fall Dies",
+        "title": "Split",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
-            "喜剧",
-            "恐怖",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10751,
-            10749
-        ],
-        "id": 1592380,
-        "original_language": "en",
-        "original_title": "Devoted Heart",
-        "overview": "",
-        "popularity": 0.1048,
-        "poster_path": "/bA8OLnllAkuVkL0wgaJFpoYhlBD.jpg",
-        "release_date": "2025-12-12",
-        "title": "Devoted Heart",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "家庭",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/easkT38aofunoCZtmcU0UpHuK9T.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1584207,
-        "original_language": "en",
-        "original_title": "Gacked: The Movie to the Soundtrack",
-        "overview": "",
-        "popularity": 0.0702,
-        "poster_path": "/tQiUUg1clroI58lYNijK08R7oeM.jpg",
-        "release_date": "2025-12-12",
-        "title": "Gacked: The Movie to the Soundtrack",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
+            "爱情",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -509,51 +499,51 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
-            53,
-            18
+            18,
+            10751,
+            10749
         ],
-        "id": 1592985,
+        "id": 1592380,
         "original_language": "en",
-        "original_title": "Hag",
+        "original_title": "Devoted Heart",
         "overview": "",
-        "popularity": 0.0675,
-        "poster_path": "/ruJ2SWdv98Om1OPzdjfWi2lUK8U.jpg",
+        "popularity": 0.1048,
+        "poster_path": "/bA8OLnllAkuVkL0wgaJFpoYhlBD.jpg",
         "release_date": "2025-12-12",
-        "title": "Hag",
+        "title": "Devoted Heart",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚",
-            "剧情"
+            "剧情",
+            "家庭",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/zC3srTR7MZifDeNyv0Ka1ggkj66.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             28,
-            27,
-            35
+            53,
+            18
         ],
-        "id": 1291466,
+        "id": 1547548,
         "original_language": "en",
-        "original_title": "Holy Cripes! It’s Pipes Mackenzie!",
+        "original_title": "Ruthless Atonement",
         "overview": "",
-        "popularity": 0.0505,
-        "poster_path": "/30Lts1LkDv7L3OmnodftYKst8Eg.jpg",
+        "popularity": 0.1006,
+        "poster_path": "/2XcSKeD9A91My1Jj9hSABSQt2HW.jpg",
         "release_date": "2025-12-12",
-        "title": "Holy Cripes! It’s Pipes Mackenzie!",
+        "title": "Ruthless Atonement",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "动作",
-            "恐怖",
-            "喜剧"
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -651,24 +641,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1594857,
-        "original_language": "en",
-        "original_title": "Sholay: The Final Cut",
-        "overview": "",
-        "popularity": 0.3061,
-        "poster_path": "/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg",
-        "release_date": "2025-12-12",
-        "title": "Sholay: The Final Cut",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/lKXeYRty4cczWoCUxeL5ubDq8q9.jpg",
         "genre_ids": [
             35,
@@ -750,28 +722,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/7I0vE87MwT8XpntuT2RhEX4abLJ.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1499468,
-        "original_language": "en",
-        "original_title": "Everybody Wants to go to The Party",
-        "overview": "",
-        "popularity": 0.1679,
-        "poster_path": "/hT1xOKhpCfpBUzykJ5uP6WiMGnB.jpg",
-        "release_date": "2025-12-12",
-        "title": "Everybody Wants to go to The Party",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1004,30 +954,6 @@
         "genre_ids_zh": [
             "喜剧",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mLWNQADI1oCmpoghDX6st3AWG41.jpg",
-        "genre_ids": [
-            10749,
-            18
-        ],
-        "id": 1595842,
-        "original_language": "en",
-        "original_title": "Split",
-        "overview": "",
-        "popularity": 0.1439,
-        "poster_path": "/xTQAnoY0qBu4UzRDvMFqJIkvObU.jpg",
-        "release_date": "2025-12-12",
-        "title": "Split",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "爱情",
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1521,28 +1447,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1591873,
-        "original_language": "pt",
-        "original_title": "Sulfite",
-        "overview": "",
-        "popularity": 0.1533,
-        "poster_path": null,
-        "release_date": "2025-12-12",
-        "title": "Sulfite",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qPWrffMVnaVv2ta5KyvbfypYAQ1.jpg",
         "genre_ids": [
             10749,
@@ -1569,23 +1473,45 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dER02ClZN75pvaq8N94WC5qTfj4.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             35
         ],
-        "id": 1591698,
+        "id": 1591873,
         "original_language": "pt",
-        "original_title": "A República",
+        "original_title": "Sulfite",
         "overview": "",
-        "popularity": 0.0955,
-        "poster_path": "/nDBIyMS9UyK339PyyTgB2Z3HIWD.jpg",
+        "popularity": 0.1533,
+        "poster_path": null,
         "release_date": "2025-12-12",
-        "title": "A República",
+        "title": "Sulfite",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1594677,
+        "original_language": "pt",
+        "original_title": "Álbum do Bebê",
+        "overview": "",
+        "popularity": 0.1292,
+        "poster_path": "/k23TKa5QDjDepzgKk389mPsRpZj.jpg",
+        "release_date": "2025-12-12",
+        "title": "Álbum do Bebê",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1612,6 +1538,28 @@
             "科幻",
             "惊悚",
             "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dER02ClZN75pvaq8N94WC5qTfj4.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1591698,
+        "original_language": "pt",
+        "original_title": "A República",
+        "overview": "",
+        "popularity": 0.0955,
+        "poster_path": "/nDBIyMS9UyK339PyyTgB2Z3HIWD.jpg",
+        "release_date": "2025-12-12",
+        "title": "A República",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1652,7 +1600,7 @@
         "original_title": "C.L.I.C.H.E.",
         "overview": "",
         "popularity": 0.08,
-        "poster_path": null,
+        "poster_path": "/iK1SL2lpEeGpz1Q6091k5LTqbN9.jpg",
         "release_date": "2025-12-12",
         "title": "C.L.I.C.H.E.",
         "video": false,
@@ -1689,28 +1637,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ldaIcGRQjVlIcIF82K8iNunZ0a0.jpg",
-        "genre_ids": [
-            10749
-        ],
-        "id": 1582825,
-        "original_language": "pt",
-        "original_title": "Só Quero Dançar com Você",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/puxWilq4SlLyj7lVURUnNeypUzm.jpg",
-        "release_date": "2025-12-12",
-        "title": "Só Quero Dançar com Você",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1728,6 +1654,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ldaIcGRQjVlIcIF82K8iNunZ0a0.jpg",
+        "genre_ids": [
+            10749
+        ],
+        "id": 1582825,
+        "original_language": "pt",
+        "original_title": "Só Quero Dançar com Você",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/puxWilq4SlLyj7lVURUnNeypUzm.jpg",
+        "release_date": "2025-12-12",
+        "title": "Só Quero Dançar com Você",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1757,21 +1705,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1594677,
+        "id": 1596769,
         "original_language": "pt",
-        "original_title": "Álbum do Bebê",
+        "original_title": "Herança",
         "overview": "",
-        "popularity": 0.1292,
-        "poster_path": "/k23TKa5QDjDepzgKk389mPsRpZj.jpg",
+        "popularity": 0.0,
+        "poster_path": null,
         "release_date": "2025-12-12",
-        "title": "Álbum do Bebê",
+        "title": "Herança",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
