@@ -77,6 +77,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6FdzOGQFh72iv0TwUBo1hSfH1zN.jpg",
+        "genre_ids": [
+            10770,
+            35,
+            10749
+        ],
+        "id": 1554297,
+        "original_language": "en",
+        "original_title": "Have We Met This Christmas?",
+        "overview": "",
+        "popularity": 1.6462,
+        "poster_path": "/65qmehVcT4e9sxKj1ufPfx96atS.jpg",
+        "release_date": "2025-12-13",
+        "title": "Have We Met This Christmas?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "电视电影",
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vooNCi20hgcNcts6jX6snxR8oxF.jpg",
         "genre_ids": [
             18,
@@ -122,32 +148,6 @@
             "剧情",
             "犯罪",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6FdzOGQFh72iv0TwUBo1hSfH1zN.jpg",
-        "genre_ids": [
-            10770,
-            35,
-            10749
-        ],
-        "id": 1554297,
-        "original_language": "en",
-        "original_title": "Have We Met This Christmas?",
-        "overview": "",
-        "popularity": 1.6462,
-        "poster_path": "/65qmehVcT4e9sxKj1ufPfx96atS.jpg",
-        "release_date": "2025-12-13",
-        "title": "Have We Met This Christmas?",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "电视电影",
-            "喜剧",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -423,6 +423,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1597154,
+        "original_language": "en",
+        "original_title": "The Art Exhibit",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-13",
+        "title": "The Art Exhibit",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27
         ],
         "id": 1597020,
@@ -617,7 +639,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6AEkj2Yaa9BIuJHEAaTBm4YLQ2I.jpg",
+        "backdrop_path": "/fNHDznH4oLieGUxh2LkvszjpS1s.jpg",
         "genre_ids": [
             35,
             27,
