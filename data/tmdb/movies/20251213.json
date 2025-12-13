@@ -671,7 +671,7 @@
         "original_language": "de",
         "original_title": "Dian Fossey: Ihr Leben für die Gorillas",
         "overview": "",
-        "popularity": 0.1384,
+        "popularity": 0.1844,
         "poster_path": "/6M3RnPWUsOkgbpLHmMisDTzle1i.jpg",
         "release_date": "2025-12-13",
         "title": "Dian Fossey: Ihr Leben für die Gorillas",
@@ -872,7 +872,7 @@
         "original_language": "es",
         "original_title": "La Nueva Ola Limeña",
         "overview": "",
-        "popularity": 0.0409,
+        "popularity": 0.0327,
         "poster_path": "/6QYNWAQk0OazhZK99qeJfxdqlFE.jpg",
         "release_date": "2025-12-13",
         "title": "La Nueva Ola Limeña",
@@ -909,6 +909,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1596390,
+        "original_language": "es",
+        "original_title": "La esposa de Ramon",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/ypugLHc8WGNs7J5MJ8L7uOEIgL5.jpg",
+        "release_date": "2025-12-13",
+        "title": "La esposa de Ramon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/4HvTmvrjOz5x8QeuuNVxc1koTBK.jpg",
         "genre_ids": [
             18,
@@ -933,23 +955,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/9vfAoF0Cpb1S9KRUR6O4Yd5yU5n.jpg",
         "genre_ids": [
-            18
+            27
         ],
-        "id": 1596390,
+        "id": 1596931,
         "original_language": "es",
-        "original_title": "La esposa de Ramon",
+        "original_title": "Ángel Blanco",
         "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/ypugLHc8WGNs7J5MJ8L7uOEIgL5.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/yUtttSIs2hyQINrVGnd9gRdf8yq.jpg",
         "release_date": "2025-12-13",
-        "title": "La esposa de Ramon",
+        "title": "Ángel Blanco",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -963,7 +985,7 @@
         "original_language": "es",
         "original_title": "Semillas del Pasado",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0,
         "poster_path": "/4Q5XJUnMxChQvCUOKAcwNyD0NqK.jpg",
         "release_date": "2025-12-13",
         "title": "Semillas del Pasado",
@@ -977,23 +999,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9vfAoF0Cpb1S9KRUR6O4Yd5yU5n.jpg",
+        "backdrop_path": "/dFrXZI0GKJ2IxXgkXhpKO83WQQ7.jpg",
         "genre_ids": [
-            27
+            99
         ],
-        "id": 1596931,
+        "id": 1597406,
         "original_language": "es",
-        "original_title": "Ángel Blanco",
+        "original_title": "Historia Viva",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": "/yUtttSIs2hyQINrVGnd9gRdf8yq.jpg",
+        "poster_path": "/5v6ep7fsLOly6Tl6AEg9JZWw0iz.jpg",
         "release_date": "2025-12-13",
-        "title": "Ángel Blanco",
+        "title": "Historia Viva",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
