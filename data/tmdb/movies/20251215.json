@@ -217,28 +217,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1476536,
-        "original_language": "en",
-        "original_title": "Mood Swings",
-        "overview": "",
-        "popularity": 0.0906,
-        "poster_path": "/fFhhPjpk8IXM5HQLu1HYq9o50Xf.jpg",
-        "release_date": "2025-12-15",
-        "title": "Mood Swings",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             9648,
             53
@@ -258,6 +236,28 @@
             "喜剧",
             "悬疑",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1598116,
+        "original_language": "en",
+        "original_title": "Gabby and Eleanor Go Up and Down the Mountain",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-15",
+        "title": "Gabby and Eleanor Go Up and Down the Mountain",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
