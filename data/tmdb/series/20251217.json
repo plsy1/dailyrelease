@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/iRme30woSQJhcQwbYAsRbSV8mtF.jpg",
         "genre_ids": [
             18,
             10765
@@ -28,21 +28,25 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 308316,
         "origin_country": [
             "中国"
         ],
         "original_language": "zh",
         "original_name": "君不知",
-        "overview": "",
+        "overview": "沈青如家族惨遭灭门，误以为是宇文阙所为，展开复仇。她嫁入将军府，被囚禁于宫中，与宇文阙在爱恨纠葛中互相折磨。最终真相大白，宇文阙为保护她甘愿牺牲一切，两人和解，沈青如认祖归宗为沧州公主，在权力斗争中获得救赎。",
         "popularity": 0.0,
         "poster_path": "/bcl4ApeEl1nrKhzysKyDQ6G1lDF.jpg",
         "first_air_date": "2025-12-17",
         "name": "君不知",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
