@@ -10,7 +10,7 @@
         "id": 1597774,
         "original_language": "zh",
         "original_title": "狄仁杰之彼岸奇花",
-        "overview": "",
+        "overview": "　　狄武周天授元年，岭南潞州城司马孔成业迷恋修道炼丹，传闻找到了长生不老丹的药方，只缺一味名叫彼岸花的奇草。传言这是来自地狱的死亡之花，常年生长在坟冢幽谷之中，能致人产生幻觉，中幻觉者如妖邪附体般，发狂发癫，死状凄惨。\r 　　孔成业发出悬赏，采到彼岸花者，赏百金。山民猎户等纷纷进山寻找，连孔成业也带人到处扒坟冢、探幽谷。忙活的孔成业突然惨死，死前发狂。连他的几名参军也死相极惨，都说孔成业采到了彼岸花，被妖邪附身杀死，闹得满城风雨。潞州刺史陆英杰上报朝廷，恰逢狄仁杰巡查岭南诸州，女皇武则天命其前往潞州，全权调查此案.。",
         "popularity": 0.0925,
         "poster_path": "/4wXiKFabYpQZvcWfGxcrE04fxPE.jpg",
         "release_date": "2025-12-15",
@@ -585,6 +585,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1598629,
+        "original_language": "es",
+        "original_title": "Isi",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8aNnei4hrPwceG73uRFIT5eAcmQ.jpg",
+        "release_date": "2025-12-15",
+        "title": "Isi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/8H7UutpxIlTTXNlap1eBMZfiHGx.jpg",
         "genre_ids": [
             99
@@ -700,7 +718,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 1571860,
         "original_language": "pt",
         "original_title": "A Vida Depois",
@@ -712,7 +732,9 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
