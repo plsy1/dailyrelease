@@ -16,8 +16,8 @@
         "release_date": "2025-12-17",
         "title": "阿凡达3",
         "video": false,
-        "vote_average": 6.214,
-        "vote_count": 14,
+        "vote_average": 6.7,
+        "vote_count": 16,
         "genre_ids_zh": [
             "科幻",
             "冒险",
@@ -53,6 +53,60 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            12,
+            27,
+            14,
+            9648
+        ],
+        "id": 1597747,
+        "original_language": "en",
+        "original_title": "Little Nightmare",
+        "overview": "",
+        "popularity": 0.2981,
+        "poster_path": "/iTCt1cFmvn1AHiWc31z4ITQh5Ff.jpg",
+        "release_date": "2025-12-17",
+        "title": "Little Nightmare",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "冒险",
+            "恐怖",
+            "奇幻",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5GFp4Q2Zj1dXrsbLOmeht3yYIwz.jpg",
+        "genre_ids": [
+            35,
+            53,
+            27
+        ],
+        "id": 1591515,
+        "original_language": "en",
+        "original_title": "Cottage Pie",
+        "overview": "",
+        "popularity": 0.1435,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Cottage Pie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             27
         ],
@@ -77,27 +131,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            12,
-            27,
-            14,
-            9648
+            27
         ],
-        "id": 1597747,
+        "id": 1589694,
         "original_language": "en",
-        "original_title": "Little Nightmare",
+        "original_title": "The Silent Night",
         "overview": "",
-        "popularity": 0.2981,
-        "poster_path": "/iTCt1cFmvn1AHiWc31z4ITQh5Ff.jpg",
+        "popularity": 0.1292,
+        "poster_path": "/E0A8nLw83wva1FYzOg0n5itI64.jpg",
         "release_date": "2025-12-17",
-        "title": "Little Nightmare",
+        "title": "The Silent Night",
         "video": false,
-        "vote_average": 9.0,
-        "vote_count": 3,
+        "vote_average": 0.0,
+        "vote_count": 0,
         "genre_ids_zh": [
-            "冒险",
-            "恐怖",
-            "奇幻",
-            "悬疑"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -142,54 +190,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1589694,
-        "original_language": "en",
-        "original_title": "The Silent Night",
-        "overview": "",
-        "popularity": 0.1292,
-        "poster_path": "/E0A8nLw83wva1FYzOg0n5itI64.jpg",
-        "release_date": "2025-12-17",
-        "title": "The Silent Night",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/5GFp4Q2Zj1dXrsbLOmeht3yYIwz.jpg",
-        "genre_ids": [
-            35,
-            53,
-            27
-        ],
-        "id": 1591515,
-        "original_language": "en",
-        "original_title": "Cottage Pie",
-        "overview": "",
-        "popularity": 0.1435,
-        "poster_path": null,
-        "release_date": "2025-12-17",
-        "title": "Cottage Pie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "惊悚",
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -265,6 +265,50 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1598370,
+        "original_language": "en",
+        "original_title": "Tis The Season",
+        "overview": "",
+        "popularity": 0.0521,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Tis The Season",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2fbkNlOBPq5vxQRns3PpUDrc8eq.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1578789,
+        "original_language": "en",
+        "original_title": "Giorgio Visioli vs. Joe Howarth",
+        "overview": "",
+        "popularity": 0.0495,
+        "poster_path": "/pmGvQm4lgHMO8lsznzFHyFIxTMp.jpg",
+        "release_date": "2025-12-17",
+        "title": "Giorgio Visioli vs. Joe Howarth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             16
         ],
         "id": 1568314,
@@ -309,30 +353,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            10751
-        ],
-        "id": 1561911,
-        "original_language": "en",
-        "original_title": "The RJTshan Christmas Special 2",
-        "overview": "",
-        "popularity": 0.0352,
-        "poster_path": "/aP0Xt5Ek0sMtgi2WhWSNLdgt1bJ.jpg",
-        "release_date": "2025-12-17",
-        "title": "The RJTshan Christmas Special 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/kp7sc4VEORXreh0oKuyhoSncPpN.jpg",
         "genre_ids": [
             28,
@@ -357,67 +377,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2fbkNlOBPq5vxQRns3PpUDrc8eq.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1578789,
-        "original_language": "en",
-        "original_title": "Giorgio Visioli vs. Joe Howarth",
-        "overview": "",
-        "popularity": 0.0495,
-        "poster_path": "/pmGvQm4lgHMO8lsznzFHyFIxTMp.jpg",
-        "release_date": "2025-12-17",
-        "title": "Giorgio Visioli vs. Joe Howarth",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            35,
+            10751
         ],
-        "id": 1598302,
+        "id": 1561911,
         "original_language": "en",
-        "original_title": "Merry Xmas",
+        "original_title": "The RJTshan Christmas Special 2",
         "overview": "",
-        "popularity": 0.0193,
-        "poster_path": null,
+        "popularity": 0.0352,
+        "poster_path": "/aP0Xt5Ek0sMtgi2WhWSNLdgt1bJ.jpg",
         "release_date": "2025-12-17",
-        "title": "Merry Xmas",
+        "title": "The RJTshan Christmas Special 2",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1598370,
-        "original_language": "en",
-        "original_title": "Tis The Season",
-        "overview": "",
-        "popularity": 0.0521,
-        "poster_path": null,
-        "release_date": "2025-12-17",
-        "title": "Tis The Season",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
+            "喜剧",
+            "家庭"
         ],
         "original_language_zh": "英语"
     },
@@ -445,24 +423,22 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xIlhsoTJ95RFdvameX9llRnILOg.jpg",
+        "backdrop_path": "/7USnUfvTs7eL3znHQkX4fF7cPnf.jpg",
         "genre_ids": [
-            35,
             18
         ],
-        "id": 1575035,
+        "id": 1598302,
         "original_language": "en",
-        "original_title": "Wham!",
+        "original_title": "Merry Xmas",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/k5x04KEigUGHHWb9wCLgHfuMYs5.jpg",
+        "popularity": 0.0193,
+        "poster_path": "/7gdewwozLi44ol2tGrHyhDRpbua.jpg",
         "release_date": "2025-12-17",
-        "title": "Wham!",
+        "title": "Merry Xmas",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -501,6 +477,74 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xIlhsoTJ95RFdvameX9llRnILOg.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1575035,
+        "original_language": "en",
+        "original_title": "Wham!",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/k5x04KEigUGHHWb9wCLgHfuMYs5.jpg",
+        "release_date": "2025-12-17",
+        "title": "Wham!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1599209,
+        "original_language": "en",
+        "original_title": "Radta",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Radta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1599197,
+        "original_language": "en",
+        "original_title": "Santa's Coming",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Santa's Coming",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -667,6 +711,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1589279,
+        "original_language": "fr",
+        "original_title": "Kogis – Ensemble pour soigner la Terre",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/h6zIAbhiH6kctGdeO73i2LEhrBz.jpg",
+        "release_date": "2025-12-17",
+        "title": "Kogis – Ensemble pour soigner la Terre",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53,
             18,
             9648
@@ -809,7 +875,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/cxCNPvnJnZ3eN76wnAwrDKMEXaQ.jpg",
         "genre_ids": [
             16,
             14,
@@ -849,6 +915,182 @@
         "poster_path": "/3R7aJZPXUTBqPYXCcG5UyDU6DZy.jpg",
         "release_date": "2025-12-17",
         "title": "Pit Stop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1599126,
+        "original_language": "pt",
+        "original_title": "Reminiscências de um Jantar a Dois",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Reminiscências de um Jantar a Dois",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1599123,
+        "original_language": "pt",
+        "original_title": "Com amor, Anônimo",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Com amor, Anônimo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1599120,
+        "original_language": "pt",
+        "original_title": "Procissão",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Procissão",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1599114,
+        "original_language": "pt",
+        "original_title": "Meu Inferno",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Meu Inferno",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1599112,
+        "original_language": "pt",
+        "original_title": "Vendedor de Sonhos",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Vendedor de Sonhos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1599108,
+        "original_language": "pt",
+        "original_title": "Porta Vermelha",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Porta Vermelha",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1599107,
+        "original_language": "pt",
+        "original_title": "Não há Como Garantir que Todos os Produtos Funcionem",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "Não há Como Garantir que Todos os Produtos Funcionem",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1599106,
+        "original_language": "pt",
+        "original_title": "No Meio da Rua",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-17",
+        "title": "No Meio da Rua",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
