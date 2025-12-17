@@ -16,13 +16,31 @@
         "release_date": "2025-12-17",
         "title": "阿凡达3",
         "video": false,
-        "vote_average": 6.8,
-        "vote_count": 20,
+        "vote_average": 6.952,
+        "vote_count": 22,
         "genre_ids_zh": [
             "科幻",
             "冒险",
             "奇幻"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1453186,
+        "original_language": "en",
+        "original_title": "Smooth Operator",
+        "overview": "",
+        "popularity": 0.792,
+        "poster_path": "/zvmkZQ8quxBRguWK1cE04RAwh9w.jpg",
+        "release_date": "2025-12-17",
+        "title": "Smooth Operator",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -51,7 +69,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/mjYBT4p1IvcNrfyvDPFNkOCKSmm.jpg",
         "genre_ids": [
             99,
             80
@@ -59,11 +77,11 @@
         "id": 1584619,
         "original_language": "en",
         "original_title": "Murder in Monaco",
-        "overview": "",
+        "overview": "在 1999 年的摩纳哥。一位世界顶级富豪在其顶层公寓中死亡。本纪录片揭开亿万富翁银行家埃德蒙·萨夫拉被谋杀之谜。",
         "popularity": 0.496,
         "poster_path": "/hyDL02uwMkJDUVcggnvQi6ND85n.jpg",
         "release_date": "2025-12-17",
-        "title": "Murder in Monaco",
+        "title": "摩纳哥谋杀案：银行家死亡之谜",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -220,24 +238,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1598551,
-        "original_language": "en",
-        "original_title": "Mandirigma",
-        "overview": "",
-        "popularity": 0.1175,
-        "poster_path": "/o21KeAQR7KsVKMImX8Sk26Noms8.jpg",
-        "release_date": "2025-12-17",
-        "title": "Mandirigma",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             28,
             35
@@ -327,7 +327,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2fbkNlOBPq5vxQRns3PpUDrc8eq.jpg",
+        "backdrop_path": "/7ncTN0BtD8Bdky3TnmaDNR4lk2e.jpg",
         "genre_ids": [
             28
         ],
@@ -747,6 +747,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kHABrtxfvq9fdIvAqTtO0DkjFvC.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1599617,
+        "original_language": "fr",
+        "original_title": "Vers d'autres chemins",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/iTkq1ZHgiuc7AA8M2tta3rdvtLr.jpg",
+        "release_date": "2025-12-17",
+        "title": "Vers d'autres chemins",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
