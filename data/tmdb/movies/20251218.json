@@ -150,6 +150,32 @@
         "backdrop_path": null,
         "genre_ids": [
             18,
+            27,
+            80
+        ],
+        "id": 1340367,
+        "original_language": "en",
+        "original_title": "Penance",
+        "overview": "",
+        "popularity": 0.2772,
+        "poster_path": "/swqsRD8osS7f1Fjenxla3qOKnrg.jpg",
+        "release_date": "2025-12-18",
+        "title": "Penance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "恐怖",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
             14,
             878,
             35
@@ -170,32 +196,6 @@
             "奇幻",
             "科幻",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            27,
-            80
-        ],
-        "id": 1340367,
-        "original_language": "en",
-        "original_title": "Penance",
-        "overview": "",
-        "popularity": 0.2772,
-        "poster_path": "/swqsRD8osS7f1Fjenxla3qOKnrg.jpg",
-        "release_date": "2025-12-18",
-        "title": "Penance",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "恐怖",
-            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -227,46 +227,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1512646,
-        "original_language": "en",
-        "original_title": "Miss Rosa",
-        "overview": "",
-        "popularity": 0.0493,
-        "poster_path": "/7aqoFuZoAH4ty8fEmSdrjU7iJvp.jpg",
-        "release_date": "2025-12-18",
-        "title": "Miss Rosa",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1525196,
-        "original_language": "en",
-        "original_title": "Her Night",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/3xQFHsyKhIXB2twpunwDboWrjXE.jpg",
-        "release_date": "2025-12-18",
-        "title": "Her Night",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35,
             99
         ],
@@ -289,25 +249,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2HXEN56QnrDz9MrV4bECNkshcoN.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18,
-            36
+            18
         ],
-        "id": 1560084,
+        "id": 1512646,
         "original_language": "en",
-        "original_title": "Hills & Roots",
+        "original_title": "Miss Rosa",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/9LJzBFh7KndVeoHWjlWwVQujLl7.jpg",
+        "popularity": 0.0493,
+        "poster_path": "/7aqoFuZoAH4ty8fEmSdrjU7iJvp.jpg",
         "release_date": "2025-12-18",
-        "title": "Hills & Roots",
+        "title": "Miss Rosa",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "历史"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -343,6 +301,70 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1525196,
+        "original_language": "en",
+        "original_title": "Her Night",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/3xQFHsyKhIXB2twpunwDboWrjXE.jpg",
+        "release_date": "2025-12-18",
+        "title": "Her Night",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1599261,
+        "original_language": "en",
+        "original_title": "111",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/aqDNu5qzMqJHcYcrF4QD5kJNK0o.jpg",
+        "release_date": "2025-12-18",
+        "title": "111",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2HXEN56QnrDz9MrV4bECNkshcoN.jpg",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "id": 1560084,
+        "original_language": "en",
+        "original_title": "Hills & Roots",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/9LJzBFh7KndVeoHWjlWwVQujLl7.jpg",
+        "release_date": "2025-12-18",
+        "title": "Hills & Roots",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1517364,
         "original_language": "en",
         "original_title": "Thirst For Victory",
@@ -359,20 +381,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1599261,
+        "backdrop_path": "/yEdK1CEUmGShSNr67vjjZ7gKfPh.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1599520,
         "original_language": "en",
-        "original_title": "111",
+        "original_title": "LADY GAGA IN HARLEQUIN LIVE – ONE NIGHT ONLY",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/aqDNu5qzMqJHcYcrF4QD5kJNK0o.jpg",
+        "popularity": 0.0,
+        "poster_path": "/9sE6Vu5722npPaDL35N2fXOgsFB.jpg",
         "release_date": "2025-12-18",
-        "title": "111",
+        "title": "LADY GAGA IN HARLEQUIN LIVE – ONE NIGHT ONLY",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "音乐"
+        ],
         "original_language_zh": "英语"
     },
     {
