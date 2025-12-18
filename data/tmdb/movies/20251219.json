@@ -477,21 +477,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            27
         ],
-        "id": 1477798,
+        "id": 1307748,
         "original_language": "en",
-        "original_title": "Faith (Short Film)",
+        "original_title": "Ride",
         "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/u7uIGMutPTw5mx4oMVEdCag342J.jpg",
+        "popularity": 0.0357,
+        "poster_path": "/4xzwR9A4hdnpwB1XwWymQBwgFo5.jpg",
         "release_date": "2025-12-19",
-        "title": "Faith (Short Film)",
+        "title": "Ride",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -521,25 +521,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/txUuxiAjXc3DY2xmD0mZvPsTXYn.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            28,
-            53
+            18
         ],
-        "id": 1593770,
+        "id": 1477798,
         "original_language": "en",
-        "original_title": "Santa",
+        "original_title": "Faith (Short Film)",
         "overview": "",
-        "popularity": 0.124,
-        "poster_path": "/3TdWVPiQePTWdnyPu4OaZTvZ2Dm.jpg",
+        "popularity": 0.0338,
+        "poster_path": "/u7uIGMutPTw5mx4oMVEdCag342J.jpg",
         "release_date": "2025-12-19",
-        "title": "Santa",
+        "title": "Faith (Short Film)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动作",
-            "惊悚"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -567,48 +565,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/rLxRyPCFVOwPcSFl87KGjMqLDDE.jpg",
         "genre_ids": [
-            27
-        ],
-        "id": 1307748,
-        "original_language": "en",
-        "original_title": "Ride",
-        "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/4xzwR9A4hdnpwB1XwWymQBwgFo5.jpg",
-        "release_date": "2025-12-19",
-        "title": "Ride",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53,
+            10749,
             18
         ],
-        "id": 1431398,
+        "id": 1578051,
         "original_language": "en",
-        "original_title": "Quintet",
+        "original_title": "When the World Stopped Moving",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/9m4Wv2hoUvIB1GT8HcJfQzD9zim.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/oCBoz5Fz3IQXSCnfvRjlNCoqcWH.jpg",
         "release_date": "2025-12-19",
-        "title": "Quintet",
+        "title": "When the World Stopped Moving",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚",
+            "爱情",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -663,51 +637,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rLxRyPCFVOwPcSFl87KGjMqLDDE.jpg",
-        "genre_ids": [
-            10749,
-            18
-        ],
-        "id": 1578051,
-        "original_language": "en",
-        "original_title": "When the World Stopped Moving",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/oCBoz5Fz3IQXSCnfvRjlNCoqcWH.jpg",
-        "release_date": "2025-12-19",
-        "title": "When the World Stopped Moving",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            9648,
-            35
+            27,
+            53,
+            18
         ],
-        "id": 1599061,
+        "id": 1431398,
         "original_language": "en",
-        "original_title": "CHEESE!",
+        "original_title": "Quintet",
         "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/c5NKxLgTiKAsU0e7sJAHprGc9PL.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/9m4Wv2hoUvIB1GT8HcJfQzD9zim.jpg",
         "release_date": "2025-12-19",
-        "title": "CHEESE!",
+        "title": "Quintet",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "悬疑",
-            "喜剧"
+            "恐怖",
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -775,6 +725,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1600230,
+        "original_language": "en",
+        "original_title": "The Curse of the Main Guy",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yASHd4PijNuG2h6GgRocgLvEyeZ.jpg",
+        "release_date": "2025-12-19",
+        "title": "The Curse of the Main Guy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -916,6 +888,28 @@
             "喜剧"
         ],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ueL7DQXBBc2eP2YzIKrmQXtSnXW.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1600263,
+        "original_language": "ko",
+        "original_title": "A Study In Meshes",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/oxL5sWdlkeqd1YremicB3h9rjV9.jpg",
+        "release_date": "2025-12-19",
+        "title": "A Study In Meshes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "韩语"
     },
     {
         "adult": false,
@@ -1181,7 +1175,7 @@
         "original_title": "Mamãe, Não Chore",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": null,
+        "poster_path": "/5wRLrc2mNgNuUbUUlVRc6x1A1Yf.jpg",
         "release_date": "2025-12-19",
         "title": "Mamãe, Não Chore",
         "video": false,
@@ -1191,6 +1185,48 @@
             "剧情",
             "家庭"
         ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10751
+        ],
+        "id": 1600316,
+        "original_language": "pt",
+        "original_title": "Além-mar",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-19",
+        "title": "Além-mar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1600214,
+        "original_language": "pt",
+        "original_title": "Peines d'amour presque jouées",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1q1f0nWjXfXfpN7NJ8n1cHi6ygy.jpg",
+        "release_date": "2025-12-19",
+        "title": "Peines d'amour presque jouées",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
@@ -1291,32 +1327,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1DlIUUu6ilhxu83cPdAHwT4d8YD.jpg",
-        "genre_ids": [
-            12,
-            35,
-            10751
-        ],
-        "id": 1430019,
-        "original_language": "sv",
-        "original_title": "Håkan Bråkan 003",
-        "overview": "",
-        "popularity": 1.8952,
-        "poster_path": "/xCm2ManeiIuuYXKhszZuurGPRrP.jpg",
-        "release_date": "2025-12-19",
-        "title": "Håkan Bråkan 003",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "冒险",
-            "喜剧",
-            "家庭"
-        ],
-        "original_language_zh": "瑞典语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/prH5XaSrbYLcD1FkccjxSn40S8h.jpg",
         "genre_ids": [
             16,
@@ -1337,6 +1347,32 @@
         "genre_ids_zh": [
             "动画",
             "冒险",
+            "家庭"
+        ],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1DlIUUu6ilhxu83cPdAHwT4d8YD.jpg",
+        "genre_ids": [
+            12,
+            35,
+            10751
+        ],
+        "id": 1430019,
+        "original_language": "sv",
+        "original_title": "Håkan Bråkan 003",
+        "overview": "",
+        "popularity": 1.8952,
+        "poster_path": "/xCm2ManeiIuuYXKhszZuurGPRrP.jpg",
+        "release_date": "2025-12-19",
+        "title": "Håkan Bråkan 003",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "喜剧",
             "家庭"
         ],
         "original_language_zh": "瑞典语"
