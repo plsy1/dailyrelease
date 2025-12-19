@@ -305,26 +305,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/49M44T8huanv2Vw6klElWGVRj4g.jpg",
-        "genre_ids": [],
-        "id": 241560,
-        "origin_country": [
-            "泰国"
-        ],
-        "original_language": "th",
-        "original_name": "ย้อนเวลาเป็น ข้ามเวลาตาย",
-        "overview": "",
-        "popularity": 0.425,
-        "poster_path": "/zrx4TttBxuAGx6usaiprnzuwr6i.jpg",
-        "first_air_date": "2025-12-19",
-        "name": "ย้อนเวลาเป็น ข้ามเวลาตาย",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "泰语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 308187,
@@ -345,20 +325,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fLwBKwbZlhACmvSs9EEmP5iNVeb.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/5lwjnSZvcaWyd1nkjoRQD0ON242.jpg",
+        "genre_ids": [
+            80
+        ],
         "id": 260846,
         "origin_country": [],
         "original_language": "hi",
         "original_name": "Mrs. Deshpande",
         "overview": "",
         "popularity": 1.2151,
-        "poster_path": "/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+        "poster_path": "/7uZ9ZQHVfOACW7Got0wMg8ykGkz.jpg",
         "first_air_date": "2025-12-19",
         "name": "Mrs. Deshpande",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "犯罪"
+        ],
         "original_language_zh": "印地语"
     }
 ]
