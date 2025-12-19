@@ -137,6 +137,38 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/cGVgsM30hIvArB7UUAS1KlTedNL.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16,
+            35,
+            10751,
+            9648
+        ],
+        "id": 1488195,
+        "original_language": "en",
+        "original_title": "Teenage Mutant Ninja Turtles: Chrome Alone 2 – Lost in New Jersey",
+        "overview": "",
+        "popularity": 0.8187,
+        "poster_path": "/1RDxPjrLFOStGLlei45nWsf9FIR.jpg",
+        "release_date": "2025-12-19",
+        "title": "Teenage Mutant Ninja Turtles: Chrome Alone 2 – Lost in New Jersey",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "动画",
+            "喜剧",
+            "家庭",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/cb94hxhBEVU2G0M4imghMUWAoks.jpg",
         "genre_ids": [
             35
@@ -154,38 +186,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cGVgsM30hIvArB7UUAS1KlTedNL.jpg",
-        "genre_ids": [
-            28,
-            12,
-            16,
-            35,
-            10751,
-            9648
-        ],
-        "id": 1488195,
-        "original_language": "en",
-        "original_title": "Teenage Mutant Ninja Turtles: Chrome Alone 2- Lost in New Jersey",
-        "overview": "",
-        "popularity": 0.8187,
-        "poster_path": "/1RDxPjrLFOStGLlei45nWsf9FIR.jpg",
-        "release_date": "2025-12-19",
-        "title": "Teenage Mutant Ninja Turtles: Chrome Alone 2- Lost in New Jersey",
-        "video": false,
-        "vote_average": 3.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "动作",
-            "冒险",
-            "动画",
-            "喜剧",
-            "家庭",
-            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -1323,6 +1323,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/PxOIQy0f9J2SlD5vDtuKwS6D57.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1600754,
+        "original_language": "pl",
+        "original_title": "kuqe 2115: nareszcie w trasie",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qfB5qoa9oZJkjDALCJQTK70Y2fc.jpg",
+        "release_date": "2025-12-19",
+        "title": "kuqe 2115: nareszcie w trasie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "波兰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -1356,11 +1380,11 @@
         "id": 1415974,
         "original_language": "hi",
         "original_title": "रात अकेली है: भाग २ - बंसल हत्याकांड",
-        "overview": "",
+        "overview": "班萨尔家族成员遭到谋杀，警探贾蒂尔·亚达夫在调查过程中逐渐揭开一条由贪婪、背叛和秘密串起的线索，而这一切都指向一场致命的阴谋。",
         "popularity": 1.533,
         "poster_path": "/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
         "release_date": "2025-12-19",
-        "title": "रात अकेली है: भाग २ - बंसल हत्याकांड",
+        "title": "孤夜：豪门血案",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1397,29 +1421,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/prH5XaSrbYLcD1FkccjxSn40S8h.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            16,
-            12,
-            10751
+            18
         ],
-        "id": 1275785,
-        "original_language": "sv",
-        "original_title": "Bamse och havets hemlighet",
+        "id": 1600767,
+        "original_language": "tr",
+        "original_title": "Salt Çoğunluk",
         "overview": "",
-        "popularity": 1.7829,
-        "poster_path": "/hUGcaTHH1dVIFhkDfJrWwGzJFzw.jpg",
+        "popularity": 0.0,
+        "poster_path": "/ppIXvJyXIHbNBRwIGeKwEzlRbYW.jpg",
         "release_date": "2025-12-19",
-        "title": "Bamse och havets hemlighet",
+        "title": "Salt Çoğunluk",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
-            "动画",
-            "冒险",
-            "家庭"
+            "剧情"
         ],
-        "original_language_zh": "瑞典语"
+        "original_language_zh": "土耳其语"
     },
     {
         "adult": false,
@@ -1443,6 +1463,32 @@
         "genre_ids_zh": [
             "冒险",
             "喜剧",
+            "家庭"
+        ],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/prH5XaSrbYLcD1FkccjxSn40S8h.jpg",
+        "genre_ids": [
+            16,
+            12,
+            10751
+        ],
+        "id": 1275785,
+        "original_language": "sv",
+        "original_title": "Bamse och havets hemlighet",
+        "overview": "",
+        "popularity": 1.7829,
+        "poster_path": "/hUGcaTHH1dVIFhkDfJrWwGzJFzw.jpg",
+        "release_date": "2025-12-19",
+        "title": "Bamse och havets hemlighet",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "冒险",
             "家庭"
         ],
         "original_language_zh": "瑞典语"
