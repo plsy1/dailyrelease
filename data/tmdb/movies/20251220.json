@@ -25,6 +25,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1601173,
+        "original_language": "zh",
+        "original_title": "一起过家家",
+        "overview": "妻子鲍一萌是头部带货主播，丈夫宋李是全职丈夫，弟弟鲍鹏在复读备战高考。一天，三人意外发现互换身体。全家的灵魂与身体分别错位。全职丈夫宋李（小舅子身）重回学校，怀念青春中弹琵琶的梦想，但繁重的学习生活，让他感到力不从心。复读生小舅子鲍鹏（妻子身）不懂管理公司，并在直播时状况百出，女神小静的奋斗让他惭愧。主播鲍一萌（丈夫身）在辅导女儿的生活中发现，做家务和带娃并不简单。相比之下，丈夫开明的教育方式仿佛让女儿的成长更美好。一家人决定支持宋李（小舅子身）重拾琵琶参与音乐比赛。深夜，宋李三人被关在冷藏车内被冻得奄奄一息。他们终于换回来了！一家人的生活重新回到正轨，和谐美满。",
+        "popularity": 0.0,
+        "poster_path": "/x2PVyg645ycC1y9utSCGTDvkyrj.jpg",
+        "release_date": "2025-12-20",
+        "title": "一起过家家",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/tKwwuFwqk37Ajx2stMaTvxNwqB3.jpg",
         "genre_ids": [
             18
@@ -44,32 +68,6 @@
             "剧情"
         ],
         "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10770,
-            10749,
-            35
-        ],
-        "id": 1567250,
-        "original_language": "en",
-        "original_title": "A Pickleball Christmas",
-        "overview": "",
-        "popularity": 1.5986,
-        "poster_path": "/qjOTs9DoeUDFHIeV8W9kavMwQNW.jpg",
-        "release_date": "2025-12-20",
-        "title": "A Pickleball Christmas",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "电视电影",
-            "爱情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -341,6 +339,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jmkvYCcC4faGMhwHl7QAEWCI8cz.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1597630,
+        "original_language": "en",
+        "original_title": "STEALTH X",
+        "overview": "",
+        "popularity": 0.0239,
+        "poster_path": null,
+        "release_date": "2025-12-20",
+        "title": "STEALTH X",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -381,6 +403,72 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1601275,
+        "original_language": "en",
+        "original_title": "Gündüz Gözüyle Kedi (Catstanbul)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4lBYeFsBhNxVngemkTSuVY74Ur6.jpg",
+        "release_date": "2025-12-20",
+        "title": "Gündüz Gözüyle Kedi (Catstanbul)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            80,
+            9648
+        ],
+        "id": 1601227,
+        "original_language": "en",
+        "original_title": "Hi Simon There",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qypK8vwPbJH6880rq6zeI7L08xP.jpg",
+        "release_date": "2025-12-20",
+        "title": "Hi Simon There",
+        "video": false,
+        "vote_average": 9.5,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "恐怖",
+            "犯罪",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lhR1mOK0PRK9smDwe65xoDhiAvw.jpg",
+        "genre_ids": [],
+        "id": 1601213,
+        "original_language": "en",
+        "original_title": "Countdown",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cMRhgkdyZRGCEssCsxgo34iN4QO.jpg",
+        "release_date": "2025-12-20",
+        "title": "Countdown",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -533,6 +621,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1601287,
+        "original_language": "fr",
+        "original_title": "Les Marées Basses",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-20",
+        "title": "Les Marées Basses",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/bHwBSlUW61KBCL2PzAlDpPRFSFq.jpg",
         "genre_ids": [],
         "id": 1591863,
@@ -547,6 +653,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/10blRIrQIDLTN2HACN6x0L5A1k5.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1600998,
+        "original_language": "es",
+        "original_title": "Bagazo",
+        "overview": "",
+        "popularity": 0.1143,
+        "poster_path": "/dJQhuq5T47EqSUnftAmGpxOwogl.jpg",
+        "release_date": "2025-12-20",
+        "title": "Bagazo",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
