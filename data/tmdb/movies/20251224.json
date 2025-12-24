@@ -133,7 +133,7 @@
         "original_language": "en",
         "original_title": "Anaconda",
         "overview": "　　一群面临中年危机的朋友前往雨林，打算重拍他们年轻时最喜爱的电影，却意外遭遇自然灾害、巨蟒和凶残罪犯，不得不为生存而殊死搏斗。",
-        "popularity": 26.9751,
+        "popularity": 35.0664,
         "poster_path": "/hmwPrYslUn9BVkCsxDcaPi0FaHg.jpg",
         "release_date": "2025-12-24",
         "title": "新狂蟒之灾",
@@ -158,7 +158,7 @@
         "original_language": "en",
         "original_title": "The Plague",
         "overview": "",
-        "popularity": 5.4169,
+        "popularity": 5.7075,
         "poster_path": "/e4aBtGkDgAbwcbT4TxW8kj7yCeq.jpg",
         "release_date": "2025-12-24",
         "title": "The Plague",
@@ -183,7 +183,7 @@
         "original_language": "en",
         "original_title": "The Street Avenger",
         "overview": "",
-        "popularity": 2.2913,
+        "popularity": 2.4333,
         "poster_path": "/rcFZLvQT6KxTjyYwMwePph2jxGV.jpg",
         "release_date": "2025-12-24",
         "title": "The Street Avenger",
@@ -194,6 +194,28 @@
             "动作",
             "犯罪",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rf77DGsOpm0Xi5h3nTAtwjmZYjp.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1588965,
+        "original_language": "en",
+        "original_title": "Tom Segura: Teacher",
+        "overview": "育儿翻车、喝到断片的酒吧故事、事业上的遗憾，汤姆·塞古拉用黑色幽默，聊尽人生那些出其不意的教训。",
+        "popularity": 1.6308,
+        "poster_path": "/jny234URpLAYsnFKxfqadyQ0swz.jpg",
+        "release_date": "2025-12-24",
+        "title": "汤姆·塞古拉：娱人子弟",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -210,7 +232,7 @@
         "original_language": "en",
         "original_title": "Finding Father Christmas",
         "overview": "",
-        "popularity": 0.3713,
+        "popularity": 0.3834,
         "poster_path": null,
         "release_date": "2025-12-24",
         "title": "Finding Father Christmas",
@@ -227,52 +249,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/yJvSNQQJrTvtHk9qAKRpIpZPRb7.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1588965,
-        "original_language": "en",
-        "original_title": "Tom Segura: Teacher",
-        "overview": "",
-        "popularity": 1.5135,
-        "poster_path": null,
-        "release_date": "2025-12-24",
-        "title": "Tom Segura: Teacher",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            14
-        ],
-        "id": 1472018,
-        "original_language": "en",
-        "original_title": "極樂",
-        "overview": "",
-        "popularity": 0.2863,
-        "poster_path": "/ln7vT0HMF10YyXp0vjhHQod8Cyy.jpg",
-        "release_date": "2025-12-24",
-        "title": "極樂",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/icvKAtidEogp7pAOyZ80kcqtte7.jpg",
         "genre_ids": [
             14,
@@ -283,7 +259,7 @@
         "original_language": "en",
         "original_title": "Big Worm",
         "overview": "",
-        "popularity": 0.3197,
+        "popularity": 0.3458,
         "poster_path": "/dtj98b3DF4vgazMpL1iVlIiRBza.jpg",
         "release_date": "2025-12-24",
         "title": "Big Worm",
@@ -301,6 +277,56 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1472018,
+        "original_language": "en",
+        "original_title": "極樂",
+        "overview": "",
+        "popularity": 0.2521,
+        "poster_path": "/ln7vT0HMF10YyXp0vjhHQod8Cyy.jpg",
+        "release_date": "2025-12-24",
+        "title": "極樂",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5LnKN9tsFUHUzq7AWQCvF5mu14l.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 1602612,
+        "original_language": "en",
+        "original_title": "Slick",
+        "overview": "",
+        "popularity": 0.0686,
+        "poster_path": "/zJa8Rp6SxL3xTAJ3Mb4bMNM5zeC.jpg",
+        "release_date": "2025-12-24",
+        "title": "Slick",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "犯罪",
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             27,
             53,
             878,
@@ -310,7 +336,7 @@
         "original_language": "en",
         "original_title": "The Model, The Mannequin, and Me",
         "overview": "",
-        "popularity": 0.1071,
+        "popularity": 0.0806,
         "poster_path": "/m8j1vUAbS9aaxJbk0PyvqYaBAvY.jpg",
         "release_date": "2025-12-24",
         "title": "The Model, The Mannequin, and Me",
@@ -327,7 +353,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/gfmuL1FMgU5D2rwKngtohQyY6yK.jpg",
         "genre_ids": [
             53,
             28,
@@ -338,7 +364,7 @@
         "original_language": "en",
         "original_title": "The Naughty Ones",
         "overview": "",
-        "popularity": 0.0714,
+        "popularity": 0.2607,
         "poster_path": "/bLfWzs5XhoGxlWFUenMtQcHBH4S.jpg",
         "release_date": "2025-12-24",
         "title": "The Naughty Ones",
@@ -355,37 +381,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8zOFsfXFCit05KH9YoJq7MA6vVr.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            16,
             35,
             28,
-            80,
-            53,
-            12,
-            14,
-            878
+            16
         ],
-        "id": 1598050,
+        "id": 1602019,
         "original_language": "en",
-        "original_title": "A Very Benji Christmas",
+        "original_title": "Fun & Games",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/iVh0D8nqiC3kCnCyQSuZZpBVAD0.jpg",
+        "popularity": 0.0791,
+        "poster_path": "/29BvwBRfCZgETlLQ1T6P7tVU8uM.jpg",
         "release_date": "2025-12-24",
-        "title": "A Very Benji Christmas",
+        "title": "Fun & Games",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
             "喜剧",
             "动作",
-            "犯罪",
-            "惊悚",
-            "冒险",
-            "奇幻",
-            "科幻"
+            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -413,27 +429,37 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/8zOFsfXFCit05KH9YoJq7MA6vVr.jpg",
         "genre_ids": [
+            16,
             35,
             28,
-            16
+            80,
+            53,
+            12,
+            14,
+            878
         ],
-        "id": 1602019,
+        "id": 1598050,
         "original_language": "en",
-        "original_title": "Fun & Games",
+        "original_title": "A Very Benji Christmas",
         "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/29BvwBRfCZgETlLQ1T6P7tVU8uM.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/iVh0D8nqiC3kCnCyQSuZZpBVAD0.jpg",
         "release_date": "2025-12-24",
-        "title": "Fun & Games",
+        "title": "A Very Benji Christmas",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "动画",
             "喜剧",
             "动作",
-            "动画"
+            "犯罪",
+            "惊悚",
+            "冒险",
+            "奇幻",
+            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -448,7 +474,7 @@
         "original_language": "en",
         "original_title": "Primos",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0239,
         "poster_path": "/pzgz7cwJ7EoAmompohcn7dbAl4K.jpg",
         "release_date": "2025-12-24",
         "title": "Primos",
@@ -458,30 +484,6 @@
         "genre_ids_zh": [
             "喜剧",
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1598055,
-        "original_language": "en",
-        "original_title": "Unbound: A Break From Fate",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/50NoEATUpZPriHvSs5BP9zgwcy.jpg",
-        "release_date": "2025-12-24",
-        "title": "Unbound: A Break From Fate",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -512,12 +514,174 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1472662,
+        "original_language": "en",
+        "original_title": "Wait For The Applause",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/6zNJ5lnCYrF6p6UCsRtQM6fG3wF.jpg",
+        "release_date": "2025-12-24",
+        "title": "Wait For The Applause",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1603284,
+        "original_language": "en",
+        "original_title": "Simpsons Yule Log",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2025-12-24",
+        "title": "Simpsons Yule Log",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1603246,
+        "original_language": "en",
+        "original_title": "Old Meridian",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/sWMhvMjkJnJMrgjfdT13yFE6WCE.jpg",
+        "release_date": "2025-12-24",
+        "title": "Old Meridian",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            36
+        ],
+        "id": 1603154,
+        "original_language": "en",
+        "original_title": "On the Sofa with Esther Holiday Special featuring Billy 'Sutty' Sutton - Part One",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/nefmdbysjOi5U8u2KiBZCrINqDs.jpg",
+        "release_date": "2025-12-24",
+        "title": "On the Sofa with Esther Holiday Special featuring Billy 'Sutty' Sutton - Part One",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1602983,
+        "original_language": "en",
+        "original_title": "A Prison on the Equator",
+        "overview": "",
+        "popularity": 0.1143,
+        "poster_path": "/3G9gJeDn8luoBcIvEYnkSZPcsNs.jpg",
+        "release_date": "2025-12-24",
+        "title": "A Prison on the Equator",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rctDXWpyWSiFhpVChkqZMG5Swhc.jpg",
+        "genre_ids": [
+            35,
+            80,
+            12
+        ],
+        "id": 1602952,
+        "original_language": "en",
+        "original_title": "CURBED",
+        "overview": "",
+        "popularity": 0.05,
+        "poster_path": "/pDK8B9j8cypIPuIknpVkAtQmYas.jpg",
+        "release_date": "2025-12-24",
+        "title": "CURBED",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "犯罪",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1598055,
+        "original_language": "en",
+        "original_title": "Unbound: A Break From Fate",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/50NoEATUpZPriHvSs5BP9zgwcy.jpg",
+        "release_date": "2025-12-24",
+        "title": "Unbound: A Break From Fate",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1437156,
         "original_language": "ja",
         "original_title": "映画ラストマン -FIRST LOVE-",
         "overview": "",
-        "popularity": 0.7762,
+        "popularity": 0.5618,
         "poster_path": "/ojRoq6Xv9aWTFUcVg0mF83LXzqM.jpg",
         "release_date": "2025-12-24",
         "title": "映画ラストマン -FIRST LOVE-",
@@ -535,7 +699,7 @@
         "original_language": "ja",
         "original_title": "ドビュッシーが弾けるまで",
         "overview": "",
-        "popularity": 0.2017,
+        "popularity": 0.1756,
         "poster_path": null,
         "release_date": "2025-12-24",
         "title": "ドビュッシーが弾けるまで",
@@ -853,7 +1017,7 @@
         "original_language": "it",
         "original_title": "Il Granchio Blu",
         "overview": "",
-        "popularity": 0.0881,
+        "popularity": 0.0706,
         "poster_path": "/j5wha5RiIEs3Up7V6711H0sfCkk.jpg",
         "release_date": "2025-12-24",
         "title": "Il Granchio Blu",
