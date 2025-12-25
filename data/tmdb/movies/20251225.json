@@ -287,6 +287,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            12
+        ],
+        "id": 1551869,
+        "original_language": "en",
+        "original_title": "The Marvelous Adventure of Chispita the Dog",
+        "overview": "",
+        "popularity": 0.115,
+        "poster_path": "/6BXQHotV4JsBExDGiSjJY3qZn3z.jpg",
+        "release_date": "2025-12-25",
+        "title": "The Marvelous Adventure of Chispita the Dog",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/neJO5enQNLPrFFPL3LfBDMjKQHI.jpg",
         "genre_ids": [
             16,
@@ -406,30 +430,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            12
-        ],
-        "id": 1551869,
-        "original_language": "en",
-        "original_title": "The Marvelous Adventure of Chispita the Dog",
-        "overview": "",
-        "popularity": 0.115,
-        "poster_path": "/6BXQHotV4JsBExDGiSjJY3qZn3z.jpg",
-        "release_date": "2025-12-25",
-        "title": "The Marvelous Adventure of Chispita the Dog",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "冒险"
         ],
         "original_language_zh": "英语"
     },
