@@ -188,9 +188,13 @@
     {
         "adult": false,
         "backdrop_path": "/yrCY7SGrZWYcCeiP9ahWaLi7wA4.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 308640,
-        "origin_country": [],
+        "origin_country": [
+            "瑞典"
+        ],
         "original_language": "sv",
         "original_name": "Jag for ner till bror",
         "overview": "",
@@ -200,7 +204,9 @@
         "name": "Jag for ner till bror",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "瑞典语"
     },
     {
