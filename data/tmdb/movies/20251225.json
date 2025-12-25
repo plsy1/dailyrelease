@@ -25,6 +25,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/itznAnmIey6hDPP75TeaPFmZON8.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1546166,
+        "original_language": "zh",
+        "original_title": "冠軍之路",
+        "overview": "",
+        "popularity": 0.1144,
+        "poster_path": "/gcI0YAg7qXr61H2LSj9rFtPzVXF.jpg",
+        "release_date": "2025-12-25",
+        "title": "冠軍之路",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/7PDe2oJu8BHsu9hJ02FjOXT20a1.jpg",
         "genre_ids": [
             18,
@@ -545,6 +567,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/gj4z30p6zJMQgXtXgpiCeWZsNGt.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1603676,
+        "original_language": "en",
+        "original_title": "Time For Single Santa Jr. To Seek A Princess Coming Home For A Christmas Carol With Mrs. Miracle's Magic Stocking And Matchmaker Santa's Three Wise British Ninja Elves And A Boy: The Rudolph Incident",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/ztYUPUU3UEo9lcVXvtEtQ4LxYK3.jpg",
+        "release_date": "2025-12-25",
+        "title": "Time For Single Santa Jr. To Seek A Princess Coming Home For A Christmas Carol With Mrs. Miracle's Magic Stocking And Matchmaker Santa's Three Wise British Ninja Elves And A Boy: The Rudolph Incident",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dRIhVwvOvdFkD3N3tW8TsWKoKC0.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1603673,
+        "original_language": "en",
+        "original_title": "Kei to the City 2",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/uSfMZ2Lw0lD3xUZNqyC6QNpTSYl.jpg",
+        "release_date": "2025-12-25",
+        "title": "Kei to the City 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vWtqCrk4p2rZJqJXBTpw4hct4RU.jpg",
         "genre_ids": [
             18,
@@ -634,15 +702,37 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1603683,
+        "genre_ids": [
+            10402
+        ],
+        "id": 1603836,
         "original_language": "en",
-        "original_title": "Prism",
+        "original_title": "Christmas in Vienna 2025",
         "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/bKykOrsFBK3i0ZeXpaCVAUn4y2l.jpg",
+        "popularity": 0.0,
+        "poster_path": "/dUKwpAsf5aPXSPfab79zpl3frGn.jpg",
         "release_date": "2025-12-25",
-        "title": "Prism",
+        "title": "Christmas in Vienna 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1603784,
+        "original_language": "en",
+        "original_title": "Vakansi Raksasa",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2025-12-25",
+        "title": "Vakansi Raksasa",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -652,15 +742,39 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1603673,
+        "genre_ids": [
+            10751,
+            35
+        ],
+        "id": 1603757,
         "original_language": "en",
-        "original_title": "Kei to the City 2",
+        "original_title": "A Special Christmastime: A Special Christmas Special",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
+        "popularity": 0.0,
+        "poster_path": "/zKVnJKY7wwXBoB7KIo8SHwfAUaT.jpg",
         "release_date": "2025-12-25",
-        "title": "Kei to the City 2",
+        "title": "A Special Christmastime: A Special Christmas Special",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1603683,
+        "original_language": "en",
+        "original_title": "Prism",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": "/bKykOrsFBK3i0ZeXpaCVAUn4y2l.jpg",
+        "release_date": "2025-12-25",
+        "title": "Prism",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -705,6 +819,24 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1603792,
+        "original_language": "th",
+        "original_title": "Christmas Project: หิมะฤดูร้อน",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vXYmPMRTNXii5jzUM40SwQVAgEb.jpg",
+        "release_date": "2025-12-25",
+        "title": "Christmas Project: หิมะฤดูร้อน",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "泰语"
     },
     {
@@ -953,7 +1085,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7o3O5WlADOIjUuxvo9EzwwVUOjG.jpg",
+        "backdrop_path": "/8gif87CrN4bOoJb6Yxc3UwZlfl4.jpg",
         "genre_ids": [
             35,
             18
