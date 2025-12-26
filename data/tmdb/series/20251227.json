@@ -51,6 +51,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 308625,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "昭离赋",
+        "overview": "太傅之女江离为拒联姻，常和知己阿昭避世闻香阁。在被迫赐婚左将军后入宫，却意外得知阿昭是当朝皇帝。从此深陷爱情和皇宫秘事中，二人携手平叛战乱，揭露所有阴谋，历经所有，终解误解，相守一生。",
+        "popularity": 0.3134,
+        "poster_path": "/4UUTmCRDf7RaDpZjEVpBBtDa1sX.jpg",
+        "first_air_date": "2025-12-27",
+        "name": "昭离赋",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/1taIbZbTpzBs9ceJaPCfroNHOku.jpg",
         "genre_ids": [
             16,
@@ -73,26 +93,6 @@
             "动画",
             "科幻与奇幻"
         ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 308625,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "昭离赋",
-        "overview": "太傅之女江离为拒联姻，常和知己阿昭避世闻香阁。在被迫赐婚左将军后入宫，却意外得知阿昭是当朝皇帝。从此深陷爱情和皇宫秘事中，二人携手平叛战乱，揭露所有阴谋，历经所有，终解误解，相守一生。",
-        "popularity": 0.3134,
-        "poster_path": "/4UUTmCRDf7RaDpZjEVpBBtDa1sX.jpg",
-        "first_air_date": "2025-12-27",
-        "name": "昭离赋",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
@@ -201,7 +201,7 @@
         "original_language": "ru",
         "original_name": "Манюня: Детство Ба",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0281,
         "poster_path": "/hhyWjlgPbz1yfs00uRXXDtIFcOD.jpg",
         "first_air_date": "2025-12-27",
         "name": "Манюня: Детство Ба",
