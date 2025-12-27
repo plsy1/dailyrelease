@@ -145,9 +145,9 @@
         "adult": false,
         "backdrop_path": "/4hf0wIXHmjNY6hkIGNKdOESrgGj.jpg",
         "genre_ids": [
+            10759,
             10765,
-            9648,
-            10759
+            9648
         ],
         "id": 246412,
         "origin_country": [
@@ -160,12 +160,12 @@
         "poster_path": "/p9YM7g3grTSjH88xv0ds00IXfLz.jpg",
         "first_air_date": "2025-12-27",
         "name": "The Copenhagen Test",
-        "vote_average": 3.25,
+        "vote_average": 3.2,
         "vote_count": 4,
         "genre_ids_zh": [
+            "动作与冒险",
             "科幻与奇幻",
-            "悬疑",
-            "动作与冒险"
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -204,6 +204,26 @@
         "poster_path": null,
         "first_air_date": "2025-12-27",
         "name": "熱闘甲子園　年末スペシャル",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 309303,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "松本 隆 作詞活動50周年記念 オフィシャル・プロジェクト！～　風街オデッセイ2021",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2025-12-27",
+        "name": "松本 隆 作詞活動50周年記念 オフィシャル・プロジェクト！～　風街オデッセイ2021",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
