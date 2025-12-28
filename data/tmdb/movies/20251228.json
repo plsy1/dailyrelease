@@ -161,6 +161,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ahlQwmNSp3nEUpiQy4rsIZdQufR.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14
+        ],
+        "id": 1605208,
+        "original_language": "en",
+        "original_title": "Kael Ryven: Between Wing and Wyrm",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/fOnx4XXfMPL7t9w9pSv7TgXBx4Y.jpg",
+        "release_date": "2025-12-28",
+        "title": "Kael Ryven: Between Wing and Wyrm",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "冒险",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/aJMCcyfXTsrju22cT4hrO2nSAjC.jpg",
         "genre_ids": [
             99,
@@ -337,8 +363,8 @@
         "release_date": "2025-12-28",
         "title": "Året var 1976",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "历史",
             "纪录"
