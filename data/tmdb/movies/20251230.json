@@ -475,50 +475,6 @@
         "genre_ids": [
             18
         ],
-        "id": 1604335,
-        "original_language": "it",
-        "original_title": "La principessa",
-        "overview": "",
-        "popularity": 0.1072,
-        "poster_path": "/NcIUL69tAHyeZX42KGeMdo3968.jpg",
-        "release_date": "2025-12-30",
-        "title": "La principessa",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1604440,
-        "original_language": "it",
-        "original_title": "In Re Minore",
-        "overview": "",
-        "popularity": 0.0809,
-        "poster_path": "/602JNh93ZC3YxTCCtGWL9NUKiq9.jpg",
-        "release_date": "2025-12-30",
-        "title": "In Re Minore",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
         "id": 1604445,
         "original_language": "it",
         "original_title": "Notturno",
@@ -669,6 +625,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1604335,
+        "original_language": "it",
+        "original_title": "La principessa",
+        "overview": "",
+        "popularity": 0.1072,
+        "poster_path": "/NcIUL69tAHyeZX42KGeMdo3968.jpg",
+        "release_date": "2025-12-30",
+        "title": "La principessa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/1Dcsd4sDLIhsOqhyLzuqApmD1AM.jpg",
         "genre_ids": [
             80,
@@ -689,6 +667,28 @@
         "genre_ids_zh": [
             "犯罪",
             "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1604440,
+        "original_language": "it",
+        "original_title": "In Re Minore",
+        "overview": "",
+        "popularity": 0.0809,
+        "poster_path": "/602JNh93ZC3YxTCCtGWL9NUKiq9.jpg",
+        "release_date": "2025-12-30",
+        "title": "In Re Minore",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "意大利语"
