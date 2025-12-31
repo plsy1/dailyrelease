@@ -505,64 +505,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/n5luCaNzfWLGEqlMUD662Pcgh35.jpg",
         "genre_ids": [
             99
         ],
-        "id": 1592790,
+        "id": 1600172,
         "original_language": "en",
-        "original_title": "Just Look Up",
+        "original_title": "Girls and Boxes",
         "overview": "",
-        "popularity": 0.1385,
-        "poster_path": "/2qtu4tzz57Y2N238khroD6ECh1G.jpg",
+        "popularity": 0.1859,
+        "poster_path": "/eAD8e2IfOUVMQXa0aT7SjGel1sF.jpg",
         "release_date": "2026-01-01",
-        "title": "Just Look Up",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1425531,
-        "original_language": "en",
-        "original_title": "Whitelight",
-        "overview": "",
-        "popularity": 0.1057,
-        "poster_path": null,
-        "release_date": "2026-01-01",
-        "title": "Whitelight",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1446424,
-        "original_language": "en",
-        "original_title": "The Animated Mind of Oliver Sacks",
-        "overview": "",
-        "popularity": 0.1408,
-        "poster_path": null,
-        "release_date": "2026-01-01",
-        "title": "The Animated Mind of Oliver Sacks",
+        "title": "Girls and Boxes",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -597,28 +551,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1592784,
-        "original_language": "en",
-        "original_title": "Mördarens Son",
-        "overview": "",
-        "popularity": 0.1338,
-        "poster_path": "/6O7zquKVerDtxfA4j7b9IzxvuWD.jpg",
-        "release_date": "2026-01-01",
-        "title": "Mördarens Son",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99,
             36
         ],
@@ -636,6 +568,116 @@
         "genre_ids_zh": [
             "纪录",
             "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1560008,
+        "original_language": "en",
+        "original_title": "The Woodster",
+        "overview": "",
+        "popularity": 0.1551,
+        "poster_path": "/qSxmq8u4BTeuahvJZvrrUWApDW4.jpg",
+        "release_date": "2026-01-01",
+        "title": "The Woodster",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1446424,
+        "original_language": "en",
+        "original_title": "The Animated Mind of Oliver Sacks",
+        "overview": "",
+        "popularity": 0.1408,
+        "poster_path": null,
+        "release_date": "2026-01-01",
+        "title": "The Animated Mind of Oliver Sacks",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gnOpGWuuIZJUpNldf2Ghj4Bha6F.jpg",
+        "genre_ids": [
+            35,
+            18,
+            12
+        ],
+        "id": 1587106,
+        "original_language": "en",
+        "original_title": "Me and My Little Tasks",
+        "overview": "",
+        "popularity": 0.1399,
+        "poster_path": "/rDdfmOLHlr8WNDLKj2ibzmWxpaV.jpg",
+        "release_date": "2026-01-01",
+        "title": "Me and My Little Tasks",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1592790,
+        "original_language": "en",
+        "original_title": "Just Look Up",
+        "overview": "",
+        "popularity": 0.1385,
+        "poster_path": "/2qtu4tzz57Y2N238khroD6ECh1G.jpg",
+        "release_date": "2026-01-01",
+        "title": "Just Look Up",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1592784,
+        "original_language": "en",
+        "original_title": "Mördarens Son",
+        "overview": "",
+        "popularity": 0.1338,
+        "poster_path": "/6O7zquKVerDtxfA4j7b9IzxvuWD.jpg",
+        "release_date": "2026-01-01",
+        "title": "Mördarens Son",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -667,30 +709,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1514720,
-        "original_language": "en",
-        "original_title": "Pudding",
-        "overview": "",
-        "popularity": 0.0875,
-        "poster_path": "/fc7HN5Y5OKIHGARnfR6O4q6YuVM.jpg",
-        "release_date": "2026-01-01",
-        "title": "Pudding",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99,
             53,
             18
@@ -715,23 +733,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/kNdqrvE5XmcvedE3QwWQp4lu4AY.jpg",
         "genre_ids": [
-            99
+            35
         ],
-        "id": 1570372,
+        "id": 1604988,
         "original_language": "en",
-        "original_title": "Landscapes of Ending",
+        "original_title": "Apna Kya Lena Dena",
         "overview": "",
-        "popularity": 0.0772,
-        "poster_path": "/msvRBiLtnWovmHYXANJvsoSqpnZ.jpg",
+        "popularity": 0.1132,
+        "poster_path": "/d8BhtBpOF4ghNriVqPkvM0E8zd.jpg",
         "release_date": "2026-01-01",
-        "title": "Landscapes of Ending",
+        "title": "Apna Kya Lena Dena",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -763,23 +781,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9JZDPkfQ4BBLglxaBypbngobYbo.jpg",
+        "backdrop_path": "/z4fYlITXjKvuuWLPGMkBJ3kqYQg.jpg",
         "genre_ids": [
-            18
+            27
         ],
-        "id": 1561311,
+        "id": 1219267,
         "original_language": "en",
-        "original_title": "Heimkehr",
+        "original_title": "White Gardenia: The King James Bible",
         "overview": "",
-        "popularity": 0.08,
-        "poster_path": "/4HZc1F02OFgPYhRR7QgXOBhQLE6.jpg",
+        "popularity": 0.1061,
+        "poster_path": "/6avn2xgPRmFQJK79gyM7qWpGCbE.jpg",
         "release_date": "2026-01-01",
-        "title": "Heimkehr",
+        "title": "White Gardenia: The King James Bible",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1425531,
+        "original_language": "en",
+        "original_title": "Whitelight",
+        "overview": "",
+        "popularity": 0.1057,
+        "poster_path": null,
+        "release_date": "2026-01-01",
+        "title": "Whitelight",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -806,44 +848,22 @@
         "backdrop_path": null,
         "genre_ids": [
             18,
-            10749
+            35
         ],
-        "id": 1338636,
+        "id": 1514720,
         "original_language": "en",
-        "original_title": "Hoodie",
+        "original_title": "Pudding",
         "overview": "",
-        "popularity": 0.0702,
-        "poster_path": "/3cuxcIOR6NKwzRpL5QLj3sjP0hD.jpg",
+        "popularity": 0.0875,
+        "poster_path": "/fc7HN5Y5OKIHGARnfR6O4q6YuVM.jpg",
         "release_date": "2026-01-01",
-        "title": "Hoodie",
+        "title": "Pudding",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/75Un6xktBvxWZCN6BDx0czx6UdW.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1604628,
-        "original_language": "en",
-        "original_title": "Wild London",
-        "overview": "",
-        "popularity": 0.0606,
-        "poster_path": "/A0vOczUcYBVcKDv79RbFHKnbf82.jpg",
-        "release_date": "2026-01-01",
-        "title": "Wild London",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -873,20 +893,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1603133,
+        "backdrop_path": "/9JZDPkfQ4BBLglxaBypbngobYbo.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1561311,
         "original_language": "en",
-        "original_title": "Controller",
+        "original_title": "Heimkehr",
         "overview": "",
-        "popularity": 0.0533,
-        "poster_path": "/oEqqCZenoHaHUud6gnD6LGDMWpH.jpg",
+        "popularity": 0.08,
+        "poster_path": "/4HZc1F02OFgPYhRR7QgXOBhQLE6.jpg",
         "release_date": "2026-01-01",
-        "title": "Controller",
+        "title": "Heimkehr",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -895,14 +919,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1578172,
+        "id": 1570372,
         "original_language": "en",
-        "original_title": "Farewell, America",
+        "original_title": "Landscapes of Ending",
         "overview": "",
-        "popularity": 0.0691,
-        "poster_path": "/4fSN7RxWOBVqixXFEMXX8axfiF2.jpg",
+        "popularity": 0.0772,
+        "poster_path": "/msvRBiLtnWovmHYXANJvsoSqpnZ.jpg",
         "release_date": "2026-01-01",
-        "title": "Farewell, America",
+        "title": "Landscapes of Ending",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -913,23 +937,35 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/z4fYlITXjKvuuWLPGMkBJ3kqYQg.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27
+            80,
+            16,
+            28,
+            27,
+            53,
+            10770,
+            10752
         ],
-        "id": 1219267,
+        "id": 1590286,
         "original_language": "en",
-        "original_title": "White Gardenia: The King James Bible",
+        "original_title": "The Morter - Termination Point",
         "overview": "",
-        "popularity": 0.1061,
-        "poster_path": "/6avn2xgPRmFQJK79gyM7qWpGCbE.jpg",
+        "popularity": 0.0718,
+        "poster_path": "/p9qNAQHDbhnYFczLthvOvwWe88P.jpg",
         "release_date": "2026-01-01",
-        "title": "White Gardenia: The King James Bible",
+        "title": "The Morter - Termination Point",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "犯罪",
+            "动画",
+            "动作",
+            "恐怖",
+            "惊悚",
+            "电视电影",
+            "战争"
         ],
         "original_language_zh": "英语"
     },
@@ -1029,28 +1065,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kNdqrvE5XmcvedE3QwWQp4lu4AY.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1604988,
-        "original_language": "en",
-        "original_title": "Apna Kya Lena Dena",
-        "overview": "",
-        "popularity": 0.1132,
-        "poster_path": "/d8BhtBpOF4ghNriVqPkvM0E8zd.jpg",
-        "release_date": "2026-01-01",
-        "title": "Apna Kya Lena Dena",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1uPXawzg425GVtGqGmHInYDTBYe.jpg",
         "genre_ids": [
             18,
@@ -1070,28 +1084,6 @@
         "genre_ids_zh": [
             "剧情",
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/n5luCaNzfWLGEqlMUD662Pcgh35.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1600172,
-        "original_language": "en",
-        "original_title": "Girls and Boxes",
-        "overview": "",
-        "popularity": 0.1859,
-        "poster_path": "/eAD8e2IfOUVMQXa0aT7SjGel1sF.jpg",
-        "release_date": "2026-01-01",
-        "title": "Girls and Boxes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -1155,40 +1147,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            80,
-            16,
-            28,
-            27,
-            53,
-            10770,
-            10752
-        ],
-        "id": 1590286,
-        "original_language": "en",
-        "original_title": "The Morter - Termination Point",
-        "overview": "",
-        "popularity": 0.0718,
-        "poster_path": "/p9qNAQHDbhnYFczLthvOvwWe88P.jpg",
-        "release_date": "2026-01-01",
-        "title": "The Morter - Termination Point",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "动画",
-            "动作",
-            "恐怖",
-            "惊悚",
-            "电视电影",
-            "战争"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1761,6 +1719,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/g6GI5OmpHJgi2ORFWrsvIBUWROm.jpg",
+        "genre_ids": [
+            10751,
+            14,
+            9648
+        ],
+        "id": 1601183,
+        "original_language": "fr",
+        "original_title": "Les plus grands magiciens du monde - Les Mandrakes d'Or 2025",
+        "overview": "",
+        "popularity": 0.0969,
+        "poster_path": "/3OO5OX74iA2jVsVZoIfHJYFaA8G.jpg",
+        "release_date": "2026-01-01",
+        "title": "Les plus grands magiciens du monde - Les Mandrakes d'Or 2025",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "奇幻",
+            "悬疑"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eE7M2P3GjlzBleBTtNPPUIp2Oru.jpg",
         "genre_ids": [
             16
@@ -1837,32 +1821,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/g6GI5OmpHJgi2ORFWrsvIBUWROm.jpg",
-        "genre_ids": [
-            10751,
-            14,
-            9648
-        ],
-        "id": 1601183,
-        "original_language": "fr",
-        "original_title": "Les plus grands magiciens du monde - Les Mandrakes d'Or 2025",
-        "overview": "",
-        "popularity": 0.0969,
-        "poster_path": "/3OO5OX74iA2jVsVZoIfHJYFaA8G.jpg",
-        "release_date": "2026-01-01",
-        "title": "Les plus grands magiciens du monde - Les Mandrakes d'Or 2025",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "家庭",
-            "奇幻",
-            "悬疑"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1931,28 +1889,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1580038,
-        "original_language": "fr",
-        "original_title": "L'irréparable",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/bCMWYvNUiq5ph8C0evzSxIXfNL4.jpg",
-        "release_date": "2026-01-01",
-        "title": "L'irréparable",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/76OgfzSRgtVJdhq4o91LhPIQeRM.jpg",
         "genre_ids": [
             10751
@@ -1970,6 +1906,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "家庭"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1580038,
+        "original_language": "fr",
+        "original_title": "L'irréparable",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/bCMWYvNUiq5ph8C0evzSxIXfNL4.jpg",
+        "release_date": "2026-01-01",
+        "title": "L'irréparable",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -2048,28 +2006,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1585916,
-        "original_language": "es",
-        "original_title": "ØĐISĒA",
-        "overview": "",
-        "popularity": 0.1274,
-        "poster_path": "/2e7B8qrx36ftaD4VZXrq6b0VCXn.jpg",
-        "release_date": "2026-01-01",
-        "title": "ØĐISĒA",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1591624,
         "original_language": "es",
@@ -2091,14 +2027,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1470586,
+        "id": 1585916,
         "original_language": "es",
-        "original_title": "Atlas de la desaparición",
+        "original_title": "ØĐISĒA",
         "overview": "",
-        "popularity": 0.0848,
-        "poster_path": "/nZbHQHsw4jrAlv0ElwLrNdM05ii.jpg",
+        "popularity": 0.1274,
+        "poster_path": "/2e7B8qrx36ftaD4VZXrq6b0VCXn.jpg",
         "release_date": "2026-01-01",
-        "title": "Atlas de la desaparición",
+        "title": "ØĐISĒA",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2131,25 +2067,45 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ePjLgFzi8EB5dsAlTfeE3ohojIr.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            53
+            99
         ],
-        "id": 1596059,
+        "id": 1470586,
         "original_language": "es",
-        "original_title": "El Diente Negro",
+        "original_title": "Atlas de la desaparición",
         "overview": "",
-        "popularity": 0.0609,
-        "poster_path": "/8NBsrcxejRsdnrb0uCq85aPyue4.jpg",
+        "popularity": 0.0848,
+        "poster_path": "/nZbHQHsw4jrAlv0ElwLrNdM05ii.jpg",
         "release_date": "2026-01-01",
-        "title": "El Diente Negro",
+        "title": "Atlas de la desaparición",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1529702,
+        "original_language": "es",
+        "original_title": "Triste y Vacía",
+        "overview": "",
+        "popularity": 0.0673,
+        "poster_path": "/8741r6Mm98kGKDBhsWtcvNIPXlA.jpg",
+        "release_date": "2026-01-01",
+        "title": "Triste y Vacía",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2177,23 +2133,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/ePjLgFzi8EB5dsAlTfeE3ohojIr.jpg",
         "genre_ids": [
-            18
+            27,
+            53
         ],
-        "id": 1529702,
+        "id": 1596059,
         "original_language": "es",
-        "original_title": "Triste y Vacía",
+        "original_title": "El Diente Negro",
         "overview": "",
-        "popularity": 0.0673,
-        "poster_path": "/8741r6Mm98kGKDBhsWtcvNIPXlA.jpg",
+        "popularity": 0.0609,
+        "poster_path": "/8NBsrcxejRsdnrb0uCq85aPyue4.jpg",
         "release_date": "2026-01-01",
-        "title": "Triste y Vacía",
+        "title": "El Diente Negro",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -2385,32 +2343,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            28,
-            10752,
-            35
-        ],
-        "id": 1591845,
-        "original_language": "ru",
-        "original_title": "За Палыча! 2",
-        "overview": "",
-        "popularity": 0.5142,
-        "poster_path": "/sWOfnOOOFQGQ1LNteO7LOrPTBD1.jpg",
-        "release_date": "2026-01-01",
-        "title": "За Палыча! 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "战争",
-            "喜剧"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             12,
             35,
             10751
@@ -2430,6 +2362,32 @@
             "冒险",
             "喜剧",
             "家庭"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            10752,
+            35
+        ],
+        "id": 1591845,
+        "original_language": "ru",
+        "original_title": "За Палыча! 2",
+        "overview": "",
+        "popularity": 0.5142,
+        "poster_path": "/sWOfnOOOFQGQ1LNteO7LOrPTBD1.jpg",
+        "release_date": "2026-01-01",
+        "title": "За Палыча! 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "战争",
+            "喜剧"
         ],
         "original_language_zh": "俄语"
     },
