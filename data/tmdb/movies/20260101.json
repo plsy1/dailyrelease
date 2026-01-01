@@ -73,7 +73,8 @@
         "adult": false,
         "backdrop_path": "/xazotJbAZRlh5JYwBPXOzGgmD3l.jpg",
         "genre_ids": [
-            27
+            27,
+            53
         ],
         "id": 1315303,
         "original_language": "en",
@@ -87,7 +88,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -183,28 +185,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mQ3qqW4ZbBrup3JQhMxDMuiePyN.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1584780,
-        "original_language": "en",
-        "original_title": "I’m Chevy Chase and You’re Not",
-        "overview": "",
-        "popularity": 0.745,
-        "poster_path": "/gxPOVkbNQJX94M5wRznyxaV2Svy.jpg",
-        "release_date": "2026-01-01",
-        "title": "I’m Chevy Chase and You’re Not",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/mDDLVMAsZWzMk6Ccn5fRub0VPv.jpg",
         "genre_ids": [
             16,
@@ -217,7 +197,7 @@
         "original_title": "The Pout-Pout Fish",
         "overview": "",
         "popularity": 0.8869,
-        "poster_path": "/osnSpei6wZoaulI4Ul39jHQuhEn.jpg",
+        "poster_path": "/13zx8Vh7nlGmP65NT7rPtORwvw9.jpg",
         "release_date": "2026-01-01",
         "title": "The Pout-Pout Fish",
         "video": false,
@@ -255,6 +235,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mQ3qqW4ZbBrup3JQhMxDMuiePyN.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1584780,
+        "original_language": "en",
+        "original_title": "I’m Chevy Chase and You’re Not",
+        "overview": "",
+        "popularity": 0.745,
+        "poster_path": "/gxPOVkbNQJX94M5wRznyxaV2Svy.jpg",
+        "release_date": "2026-01-01",
+        "title": "I’m Chevy Chase and You’re Not",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1506560,
@@ -287,30 +289,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749,
-            35
-        ],
-        "id": 1416636,
-        "original_language": "en",
-        "original_title": "I Swiped the Wrong One",
-        "overview": "",
-        "popularity": 0.4289,
-        "poster_path": "/cP1rl7DyZMUZ0eijhnOaed6AZNj.jpg",
-        "release_date": "2026-01-01",
-        "title": "I Swiped the Wrong One",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "喜剧"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -360,6 +338,30 @@
         "genre_ids_zh": [
             "惊悚",
             "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            35
+        ],
+        "id": 1416636,
+        "original_language": "en",
+        "original_title": "I Swiped the Wrong One",
+        "overview": "",
+        "popularity": 0.4289,
+        "poster_path": "/cP1rl7DyZMUZ0eijhnOaed6AZNj.jpg",
+        "release_date": "2026-01-01",
+        "title": "I Swiped the Wrong One",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1363,6 +1365,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1607015,
+        "original_language": "en",
+        "original_title": "Depraved",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/fAyJtaNPy5MBsGXMF6bBSYjSL1K.jpg",
+        "release_date": "2026-01-01",
+        "title": "Depraved",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35
         ],
         "id": 1591390,
@@ -1671,6 +1697,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/7JkVZMg3ksFOgDylrY1MfnkxieE.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1607559,
+        "original_language": "en",
+        "original_title": "Fix It In Post",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/2oyk6y18Wdnbo78jmnWeK6KgQbR.jpg",
+        "release_date": "2026-01-01",
+        "title": "Fix It In Post",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1605744,
@@ -1707,25 +1757,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/1hQY3eBsSJpwPGIfvFmgfpXcoyl.jpg",
         "genre_ids": [
+            878,
             35,
-            18
+            53
         ],
-        "id": 1607559,
+        "id": 1607653,
         "original_language": "en",
-        "original_title": "Fix It In Post",
+        "original_title": "The WEN",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/2oyk6y18Wdnbo78jmnWeK6KgQbR.jpg",
+        "popularity": 0.0,
+        "poster_path": "/8JrQ7I8oDLVC2TQ4GpETa7wJGAv.jpg",
         "release_date": "2026-01-01",
-        "title": "Fix It In Post",
+        "title": "The WEN",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "科幻",
             "喜剧",
-            "剧情"
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -2016,30 +2068,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/9gMuqHFWLVfMX4UrkMEtuO4PMB0.jpg",
-        "genre_ids": [
-            99,
-            35
-        ],
-        "id": 1604663,
-        "original_language": "fr",
-        "original_title": "Nonoïsme.",
-        "overview": "",
-        "popularity": 0.0731,
-        "poster_path": "/cVnOZ2T4pULopPlNzWii2NSVoJZ.jpg",
-        "release_date": "2026-01-01",
-        "title": "Nonoïsme.",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -2754,8 +2782,8 @@
         "release_date": "2026-01-01",
         "title": "इक्कीस",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "历史",
             "战争",
