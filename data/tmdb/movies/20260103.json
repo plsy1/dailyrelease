@@ -63,6 +63,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/hGXXRE25KHOcbNsFKxwi9NseUqe.jpg",
+        "genre_ids": [
+            18,
+            53,
+            10752
+        ],
+        "id": 1608628,
+        "original_language": "en",
+        "original_title": "Crazy Cattle 4D: Highlights War Zone",
+        "overview": "",
+        "popularity": 0.1571,
+        "poster_path": "/q2UYYz9pE9rI7z6fIv905uNn97A.jpg",
+        "release_date": "2026-01-03",
+        "title": "Crazy Cattle 4D: Highlights War Zone",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚",
+            "战争"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -201,32 +227,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hGXXRE25KHOcbNsFKxwi9NseUqe.jpg",
-        "genre_ids": [
-            18,
-            53,
-            10752
-        ],
-        "id": 1608628,
-        "original_language": "en",
-        "original_title": "Crazy Cattle 4D: Highlights War Zone",
-        "overview": "",
-        "popularity": 0.1571,
-        "poster_path": "/q2UYYz9pE9rI7z6fIv905uNn97A.jpg",
-        "release_date": "2026-01-03",
-        "title": "Crazy Cattle 4D: Highlights War Zone",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚",
-            "战争"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1600133,
@@ -326,6 +326,52 @@
         "genre_ids_zh": [
             "喜剧",
             "悬疑"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1609042,
+        "original_language": "fr",
+        "original_title": "Les trésors des favorites des rois de France",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/96QiBY9rq1hNck155pYkQJFVkOy.jpg",
+        "release_date": "2026-01-03",
+        "title": "Les trésors des favorites des rois de France",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5bghg8yGFEv0KxdQVBtyR9fiz7G.jpg",
+        "genre_ids": [
+            10751,
+            99
+        ],
+        "id": 1608864,
+        "original_language": "fr",
+        "original_title": "A Saigon-Noon",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zoRkZIdF2oowkTMDRDwq7nBPnsN.jpg",
+        "release_date": "2026-01-03",
+        "title": "A Saigon-Noon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "纪录"
         ],
         "original_language_zh": "法语"
     },

@@ -121,14 +121,14 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sqcYQvLpXvaXWZLxH1kCYo4IE5f.jpg",
+        "backdrop_path": "/p0NFtfzhoFTEeOtTL8YU8RH8hob.jpg",
         "genre_ids": [],
         "id": 1517970,
         "original_language": "ja",
         "original_title": "NJPW Wrestle Kingdom 20",
         "overview": "",
         "popularity": 0.1332,
-        "poster_path": "/h3TVgEPf4StTOk6QS1QFztYcAq0.jpg",
+        "poster_path": "/rAeHmu96NnVuhBZW35KnqZSj3lN.jpg",
         "release_date": "2026-01-04",
         "title": "NJPW Wrestle Kingdom 20",
         "video": false,
@@ -164,6 +164,32 @@
             "音乐"
         ],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            10402,
+            10770
+        ],
+        "id": 1608804,
+        "original_language": "es",
+        "original_title": "Juanjo Bona en Concierto",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-01-04",
+        "title": "Juanjo Bona en Concierto",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐",
+            "电视电影"
+        ],
+        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
