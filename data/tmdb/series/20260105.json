@@ -169,12 +169,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/y1Z1BeU25Fb2POKhv5GbgsoSXIr.jpg",
         "genre_ids": [
+            16,
             35,
-            10765,
-            10759,
-            16
+            10765
         ],
         "id": 305163,
         "origin_country": [
@@ -184,16 +183,15 @@
         "original_name": "拷問バイトくんの日常",
         "overview": "　　这里是一个拷问合法化的世界。在众多\"拷问承包公司\"中，\"Spiritus株式会社\"是业界顶尖的良心企业，专门以恶人为对象。在此工作的有四名打工仔：无所不能、与谁都能和睦相处的王牌前辈·赛罗；众人憧憬的拷问界传奇·时宇；以及备受期待的新人打工仔——可爱又努力的米克，和认真善良的大学生·休。他们在温馨的职场中，今天也轻松愉快地一同完成工作。此外还有清道夫、清洁工……再加上杀手！？各路欢乐又可靠的专业人士纷纷登场。与个性十足的伙伴们共度的每一天，意外令人感到舒适惬意——略显黑暗的工作喜剧，开工啦☆",
         "popularity": 1.5353,
-        "poster_path": "/o71krgHl9e4J7J6Rw6reqOXUAv3.jpg",
+        "poster_path": "/3bnxhdmtqZ8TiVYaOlobjk1s3J8.jpg",
         "first_air_date": "2026-01-05",
         "name": "打工仔的拷问日常",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "动画",
             "喜剧",
-            "科幻与奇幻",
-            "动作与冒险",
-            "动画"
+            "科幻与奇幻"
         ],
         "original_language_zh": "日语"
     },
@@ -318,6 +316,34 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qWcH7rneDe0R7HVNHGIYwKmc3Vb.jpg",
+        "genre_ids": [
+            35,
+            18,
+            16
+        ],
+        "id": 287973,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "有栖川煉ってホントは女なんだよね。",
+        "overview": "由 浅月のりと 所创作的漫画《有栖川炼其实是个女生吧。 》动画化  「我⋯我什么都愿意做。拜托不要说出去⋯」有栖川炼是我的亲戚，同时也是一名经常出现在电视上的知名艺人，有一天，我帮忙藏匿了从工作中逃出来的炼，但是因为一场在浴室发生的意外，让我赫然发现炼原来是「女人」！",
+        "popularity": 0.0,
+        "poster_path": "/m9d3D1U9bdzV4vCHvr2PkdCW92z.jpg",
+        "first_air_date": "2026-01-05",
+        "name": "有栖川炼其实是女生对吧。",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情",
+            "动画"
         ],
         "original_language_zh": "日语"
     },
