@@ -375,6 +375,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6UVPsuiE5LsM7SPETJTQ1Qi3f1J.jpg",
+        "genre_ids": [
+            16,
+            18
+        ],
+        "id": 253476,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "違国日記",
+        "overview": "　　影片改编自同名漫画。社恐小说家的高代槙生（新垣结衣 饰）在姐姐夫妇的葬礼上，面对被亲戚们互相推诿的姐姐的遗孤·田汲朝（早濑憩 饰）无法视而不见，顺势决定收养她。但是把外甥女带回去之后，不善交际的槙生才发现自己不适合和谁一起生活。与此相对，不认生的朝面对“不像大人的大人” 的槙生却也坦率地接受了。女主和如小狗般外甥女就此展开了同居生活……",
+        "popularity": 1.7558,
+        "poster_path": "/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg",
+        "first_air_date": "2026-01-04",
+        "name": "异国日记",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
         "genre_ids": [
             35,
@@ -396,32 +422,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧",
-            "动画",
-            "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            18
-        ],
-        "id": 253476,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "違国日記",
-        "overview": "　　影片改编自同名漫画。社恐小说家的高代槙生（新垣结衣 饰）在姐姐夫妇的葬礼上，面对被亲戚们互相推诿的姐姐的遗孤·田汲朝（早濑憩 饰）无法视而不见，顺势决定收养她。但是把外甥女带回去之后，不善交际的槙生才发现自己不适合和谁一起生活。与此相对，不认生的朝面对“不像大人的大人” 的槙生却也坦率地接受了。女主和如小狗般外甥女就此展开了同居生活……",
-        "popularity": 1.7558,
-        "poster_path": "/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg",
-        "first_air_date": "2026-01-04",
-        "name": "异国日记",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "动画",
             "剧情"
         ],
@@ -465,11 +465,11 @@
         ],
         "original_language": "ja",
         "original_name": "豊臣兄弟！",
-        "overview": "",
+        "overview": "本剧描述天下人丰臣秀吉之弟，武将丰臣秀长的一生；以其视角描述丰臣兄弟凭借兄弟之间的深厚羁绊完成天下统一伟业的奇迹，另外也动态地描绘战国时代的丰富多彩的娱乐事迹！",
         "popularity": 0.4739,
         "poster_path": "/aVqtwHKs8LtcTtzznKhvamqm5gr.jpg",
         "first_air_date": "2026-01-04",
-        "name": "豊臣兄弟！",
+        "name": "丰臣兄弟！",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
