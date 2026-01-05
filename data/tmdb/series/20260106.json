@@ -29,30 +29,6 @@
         "genre_ids": [
             99
         ],
-        "id": 308649,
-        "origin_country": [
-            "英国"
-        ],
-        "original_language": "en",
-        "original_name": "Rick Stein's Australia",
-        "overview": "",
-        "popularity": 0.0558,
-        "poster_path": null,
-        "first_air_date": "2026-01-06",
-        "name": "Rick Stein's Australia",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
         "id": 309810,
         "origin_country": [
             "美国"
@@ -73,7 +49,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8yOGIpWgRuUA1xAoEsumIQeDFRQ.jpg",
+        "backdrop_path": "/3G0me7Xz8vD9m0Ibw7Jo4pr8MFo.jpg",
         "genre_ids": [
             10762
         ],
@@ -85,13 +61,37 @@
         "original_name": "演讲与口才 S2春季班",
         "overview": "新东方，演讲与口才双语 S2春季班。课前预期课程资源。",
         "popularity": 0.0714,
-        "poster_path": "/ldqg5H92GFxl0mmK3v2ugHRl1y4.jpg",
+        "poster_path": "/eEOlOQtW6WvyUuylCM9x8TA2uf5.jpg",
         "first_air_date": "2026-01-06",
         "name": "演讲与口才 S2春季班",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "儿童"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 308649,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "Rick Stein's Australia",
+        "overview": "",
+        "popularity": 0.0558,
+        "poster_path": null,
+        "first_air_date": "2026-01-06",
+        "name": "Rick Stein's Australia",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
