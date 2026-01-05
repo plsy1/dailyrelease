@@ -179,7 +179,7 @@
         "original_language": "ja",
         "original_title": "NJPW New Year Dash !! 2026",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0718,
         "poster_path": "/hN78S6sxR1JdizV83rWKi0Lc05V.jpg",
         "release_date": "2026-01-05",
         "title": "NJPW New Year Dash !! 2026",
@@ -191,6 +191,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/oNdTuQwrLXWy4MrhVTHhP7lYFXk.jpg",
+        "genre_ids": [
+            99,
+            18,
+            10749
+        ],
+        "id": 1609972,
+        "original_language": "fr",
+        "original_title": "Je ne veux qu'elle",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/jS4UW3nO2kzy6qz736Zui2ZoNj9.jpg",
+        "release_date": "2026-01-05",
+        "title": "Je ne veux qu'elle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/8uVdyEAC8uSRjTUpJF4jlioJlzw.jpg",
         "genre_ids": [
             99
@@ -199,7 +225,7 @@
         "original_language": "es",
         "original_title": "Return: Salvando a las Tortugas",
         "overview": "",
-        "popularity": 0.044,
+        "popularity": 0.07,
         "poster_path": "/AcjOcFvLiMRhqLC6JOAQMfyNEr1.jpg",
         "release_date": "2026-01-05",
         "title": "Return: Salvando a las Tortugas",
@@ -260,5 +286,29 @@
             "奇幻"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            10770
+        ],
+        "id": 1610017,
+        "original_language": "it",
+        "original_title": "Un'arte del contatto - Incontro con Romeo Castelluci",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-01-05",
+        "title": "Un'arte del contatto - Incontro con Romeo Castelluci",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "电视电影"
+        ],
+        "original_language_zh": "意大利语"
     }
 ]
