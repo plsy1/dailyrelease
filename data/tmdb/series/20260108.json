@@ -99,7 +99,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/95z3mFo2KuHvnWPz2TaWLO3ioW8.jpg",
+        "backdrop_path": "/1mqzGV6pzZ4Hw0wM5lBfBhfFTtU.jpg",
         "genre_ids": [
             18
         ],
@@ -111,7 +111,7 @@
         "original_name": "Girl Taken",
         "overview": "",
         "popularity": 2.0705,
-        "poster_path": "/b70w93FBo34mgnfirCtbLQhO59v.jpg",
+        "poster_path": "/wUvw2WuH9kll5ZqPR8VTNhSczSN.jpg",
         "first_air_date": "2026-01-08",
         "name": "Girl Taken",
         "vote_average": 0.0,
@@ -187,6 +187,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 310295,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Poser",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-01-08",
+        "name": "Poser",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -514,31 +538,6 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 310290,
-        "origin_country": [
-            "阿根廷",
-            "智利"
-        ],
-        "original_language": "es",
-        "original_name": "Mis Muertos Tristes",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "first_air_date": "2026-01-08",
-        "name": "Mis Muertos Tristes",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
