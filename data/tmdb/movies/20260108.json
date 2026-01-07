@@ -25,32 +25,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6OY74xKj4HMSNebYlmLYIdnSbHv.jpg",
-        "genre_ids": [
-            10749,
-            35,
-            18
-        ],
-        "id": 1034716,
-        "original_language": "en",
-        "original_title": "People We Meet on Vacation",
-        "overview": "自由奔放的波比（艾米丽·巴德 Emily Bader 饰）与循规蹈矩的亚历克斯（汤姆·布莱斯 Tom Blyth 饰）每逢夏天都会一起旅行冒险，这个传统却在延续近十年后突然中断了，两人此后便再无交集。多年后，他们在一次旅行中不期而遇，共同面对彼此未说出口的情感。\r 影片根据艾米莉·亨利的同名畅销书改编。",
-        "popularity": 4.1079,
-        "poster_path": "/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
-        "release_date": "2026-01-08",
-        "title": "盛夏假期遇见爱",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/nm5vZuq6jkRZPo5nLHuzt6qOLT2.jpg",
         "genre_ids": [
             10751,
@@ -437,6 +411,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/5T1W9Jx9ollJkrKrBoPxy3zPHzp.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1611398,
+        "original_language": "es",
+        "original_title": "Un Hombre por Semana",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
+        "release_date": "2026-01-08",
+        "title": "Un Hombre por Semana",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/uRLMWZweAxDmNKGcL28i7yuh5px.jpg",
         "genre_ids": [
             35,
@@ -529,7 +525,8 @@
         "adult": false,
         "backdrop_path": "/7pb2w9DjRMz60ZnZYMdlLuvRPaK.jpg",
         "genre_ids": [
-            35
+            35,
+            18
         ],
         "id": 1558049,
         "original_language": "it",
@@ -543,7 +540,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "意大利语"
     },
