@@ -235,7 +235,7 @@
         "original_language": "ko",
         "original_title": "피렌체",
         "overview": "",
-        "popularity": 0.2531,
+        "popularity": 0.2275,
         "poster_path": "/x2nkMYw5CZ2FAc36JBtEuybq5Qr.jpg",
         "release_date": "2026-01-07",
         "title": "피렌체",
@@ -258,7 +258,7 @@
         "original_language": "ko",
         "original_title": "강다니엘: 홀드 유어 브레스",
         "overview": "",
-        "popularity": 0.094,
+        "popularity": 0.0809,
         "poster_path": "/tGBLwRdEchoR4SfGwDnvGHUdr9i.jpg",
         "release_date": "2026-01-07",
         "title": "강다니엘: 홀드 유어 브레스",
@@ -307,7 +307,7 @@
         "original_language": "de",
         "original_title": "Alice und Horst",
         "overview": "",
-        "popularity": 0.12,
+        "popularity": 0.0974,
         "poster_path": "/dqqJ4idhuHzmqBvnx0PctDWC8Xh.jpg",
         "release_date": "2026-01-07",
         "title": "Alice und Horst",
@@ -331,7 +331,7 @@
         "original_language": "fr",
         "original_title": "Ma frère",
         "overview": "",
-        "popularity": 4.1114,
+        "popularity": 4.24,
         "poster_path": "/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
         "release_date": "2026-01-07",
         "title": "Ma frère",
@@ -354,7 +354,7 @@
         "original_language": "fr",
         "original_title": "Red Bird",
         "overview": "",
-        "popularity": 2.1311,
+        "popularity": 2.3256,
         "poster_path": "/eRRbDK8YeqOuPeKodcerRQR5AJD.jpg",
         "release_date": "2026-01-07",
         "title": "Red Bird",
@@ -369,13 +369,37 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/dCQH6pvGoYePD3KUW4lRjIedxLJ.jpg",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1446694,
+        "original_language": "fr",
+        "original_title": "Ceci est mon corps",
+        "overview": "",
+        "popularity": 0.156,
+        "poster_path": "/nSDtfIuEhVY1xnz1br62Zu5HStz.jpg",
+        "release_date": "2026-01-07",
+        "title": "Ceci est mon corps",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1601735,
         "original_language": "fr",
         "original_title": "L’Académie des secrets",
         "overview": "",
-        "popularity": 0.0694,
+        "popularity": 0.0534,
         "poster_path": null,
         "release_date": "2026-01-07",
         "title": "L’Académie des secrets",
@@ -395,7 +419,7 @@
         "original_language": "fr",
         "original_title": "Tout va bien",
         "overview": "",
-        "popularity": 0.051,
+        "popularity": 0.0725,
         "poster_path": "/dmJuz4b84IfZVrzA1Ur7Xz6UKyl.jpg",
         "release_date": "2026-01-07",
         "title": "Tout va bien",
@@ -417,7 +441,7 @@
         "original_language": "fr",
         "original_title": "The Basement",
         "overview": "",
-        "popularity": 0.0504,
+        "popularity": 0.0479,
         "poster_path": "/goQ1RkhknYXG4dUYJiePw6xcbBl.jpg",
         "release_date": "2026-01-07",
         "title": "The Basement",
@@ -431,6 +455,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3oXI59KLLQYbrIMvoM4g3tCNCOE.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1609305,
+        "original_language": "fr",
+        "original_title": "Rage en Ukraine : des vétériaires en première ligne",
+        "overview": "",
+        "popularity": 0.5282,
+        "poster_path": "/hmUmH0P4Owr2jMNyOfr1jYs8VTW.jpg",
+        "release_date": "2026-01-07",
+        "title": "Rage en Ukraine : des vétériaires en première ligne",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -439,7 +485,7 @@
         "original_language": "fr",
         "original_title": "Premières lunes",
         "overview": "",
-        "popularity": 0.0429,
+        "popularity": 0.0357,
         "poster_path": null,
         "release_date": "2026-01-07",
         "title": "Premières lunes",
@@ -461,7 +507,7 @@
         "original_language": "fr",
         "original_title": "L'arnaqueur de Paris : Mensonges et gastronomie",
         "overview": "",
-        "popularity": 0.0404,
+        "popularity": 0.1049,
         "poster_path": "/AjQysRleD9C2Q31OFqfrpYlPnvD.jpg",
         "release_date": "2026-01-07",
         "title": "L'arnaqueur de Paris : Mensonges et gastronomie",
@@ -483,7 +529,7 @@
         "original_language": "fr",
         "original_title": "Rien n'est oublié",
         "overview": "",
-        "popularity": 0.0357,
+        "popularity": 0.0718,
         "poster_path": null,
         "release_date": "2026-01-07",
         "title": "Rien n'est oublié",
@@ -514,6 +560,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rMg4M81XtUYmtFCggFevxa2KQzD.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1611281,
+        "original_language": "fr",
+        "original_title": "Fête des Lumières",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/aNeAJMPzJpl9R1iQrH3oEM5vUNB.jpg",
+        "release_date": "2026-01-07",
+        "title": "Fête des Lumières",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
         ],
         "original_language_zh": "法语"
     },
