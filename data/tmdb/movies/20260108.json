@@ -119,28 +119,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/klJqMU0c9x9u04BBS4dqixJSeV2.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1520925,
-        "original_language": "en",
-        "original_title": "Mondria(a)n, en route to New York",
-        "overview": "",
-        "popularity": 0.112,
-        "poster_path": "/9VPkldEGMgEqRoPMTxofq3SSVCw.jpg",
-        "release_date": "2026-01-08",
-        "title": "Mondria(a)n, en route to New York",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -160,6 +138,46 @@
         "genre_ids_zh": [
             "纪录",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1610312,
+        "original_language": "en",
+        "original_title": "The City With Annie",
+        "overview": "",
+        "popularity": 0.1557,
+        "poster_path": "/aTjYgsf2M99mSM36Ax90cBHblkS.jpg",
+        "release_date": "2026-01-08",
+        "title": "The City With Annie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/klJqMU0c9x9u04BBS4dqixJSeV2.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1520925,
+        "original_language": "en",
+        "original_title": "Mondria(a)n, en route to New York",
+        "overview": "",
+        "popularity": 0.112,
+        "poster_path": "/9VPkldEGMgEqRoPMTxofq3SSVCw.jpg",
+        "release_date": "2026-01-08",
+        "title": "Mondria(a)n, en route to New York",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -199,24 +217,6 @@
         "poster_path": "/oMR33dOljHd9B48sW2fX5tOMc0o.jpg",
         "release_date": "2026-01-08",
         "title": "LEMON!!!",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1610312,
-        "original_language": "en",
-        "original_title": "The City With Annie",
-        "overview": "",
-        "popularity": 0.1557,
-        "poster_path": "/aTjYgsf2M99mSM36Ax90cBHblkS.jpg",
-        "release_date": "2026-01-08",
-        "title": "The City With Annie",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -565,28 +565,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/30PtnmovK4m56VflKSY69NVOk01.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1569356,
-        "original_language": "it",
-        "original_title": "Come non fare un sequel",
-        "overview": "",
-        "popularity": 0.0264,
-        "poster_path": "/dl0wrtI3lIfuVG0vYW1XJXlxTOy.jpg",
-        "release_date": "2026-01-08",
-        "title": "Come non fare un sequel",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qfVQeHEwhlCoXMNAKnrQSnjjSRu.jpg",
         "genre_ids": [
             27,
@@ -606,6 +584,28 @@
         "genre_ids_zh": [
             "恐怖",
             "悬疑"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/30PtnmovK4m56VflKSY69NVOk01.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1569356,
+        "original_language": "it",
+        "original_title": "Come non fare un sequel",
+        "overview": "",
+        "popularity": 0.0264,
+        "poster_path": "/dl0wrtI3lIfuVG0vYW1XJXlxTOy.jpg",
+        "release_date": "2026-01-08",
+        "title": "Come non fare un sequel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "意大利语"
     },
