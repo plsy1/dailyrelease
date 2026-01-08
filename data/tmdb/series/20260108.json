@@ -76,7 +76,8 @@
         "backdrop_path": "/n4hJLZmBG8kZccNn7bNgBDsVQ6a.jpg",
         "genre_ids": [
             18,
-            9648
+            9648,
+            80
         ],
         "id": 259731,
         "origin_country": [
@@ -85,7 +86,7 @@
         "original_language": "en",
         "original_name": "HIS & HERS",
         "overview": "",
-        "popularity": 6.3132,
+        "popularity": 6.6627,
         "poster_path": "/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
         "first_air_date": "2026-01-08",
         "name": "HIS & HERS",
@@ -93,7 +94,8 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
-            "悬疑"
+            "悬疑",
+            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -110,7 +112,7 @@
         "original_language": "en",
         "original_name": "Girl Taken",
         "overview": "",
-        "popularity": 2.0705,
+        "popularity": 2.7706,
         "poster_path": "/wUvw2WuH9kll5ZqPR8VTNhSczSN.jpg",
         "first_air_date": "2026-01-08",
         "name": "Girl Taken",
@@ -134,7 +136,7 @@
         "original_language": "en",
         "original_name": "The Valley: Persian Style",
         "overview": "",
-        "popularity": 1.0189,
+        "popularity": 0.8973,
         "poster_path": "/jpTCMqDD429TUusKVe7lxAZQJwW.jpg",
         "first_air_date": "2026-01-08",
         "name": "The Valley: Persian Style",
@@ -158,7 +160,7 @@
         "original_language": "en",
         "original_name": "Britain's Favourite Railway Stations",
         "overview": "",
-        "popularity": 0.1967,
+        "popularity": 0.253,
         "poster_path": null,
         "first_air_date": "2026-01-08",
         "name": "Britain's Favourite Railway Stations",
@@ -180,37 +182,13 @@
         "original_language": "en",
         "original_name": "Trainer Games",
         "overview": "",
-        "popularity": 0.0834,
+        "popularity": 0.1311,
         "poster_path": null,
         "first_air_date": "2026-01-08",
         "name": "Trainer Games",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 310295,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Poser",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "first_air_date": "2026-01-08",
-        "name": "Poser",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -538,6 +516,26 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oNw3hrOiMViBVLBuKaC4vTFUqXA.jpg",
+        "genre_ids": [],
+        "id": 310321,
+        "origin_country": [
+            "加拿大"
+        ],
+        "original_language": "fr",
+        "original_name": "Les Morins-Perras Sous le Même Toit",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dcFCJSQL66luZE40qWRFfy0KTM6.jpg",
+        "first_air_date": "2026-01-08",
+        "name": "Les Morins-Perras Sous le Même Toit",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
     },
     {
         "adult": false,
