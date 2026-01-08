@@ -1,6 +1,50 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28
+        ],
+        "id": 1609125,
+        "original_language": "zh",
+        "original_title": "手遮天",
+        "overview": "底层捕快薛不疑（刘峰超 饰）因不谙世故遭同僚排挤，憋屈十年。一桩赈灾银盗窃案他沦为替罪羊。绝境中，他受老师黄士宁（淳于珊珊 饰）搭救，与师弟李震（袁福福 饰）再度合作，然而钱外有钱官外有官，他被迫成为高官手中的“犬牙”……在这黑暗世道，他是会选择做一只听话的鹰犬，还是挣脱这巨手成为啄天之鹰？",
+        "popularity": 0.0286,
+        "poster_path": "/auFCJcZcUmAWxd50Ch1IJ0SdU91.jpg",
+        "release_date": "2026-01-08",
+        "title": "手遮天",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1611889,
+        "original_language": "zh",
+        "original_title": "蜜恋合租",
+        "overview": "安诺轩辞高薪逐写作梦，26岁遭男友陈强出轨并贬其梦想，分手后陷窘境。闺蜜帮她招租，曾被她所救、暗恋她的苏梓桥借机合租。两人磨合中渐生情，虽因误会分开，安诺轩却知心意。苏梓桥助她入职，共退联姻对象华清泫，获苏母认可，婚后安诺轩写作终成。",
+        "popularity": 0.0,
+        "poster_path": "/5NHKEabv4CeC3ZgP7OPekOUTBgL.jpg",
+        "release_date": "2026-01-08",
+        "title": "蜜恋合租",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pWGggSMdp5Nbgq8PQrxkpdn6pNS.jpg",
         "genre_ids": [
             18,
@@ -231,7 +275,7 @@
         "original_language": "ja",
         "original_title": "Vague Times",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": "/qdUBnB5yINsr359WBqBNBqOg1V4.jpg",
         "release_date": "2026-01-08",
         "title": "Vague Times",
@@ -277,7 +321,7 @@
         "original_language": "de",
         "original_title": "Schwesterherz",
         "overview": "",
-        "popularity": 1.4613,
+        "popularity": 1.7351,
         "poster_path": "/MibGz3XrMmG0R5m1qHGJcbxWg2.jpg",
         "release_date": "2026-01-08",
         "title": "Schwesterherz",
@@ -299,7 +343,7 @@
         "original_language": "de",
         "original_title": "The Exposure",
         "overview": "",
-        "popularity": 1.1426,
+        "popularity": 1.1387,
         "poster_path": "/yOKweoXjKP7ERM96yDggwiZ76mQ.jpg",
         "release_date": "2026-01-08",
         "title": "The Exposure",
@@ -322,7 +366,7 @@
         "original_language": "de",
         "original_title": "Checker Tobi 3 - Die heimliche Herrscherin der Erde",
         "overview": "",
-        "popularity": 0.6642,
+        "popularity": 0.6905,
         "poster_path": "/fBrCsda9YUhrx6f2YGcWCIXkAK6.jpg",
         "release_date": "2026-01-08",
         "title": "Checker Tobi 3 - Die heimliche Herrscherin der Erde",
@@ -345,7 +389,7 @@
         "original_language": "fr",
         "original_title": "Autour du feu",
         "overview": "",
-        "popularity": 0.1402,
+        "popularity": 0.2554,
         "poster_path": "/u1aC1Q9NvSo91u2gowHr5fpGt5J.jpg",
         "release_date": "2026-01-08",
         "title": "Autour du feu",
@@ -368,7 +412,7 @@
         "original_language": "fr",
         "original_title": "François Mitterrand, une autre vie possible",
         "overview": "",
-        "popularity": 0.0828,
+        "popularity": 0.0748,
         "poster_path": "/cELz6B4RhbHN1dGVyRlyVDIhUUR.jpg",
         "release_date": "2026-01-08",
         "title": "François Mitterrand, une autre vie possible",
@@ -391,7 +435,7 @@
         "original_language": "fr",
         "original_title": "Le serment d’Hippocrate",
         "overview": "",
-        "popularity": 0.0453,
+        "popularity": 0.0505,
         "poster_path": "/p9fq0bFne33WXYw2xx1pSJjYILt.jpg",
         "release_date": "2026-01-08",
         "title": "Le serment d’Hippocrate",
@@ -414,7 +458,7 @@
         "original_language": "es",
         "original_title": "Volver a los 17",
         "overview": "",
-        "popularity": 0.2572,
+        "popularity": 0.2027,
         "poster_path": "/etzThCbeYmZnfmO7f7KpzQ64xSW.jpg",
         "release_date": "2026-01-08",
         "title": "Volver a los 17",
@@ -424,28 +468,6 @@
         "genre_ids_zh": [
             "喜剧",
             "爱情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/5T1W9Jx9ollJkrKrBoPxy3zPHzp.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1611398,
-        "original_language": "es",
-        "original_title": "Un Hombre por Semana",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
-        "release_date": "2026-01-08",
-        "title": "Un Hombre por Semana",
-        "video": false,
-        "vote_average": 6.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -462,7 +484,7 @@
         "original_language": "es",
         "original_title": "Suit & Tied Execution",
         "overview": "",
-        "popularity": 0.1857,
+        "popularity": 0.1357,
         "poster_path": "/i3kayu4sQs4m4FSTPPTDlLB6cR0.jpg",
         "release_date": "2026-01-08",
         "title": "Suit & Tied Execution",
@@ -479,6 +501,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/5T1W9Jx9ollJkrKrBoPxy3zPHzp.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1611398,
+        "original_language": "es",
+        "original_title": "Un Hombre por Semana",
+        "overview": "",
+        "popularity": 0.2571,
+        "poster_path": "/ynrvcl6e3Ev0SGkpPeXdhfdv1Pt.jpg",
+        "release_date": "2026-01-08",
+        "title": "Un Hombre por Semana",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mvgnPdATN7dUHBUdwOayovPqRZx.jpg",
         "genre_ids": [
             35
@@ -487,7 +531,7 @@
         "original_language": "pt",
         "original_title": "Agentes Muito Especiais",
         "overview": "",
-        "popularity": 1.1247,
+        "popularity": 1.4127,
         "poster_path": "/lOnODWkmfV3PQDsBYrAdoL2SBT0.jpg",
         "release_date": "2026-01-08",
         "title": "Agentes Muito Especiais",
@@ -507,7 +551,7 @@
         "original_language": "pt",
         "original_title": "Timidez",
         "overview": "",
-        "popularity": 0.7676,
+        "popularity": 0.7033,
         "poster_path": "/EcUt83N5S9z67ptNkOIDtjdQC0.jpg",
         "release_date": "2026-01-08",
         "title": "Timidez",
@@ -620,7 +664,7 @@
         "original_language": "hi",
         "original_title": "The Memory Jar",
         "overview": "",
-        "popularity": 0.2357,
+        "popularity": 0.1768,
         "poster_path": "/u31IEfEwM5cU896qXx9HjNgkkvC.jpg",
         "release_date": "2026-01-08",
         "title": "The Memory Jar",
