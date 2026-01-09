@@ -50,7 +50,7 @@
         "id": 1612546,
         "original_language": "zh",
         "original_title": "特殊检测",
-        "overview": "在未来，为应对超常规事件，各国政府联合成立  常规事件处置中心，某日，中心调查官成英和队  调查一条神秘广播信号的源头，他们穿过山洞来  静小镇，发现小镇生命全部死亡，来时的山洞又  失，更可怕的是，他们还发现了另一个自己..",
+        "overview": "在未来，为应对超常规事件，各国政府联合成立了一个超常规事件处置中心，某日，中心调查官成英和队员们奉命调查一条神秘广播信号的源头，他们穿过山洞来到一个寂静小镇，发现小镇生命全部死亡，来时的山洞又突然消失，更可怕的是，他们还发现了另一个自己..",
         "popularity": 0.0,
         "poster_path": "/cBLogZC2cGEGHMKwaYhZ39zc5I0.jpg",
         "release_date": "2026-01-09",
@@ -251,6 +251,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/kFmnD6deQs8ONAwooh7A11RMJGr.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            10770
+        ],
+        "id": 1611384,
+        "original_language": "en",
+        "original_title": "The Pastor Who Preys",
+        "overview": "",
+        "popularity": 0.2271,
+        "poster_path": "/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
+        "release_date": "2026-01-09",
+        "title": "The Pastor Who Preys",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚",
+            "电视电影"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ggmreCDs9i2Ybi3w7pX4FkP6GQT.jpg",
         "genre_ids": [
             99
@@ -337,30 +363,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kFmnD6deQs8ONAwooh7A11RMJGr.jpg",
-        "genre_ids": [
-            9648,
-            53
-        ],
-        "id": 1611384,
-        "original_language": "en",
-        "original_title": "The Pastor Who Preys",
-        "overview": "",
-        "popularity": 0.2271,
-        "poster_path": "/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
-        "release_date": "2026-01-09",
-        "title": "The Pastor Who Preys",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "惊悚"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -477,6 +479,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1612552,
+        "original_language": "en",
+        "original_title": "Roaming",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/teCZn9jM3LqBGFnHwUciMjgsiMT.jpg",
+        "release_date": "2026-01-09",
+        "title": "Roaming",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
