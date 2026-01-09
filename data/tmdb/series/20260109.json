@@ -126,7 +126,7 @@
         "original_language": "en",
         "original_name": "Blue Moon",
         "overview": "",
-        "popularity": 0.0552,
+        "popularity": 0.0431,
         "poster_path": null,
         "first_air_date": "2026-01-09",
         "name": "Blue Moon",
@@ -146,7 +146,7 @@
         "original_language": "en",
         "original_name": "Heart of the Dawn: Inferno",
         "overview": "",
-        "popularity": 0.0239,
+        "popularity": 0.0311,
         "poster_path": null,
         "first_air_date": "2026-01-09",
         "name": "Heart of the Dawn: Inferno",
@@ -158,32 +158,22 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            16,
-            18,
-            10759,
-            10765
-        ],
-        "id": 284444,
+        "genre_ids": [],
+        "id": 310367,
         "origin_country": [
-            "日本"
+            "美国"
         ],
-        "original_language": "ja",
-        "original_name": "シャンピニオンの魔女",
-        "overview": "　　居住在黑森林的露娜，被人们当做黑魔女恐惧着。之所以会如此，是因为露娜每说一句话、触碰一次、走过一次的地方都会长出“毒蘑菇”。镇上的人们将她叫为“蘑菇魔女”。这样的不知晓人心温暖的露娜，开启了第一场恋情……？\n\n　　爱与冒险与感动的魔法奇幻故事开幕！",
-        "popularity": 2.3319,
-        "poster_path": "/gC4ZBJ4MsVNbhU595kyKGVwdNgP.jpg",
+        "original_language": "en",
+        "original_name": "Misfit City",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
         "first_air_date": "2026-01-09",
-        "name": "毒菇魔女",
+        "name": "Misfit City",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情",
-            "动作与冒险",
-            "科幻与奇幻"
-        ],
-        "original_language_zh": "日语"
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -201,8 +191,8 @@
         "original_language": "ja",
         "original_name": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
         "overview": "　　「……我，能活下去的」\n\n　　尽管能力为零，仍被选入勇者队伍的芙拉姆。 唯一拥有的是名为“反转”的难以理解的能力。 果然，在战斗中没什么卵用，但她仍不畏惧。 作为天才的有名贤者吉恩很是讨厌并总是欺负为了保持队伍的活力而工作的她，最后她被强行卖给了奴隶商人。 那个奴隶商会也继续虐待着芙拉姆，最终，出于余兴，她被丢给凶恶的怪物当作盘中餐。 但是，在得到装备并将身体变得黏糊融化的“诅咒之大剑”的瞬间，她的人生“反转”了。",
-        "popularity": 2.0782,
-        "poster_path": "/nH6Ch1q5rwdRs56bYTA9wuOhfbL.jpg",
+        "popularity": 6.319,
+        "poster_path": "/lWNtQ6Ju61H1JYca0xdxIztegDV.jpg",
         "first_air_date": "2026-01-09",
         "name": "「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活",
         "vote_average": 0.0,
@@ -211,6 +201,36 @@
             "动画",
             "剧情",
             "动作与冒险",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7J3W1QAxMXaIJcj9lfYD5oPhCDL.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            18,
+            10765
+        ],
+        "id": 284444,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "シャンピニオンの魔女",
+        "overview": "　　居住在黑森林的露娜，被人们当做黑魔女恐惧着。之所以会如此，是因为露娜每说一句话、触碰一次、走过一次的地方都会长出“毒蘑菇”。镇上的人们将她叫为“蘑菇魔女”。这样的不知晓人心温暖的露娜，开启了第一场恋情……？\n\n　　爱与冒险与感动的魔法奇幻故事开幕！",
+        "popularity": 5.6921,
+        "poster_path": "/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
+        "first_air_date": "2026-01-09",
+        "name": "毒菇魔女",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "动作与冒险",
+            "剧情",
             "科幻与奇幻"
         ],
         "original_language_zh": "日语"
@@ -228,7 +248,7 @@
         "original_language": "ja",
         "original_name": "ハイスクール！奇面組",
         "overview": "就读中学的一堂零、冷越豪、出濑洁、大间仁、物星大5人，因个性突出、行为怪诞，在中学留过级，被周围人称为“奇面组”，颇受关注。转校生河川唯与同学留千绘目睹了“奇面组”的行为，开始对他们产生兴趣并一同行动。此外，该校还有切出翔率领的受女生欢迎的“色男组”、似蛭田妖率领的不良集团“番组”、云童块率领的体育见长的“腕组”、天野邪子率领的不良少女集团“御女组”等个性团体。从相遇起，时间飞逝，他们迎来了新的春天。",
-        "popularity": 0.2527,
+        "popularity": 0.3588,
         "poster_path": "/cuwMHNZTTTnVkkoFLhHluK6sRoO.jpg",
         "first_air_date": "2026-01-09",
         "name": "高校奇面组",
@@ -252,7 +272,7 @@
         "original_language": "ja",
         "original_name": "人は見た目じゃないと思ってた。",
         "overview": "",
-        "popularity": 0.097,
+        "popularity": 0.3195,
         "poster_path": "/a17NLD53cGTqNMdlqe63eLPuPo8.jpg",
         "first_air_date": "2026-01-09",
         "name": "人は見た目じゃないと思ってた。",
@@ -274,7 +294,7 @@
         "original_language": "ja",
         "original_name": "副会長の主なお仕事",
         "overview": "",
-        "popularity": 0.0741,
+        "popularity": 0.0706,
         "poster_path": null,
         "first_air_date": "2026-01-09",
         "name": "副会長の主なお仕事",
@@ -294,7 +314,7 @@
         "original_language": "ja",
         "original_name": "本命じゃなきゃよかったのに",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0718,
         "poster_path": null,
         "first_air_date": "2026-01-09",
         "name": "本命じゃなきゃよかったのに",
@@ -363,7 +383,7 @@
         "original_language": "it",
         "original_name": "Gomorra - Le origini",
         "overview": "",
-        "popularity": 1.5243,
+        "popularity": 2.0417,
         "poster_path": "/2W41nnk0RTrmAWHGdZyBQKEBezl.jpg",
         "first_air_date": "2026-01-09",
         "name": "Gomorra - Le origini",
@@ -388,7 +408,7 @@
         "original_language": "it",
         "original_name": "Fabrizio Corona: Io sono notizia",
         "overview": "",
-        "popularity": 0.4155,
+        "popularity": 0.6256,
         "poster_path": "/2CN5nRXONI8INaLqveNgrf8vvxn.jpg",
         "first_air_date": "2026-01-09",
         "name": "Fabrizio Corona: Io sono notizia",
