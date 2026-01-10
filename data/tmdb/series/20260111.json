@@ -153,34 +153,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            18,
-            10759
-        ],
-        "id": 284969,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "火喰鳥 羽州ぼろ鳶組",
-        "overview": "　　曾经被称为\"火喰鸟\"的江户第一消防武士·松永源吾。因某些原因辞去了消防职务，却突遭新庄藩征辟出仕。在妻子深雪的支持下，源吾决心以头领身份重建业已崩溃的消防组织。虽然聚集了各有怪癖的伙伴，被揶揄为\"褴褛鸢\"，但源吾等人仍秉持\"无论何种生命都要拯救\"的信念而奋战。然而在江户，名为\"狐火\"的神秘连续纵火案却不断发生。面对逼近的灾祸，永不言弃的消防员们奔走奋斗——娱乐活剧开幕！",
-        "popularity": 0.7925,
-        "poster_path": "/fHt1mLMViDFeFL3DULYbKIihkk3.jpg",
-        "first_air_date": "2026-01-11",
-        "name": "火喰鸟 羽州褴褛鸢组",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "剧情",
-            "动作与冒险"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/6uRO8tziDqzzNKYfD2N9xh7QPhN.jpg",
         "genre_ids": [
             16,
@@ -204,6 +176,34 @@
             "动画",
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            18,
+            10759
+        ],
+        "id": 284969,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "火喰鳥 羽州ぼろ鳶組",
+        "overview": "　　曾经被称为\"火喰鸟\"的江户第一消防武士·松永源吾。因某些原因辞去了消防职务，却突遭新庄藩征辟出仕。在妻子深雪的支持下，源吾决心以头领身份重建业已崩溃的消防组织。虽然聚集了各有怪癖的伙伴，被揶揄为\"褴褛鸢\"，但源吾等人仍秉持\"无论何种生命都要拯救\"的信念而奋战。然而在江户，名为\"狐火\"的神秘连续纵火案却不断发生。面对逼近的灾祸，永不言弃的消防员们奔走奋斗——娱乐活剧开幕！",
+        "popularity": 0.7925,
+        "poster_path": "/fHt1mLMViDFeFL3DULYbKIihkk3.jpg",
+        "first_air_date": "2026-01-11",
+        "name": "火喰鸟 羽州褴褛鸢组",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "剧情",
+            "动作与冒险"
         ],
         "original_language_zh": "日语"
     },
