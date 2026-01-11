@@ -85,8 +85,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9XNbV4kiK3U5WKvWXiYihqM7e4t.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/jlebpOzRkVOwBKl75q6td3USw8C.jpg",
+        "genre_ids": [
+            35,
+            10765
+        ],
         "id": 310597,
         "origin_country": [
             "美国"
@@ -100,7 +103,10 @@
         "name": "MuTeluv: Love Lock",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧",
+            "科幻与奇幻"
+        ],
         "original_language_zh": "英语"
     },
     {
