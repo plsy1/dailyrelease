@@ -357,30 +357,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/j9CZj3kiR2WBs1okutQiqHpUOhR.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1512647,
-        "original_language": "fr",
-        "original_title": "Sans pitié",
-        "overview": "",
-        "popularity": 0.6045,
-        "poster_path": "/zngPhsBOrE6gEDWmBvutzYsKZ1E.jpg",
-        "release_date": "2026-01-14",
-        "title": "Sans pitié",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
         "genre_ids": [
             36,
@@ -402,6 +378,30 @@
             "历史",
             "剧情",
             "犯罪"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j9CZj3kiR2WBs1okutQiqHpUOhR.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1512647,
+        "original_language": "fr",
+        "original_title": "Sans pitié",
+        "overview": "",
+        "popularity": 0.6045,
+        "poster_path": "/zngPhsBOrE6gEDWmBvutzYsKZ1E.jpg",
+        "release_date": "2026-01-14",
+        "title": "Sans pitié",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
         ],
         "original_language_zh": "法语"
     },
@@ -459,6 +459,54 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/sUwVD97TojNlfF2hYPsAgvV8lX0.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1614443,
+        "original_language": "fr",
+        "original_title": "Gimme One Last",
+        "overview": "",
+        "popularity": 0.2071,
+        "poster_path": "/g55QqcOGUIrpmIISWjaU5d6adtz.jpg",
+        "release_date": "2026-01-14",
+        "title": "Gimme One Last",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10751
+        ],
+        "id": 1514086,
+        "original_language": "fr",
+        "original_title": "Juste après l'été",
+        "overview": "",
+        "popularity": 0.1079,
+        "poster_path": "/wXKsfXXGhXIXsJGLLNtZBCoX0yY.jpg",
+        "release_date": "2026-01-14",
+        "title": "Juste après l'été",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/iSeAxrgDenLAOr2zv6ZmjhjblH5.jpg",
         "genre_ids": [
             99
@@ -497,30 +545,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/sUwVD97TojNlfF2hYPsAgvV8lX0.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1614443,
-        "original_language": "fr",
-        "original_title": "Gimme One Last",
-        "overview": "",
-        "popularity": 0.2071,
-        "poster_path": "/5Qd3gnqSA2Fup5l5LQsZWqhBNw8.jpg",
-        "release_date": "2026-01-14",
-        "title": "Gimme One Last",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情",
             "喜剧"
         ],
         "original_language_zh": "法语"
