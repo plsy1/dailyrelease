@@ -116,6 +116,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1614282,
+        "original_language": "en",
+        "original_title": "Godfrey: Rebel with a Cause",
+        "overview": "",
+        "popularity": 0.0614,
+        "poster_path": null,
+        "release_date": "2026-01-14",
+        "title": "Godfrey: Rebel with a Cause",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -139,48 +157,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            14,
-            53
-        ],
-        "id": 1581313,
-        "original_language": "en",
-        "original_title": "Ananya's Call",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2026-01-14",
-        "title": "Ananya's Call",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1614282,
-        "original_language": "en",
-        "original_title": "Godfrey: Rebel with a Cause",
-        "overview": "",
-        "popularity": 0.0614,
-        "poster_path": null,
-        "release_date": "2026-01-14",
-        "title": "Godfrey: Rebel with a Cause",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1614844,
@@ -196,6 +172,32 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2vy07Z8Ht3bGJwp2fHIo4QF50R.jpg",
+        "genre_ids": [
+            878,
+            14,
+            18
+        ],
+        "id": 1615348,
+        "original_language": "en",
+        "original_title": "Hiraeth",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lFk58fKYRogoRiUKbXwKoPoEVJi.jpg",
+        "release_date": "2026-01-14",
+        "title": "Hiraeth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "奇幻",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
