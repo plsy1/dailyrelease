@@ -93,30 +93,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/5rPfVldoWQtO9yH97mNYac1En7J.jpg",
-        "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1323625,
-        "original_language": "en",
-        "original_title": "Night Patrol",
-        "overview": "",
-        "popularity": 2.4945,
-        "poster_path": "/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
-        "release_date": "2026-01-16",
-        "title": "Night Patrol",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/d9BMvmi9GAOz7bQ1nTE3cm7B0V7.jpg",
         "genre_ids": [
             18
@@ -156,6 +132,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5rPfVldoWQtO9yH97mNYac1En7J.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1323625,
+        "original_language": "en",
+        "original_title": "Night Patrol",
+        "overview": "",
+        "popularity": 2.4945,
+        "poster_path": "/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
+        "release_date": "2026-01-16",
+        "title": "Night Patrol",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -208,24 +208,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 424853,
-        "original_language": "en",
-        "original_title": "B-Roll",
-        "overview": "欧文是第三频道的记者，发现了市长的腐败，电视台却不让他说出真相，为了揭开真相，欧文和朋友们成立了简陋的工作室，经过一系列的努力成功将市长拉下台。",
-        "popularity": 1.0118,
-        "poster_path": "/qlNM5aMJebqqi2Qx1AVtBAw1c.jpg",
-        "release_date": "2026-01-16",
-        "title": "业余纪录片",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             10749,
             35
@@ -245,6 +227,24 @@
             "爱情",
             "喜剧"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 424853,
+        "original_language": "en",
+        "original_title": "B-Roll",
+        "overview": "欧文是第三频道的记者，发现了市长的腐败，电视台却不让他说出真相，为了揭开真相，欧文和朋友们成立了简陋的工作室，经过一系列的努力成功将市长拉下台。",
+        "popularity": 1.0118,
+        "poster_path": "/qlNM5aMJebqqi2Qx1AVtBAw1c.jpg",
+        "release_date": "2026-01-16",
+        "title": "业余纪录片",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -271,25 +271,45 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/sDfocfRQfMyi7fbeQTOcRPPLMkK.jpg",
         "genre_ids": [
-            80,
-            53
+            99
         ],
-        "id": 1613802,
+        "id": 1609425,
         "original_language": "en",
-        "original_title": "One Last Deal",
+        "original_title": "Glendora",
         "overview": "",
-        "popularity": 0.0901,
-        "poster_path": "/tWoOXEslvSh0gT1siVKaAOz5gsx.jpg",
+        "popularity": 0.2122,
+        "poster_path": "/wuQiFegYsCT8oEWGMaxZEyN8DbK.jpg",
         "release_date": "2026-01-16",
-        "title": "One Last Deal",
+        "title": "Glendora",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪",
-            "惊悚"
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1584260,
+        "original_language": "en",
+        "original_title": "Learning You",
+        "overview": "",
+        "popularity": 0.1806,
+        "poster_path": "/a42JeuwMNYCQjwObnV6ZXTILGjW.jpg",
+        "release_date": "2026-01-16",
+        "title": "Learning You",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -341,22 +361,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xIqdvLkDOC1eicRpSJMRfxTvTqg.jpg",
+        "backdrop_path": null,
         "genre_ids": [
+            18,
             53
         ],
-        "id": 1586573,
+        "id": 1532688,
         "original_language": "en",
-        "original_title": "Capitaine",
+        "original_title": "Leave",
         "overview": "",
-        "popularity": 0.1013,
-        "poster_path": "/wHUMBoe6GVfyOZy5hc07rpDTfO6.jpg",
+        "popularity": 0.1473,
+        "poster_path": "/7HjVWBntzWRdNu8GudupAQGQYoB.jpg",
         "release_date": "2026-01-16",
-        "title": "Capitaine",
+        "title": "Leave",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "剧情",
             "惊悚"
         ],
         "original_language_zh": "英语"
@@ -385,64 +407,22 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/g0ypA7PkGdiAJnUaoUzsfG23gue.jpg",
-        "genre_ids": [],
-        "id": 1594209,
-        "original_language": "en",
-        "original_title": "First Departure",
-        "overview": "",
-        "popularity": 0.0503,
-        "poster_path": "/mjc28Md5aeCiEZfyKi1rho17z4T.jpg",
-        "release_date": "2026-01-16",
-        "title": "First Departure",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/xIqdvLkDOC1eicRpSJMRfxTvTqg.jpg",
         "genre_ids": [
-            18
-        ],
-        "id": 1584260,
-        "original_language": "en",
-        "original_title": "Learning You",
-        "overview": "",
-        "popularity": 0.1806,
-        "poster_path": "/a42JeuwMNYCQjwObnV6ZXTILGjW.jpg",
-        "release_date": "2026-01-16",
-        "title": "Learning You",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
             53
         ],
-        "id": 1532688,
+        "id": 1586573,
         "original_language": "en",
-        "original_title": "Leave",
+        "original_title": "Capitaine",
         "overview": "",
-        "popularity": 0.1473,
-        "poster_path": "/7HjVWBntzWRdNu8GudupAQGQYoB.jpg",
+        "popularity": 0.1013,
+        "poster_path": "/wHUMBoe6GVfyOZy5hc07rpDTfO6.jpg",
         "release_date": "2026-01-16",
-        "title": "Leave",
+        "title": "Capitaine",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
             "惊悚"
         ],
         "original_language_zh": "英语"
@@ -451,20 +431,48 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            80,
+            53
         ],
-        "id": 1600404,
+        "id": 1613802,
         "original_language": "en",
-        "original_title": "Blood or Water",
+        "original_title": "One Last Deal",
         "overview": "",
-        "popularity": 0.0511,
-        "poster_path": "/40wxzyruMBDAQUyCa5EQshke7rS.jpg",
+        "popularity": 0.0901,
+        "poster_path": "/tWoOXEslvSh0gT1siVKaAOz5gsx.jpg",
         "release_date": "2026-01-16",
-        "title": "Blood or Water",
+        "title": "One Last Deal",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "犯罪",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            99,
+            18
+        ],
+        "id": 1613785,
+        "original_language": "en",
+        "original_title": "Counting (Backwards)",
+        "overview": "",
+        "popularity": 0.0614,
+        "poster_path": null,
+        "release_date": "2026-01-16",
+        "title": "Counting (Backwards)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "纪录",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -493,50 +501,42 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sDfocfRQfMyi7fbeQTOcRPPLMkK.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1609425,
+        "id": 1600404,
         "original_language": "en",
-        "original_title": "Glendora",
+        "original_title": "Blood or Water",
         "overview": "",
-        "popularity": 0.2122,
-        "poster_path": "/wuQiFegYsCT8oEWGMaxZEyN8DbK.jpg",
+        "popularity": 0.0511,
+        "poster_path": "/40wxzyruMBDAQUyCa5EQshke7rS.jpg",
         "release_date": "2026-01-16",
-        "title": "Glendora",
+        "title": "Blood or Water",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            99,
-            18
-        ],
-        "id": 1613785,
+        "backdrop_path": "/g0ypA7PkGdiAJnUaoUzsfG23gue.jpg",
+        "genre_ids": [],
+        "id": 1594209,
         "original_language": "en",
-        "original_title": "Counting (Backwards)",
+        "original_title": "First Departure",
         "overview": "",
-        "popularity": 0.0614,
-        "poster_path": null,
+        "popularity": 0.0503,
+        "poster_path": "/mjc28Md5aeCiEZfyKi1rho17z4T.jpg",
         "release_date": "2026-01-16",
-        "title": "Counting (Backwards)",
+        "title": "First Departure",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "纪录",
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -869,6 +869,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3x5bJW7iSJejkYI0QN8DlDD217P.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1617147,
+        "original_language": "fr",
+        "original_title": "J.D. Vance : la revanche d'une Amérique",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yyhccK3aana89ODMNFL1zlUwFO0.jpg",
+        "release_date": "2026-01-16",
+        "title": "J.D. Vance : la revanche d'une Amérique",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ka9BlFNvAGq8zYXdQsJoQ0eEToz.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1617047,
+        "original_language": "fr",
+        "original_title": "Dernier vol",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/4yMARhlkBz6UFZ2KjMnuJh7q3ST.jpg",
+        "release_date": "2026-01-16",
+        "title": "Dernier vol",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -1134,6 +1178,30 @@
             "家庭"
         ],
         "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4suK4Ay9SoZwo6ByA8QNOKMyiMf.jpg",
+        "genre_ids": [
+            16,
+            10751
+        ],
+        "id": 1617044,
+        "original_language": "sv",
+        "original_title": "Lek med Alfons Åberg",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/nd9rdR9piqtyGhYgLLUYr55yB15.jpg",
+        "release_date": "2026-01-16",
+        "title": "Lek med Alfons Åberg",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "家庭"
+        ],
+        "original_language_zh": "瑞典语"
     },
     {
         "adult": false,
