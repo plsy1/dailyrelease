@@ -705,34 +705,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            12,
-            14,
-            28,
-            18
-        ],
-        "id": 1616519,
-        "original_language": "en",
-        "original_title": "The Lord of the Rings: The Fellowship of the Ring - Special Extended Edition Scenes",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/qbvkxubqWGfFeCIP4MPqzx7JF0y.jpg",
-        "release_date": "2026-01-16",
-        "title": "The Lord of the Rings: The Fellowship of the Ring - Special Extended Edition Scenes",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "冒险",
-            "奇幻",
-            "动作",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/eT7QekNA6VEIXW9OVbRqrwK9BOl.jpg",
         "genre_ids": [
             27
@@ -802,6 +774,28 @@
             "恐怖"
         ],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1616659,
+        "original_language": "ko",
+        "original_title": "2024.12.3. 조작된 내란, 감춰진 진실",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/2cLTatUsCDZsRpHsgELbdFaZJyD.jpg",
+        "release_date": "2026-01-16",
+        "title": "2024.12.3. 조작된 내란, 감춰진 진실",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "韩语"
     },
     {
         "adult": false,
@@ -1013,7 +1007,7 @@
         "genre_ids": [
             35,
             28,
-            9648
+            10749
         ],
         "id": 1282440,
         "original_language": "hi",
@@ -1029,7 +1023,7 @@
         "genre_ids_zh": [
             "喜剧",
             "动作",
-            "悬疑"
+            "爱情"
         ],
         "original_language_zh": "印地语"
     },
@@ -1043,40 +1037,18 @@
         ],
         "id": 1457939,
         "original_language": "hi",
-        "original_title": "Rahu Ketu",
+        "original_title": "राहु केतु",
         "overview": "",
         "popularity": 2.9385,
         "poster_path": "/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg",
         "release_date": "2026-01-16",
-        "title": "Rahu Ketu",
+        "title": "राहु केतु",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "冒险",
             "喜剧",
-            "奇幻"
-        ],
-        "original_language_zh": "印地语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/okL1DAWIi4fuAKq9q0xdk9Ylp0o.jpg",
-        "genre_ids": [
-            14
-        ],
-        "id": 1094314,
-        "original_language": "hi",
-        "original_title": "Mayasabha",
-        "overview": "",
-        "popularity": 0.911,
-        "poster_path": "/2SkwkaeIMhJLKskbacbonYW9vyk.jpg",
-        "release_date": "2026-01-16",
-        "title": "Mayasabha",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "奇幻"
         ],
         "original_language_zh": "印地语"
