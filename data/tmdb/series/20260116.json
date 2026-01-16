@@ -18,8 +18,8 @@
         "poster_path": "/nJEaALwGhCdsHjZun3dOVDfvTgD.jpg",
         "first_air_date": "2026-01-16",
         "name": "深空彼岸",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动画",
             "动作与冒险",
@@ -44,30 +44,6 @@
         "poster_path": "/n6Uo05D6wO64zazA9GUo6eGQliH.jpg",
         "first_air_date": "2026-01-16",
         "name": "凶宅专卖店",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/i47KBVO8lClLkR8TAhvNY6kw1D0.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 294615,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "半醒",
-        "overview": "商界霸主顾易萧以冷酷著称，唯独秘书叶星晚是他的逆鳞。因十五年前的误会，他设局掌控、折磨她。外表柔弱的叶星晚不再忍受，反而将计就计，以身为饵与顾易萧展开相爱相杀的虐恋。最终她迎来顾易萧的忏悔与救赎曙光，但内心能否真正平静幸福仍是未知。",
-        "popularity": 0.2087,
-        "poster_path": "/yA9D6Rzn1zQZREJ8QbBEWW8cirE.jpg",
-        "first_air_date": "2026-01-16",
-        "name": "半醒",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -103,6 +79,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/i47KBVO8lClLkR8TAhvNY6kw1D0.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 294615,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "半醒",
+        "overview": "商界霸主顾易萧以冷酷著称，唯独秘书叶星晚是他的逆鳞。因十五年前的误会，他设局掌控、折磨她。外表柔弱的叶星晚不再忍受，反而将计就计，以身为饵与顾易萧展开相爱相杀的虐恋。最终她迎来顾易萧的忏悔与救赎曙光，但内心能否真正平静幸福仍是未知。",
+        "popularity": 0.2087,
+        "poster_path": "/yA9D6Rzn1zQZREJ8QbBEWW8cirE.jpg",
+        "first_air_date": "2026-01-16",
+        "name": "半醒",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -115,7 +115,7 @@
         "original_name": "打",
         "overview": "职业自由搏击手韩川意外痛失女儿，妻离子散、被协会除名，自此颓废度日。女房东陈楠和其女儿苗苗的出现，成为他生命新希望。然而，苗苗更因罕见血型被犯罪团伙秦刚盯上并绑架。韩川重拾拳头，与黑恶势力展开殊死搏斗。在底层小人物的帮助下，他最终击败反派。",
         "popularity": 0.071,
-        "poster_path": null,
+        "poster_path": "/76rhbYyzFemXM7GrGUB1R0X6axv.jpg",
         "first_air_date": "2026-01-16",
         "name": "打",
         "vote_average": 0.0,
@@ -442,6 +442,30 @@
             "真人秀"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mL36yB4fKDzay0G3vEi2tocn2qb.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 303453,
+        "origin_country": [
+            "土耳其"
+        ],
+        "original_language": "tr",
+        "original_name": "Son Kare",
+        "overview": "",
+        "popularity": 1.3311,
+        "poster_path": "/jwVRYnc6IwReY9bURd2svzJezP6.jpg",
+        "first_air_date": "2026-01-16",
+        "name": "Son Kare",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "土耳其语"
     },
     {
         "adult": false,
