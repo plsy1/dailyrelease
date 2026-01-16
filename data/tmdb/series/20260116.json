@@ -793,8 +793,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/wFrHPImqMvKDHCkNI8QeBnTJHGZ.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/evu4SDquU6oQmnIdq6evjBrpPHx.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
         "id": 310929,
         "origin_country": [
             "瑞典"
@@ -808,7 +811,10 @@
         "name": "Populära problem",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
         "original_language_zh": "瑞典语"
     },
     {
