@@ -304,7 +304,7 @@
         "original_name": "이 사랑 통역 되나요?",
         "overview": "女明星车茂熙与她的口译员周浩镇为了拍摄节目而周游多国，当两人的情感迷失在翻译之中，爱情是否能找到属于自己的语言？",
         "popularity": 7.1856,
-        "poster_path": "/137LutbAUIPPE1WJXMDB1UzZYIr.jpg",
+        "poster_path": "/bZs0ZU3vTm9A6jcVJV9ce2VqQDc.jpg",
         "first_air_date": "2026-01-16",
         "name": "爱情怎么翻译？",
         "vote_average": 8.0,
@@ -445,6 +445,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ggiGfop5HrXTQc9atwtDt59ssnM.jpg",
+        "genre_ids": [],
+        "id": 311246,
+        "origin_country": [
+            "比利时"
+        ],
+        "original_language": "nl",
+        "original_name": "Twins?!",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-01-16",
+        "name": "Twins?!",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mL36yB4fKDzay0G3vEi2tocn2qb.jpg",
         "genre_ids": [
             18
@@ -486,5 +506,29 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10764
+        ],
+        "id": 307697,
+        "origin_country": [
+            "挪威"
+        ],
+        "original_language": "no",
+        "original_name": "Paradise Hotel – Baksnakk",
+        "overview": "",
+        "popularity": 0.2312,
+        "poster_path": null,
+        "first_air_date": "2026-01-16",
+        "name": "Paradise Hotel – Baksnakk",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "挪威语"
     }
 ]
