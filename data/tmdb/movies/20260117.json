@@ -31,7 +31,7 @@
         "original_language": "en",
         "original_title": "I Know Exactly How You Die",
         "overview": "",
-        "popularity": 2.1753,
+        "popularity": 2.4942,
         "poster_path": "/oLhBayrRmdZ3M5hWQPtl2trNcDx.jpg",
         "release_date": "2026-01-17",
         "title": "I Know Exactly How You Die",
@@ -55,7 +55,7 @@
         "original_language": "en",
         "original_title": "Jerusalem '67",
         "overview": "",
-        "popularity": 1.6104,
+        "popularity": 1.6543,
         "poster_path": "/joGN2Xm3W5nJlJAYfUqRoOjdgT6.jpg",
         "release_date": "2026-01-17",
         "title": "Jerusalem '67",
@@ -80,7 +80,7 @@
         "original_language": "en",
         "original_title": "Love on the Amazon",
         "overview": "",
-        "popularity": 0.6804,
+        "popularity": 0.7044,
         "poster_path": "/xzXGCHBepfJD9CJPl1dURY3j7RT.jpg",
         "release_date": "2026-01-17",
         "title": "Love on the Amazon",
@@ -101,7 +101,7 @@
         "original_language": "en",
         "original_title": "Untouchables",
         "overview": "",
-        "popularity": 0.2683,
+        "popularity": 0.232,
         "poster_path": "/fglJEf8lF6dfNNetm5Dfsxwslkc.jpg",
         "release_date": "2026-01-17",
         "title": "Untouchables",
@@ -109,6 +109,30 @@
         "vote_average": 9.0,
         "vote_count": 1,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/14yYXG0UtHnY64Lsm0TUaDGZc6W.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1221566,
+        "original_language": "en",
+        "original_title": "The Lady and The Legend",
+        "overview": "",
+        "popularity": 0.2732,
+        "poster_path": "/HVV1Rr6Jw65O6tnpVBPXCBxdw0.jpg",
+        "release_date": "2026-01-17",
+        "title": "The Lady and The Legend",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -125,7 +149,7 @@
         "original_language": "en",
         "original_title": "Angel Lust",
         "overview": "",
-        "popularity": 0.1943,
+        "popularity": 0.273,
         "poster_path": "/9tylYxqymPmIpcYhQVUrHlhruLb.jpg",
         "release_date": "2026-01-17",
         "title": "Angel Lust",
@@ -145,21 +169,45 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            27
         ],
-        "id": 1611214,
+        "id": 1572353,
         "original_language": "en",
-        "original_title": "Seeds for Liberation",
+        "original_title": "Forever Night",
         "overview": "",
-        "popularity": 0.0922,
+        "popularity": 0.1223,
         "poster_path": null,
         "release_date": "2026-01-17",
-        "title": "Seeds for Liberation",
+        "title": "Forever Night",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nTOBVH7w5siAmc3FTR19sGexQsL.jpg",
+        "genre_ids": [
+            16,
+            27
+        ],
+        "id": 1616630,
+        "original_language": "en",
+        "original_title": "Rudi: The Blood Nosed Reindeer",
+        "overview": "",
+        "popularity": 0.15,
+        "poster_path": "/qLxQYDISNRuo95MlXPkkcdW1Bd3.jpg",
+        "release_date": "2026-01-17",
+        "title": "Rudi: The Blood Nosed Reindeer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -175,7 +223,7 @@
         "original_language": "en",
         "original_title": "Fall Dies",
         "overview": "",
-        "popularity": 0.1223,
+        "popularity": 0.1932,
         "poster_path": "/lsw0iEGBRKMElU39GxXX03KjT2s.jpg",
         "release_date": "2026-01-17",
         "title": "Fall Dies",
@@ -191,25 +239,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/14yYXG0UtHnY64Lsm0TUaDGZc6W.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            99,
-            10402
+            99
         ],
-        "id": 1221566,
+        "id": 1611214,
         "original_language": "en",
-        "original_title": "The Lady and The Legend",
+        "original_title": "Seeds for Liberation",
         "overview": "",
-        "popularity": 0.2325,
-        "poster_path": "/HVV1Rr6Jw65O6tnpVBPXCBxdw0.jpg",
+        "popularity": 0.1182,
+        "poster_path": null,
         "release_date": "2026-01-17",
-        "title": "The Lady and The Legend",
+        "title": "Seeds for Liberation",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "音乐"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -217,21 +263,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27
+            99,
+            18
         ],
-        "id": 1572353,
+        "id": 1596933,
         "original_language": "en",
-        "original_title": "Forever Night",
+        "original_title": "Otium",
         "overview": "",
-        "popularity": 0.1547,
-        "poster_path": null,
+        "popularity": 0.0848,
+        "poster_path": "/smqrwBu4A95p00UfPMntYITqQ4Z.jpg",
         "release_date": "2026-01-17",
-        "title": "Forever Night",
+        "title": "Otium",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖"
+            "纪录",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -247,7 +295,7 @@
         "original_language": "en",
         "original_title": "Memories Away",
         "overview": "",
-        "popularity": 0.0765,
+        "popularity": 0.1591,
         "poster_path": "/bxj4MIJsPvH8WhTTfzRZdLjQucr.jpg",
         "release_date": "2026-01-17",
         "title": "Memories Away",
@@ -263,25 +311,49 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/jVVbHq5ngL0ltvVXQBcKmRS1VJJ.jpg",
         "genre_ids": [
-            99,
-            18
+            27,
+            35,
+            878
         ],
-        "id": 1596933,
+        "id": 1616553,
         "original_language": "en",
-        "original_title": "Otium",
+        "original_title": "Blood Moon Orange",
         "overview": "",
-        "popularity": 0.0801,
-        "poster_path": "/smqrwBu4A95p00UfPMntYITqQ4Z.jpg",
+        "popularity": 0.2482,
+        "poster_path": "/lGCzDOwKwvHdDkChLKEOfZmCaIi.jpg",
         "release_date": "2026-01-17",
-        "title": "Otium",
+        "title": "Blood Moon Orange",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "剧情"
+            "恐怖",
+            "喜剧",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xhM5Zw2NUv85moytN38GN8exTcC.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1616545,
+        "original_language": "en",
+        "original_title": "Worm",
+        "overview": "",
+        "popularity": 0.0218,
+        "poster_path": "/5Q0SXz8DPwysaubvKAdZaL3ZcF1.jpg",
+        "release_date": "2026-01-17",
+        "title": "Worm",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -295,7 +367,7 @@
         "original_language": "en",
         "original_title": "Healers, Midwives, Witches",
         "overview": "",
-        "popularity": 0.0218,
+        "popularity": 0.0437,
         "poster_path": "/tnt58uCKVu5QrxmtBqPt2QGcLP.jpg",
         "release_date": "2026-01-17",
         "title": "Healers, Midwives, Witches",
@@ -310,23 +382,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1600609,
+        "genre_ids": [],
+        "id": 1600717,
         "original_language": "en",
-        "original_title": "Hypnagogia",
+        "original_title": "TNA Genesis 2026",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0789,
         "poster_path": null,
         "release_date": "2026-01-17",
-        "title": "Hypnagogia",
+        "title": "TNA Genesis 2026",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -358,24 +426,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1600717,
-        "original_language": "en",
-        "original_title": "TNA Genesis 2026",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": null,
-        "release_date": "2026-01-17",
-        "title": "TNA Genesis 2026",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             35
         ],
@@ -392,6 +442,82 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1617206,
+        "original_language": "en",
+        "original_title": "Fine, I’ll Do It Myself",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": null,
+        "release_date": "2026-01-17",
+        "title": "Fine, I’ll Do It Myself",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1617204,
+        "original_language": "en",
+        "original_title": "Hand on Broken Glass",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": null,
+        "release_date": "2026-01-17",
+        "title": "Hand on Broken Glass",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1617198,
+        "original_language": "en",
+        "original_title": "Desert Silence",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-01-17",
+        "title": "Desert Silence",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1617166,
+        "original_language": "en",
+        "original_title": "Your Sandwich Is Always Rotten",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-01-17",
+        "title": "Your Sandwich Is Always Rotten",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -441,62 +567,20 @@
         "genre_ids": [
             27
         ],
-        "id": 1617166,
+        "id": 1600609,
         "original_language": "en",
-        "original_title": "Your Sandwich Is Always Rotten",
+        "original_title": "Hypnagogia",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0,
         "poster_path": null,
         "release_date": "2026-01-17",
-        "title": "Your Sandwich Is Always Rotten",
+        "title": "Hypnagogia",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nTOBVH7w5siAmc3FTR19sGexQsL.jpg",
-        "genre_ids": [
-            16,
-            27
-        ],
-        "id": 1616630,
-        "original_language": "en",
-        "original_title": "Rudi: The Blood Nosed Reindeer",
-        "overview": "",
-        "popularity": 0.15,
-        "poster_path": "/qLxQYDISNRuo95MlXPkkcdW1Bd3.jpg",
-        "release_date": "2026-01-17",
-        "title": "Rudi: The Blood Nosed Reindeer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1617198,
-        "original_language": "en",
-        "original_title": "Desert Silence",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2026-01-17",
-        "title": "Desert Silence",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -563,7 +647,7 @@
         "original_language": "de",
         "original_title": "Faust II (Filmfragment)",
         "overview": "",
-        "popularity": 0.1101,
+        "popularity": 0.1103,
         "poster_path": "/RrE2lVRjTMqG8ER4U3MEBqtBLL.jpg",
         "release_date": "2026-01-17",
         "title": "Faust II (Filmfragment)",
