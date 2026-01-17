@@ -335,6 +335,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mF9sVUMlRdI8JsyaJl6wG1Zr22z.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1614471,
+        "original_language": "fr",
+        "original_title": "The Girl from Ipanema : Astrud Gilberto, reine de la bossa nova",
+        "overview": "",
+        "popularity": 0.1015,
+        "poster_path": "/1SvC0Uk731d7MA5kMe87ortE0pH.jpg",
+        "release_date": "2026-01-18",
+        "title": "The Girl from Ipanema : Astrud Gilberto, reine de la bossa nova",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ciZVAhIs5KqM138u2UTQmOG9Dqw.jpg",
         "genre_ids": [
             18,
@@ -356,6 +380,30 @@
             "剧情",
             "纪录",
             "历史"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tEs6S6MOQNWT2Kosne1pO2Pehqk.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1617129,
+        "original_language": "fr",
+        "original_title": "Mur mure",
+        "overview": "",
+        "popularity": 0.0639,
+        "poster_path": "/4HevJ3d3rzfTjgaZRx1fiYIRri8.jpg",
+        "release_date": "2026-01-18",
+        "title": "Mur mure",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "法语"
     },
@@ -417,30 +465,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "爱情"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/tEs6S6MOQNWT2Kosne1pO2Pehqk.jpg",
-        "genre_ids": [
-            35,
-            10749
-        ],
-        "id": 1617129,
-        "original_language": "fr",
-        "original_title": "Mur mure",
-        "overview": "",
-        "popularity": 0.0639,
-        "poster_path": "/4HevJ3d3rzfTjgaZRx1fiYIRri8.jpg",
-        "release_date": "2026-01-18",
-        "title": "Mur mure",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
             "爱情"
         ],
         "original_language_zh": "法语"
