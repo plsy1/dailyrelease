@@ -65,6 +65,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 1600990,
+        "original_language": "en",
+        "original_title": "Bannister Doll Heist",
+        "overview": "",
+        "popularity": 0.1419,
+        "poster_path": "/nrJ5T4DzrmDEGCd6Hhu5v83v4hC.jpg",
+        "release_date": "2026-01-18",
+        "title": "Bannister Doll Heist",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/A7cYX1Vead1zDBWKYdsvA6gBoO.jpg",
         "genre_ids": [
             27
@@ -89,23 +113,27 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
-            80
+            18,
+            28,
+            12,
+            10749
         ],
-        "id": 1600990,
+        "id": 1617357,
         "original_language": "en",
-        "original_title": "Bannister Doll Heist",
+        "original_title": "Alien Yuri ASMR: The Movie (Kissing, Time Travel, Death)",
         "overview": "",
-        "popularity": 0.1419,
-        "poster_path": "/nrJ5T4DzrmDEGCd6Hhu5v83v4hC.jpg",
+        "popularity": 0.0786,
+        "poster_path": "/zmGQzHuJoaUxWulLUL7htQpbJrs.jpg",
         "release_date": "2026-01-18",
-        "title": "Bannister Doll Heist",
+        "title": "Alien Yuri ASMR: The Movie (Kissing, Time Travel, Death)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "犯罪"
+            "剧情",
+            "动作",
+            "冒险",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -133,6 +161,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1616945,
+        "original_language": "en",
+        "original_title": "Dog Years",
+        "overview": "",
+        "popularity": 0.0521,
+        "poster_path": "/vPYcsrQRYINqsAo0OP3r5kfw4wP.jpg",
+        "release_date": "2026-01-18",
+        "title": "Dog Years",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/m6PoReGDw2vv7ojZYHTH21L5ck.jpg",
         "genre_ids": [
             35
@@ -151,24 +197,6 @@
         "genre_ids_zh": [
             "喜剧"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1616945,
-        "original_language": "en",
-        "original_title": "Dog Years",
-        "overview": "",
-        "popularity": 0.0521,
-        "poster_path": "/vPYcsrQRYINqsAo0OP3r5kfw4wP.jpg",
-        "release_date": "2026-01-18",
-        "title": "Dog Years",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -215,27 +243,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            28,
-            12,
-            10749
+            35
         ],
-        "id": 1617357,
+        "id": 1618443,
         "original_language": "en",
-        "original_title": "Alien Yuri ASMR: The Movie (Kissing, Time Travel, Death)",
+        "original_title": "The Glass Eye",
         "overview": "",
-        "popularity": 0.0786,
-        "poster_path": "/zmGQzHuJoaUxWulLUL7htQpbJrs.jpg",
+        "popularity": 0.0,
+        "poster_path": "/vlnr8vTLISj30iLg83L8JEMP5Jm.jpg",
         "release_date": "2026-01-18",
-        "title": "Alien Yuri ASMR: The Movie (Kissing, Time Travel, Death)",
+        "title": "The Glass Eye",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "动作",
-            "冒险",
-            "爱情"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -468,6 +490,30 @@
             "爱情"
         ],
         "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tbRaH9PuyvZykLRhdx1glGjwNex.jpg",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1615988,
+        "original_language": "es",
+        "original_title": "Eloy x Manzano",
+        "overview": "",
+        "popularity": 0.2911,
+        "poster_path": "/w5eRlZACuEQJuSEVwNQvpwNGx56.jpg",
+        "release_date": "2026-01-18",
+        "title": "Eloy x Manzano",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
