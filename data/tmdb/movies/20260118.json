@@ -43,6 +43,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1578671,
+        "original_language": "en",
+        "original_title": "The Lines We've Crossed",
+        "overview": "",
+        "popularity": 0.2608,
+        "poster_path": "/feqyvD7m9RKLuOufBc6EsBknRgM.jpg",
+        "release_date": "2026-01-18",
+        "title": "The Lines We've Crossed",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             18
         ],
@@ -201,24 +225,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/o8k4pE1v7eTMZ9Qvq0YI4kO0hWj.jpg",
-        "genre_ids": [],
-        "id": 1612144,
-        "original_language": "en",
-        "original_title": "Three Raging Lunatics",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/1i6x06pXLJHYlrOIKl1NrMfrb9O.jpg",
-        "release_date": "2026-01-18",
-        "title": "Three Raging Lunatics",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -237,6 +243,24 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o8k4pE1v7eTMZ9Qvq0YI4kO0hWj.jpg",
+        "genre_ids": [],
+        "id": 1612144,
+        "original_language": "en",
+        "original_title": "Three Raging Lunatics",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/1i6x06pXLJHYlrOIKl1NrMfrb9O.jpg",
+        "release_date": "2026-01-18",
+        "title": "Three Raging Lunatics",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
