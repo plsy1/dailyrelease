@@ -67,6 +67,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ozrVi5LrlH0hJwqm8ZYfGBREenx.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1566195,
+        "original_language": "en",
+        "original_title": "Bottom of a Bottle",
+        "overview": "",
+        "popularity": 0.1336,
+        "poster_path": "/eKZ2i3bJjLLumMB4WShwYbpDxVt.jpg",
+        "release_date": "2026-01-19",
+        "title": "Bottom of a Bottle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pNWjBQvZBkzEBAvxpn5sQokhcRl.jpg",
         "genre_ids": [
             35,
@@ -88,28 +110,6 @@
             "喜剧",
             "恐怖",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/ozrVi5LrlH0hJwqm8ZYfGBREenx.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1566195,
-        "original_language": "en",
-        "original_title": "Bottom of a Bottle",
-        "overview": "",
-        "popularity": 0.1336,
-        "poster_path": "/eKZ2i3bJjLLumMB4WShwYbpDxVt.jpg",
-        "release_date": "2026-01-19",
-        "title": "Bottom of a Bottle",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -185,7 +185,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/tQVqDGwl9snbQXKX2bBWjDL1vGm.jpg",
         "genre_ids": [],
         "id": 1613527,
         "original_language": "ja",
