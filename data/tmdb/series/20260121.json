@@ -144,7 +144,9 @@
     {
         "adult": false,
         "backdrop_path": "/qki3XRNMWh1L1KkW8Rs4Uqm3L7n.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 311893,
         "origin_country": [
             "法国"
@@ -158,7 +160,9 @@
         "name": "Le peuple des tempêtes",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     }
 ]
