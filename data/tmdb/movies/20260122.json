@@ -465,6 +465,52 @@
         "genre_ids": [
             99
         ],
+        "id": 1596330,
+        "original_language": "en",
+        "original_title": "American Pachuco: The Legend of Luis Valdez",
+        "overview": "",
+        "popularity": 0.1708,
+        "poster_path": "/mJHVFrpMZM7PsZNXn5wbp7wp94P.jpg",
+        "release_date": "2026-01-22",
+        "title": "American Pachuco: The Legend of Luis Valdez",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            99
+        ],
+        "id": 1596285,
+        "original_language": "en",
+        "original_title": "THE DISCIPLE",
+        "overview": "",
+        "popularity": 0.15,
+        "poster_path": "/fifYd1Hv89ndh20EalFIDrE8gFC.jpg",
+        "release_date": "2026-01-22",
+        "title": "THE DISCIPLE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1611421,
         "original_language": "en",
         "original_title": "Lost in White",
@@ -505,23 +551,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/iOgu89uWAZ7CUZbaJzRudzRqxK2.jpg",
         "genre_ids": [
-            99
+            27,
+            18
         ],
-        "id": 1611400,
+        "id": 1619652,
         "original_language": "en",
-        "original_title": "Anatomy",
+        "original_title": "Conscious",
         "overview": "",
-        "popularity": 0.0714,
-        "poster_path": "/n4OUMGt4NIGT5xPsiqJ2H3O7gG0.jpg",
+        "popularity": 0.1204,
+        "poster_path": "/vcCcuAwSIWDM6RXDSigMiREYkpT.jpg",
         "release_date": "2026-01-22",
-        "title": "Anatomy",
+        "title": "Conscious",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "恐怖",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -545,6 +593,48 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8UuLzIr1iRBJhIdZFIxtS9TkTvJ.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1619657,
+        "original_language": "en",
+        "original_title": "Early Bird",
+        "overview": "",
+        "popularity": 0.1086,
+        "poster_path": "/zq9QzMcqX1uxrTsEU7TGdz2xvfW.jpg",
+        "release_date": "2026-01-22",
+        "title": "Early Bird",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1613058,
+        "original_language": "en",
+        "original_title": "T1D",
+        "overview": "",
+        "popularity": 0.1064,
+        "poster_path": "/8ywkr7Acof9WwPtHltovC43nYSX.jpg",
+        "release_date": "2026-01-22",
+        "title": "T1D",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -573,18 +663,42 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/scajss1DdAZRvp1Im5j51xc45sW.jpg",
+        "genre_ids": [
+            35,
+            10402
+        ],
+        "id": 1619665,
+        "original_language": "en",
+        "original_title": "Too Many Cooks",
+        "overview": "",
+        "popularity": 0.085,
+        "poster_path": "/jtc9JWsIMTEkHEin06CBMIzVeCz.jpg",
+        "release_date": "2026-01-22",
+        "title": "Too Many Cooks",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
         ],
-        "id": 1596330,
+        "id": 1611400,
         "original_language": "en",
-        "original_title": "American Pachuco: The Legend of Luis Valdez",
+        "original_title": "Anatomy",
         "overview": "",
-        "popularity": 0.1708,
-        "poster_path": "/mJHVFrpMZM7PsZNXn5wbp7wp94P.jpg",
+        "popularity": 0.0714,
+        "poster_path": "/n4OUMGt4NIGT5xPsiqJ2H3O7gG0.jpg",
         "release_date": "2026-01-22",
-        "title": "American Pachuco: The Legend of Luis Valdez",
+        "title": "Anatomy",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -617,28 +731,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1611413,
-        "original_language": "en",
-        "original_title": "Hip-hop is Unity",
-        "overview": "",
-        "popularity": 0.0218,
-        "poster_path": "/eXOecn5VdMljwNxeWyRXl8PLzep.jpg",
-        "release_date": "2026-01-22",
-        "title": "Hip-hop is Unity",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/lnH3DTNAuirQrpcwc566NR6ZLyo.jpg",
         "genre_ids": [
             35
@@ -656,28 +748,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1607082,
-        "original_language": "en",
-        "original_title": "Mudlarking",
-        "overview": "",
-        "popularity": 0.0322,
-        "poster_path": "/lPXzqPV6cwMNu1tmRwA1STYvlCn.jpg",
-        "release_date": "2026-01-22",
-        "title": "Mudlarking",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -729,6 +799,28 @@
         "genre_ids": [
             99
         ],
+        "id": 1607082,
+        "original_language": "en",
+        "original_title": "Mudlarking",
+        "overview": "",
+        "popularity": 0.0322,
+        "poster_path": "/lPXzqPV6cwMNu1tmRwA1STYvlCn.jpg",
+        "release_date": "2026-01-22",
+        "title": "Mudlarking",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1611394,
         "original_language": "en",
         "original_title": "A Theatre Without Walls",
@@ -737,6 +829,52 @@
         "poster_path": "/eaQ78rlotsxpXSe9uQnlzojL8jX.jpg",
         "release_date": "2026-01-22",
         "title": "A Theatre Without Walls",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1610056,
+        "original_language": "en",
+        "original_title": "The Game",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/25PZRNQjiBAAE3d63jDUcOJrGkn.jpg",
+        "release_date": "2026-01-22",
+        "title": "The Game",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1611413,
+        "original_language": "en",
+        "original_title": "Hip-hop is Unity",
+        "overview": "",
+        "popularity": 0.0218,
+        "poster_path": "/eXOecn5VdMljwNxeWyRXl8PLzep.jpg",
+        "release_date": "2026-01-22",
+        "title": "Hip-hop is Unity",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -765,102 +903,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/scajss1DdAZRvp1Im5j51xc45sW.jpg",
-        "genre_ids": [
-            35,
-            10402
-        ],
-        "id": 1619665,
-        "original_language": "en",
-        "original_title": "Too Many Cooks",
-        "overview": "",
-        "popularity": 0.085,
-        "poster_path": "/jtc9JWsIMTEkHEin06CBMIzVeCz.jpg",
-        "release_date": "2026-01-22",
-        "title": "Too Many Cooks",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/8UuLzIr1iRBJhIdZFIxtS9TkTvJ.jpg",
-        "genre_ids": [
-            27,
-            18
-        ],
-        "id": 1619657,
-        "original_language": "en",
-        "original_title": "Early Bird",
-        "overview": "",
-        "popularity": 0.1086,
-        "poster_path": "/zq9QzMcqX1uxrTsEU7TGdz2xvfW.jpg",
-        "release_date": "2026-01-22",
-        "title": "Early Bird",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/iOgu89uWAZ7CUZbaJzRudzRqxK2.jpg",
-        "genre_ids": [
-            27,
-            18
-        ],
-        "id": 1619652,
-        "original_language": "en",
-        "original_title": "Conscious",
-        "overview": "",
-        "popularity": 0.1204,
-        "poster_path": "/vcCcuAwSIWDM6RXDSigMiREYkpT.jpg",
-        "release_date": "2026-01-22",
-        "title": "Conscious",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            35
-        ],
-        "id": 1610056,
-        "original_language": "en",
-        "original_title": "The Game",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/25PZRNQjiBAAE3d63jDUcOJrGkn.jpg",
-        "release_date": "2026-01-22",
-        "title": "The Game",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -1069,6 +1111,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/uB1Q30zU3SQo22HLzyzisgfle8V.jpg",
+        "genre_ids": [
+            18,
+            36,
+            37
+        ],
+        "id": 1353645,
+        "original_language": "de",
+        "original_title": "Linn Wyler",
+        "overview": "",
+        "popularity": 0.4792,
+        "poster_path": "/ayibjA2XpGhLoNy8k2hSVCEu8Qs.jpg",
+        "release_date": "2026-01-22",
+        "title": "Linn Wyler",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史",
+            "西部"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/bTmrDncxaj1F24XpKnk2eZxr1Uc.jpg",
         "genre_ids": [
             18,
@@ -1115,6 +1183,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/gZmmH5KBToNZbVwzmFJA4wsPbZ3.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1480774,
+        "original_language": "de",
+        "original_title": "Wir, die Wolfs",
+        "overview": "",
+        "popularity": 0.2376,
+        "poster_path": "/jETk1Oq5r10CuaUzEneMlmAh9Y5.jpg",
+        "release_date": "2026-01-22",
+        "title": "Wir, die Wolfs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fYI52OaX7Rx0O303YEgmbsMQ0Lk.jpg",
         "genre_ids": [
             35,
@@ -1134,28 +1224,6 @@
         "genre_ids_zh": [
             "喜剧",
             "家庭"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/gZmmH5KBToNZbVwzmFJA4wsPbZ3.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1480774,
-        "original_language": "de",
-        "original_title": "Wir, die Wolfs",
-        "overview": "",
-        "popularity": 0.2376,
-        "poster_path": "/jETk1Oq5r10CuaUzEneMlmAh9Y5.jpg",
-        "release_date": "2026-01-22",
-        "title": "Wir, die Wolfs",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "德语"
     },
@@ -1201,27 +1269,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/uB1Q30zU3SQo22HLzyzisgfle8V.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18,
-            36,
-            37
+            99
         ],
-        "id": 1353645,
+        "id": 1619484,
         "original_language": "de",
-        "original_title": "Linn Wyler",
+        "original_title": "Eine Krankheit wie ein Gedicht",
         "overview": "",
-        "popularity": 0.4792,
-        "poster_path": "/ayibjA2XpGhLoNy8k2hSVCEu8Qs.jpg",
+        "popularity": 0.0379,
+        "poster_path": null,
         "release_date": "2026-01-22",
-        "title": "Linn Wyler",
+        "title": "Eine Krankheit wie ein Gedicht",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "历史",
-            "西部"
+            "纪录"
         ],
         "original_language_zh": "德语"
     },
@@ -1239,28 +1303,6 @@
         "poster_path": "/xcZQXUaq9DeRAcE2z8wwLaVmd4m.jpg",
         "release_date": "2026-01-22",
         "title": "Nichts bleibt und nichts verschwindet",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1619484,
-        "original_language": "de",
-        "original_title": "Eine Krankheit wie ein Gedicht",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": null,
-        "release_date": "2026-01-22",
-        "title": "Eine Krankheit wie ein Gedicht",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1515,6 +1557,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1581153,
+        "original_language": "pt",
+        "original_title": "A rebelião dos jangadeiros",
+        "overview": "",
+        "popularity": 0.13,
+        "poster_path": "/pfatnsApjWtPAXWXUnXhqa5BIxd.jpg",
+        "release_date": "2026-01-22",
+        "title": "A rebelião dos jangadeiros",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99,
             35
         ],
@@ -1532,28 +1596,6 @@
         "genre_ids_zh": [
             "纪录",
             "喜剧"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1581153,
-        "original_language": "pt",
-        "original_title": "A rebelião dos jangadeiros",
-        "overview": "",
-        "popularity": 0.13,
-        "poster_path": "/pfatnsApjWtPAXWXUnXhqa5BIxd.jpg",
-        "release_date": "2026-01-22",
-        "title": "A rebelião dos jangadeiros",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1589,14 +1631,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1618987,
+        "id": 1616491,
         "original_language": "ru",
-        "original_title": "Высоцкий. Неизвестные страницы…",
+        "original_title": "Der verlorene Söldner",
         "overview": "",
-        "popularity": 0.1675,
-        "poster_path": null,
+        "popularity": 0.1781,
+        "poster_path": "/gHVEWePRKxRuw81U0oyfkRq4srK.jpg",
         "release_date": "2026-01-22",
-        "title": "Высоцкий. Неизвестные страницы…",
+        "title": "Der verlorene Söldner",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1611,14 +1653,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1616491,
+        "id": 1618987,
         "original_language": "ru",
-        "original_title": "Der verlorene Söldner",
+        "original_title": "Высоцкий. Неизвестные страницы…",
         "overview": "",
-        "popularity": 0.1781,
-        "poster_path": "/gHVEWePRKxRuw81U0oyfkRq4srK.jpg",
+        "popularity": 0.1675,
+        "poster_path": null,
         "release_date": "2026-01-22",
-        "title": "Der verlorene Söldner",
+        "title": "Высоцкий. Неизвестные страницы…",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
