@@ -28,10 +28,8 @@
         "backdrop_path": "/jojajuFqS2UsS59aFjDa8bo3lxH.jpg",
         "genre_ids": [
             27,
-            14,
-            10749,
-            9648,
-            18
+            18,
+            9648
         ],
         "id": 680493,
         "original_language": "en",
@@ -46,16 +44,14 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖",
-            "奇幻",
-            "爱情",
-            "悬疑",
-            "剧情"
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/pNe4R2Lx0iMdkxcWQTNArohPUTA.jpg",
+        "backdrop_path": "/n2WschLfgBrF2Dj0SkdCL94q2jC.jpg",
         "genre_ids": [
             99,
             80
@@ -63,11 +59,11 @@
         "id": 1595481,
         "original_language": "en",
         "original_title": "Kidnapped: Elizabeth Smart",
-        "overview": "",
+        "overview": "伊丽莎白·斯玛特14岁时在犹他州的家中被绑架的可怕经历，通过她自己的讲述和从未公开过的资料娓娓道来。",
         "popularity": 3.2791,
         "poster_path": "/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
         "release_date": "2026-01-21",
-        "title": "Kidnapped: Elizabeth Smart",
+        "title": "在家消失的女孩：伊丽莎白·斯马特绑架案",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -92,8 +88,8 @@
         "release_date": "2026-01-21",
         "title": "克里姆林宫的魔术师",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 5,
+        "vote_average": 6.75,
+        "vote_count": 6,
         "genre_ids_zh": [
             "剧情"
         ],
@@ -1133,6 +1129,50 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1620453,
+        "original_language": "fr",
+        "original_title": "Après eux, qui va raconter l'histoire ? - Le documentaire",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/pvDxhn1coOCemgojtCONVgQJNCB.jpg",
+        "release_date": "2026-01-21",
+        "title": "Après eux, qui va raconter l'histoire ? - Le documentaire",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nK5JIAdqok7MmWXIjwzJxdxaNKh.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1620436,
+        "original_language": "fr",
+        "original_title": "Générations burnout",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/etgQArRRmHNs8j0X2r80hPkYvrW.jpg",
+        "release_date": "2026-01-21",
+        "title": "Générations burnout",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
