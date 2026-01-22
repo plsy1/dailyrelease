@@ -117,28 +117,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dgfOOu6Zf4SEAio4mzSUVlaTI67.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1538718,
-        "original_language": "en",
-        "original_title": "Disneyland Handcrafted",
-        "overview": "",
-        "popularity": 0.8953,
-        "poster_path": "/qscKjr7kGmihLdAYcS0zO69xMk.jpg",
-        "release_date": "2026-01-22",
-        "title": "Disneyland Handcrafted",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/zF6nhLX5BtTx6YY2qPHkTDjlYeH.jpg",
         "genre_ids": [
             10749
@@ -156,6 +134,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dgfOOu6Zf4SEAio4mzSUVlaTI67.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1538718,
+        "original_language": "en",
+        "original_title": "Disneyland Handcrafted",
+        "overview": "",
+        "popularity": 0.8953,
+        "poster_path": "/qscKjr7kGmihLdAYcS0zO69xMk.jpg",
+        "release_date": "2026-01-22",
+        "title": "Disneyland Handcrafted",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -909,7 +909,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hTMJYUPvnbwpvfVbvetdZKvjz40.jpg",
+        "backdrop_path": "/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
         "genre_ids": [
             16,
             10402,
@@ -1479,6 +1479,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rpkqOfX85p639T1bmyHXxKYhfib.jpg",
+        "genre_ids": [],
+        "id": 1621033,
+        "original_language": "fr",
+        "original_title": "Performative",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vvRTg0mlCZWTFOMvpBRCOADkaq6.jpg",
+        "release_date": "2026-01-22",
+        "title": "Performative",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
