@@ -1009,28 +1009,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tN5VIsdm3FePMTg3A4O3n6nA8GT.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1502131,
-        "original_language": "ja",
-        "original_title": "終点のあの子",
-        "overview": "",
-        "popularity": 4.6405,
-        "poster_path": "/VJjyMznpIMDXZmpeLBlw2zCgCJ.jpg",
-        "release_date": "2026-01-23",
-        "title": "終点のあの子",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/pN6sTnFXUuiDqR019WBFhCnQ2KX.jpg",
         "genre_ids": [
             18,
@@ -1052,6 +1030,28 @@
             "剧情",
             "音乐",
             "爱情"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tN5VIsdm3FePMTg3A4O3n6nA8GT.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1502131,
+        "original_language": "ja",
+        "original_title": "終点のあの子",
+        "overview": "",
+        "popularity": 4.6405,
+        "poster_path": "/VJjyMznpIMDXZmpeLBlw2zCgCJ.jpg",
+        "release_date": "2026-01-23",
+        "title": "終点のあの子",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
@@ -1338,24 +1338,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1601358,
-        "original_language": "fr",
-        "original_title": "Coupe au bol",
-        "overview": "",
-        "popularity": 0.0557,
-        "poster_path": "/dXsbyHar4KEXsnvcgWVfYCgfi5f.jpg",
-        "release_date": "2026-01-23",
-        "title": "Coupe au bol",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             35
         ],
@@ -1373,6 +1355,24 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1601358,
+        "original_language": "fr",
+        "original_title": "Coupe au bol",
+        "overview": "",
+        "popularity": 0.0557,
+        "poster_path": "/dXsbyHar4KEXsnvcgWVfYCgfi5f.jpg",
+        "release_date": "2026-01-23",
+        "title": "Coupe au bol",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
