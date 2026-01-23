@@ -268,21 +268,26 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            10759
+        ],
         "id": 312094,
         "origin_country": [
+            "比利时",
             "巴西"
         ],
         "original_language": "pt",
         "original_name": "Henry Miller: E O Vaso Filosofal - Temporada 1",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
+        "popularity": 0.0071,
+        "poster_path": "/ewSDjyqIzqPeIfxMJ4uxOSuFSx9.jpg",
         "first_air_date": "2026-01-23",
         "name": "Henry Miller: E O Vaso Filosofal - Temporada 1",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动作与冒险"
+        ],
         "original_language_zh": "葡萄牙语"
     },
     {
