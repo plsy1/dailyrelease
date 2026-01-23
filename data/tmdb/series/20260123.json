@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/uXV6cJ8uR2KS8DKPcntq8DZlbCj.jpg",
+        "backdrop_path": "/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
         "genre_ids": [
             18
         ],
@@ -20,32 +20,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/c841YfQpZg91vi1lNZmcf1XANqv.jpg",
-        "genre_ids": [
-            18,
-            9648
-        ],
-        "id": 262957,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "暗恋者的救赎",
-        "overview": "该剧讲述的是做事执着，具有出众观察力的刑警队长宋诚在调查侦破一起刑案件过程中，发现该案和四年前的一起案件有些微妙关联。随着宋城深入调查，隐藏在两起案件中的共同证人俞笑的秘密被渐渐揭开。最后，他们互相配合，克服重重困难阻碍，将真凶绳之以法。",
-        "popularity": 2.132,
-        "poster_path": "/8wSEvsH1UWUIqacz9ZBCbU7i5LH.jpg",
-        "first_air_date": "2026-01-23",
-        "name": "暗恋者的救赎",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "悬疑"
         ],
         "original_language_zh": "汉语"
     },
@@ -171,6 +145,26 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 312127,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "夫人走的第三年",
+        "overview": "沈亦谣死后第三年，孤魂游荡，无法轮回投胎。可那个生前与自己情感淡薄，不求上进的前夫哥裴迹之，却借着为自己守孝之名博得好名声，过得生水起，官运亨通。沈亦谣气不过，决心以鬼之名教训裴迹之，却反被魔高一丈的裴迹之拿捏。一人一鬼纠缠不休，却在嬉笑怒骂间揭开生前误会。两人终于发现彼时的不爱，不过是隐藏的深情，可当破镜再次重圆，已然是天人永隔的诀别。",
+        "popularity": 0.0,
+        "poster_path": "/oITKXz2uEUyP5WMlrXTuFG6EoTQ.jpg",
+        "first_air_date": "2026-01-23",
+        "name": "夫人走的第三年",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
@@ -343,5 +337,29 @@
             "科幻与奇幻"
         ],
         "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9vZ6Yfmli4Zb0ck9tO6AID48Wlp.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 299378,
+        "origin_country": [
+            "挪威"
+        ],
+        "original_language": "no",
+        "original_name": "Basic Bitch Bærum",
+        "overview": "",
+        "popularity": 0.1399,
+        "poster_path": "/IeOyTQa2mPd377Ya02DOpjhM2H.jpg",
+        "first_air_date": "2026-01-23",
+        "name": "Basic Bitch Bærum",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "挪威语"
     }
 ]
