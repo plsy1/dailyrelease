@@ -1,6 +1,24 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1619390,
+        "original_language": "zh",
+        "original_title": "杨非与高俐",
+        "overview": "高俐醉酒被强哥等人绑架索赎金一亿，杨非因父需百万手术费赶路时车被同一伙劫匪抢走。二人相遇后，杨非助高俐斗绑匪，发现高俐与曾因治妻病抵押房产、借高利贷却致家庭破裂的父亲有矛盾。最终高俐获救，与父和解，杨非凑齐手术费，二人相恋。",
+        "popularity": 0.1567,
+        "poster_path": "/y2JpIMfCowT6dsgdm7loXVcI8sn.jpg",
+        "release_date": "2026-01-25",
+        "title": "杨非与高俐",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sxMQgCQg5JRFFq4wAd61tpytmt3.jpg",
         "genre_ids": [
             27
@@ -567,6 +585,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14
+        ],
+        "id": 1622549,
+        "original_language": "en",
+        "original_title": "Little to No Meaning",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-01-25",
+        "title": "Little to No Meaning",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6wp3f1ooedFBtFQdA0Qy8mKY56F.jpg",
         "genre_ids": [
             18
@@ -600,11 +640,11 @@
         "id": 1594276,
         "original_language": "ja",
         "original_title": "仮面ライダーアインズ　ｗｉｔｈガールズリミックス",
-        "overview": "",
+        "overview": "到现在为止在Girls Remix的周围发生的事件，全部是黑野堇为了创造最强的假面骑士的计划的一部分。然后那个计划运行到最后阶段。堇再次绑架了三日月那由多。进行了最后的手术，“假面骑士Eins”终于诞生了。\r Girls Remix能夺回那由多吗。而成为假面骑士Eins的那由多的命运——",
         "popularity": 0.7191,
         "poster_path": "/3rUZJAmuOUDmVX5gbEdowVuzTHQ.jpg",
         "release_date": "2026-01-25",
-        "title": "仮面ライダーアインズ　ｗｉｔｈガールズリミックス",
+        "title": "假面骑士Eins with Girls Remix",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -697,6 +737,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eCO5XnjrlUkyZjkuL8T1GLGqiBN.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1245724,
+        "original_language": "th",
+        "original_title": "เรื่องของส้ม",
+        "overview": "",
+        "popularity": 0.0553,
+        "poster_path": "/w9uCbYroAa2THWwbeIh8wpOMLGH.jpg",
+        "release_date": "2026-01-25",
+        "title": "เรื่องของส้ม",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sZtbgJ9KW5RvPwqQKnOwqkowuzi.jpg",
         "genre_ids": [
             99
@@ -729,7 +791,7 @@
         "original_title": "Marga en el DF",
         "overview": "",
         "popularity": 0.1419,
-        "poster_path": null,
+        "poster_path": "/ibkq5WO4A3OzZD95iR8qj70bZNu.jpg",
         "release_date": "2026-01-25",
         "title": "Marga en el DF",
         "video": false,
@@ -752,7 +814,7 @@
         "original_title": "Usados",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/4EkcqwzQa0k9bf83MsS3oPtP6MI.jpg",
         "release_date": "2026-01-25",
         "title": "Usados",
         "video": false,
