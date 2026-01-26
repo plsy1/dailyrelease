@@ -210,7 +210,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 312348,
         "origin_country": [
             "印度"
@@ -224,7 +226,9 @@
         "name": "Dr. Aarambhi",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "印地语"
     }
 ]
