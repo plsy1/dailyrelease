@@ -1,6 +1,26 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/lbBT3EuiJyo5UQkjsnSTbFQFecf.jpg",
+        "genre_ids": [],
+        "id": 312386,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "史上最强炼体老祖",
+        "overview": "炼体老祖叶苍玄以肉身之力无敌当世，轻松渡劫飞升神界，却因见到九玄大陆灭亡命数，遂决定重返九玄。彼时六大宗门分崩离析，外域邪魔蛰伏待发，于暗处搅动风云。而叶苍玄的逆天改命之途也由此开始，统六宗、闯蛮州、入仙魔、诛邪魔、逆神界，最后与天争雄！",
+        "popularity": 0.0,
+        "poster_path": "/11sbqA1ICeGv7JmHxZIQXzafGnl.jpg",
+        "first_air_date": "2026-01-26",
+        "name": "史上最强炼体老祖",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ch3ZD9PLq5G49iKRgCcNef1i3Wm.jpg",
         "genre_ids": [
             18
@@ -89,8 +109,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/pv6Q4Mhy9T8lCldhOmdQpMEgXyW.jpg",
+        "genre_ids": [
+            18
+        ],
         "id": 312373,
         "origin_country": [
             "泰国"
@@ -99,12 +121,14 @@
         "original_name": "ลดี้ทุ่งกระบือบาล",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/nttYKpeKRFNitwChYKF1P4L4I9P.jpg",
         "first_air_date": "2026-01-26",
         "name": "ลดี้ทุ่งกระบือบาล",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "泰语"
     },
     {
