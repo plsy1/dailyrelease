@@ -12,7 +12,7 @@
         "original_language": "zh",
         "original_name": "天命医凰",
         "overview": "前世，慕容汐全心辅佐太子轩辕昊登基，却不知这一切都是表妹慕容瑶与太子设下的陷阱。被利用完毕后，怀有身孕的她遭囚禁，国公府满门被诛，自己含恨而终。重生后，她决心复仇。她反击姑母与慕容瑶的算计，修复与弟弟慕容泽的关系，赢得老夫人与外祖萧家的信任。苦研医典后，她以“匿名神医”救治瘟疫、救助郡主，逐渐积累声望。慕容瑶多次陷害失败，反令太子生疑。其间，慕容汐结识十三王爷轩辕宸，两人联手对抗太子，暗生情愫。太子为铲除异己，不惜毒害皇帝并嫁祸慕容汐与轩辕宸。慕容汐凭借高超毒术识破阴谋，与轩辕宸联手反制，最终扭转乾坤，共度余生。",
-        "popularity": 0.0629,
+        "popularity": 0.0695,
         "poster_path": "/18RQgeAWyNFFcApW6MJjMBxBtrE.jpg",
         "first_air_date": "2026-01-27",
         "name": "天命医凰",
@@ -26,7 +26,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 312396,
         "origin_country": [
             "中国"
@@ -34,13 +36,15 @@
         "original_language": "zh",
         "original_name": "夏日炎炎",
         "overview": "讲述了游戏设计师高冬炎与小说作家林晚夏因合作开发沉浸式游戏相识相恋的故事。然而，高母对这段关系强烈反对，联手商业伙伴暗中阻挠。当二人在游戏世界约会时，竟遭遇系统被恶意篡改，被困其中。现实与虚拟的边界逐渐模糊，他们必须携手揭开背后的阴谋，对抗试图操控命运的势力，在危机中守护彼此。",
-        "popularity": 0.0,
-        "poster_path": "/giM1R9ZdYFOHJK3GlqPe12O6uDI.jpg",
+        "popularity": 0.1357,
+        "poster_path": "/rN7DZJ82uAAgJ1aonqm9JVsN330.jpg",
         "first_air_date": "2026-01-27",
         "name": "夏日炎炎",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -143,6 +147,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/gzxKsGQCwH8mu1dVSFY4GKlH6VS.jpg",
+        "genre_ids": [],
+        "id": 312439,
+        "origin_country": [
+            "西班牙"
+        ],
+        "original_language": "es",
+        "original_name": "Alejandro Sanz: Cuando nadie me ve",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": "/ezMWRBT1sCze72QrSRlbR6DvvVy.jpg",
+        "first_air_date": "2026-01-27",
+        "name": "Alejandro Sanz: Cuando nadie me ve",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 312265,
@@ -152,7 +176,7 @@
         "original_language": "pt",
         "original_name": "Quem Sabe Outro Dia",
         "overview": "",
-        "popularity": 0.1025,
+        "popularity": 0.1821,
         "poster_path": null,
         "first_air_date": "2026-01-27",
         "name": "Quem Sabe Outro Dia",
