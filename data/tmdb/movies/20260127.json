@@ -78,11 +78,11 @@
         "id": 1599087,
         "original_language": "en",
         "original_title": "Mike Epps: Delusional",
-        "overview": "",
+        "overview": "从经历分手到面对名气，迈克·艾普斯带来口无遮拦的爆笑故事，讲述自己如何通过一个小小的幻觉和努力打拼成为明星。",
         "popularity": 1.9915,
         "poster_path": "/8FakVhJ29TxiTYrbooUeihT577C.jpg",
         "release_date": "2026-01-27",
-        "title": "Mike Epps: Delusional",
+        "title": "迈克·艾普斯：异想天开",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -265,7 +265,7 @@
         "original_title": "When a Witness Recants",
         "overview": "",
         "popularity": 0.203,
-        "poster_path": "/vQAgjtweOCUQHupcvDcd1ZrgimZ.jpg",
+        "poster_path": "/oCnguA4YIkMOuAKXudrwwIvTEiN.jpg",
         "release_date": "2026-01-27",
         "title": "When a Witness Recants",
         "video": false,
@@ -495,6 +495,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1623711,
+        "original_language": "en",
+        "original_title": "Where Light Lands",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/20HZGJoisWemVs1t56LWVOS89Z.jpg",
+        "release_date": "2026-01-27",
+        "title": "Where Light Lands",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gXWGhB4gXxPzNqYiYlO0cLe5FMe.jpg",
+        "genre_ids": [
+            53,
+            27,
+            10751
+        ],
+        "id": 1623588,
+        "original_language": "en",
+        "original_title": "Skid Marks",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/oe0ePpj6JBmi2jYUL5VDxc7NA8R.jpg",
+        "release_date": "2026-01-27",
+        "title": "Skid Marks",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3bsdBecODhiLGN0zGgXBvga6BmU.jpg",
         "genre_ids": [
             18
@@ -512,30 +556,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1623150,
-        "original_language": "en",
-        "original_title": "Sweet, Mourning Lamb",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/nfOn7qHf2cdhsRMpzlAG3fsE5OZ.jpg",
-        "release_date": "2026-01-27",
-        "title": "Sweet, Mourning Lamb",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -595,6 +615,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1623649,
+        "original_language": "fr",
+        "original_title": "Amazon, les secrets d'une logistique XXL",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xIIPwj8HIKudzryPy0zYhVpk2QW.jpg",
+        "release_date": "2026-01-27",
+        "title": "Amazon, les secrets d'une logistique XXL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "法语"
     },
     {
