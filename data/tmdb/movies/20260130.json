@@ -683,6 +683,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1565335,
+        "original_language": "en",
+        "original_title": "Rain Spy",
+        "overview": "",
+        "popularity": 0.0615,
+        "poster_path": "/aBX5gTIUoqYJEvS6vdxfe7V2DUz.jpg",
+        "release_date": "2026-01-30",
+        "title": "Rain Spy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6tOyukoEroTU3tbZFE580FQDtvb.jpg",
         "genre_ids": [
             99
@@ -1027,24 +1045,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1446569,
-        "original_language": "en",
-        "original_title": "How Now, House?",
-        "overview": "",
-        "popularity": 0.051,
-        "poster_path": "/d0k10erVTT4rbVuQ7BIjsv3vGu0.jpg",
-        "release_date": "2026-01-30",
-        "title": "How Now, House?",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1472,6 +1472,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e8qstgaG82O7EYL1dFw0FTWPQVI.jpg",
+        "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1624827,
+        "original_language": "de",
+        "original_title": "Marvin Gaye - Visionär des Soul",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3yVYRfuSn5Xa70RqnAubASZIzMO.jpg",
+        "release_date": "2026-01-30",
+        "title": "Marvin Gaye - Visionär des Soul",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
         ],
         "original_language_zh": "德语"
     },
@@ -2189,6 +2213,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vqzkkiZV6KfyUy3iRg5XKnD8ZFN.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1624837,
+        "original_language": "fr",
+        "original_title": "Montreux Fashion Show by Nino Arial",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aXRDHTc8QIvLBHNJd34HQl6F5pN.jpg",
+        "release_date": "2026-01-30",
+        "title": "Montreux Fashion Show by Nino Arial",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "法语"
     },
     {
