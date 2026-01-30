@@ -148,10 +148,34 @@
         "release_date": "2026-01-30",
         "title": "Melania",
         "video": false,
-        "vote_average": 2.9,
-        "vote_count": 12,
+        "vote_average": 2.767,
+        "vote_count": 15,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+        "genre_ids": [
+            27,
+            878
+        ],
+        "id": 1116201,
+        "original_language": "en",
+        "original_title": "Iron Lung",
+        "overview": "",
+        "popularity": 23.9699,
+        "poster_path": "/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
+        "release_date": "2026-01-30",
+        "title": "Iron Lung",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 5,
+        "genre_ids_zh": [
+            "恐怖",
+            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -263,11 +287,11 @@
         "id": 1613335,
         "original_language": "en",
         "original_title": "Miracle: The Boys of '80",
-        "overview": "",
+        "overview": "一支不起眼的年轻曲棍球队参加 1980 年奥运会，却出人意料地成为获胜的英雄。本片通过新的录像和当事人对亲身经历的回忆讲述这个著名的黑马故事。",
         "popularity": 2.3452,
         "poster_path": "/cFq4Uf7m9AThqn7ZvmWmX8eKCra.jpg",
         "release_date": "2026-01-30",
-        "title": "Miracle: The Boys of '80",
+        "title": "奥运奇迹：1980 美国国家男子冰球队",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -787,6 +811,38 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3EOH7hWRnfWvOpnvYpd1FJ5lbyS.jpg",
+        "genre_ids": [
+            18,
+            35,
+            27,
+            10402,
+            10749,
+            37
+        ],
+        "id": 1623784,
+        "original_language": "en",
+        "original_title": "Unfinished",
+        "overview": "",
+        "popularity": 0.052,
+        "poster_path": null,
+        "release_date": "2026-01-30",
+        "title": "Unfinished",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "恐怖",
+            "音乐",
+            "爱情",
+            "西部"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/mtVmTqcaHJ9RBu0D0b2gH3eOcQw.jpg",
         "genre_ids": [
             18,
@@ -935,38 +991,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3EOH7hWRnfWvOpnvYpd1FJ5lbyS.jpg",
-        "genre_ids": [
-            18,
-            35,
-            27,
-            10402,
-            10749,
-            37
-        ],
-        "id": 1623784,
-        "original_language": "en",
-        "original_title": "Unfinished",
-        "overview": "",
-        "popularity": 0.052,
-        "poster_path": null,
-        "release_date": "2026-01-30",
-        "title": "Unfinished",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧",
-            "恐怖",
-            "音乐",
-            "爱情",
-            "西部"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1355,6 +1379,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1625505,
+        "original_language": "en",
+        "original_title": "Bout de Viande — Our Body has been taken from us",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/AhQ2jEqv1xPqpf3SDpp8Te4f5px.jpg",
+        "release_date": "2026-01-30",
+        "title": "Bout de Viande — Our Body has been taken from us",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lTusBGoZNomWNr0zDxN6TyLC0ax.jpg",
+        "genre_ids": [
+            99,
+            35
+        ],
+        "id": 1625474,
+        "original_language": "en",
+        "original_title": "Away For The Day",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lNEkDmCg8rTNYJJifBzrmbcZx63.jpg",
+        "release_date": "2026-01-30",
+        "title": "Away For The Day",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/evWw2rGJ4ulK0pI0fpSc7wZCX0h.jpg",
         "genre_ids": [
             99
@@ -1645,6 +1715,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/w5zvassOrlsVDWzAOiD0bryq1Q7.jpg",
+        "genre_ids": [
+            14
+        ],
+        "id": 1604222,
+        "original_language": "th",
+        "original_title": "น้ำตานางเงือก",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/8ZfeYNgjxdMvPUn4JyiVLDgQpdQ.jpg",
+        "release_date": "2026-01-30",
+        "title": "น้ำตานางเงือก",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sLRxphbL9fw0dZ5H0LtfmkAZ5Y.jpg",
         "genre_ids": [
             16
@@ -1783,6 +1875,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/dLeEYzRrf4PNsbQmI07qhQ3Xvr3.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1625594,
+        "original_language": "de",
+        "original_title": "Concert du Nouvel An 2026",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/2IkFPycGiIp11RLuOUlMW4zxIgF.jpg",
+        "release_date": "2026-01-30",
+        "title": "Concert du Nouvel An 2026",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/e8qstgaG82O7EYL1dFw0FTWPQVI.jpg",
         "genre_ids": [
             99,
@@ -1793,12 +1907,12 @@
         "original_title": "Marvin Gaye - Visionär des Soul",
         "overview": "",
         "popularity": 0.0429,
-        "poster_path": "/3yVYRfuSn5Xa70RqnAubASZIzMO.jpg",
+        "poster_path": "/8Q6kNYmZERRES1mKwKPAokJXU5A.jpg",
         "release_date": "2026-01-30",
         "title": "Marvin Gaye - Visionär des Soul",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录",
             "音乐"
@@ -2542,6 +2656,48 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1625601,
+        "original_language": "fr",
+        "original_title": "Mono-Kage",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vTNXxok6Wcx8XZCxgx0bzI8NKvj.jpg",
+        "release_date": "2026-01-30",
+        "title": "Mono-Kage",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1625555,
+        "original_language": "fr",
+        "original_title": "Funérailles d'un extraterrestre",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-01-30",
+        "title": "Funérailles d'un extraterrestre",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1625289,
         "original_language": "fr",
@@ -2591,28 +2747,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/5XJ0JZG4SVO9eRwMUbCgXQNOSd0.jpg",
-        "genre_ids": [
-            878
-        ],
-        "id": 1625125,
-        "original_language": "fr",
-        "original_title": "N56",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/gesluegbljaTS9oV3LmYslVzSsg.jpg",
-        "release_date": "2026-01-30",
-        "title": "N56",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻"
-        ],
         "original_language_zh": "法语"
     },
     {
@@ -3055,6 +3189,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1604219,
+        "original_language": "nl",
+        "original_title": "Regen in augustus",
+        "overview": "",
+        "popularity": 0.1086,
+        "poster_path": "/smcUYd7EoOKhx2Whv5DNqgExO0x.jpg",
+        "release_date": "2026-01-30",
+        "title": "Regen in augustus",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             35
         ],
@@ -3091,6 +3247,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1sBtM9NXTjfqBxnrqzNw8A82TZw.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1604235,
+        "original_language": "nl",
+        "original_title": "This Is Your Captain Speaking",
+        "overview": "",
+        "popularity": 0.0661,
+        "poster_path": null,
+        "release_date": "2026-01-30",
+        "title": "This Is Your Captain Speaking",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "荷兰语"
     },
     {
@@ -3185,6 +3363,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/x28hXga9CbthdbANrp98AMbn0kC.jpg",
+        "genre_ids": [
+            16,
+            53,
+            878
+        ],
+        "id": 1535569,
+        "original_language": "nl",
+        "original_title": "Thunderhead",
+        "overview": "",
+        "popularity": 0.0493,
+        "poster_path": "/vnZgOC3SZzMdOKdm7OU70P45QL7.jpg",
+        "release_date": "2026-01-30",
+        "title": "Thunderhead",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "惊悚",
+            "科幻"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -3242,6 +3446,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/JKQ5CLz2ryDLOupIy0AKbumsuM.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1604217,
+        "original_language": "nl",
+        "original_title": "Oxygen",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2026-01-30",
+        "title": "Oxygen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "荷兰语"
     },
@@ -3305,86 +3531,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1604066,
-        "original_language": "nl",
-        "original_title": "Nog even goeie vrienden",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": null,
-        "release_date": "2026-01-30",
-        "title": "Nog even goeie vrienden",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1604002,
-        "original_language": "nl",
-        "original_title": "The Liminal Zone",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": null,
-        "release_date": "2026-01-30",
-        "title": "The Liminal Zone",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kGkXDesJTpa6DtgFqcTpXw5SDjM.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1604084,
-        "original_language": "nl",
-        "original_title": "WASTE",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/uImu5m3CXK1EX0gPdIckZFaUnw1.jpg",
-        "release_date": "2026-01-30",
-        "title": "WASTE",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "荷兰语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1603972,
-        "original_language": "nl",
-        "original_title": "Inheemse Surinamers in Rotterdam",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2026-01-30",
-        "title": "Inheemse Surinamers in Rotterdam",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "荷兰语"
     },
     {
@@ -3545,7 +3691,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/4Cqad6ZpWJRhBumGE1QwHs9pVuB.jpg",
         "genre_ids": [
             35
         ],
@@ -3683,29 +3829,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1583615,
-        "original_language": "tr",
-        "original_title": "The Barkers Pursuit of Adventure 3",
-        "overview": "",
-        "popularity": 0.0618,
-        "poster_path": "/sntZeQT66pPGqKL7mbChMLuhdxP.jpg",
-        "release_date": "2026-01-30",
-        "title": "The Barkers Pursuit of Adventure 3",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "土耳其语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hA6ajSv8PobY5xmizAxdkUPHFDs.jpg",
         "genre_ids": [
             53,
             80,
@@ -3728,6 +3852,28 @@
             "犯罪",
             "剧情",
             "动作"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1583615,
+        "original_language": "tr",
+        "original_title": "The Barkers Pursuit of Adventure 3",
+        "overview": "",
+        "popularity": 0.0618,
+        "poster_path": "/sntZeQT66pPGqKL7mbChMLuhdxP.jpg",
+        "release_date": "2026-01-30",
+        "title": "The Barkers Pursuit of Adventure 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "土耳其语"
     },
@@ -3829,12 +3975,12 @@
         "genre_ids": [],
         "id": 1603980,
         "original_language": "fi",
-        "original_title": "I am a River",
+        "original_title": "I Am a River",
         "overview": "",
         "popularity": 0.0239,
         "poster_path": null,
         "release_date": "2026-01-30",
-        "title": "I am a River",
+        "title": "I Am a River",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
