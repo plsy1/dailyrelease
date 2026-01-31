@@ -123,7 +123,7 @@
         "original_language": "zh",
         "original_title": "能見度頗高",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0806,
         "poster_path": null,
         "release_date": "2026-01-31",
         "title": "能見度頗高",
@@ -144,7 +144,7 @@
         "original_language": "en",
         "original_title": "Bulk",
         "overview": "",
-        "popularity": 2.8608,
+        "popularity": 3.435,
         "poster_path": "/t6IRzlO2S8oBELMW9ZW2oDp1xSX.jpg",
         "release_date": "2026-01-31",
         "title": "Bulk",
@@ -168,7 +168,7 @@
         "original_language": "en",
         "original_title": "Royal Rumble 2026",
         "overview": "",
-        "popularity": 0.7519,
+        "popularity": 1.1023,
         "poster_path": "/f9NOLejYqlbiAUFs6gvEads79OK.jpg",
         "release_date": "2026-01-31",
         "title": "Royal Rumble 2026",
@@ -191,7 +191,7 @@
         "original_language": "en",
         "original_title": "CAMP",
         "overview": "",
-        "popularity": 0.5882,
+        "popularity": 0.5275,
         "poster_path": "/ak4hqczJmUC17d6e2Jlx6sLaGEu.jpg",
         "release_date": "2026-01-31",
         "title": "CAMP",
@@ -213,7 +213,7 @@
         "original_language": "en",
         "original_title": "UFC 325: Volkanovski vs. Lopes 2",
         "overview": "",
-        "popularity": 0.4443,
+        "popularity": 0.5344,
         "poster_path": "/xoZDTsM9OOP2GzxAtiXwsRDAkrn.jpg",
         "release_date": "2026-01-31",
         "title": "UFC 325: Volkanovski vs. Lopes 2",
@@ -227,28 +227,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749
-        ],
-        "id": 1592019,
-        "original_language": "en",
-        "original_title": "Missing the Boat",
-        "overview": "",
-        "popularity": 0.2248,
-        "poster_path": "/2Lw8nVKLNvvfAG46fn2nAJwBrPg.jpg",
-        "release_date": "2026-01-31",
-        "title": "Missing the Boat",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/xwvfngMUobE7FLbj4KS58oLKN2.jpg",
         "genre_ids": [
             18
@@ -257,7 +235,7 @@
         "original_language": "en",
         "original_title": "The Gymnast",
         "overview": "",
-        "popularity": 0.4036,
+        "popularity": 0.2588,
         "poster_path": "/1K2a1GW9uML6AGkOjD3o2UtwPeu.jpg",
         "release_date": "2026-01-31",
         "title": "折翼之后",
@@ -274,13 +252,14 @@
         "backdrop_path": "/5eOainKq5HZlrleqr772QXM4wJf.jpg",
         "genre_ids": [
             18,
-            10749
+            10749,
+            10770
         ],
         "id": 1619322,
         "original_language": "en",
         "original_title": "Terry McMillan Presents: Tempted 2 Love",
         "overview": "",
-        "popularity": 0.3039,
+        "popularity": 0.4805,
         "poster_path": "/cT9ihAI2jM1MUvIsHkbDLwzESg7.jpg",
         "release_date": "2026-01-31",
         "title": "Terry McMillan Presents: Tempted 2 Love",
@@ -289,26 +268,9 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
-            "爱情"
+            "爱情",
+            "电视电影"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1611270,
-        "original_language": "en",
-        "original_title": "The Sugar creek beast",
-        "overview": "",
-        "popularity": 0.2321,
-        "poster_path": "/nEzykD5UIgyVIkqwnmQcXH5j4CM.jpg",
-        "release_date": "2026-01-31",
-        "title": "The Sugar creek beast",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -322,7 +284,7 @@
         "original_language": "en",
         "original_title": "GO TO SLEEP",
         "overview": "",
-        "popularity": 0.2396,
+        "popularity": 0.2392,
         "poster_path": "/55jWCzauyzowJi5cgRvQccD5Tyc.jpg",
         "release_date": "2026-01-31",
         "title": "GO TO SLEEP",
@@ -337,23 +299,63 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ja5SWrhlMWR1mhgECPZxnvnDT8i.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 747509,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1611270,
         "original_language": "en",
-        "original_title": "阿 Girl",
+        "original_title": "The Sugar creek beast",
         "overview": "",
-        "popularity": 0.1237,
-        "poster_path": "/zbJtZcDdAlzvB2l5FgnxukWhmkO.jpg",
+        "popularity": 0.1405,
+        "poster_path": "/nEzykD5UIgyVIkqwnmQcXH5j4CM.jpg",
         "release_date": "2026-01-31",
-        "title": "阿 Girl",
+        "title": "The Sugar creek beast",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1592019,
+        "original_language": "en",
+        "original_title": "Missing the Boat",
+        "overview": "",
+        "popularity": 0.4326,
+        "poster_path": "/2Lw8nVKLNvvfAG46fn2nAJwBrPg.jpg",
+        "release_date": "2026-01-31",
+        "title": "Missing the Boat",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fo7z1uCHdIKumxiDlc9aGge5pIE.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1585036,
+        "original_language": "en",
+        "original_title": "Mickey & Richard",
+        "overview": "",
+        "popularity": 0.1771,
+        "poster_path": "/3FkvLRU9XF01AmQZWxLOhZuJjlf.jpg",
+        "release_date": "2026-01-31",
+        "title": "Mickey & Richard",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -367,7 +369,7 @@
         "original_language": "en",
         "original_title": "Three Wishes of Cinderella",
         "overview": "",
-        "popularity": 0.1362,
+        "popularity": 0.191,
         "poster_path": "/eziQLujweYTKUrOp0TZEL9bylBb.jpg",
         "release_date": "2026-01-31",
         "title": "Three Wishes of Cinderella",
@@ -381,44 +383,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/r0WWyE8xd4uaZJS4AxV18OjlrD8.jpg",
+        "backdrop_path": "/ja5SWrhlMWR1mhgECPZxnvnDT8i.jpg",
         "genre_ids": [
-            99,
             18
         ],
-        "id": 1600610,
+        "id": 747509,
         "original_language": "en",
-        "original_title": "Heart of Light: Eleven Songs For Fiji",
+        "original_title": "阿 Girl",
         "overview": "",
-        "popularity": 0.0905,
-        "poster_path": "/2J4ctBGwtRfwHXTtjS3BZhHvwaZ.jpg",
+        "popularity": 0.138,
+        "poster_path": "/zbJtZcDdAlzvB2l5FgnxukWhmkO.jpg",
         "release_date": "2026-01-31",
-        "title": "Heart of Light: Eleven Songs For Fiji",
+        "title": "阿 Girl",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
             "剧情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1600724,
-        "original_language": "en",
-        "original_title": "Requiem For a Play",
-        "overview": "",
-        "popularity": 0.0861,
-        "poster_path": "/pUvrSWBWKWhT7xNT1gn5WX2vscu.jpg",
-        "release_date": "2026-01-31",
-        "title": "Requiem For a Play",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -432,7 +414,7 @@
         "original_language": "en",
         "original_title": "Accept Our Sincere Apologies",
         "overview": "",
-        "popularity": 0.1068,
+        "popularity": 0.1289,
         "poster_path": "/yL8j6fnTzj3C658tWulGpz5lti.jpg",
         "release_date": "2026-01-31",
         "title": "Accept Our Sincere Apologies",
@@ -456,7 +438,7 @@
         "original_language": "en",
         "original_title": "The Misconceived",
         "overview": "",
-        "popularity": 0.1024,
+        "popularity": 0.0843,
         "poster_path": "/dLcc3HNwC6MqzGWueNBMtxRpSrE.jpg",
         "release_date": "2026-01-31",
         "title": "The Misconceived",
@@ -471,23 +453,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fo7z1uCHdIKumxiDlc9aGge5pIE.jpg",
+        "backdrop_path": "/r0WWyE8xd4uaZJS4AxV18OjlrD8.jpg",
         "genre_ids": [
-            99
+            99,
+            18
         ],
-        "id": 1585036,
+        "id": 1600610,
         "original_language": "en",
-        "original_title": "Mickey & Richard",
+        "original_title": "Heart of Light: Eleven Songs For Fiji",
         "overview": "",
-        "popularity": 0.1776,
-        "poster_path": "/3FkvLRU9XF01AmQZWxLOhZuJjlf.jpg",
+        "popularity": 0.1948,
+        "poster_path": "/2J4ctBGwtRfwHXTtjS3BZhHvwaZ.jpg",
         "release_date": "2026-01-31",
-        "title": "Mickey & Richard",
+        "title": "Heart of Light: Eleven Songs For Fiji",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -502,7 +486,7 @@
         "original_language": "en",
         "original_title": "Triloka",
         "overview": "",
-        "popularity": 0.0864,
+        "popularity": 0.0925,
         "poster_path": "/duSgzQvZRwJRUM6t1c6lnUujHMT.jpg",
         "release_date": "2026-01-31",
         "title": "Triloka",
@@ -517,16 +501,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8tJPBrSoXJqzujCPMDfug1vEK57.jpg",
+        "backdrop_path": null,
         "genre_ids": [],
-        "id": 1621023,
+        "id": 1600724,
         "original_language": "en",
-        "original_title": "Prom Not Prom",
+        "original_title": "Requiem For a Play",
         "overview": "",
-        "popularity": 0.0461,
-        "poster_path": "/mzR7uuhkLCI0uaBbOyQNF1QC0wU.jpg",
+        "popularity": 0.0932,
+        "poster_path": "/pUvrSWBWKWhT7xNT1gn5WX2vscu.jpg",
         "release_date": "2026-01-31",
-        "title": "Prom Not Prom",
+        "title": "Requiem For a Play",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -543,7 +527,7 @@
         "original_language": "en",
         "original_title": "Far from Maine",
         "overview": "",
-        "popularity": 0.0654,
+        "popularity": 0.081,
         "poster_path": "/bkAAyyhljHGnFHzFNWuRPHSQzFO.jpg",
         "release_date": "2026-01-31",
         "title": "Far from Maine",
@@ -583,6 +567,24 @@
             "历史",
             "动画"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8tJPBrSoXJqzujCPMDfug1vEK57.jpg",
+        "genre_ids": [],
+        "id": 1621023,
+        "original_language": "en",
+        "original_title": "Prom Not Prom",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/mzR7uuhkLCI0uaBbOyQNF1QC0wU.jpg",
+        "release_date": "2026-01-31",
+        "title": "Prom Not Prom",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1159,7 +1161,7 @@
         "original_language": "de",
         "original_title": "Mother of a son",
         "overview": "",
-        "popularity": 0.0898,
+        "popularity": 0.0804,
         "poster_path": "/lipmqbUpMrVqkTjRXDscDdYSxbk.jpg",
         "release_date": "2026-01-31",
         "title": "Mother of a son",
@@ -1179,7 +1181,7 @@
         "original_language": "de",
         "original_title": "peter kammerer/Pasolini",
         "overview": "",
-        "popularity": 0.0261,
+        "popularity": 0.0404,
         "poster_path": null,
         "release_date": "2026-01-31",
         "title": "peter kammerer/Pasolini",
@@ -1213,74 +1215,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ity2y9ai3je33PBO0Qyv625CVnm.jpg",
-        "genre_ids": [
-            99,
-            18,
-            9648
-        ],
-        "id": 1623907,
-        "original_language": "fr",
-        "original_title": "Encore une chanson",
-        "overview": "",
-        "popularity": 0.0521,
-        "poster_path": "/9IwF5GfrWkn8hPo1Cg44elZu4Qc.jpg",
-        "release_date": "2026-01-31",
-        "title": "Encore une chanson",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "剧情",
-            "悬疑"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1613868,
-        "original_language": "fr",
-        "original_title": "Huit litres et demi jusqu'à l'aube",
-        "overview": "",
-        "popularity": 0.0441,
-        "poster_path": "/fDvBB7hmLRZU2zlMbcOTnY1SI1W.jpg",
-        "release_date": "2026-01-31",
-        "title": "Huit litres et demi jusqu'à l'aube",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1621511,
-        "original_language": "fr",
-        "original_title": "BICHE",
-        "overview": "",
-        "popularity": 0.0363,
-        "poster_path": "/9GHVuu5MFzxQQxG3tJg8CQsKHii.jpg",
-        "release_date": "2026-01-31",
-        "title": "BICHE",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/iteXniCY8fjCr1oyNQ7qfc3JqJ9.jpg",
         "genre_ids": [
             99
@@ -1289,7 +1223,7 @@
         "original_language": "fr",
         "original_title": "La belle année",
         "overview": "",
-        "popularity": 0.0664,
+        "popularity": 0.0429,
         "poster_path": null,
         "release_date": "2026-01-31",
         "title": "美好年华",
@@ -1303,23 +1237,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/d0WzHgoZ6tJ3J6wL1iDxVUQ8zpH.jpg",
+        "backdrop_path": "/ity2y9ai3je33PBO0Qyv625CVnm.jpg",
         "genre_ids": [
-            35
+            99,
+            18,
+            9648
         ],
-        "id": 1624107,
+        "id": 1623907,
         "original_language": "fr",
-        "original_title": "ALED",
+        "original_title": "Encore une chanson",
         "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/dFOeFRe7tyY3EhZqr1CbuEyog2Z.jpg",
+        "popularity": 0.0927,
+        "poster_path": "/9IwF5GfrWkn8hPo1Cg44elZu4Qc.jpg",
         "release_date": "2026-01-31",
-        "title": "ALED",
+        "title": "Encore une chanson",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "纪录",
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "法语"
     },
@@ -1348,6 +1286,70 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1613868,
+        "original_language": "fr",
+        "original_title": "Huit litres et demi jusqu'à l'aube",
+        "overview": "",
+        "popularity": 0.0409,
+        "poster_path": "/fDvBB7hmLRZU2zlMbcOTnY1SI1W.jpg",
+        "release_date": "2026-01-31",
+        "title": "Huit litres et demi jusqu'à l'aube",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1621511,
+        "original_language": "fr",
+        "original_title": "BICHE",
+        "overview": "",
+        "popularity": 0.0495,
+        "poster_path": "/9GHVuu5MFzxQQxG3tJg8CQsKHii.jpg",
+        "release_date": "2026-01-31",
+        "title": "BICHE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d0WzHgoZ6tJ3J6wL1iDxVUQ8zpH.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1624107,
+        "original_language": "fr",
+        "original_title": "ALED",
+        "overview": "",
+        "popularity": 0.0361,
+        "poster_path": "/dFOeFRe7tyY3EhZqr1CbuEyog2Z.jpg",
+        "release_date": "2026-01-31",
+        "title": "ALED",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             9648
         ],
@@ -1355,7 +1357,7 @@
         "original_language": "fr",
         "original_title": "Subterranean",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0143,
         "poster_path": "/aPsnaGHQLxC8AwgAnohhqOyxz79.jpg",
         "release_date": "2026-01-31",
         "title": "Subterranean",
@@ -1379,7 +1381,7 @@
         "original_language": "fr",
         "original_title": "Les Glucksmann, une histoire de famille",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0404,
         "poster_path": "/nxNPwTC6aLsKu5AxsG7TaK6syys.jpg",
         "release_date": "2026-01-31",
         "title": "Les Glucksmann, une histoire de famille",
@@ -1623,7 +1625,7 @@
         "original_language": "ru",
         "original_title": "слепая",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0143,
         "poster_path": "/5OkQTHQky1KVXXfyoWC6ReYi3UF.jpg",
         "release_date": "2026-01-31",
         "title": "слепая",
@@ -1683,7 +1685,7 @@
         "original_language": "nl",
         "original_title": "Please Try Again Later",
         "overview": "",
-        "popularity": 0.1546,
+        "popularity": 0.1377,
         "poster_path": "/AuHKpyAPZbugrfD7I78Tkbgacv8.jpg",
         "release_date": "2026-01-31",
         "title": "Please Try Again Later",
@@ -1705,7 +1707,7 @@
         "original_language": "nl",
         "original_title": "Nuclear Boy",
         "overview": "",
-        "popularity": 0.0566,
+        "popularity": 0.0486,
         "poster_path": "/mRzELoMkpKvYqM2Ae6Fj61pNRTb.jpg",
         "release_date": "2026-01-31",
         "title": "Nuclear Boy",
@@ -1727,7 +1729,7 @@
         "original_language": "nl",
         "original_title": "Treat Her Like a Lady",
         "overview": "",
-        "popularity": 0.0297,
+        "popularity": 0.0536,
         "poster_path": null,
         "release_date": "2026-01-31",
         "title": "Treat Her Like a Lady",
