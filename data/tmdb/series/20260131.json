@@ -104,26 +104,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 310823,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Unsupervised",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "first_air_date": "2026-01-31",
-        "name": "Unsupervised",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             16
         ],
@@ -143,6 +123,26 @@
         "genre_ids_zh": [
             "动画"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 310823,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Unsupervised",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "first_air_date": "2026-01-31",
+        "name": "Unsupervised",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -216,6 +216,30 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 312869,
+        "origin_country": [
+            "泰国"
+        ],
+        "original_language": "th",
+        "original_name": "Love(X) Mini Series: Roommates in Love",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8LgyrU35x54fyLDBg5HwfCpmLO2.jpg",
+        "first_air_date": "2026-01-31",
+        "name": "Love(X) Mini Series: Roommates in Love",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "泰语"
     }
