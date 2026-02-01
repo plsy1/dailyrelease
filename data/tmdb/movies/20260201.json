@@ -23,6 +23,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35,
+            14
+        ],
+        "id": 1565990,
+        "original_language": "en",
+        "original_title": "Mountain King",
+        "overview": "",
+        "popularity": 1.1357,
+        "poster_path": "/wOOQgNNVYbCvSPdojDxuUjsY3lv.jpg",
+        "release_date": "2026-02-01",
+        "title": "Mountain King",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/b5CC0nraYxz1A1OHIzZp3OYvXWb.jpg",
         "genre_ids": [
             53,
@@ -179,24 +205,6 @@
         "genre_ids_zh": [
             "剧情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1604609,
-        "original_language": "en",
-        "original_title": "the streetlights flicker when i blink",
-        "overview": "",
-        "popularity": 0.042,
-        "poster_path": null,
-        "release_date": "2026-02-01",
-        "title": "the streetlights flicker when i blink",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -503,6 +511,50 @@
         "genre_ids": [
             16
         ],
+        "id": 1626914,
+        "original_language": "en",
+        "original_title": "Cinderella",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-02-01",
+        "title": "Cinderella",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1626898,
+        "original_language": "en",
+        "original_title": "Aladdin",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-02-01",
+        "title": "Aladdin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
         "id": 1626678,
         "original_language": "en",
         "original_title": "C-R-I-M-S-O-N 3",
@@ -707,6 +759,32 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            53,
+            878,
+            9648
+        ],
+        "id": 1619203,
+        "original_language": "fr",
+        "original_title": "COLLAPSE",
+        "overview": "",
+        "popularity": 0.0634,
+        "poster_path": "/hYgduDgyJCRPvBmbEJrxBF4i9MA.jpg",
+        "release_date": "2026-02-01",
+        "title": "COLLAPSE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "科幻",
+            "悬疑"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53
         ],
         "id": 1510033,
@@ -807,6 +885,32 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/atcdaGs5WGnVu2Qx8dLZY13C32u.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            99
+        ],
+        "id": 1626808,
+        "original_language": "es",
+        "original_title": "EL ANILLO Y EL DECK",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/2WlmqSZYFmWJQsYkSLUbrLMHKGU.jpg",
+        "release_date": "2026-02-01",
+        "title": "EL ANILLO Y EL DECK",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "悬疑",
             "纪录"
         ],
         "original_language_zh": "西班牙语"
