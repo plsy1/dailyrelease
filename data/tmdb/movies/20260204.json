@@ -379,28 +379,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sR1lWIKBpfigAvXDHchiSVubUo6.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1208277,
-        "original_language": "ko",
-        "original_title": "겨울의 빛",
-        "overview": "",
-        "popularity": 1.8719,
-        "poster_path": "/do2MBTBxmA9045upB4Z7SrQgns9.jpg",
-        "release_date": "2026-02-04",
-        "title": "겨울의 빛",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/sSsZc9yQ17KjJQ41D87MDPp4gY.jpg",
         "genre_ids": [
             36,
@@ -419,6 +397,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "历史",
+            "剧情"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sR1lWIKBpfigAvXDHchiSVubUo6.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1208277,
+        "original_language": "ko",
+        "original_title": "겨울의 빛",
+        "overview": "",
+        "popularity": 1.8719,
+        "poster_path": "/do2MBTBxmA9045upB4Z7SrQgns9.jpg",
+        "release_date": "2026-02-04",
+        "title": "겨울의 빛",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "韩语"
