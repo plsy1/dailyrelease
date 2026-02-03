@@ -2,7 +2,10 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            14,
+            28
+        ],
         "id": 1622972,
         "original_language": "zh",
         "original_title": "玄机卫之镇国神鼎",
@@ -14,7 +17,10 @@
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "奇幻",
+            "动作"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -50,7 +56,7 @@
         "original_title": "Mo Gilligan: In the Moment",
         "overview": "",
         "popularity": 0.3397,
-        "poster_path": null,
+        "poster_path": "/oIxBZJYfk9Fm1TUSvRNcyZ1PrKj.jpg",
         "release_date": "2026-02-03",
         "title": "Mo Gilligan: In the Moment",
         "video": false,
@@ -266,12 +272,12 @@
         "original_title": "Vieillir et jouir sans entraves",
         "overview": "",
         "popularity": 0.0868,
-        "poster_path": "/9FbxbMh0qRF6ajACxRHsR3DohWs.jpg",
+        "poster_path": "/7Xine8nybC0yiLxbRvIJmodxC0H.jpg",
         "release_date": "2026-02-03",
         "title": "Vieillir et jouir sans entraves",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
@@ -320,6 +326,24 @@
             "纪录"
         ],
         "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1628306,
+        "original_language": "ru",
+        "original_title": "Ночная прогулка",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/chNZueyni0bYyNvk4MnGgwEIhNx.jpg",
+        "release_date": "2026-02-03",
+        "title": "Ночная прогулка",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
