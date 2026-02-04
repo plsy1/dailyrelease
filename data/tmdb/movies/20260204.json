@@ -2,6 +2,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1627535,
+        "original_language": "zh",
+        "original_title": "猎枭风暴",
+        "overview": "一奶同胞的兄弟洪达和洪宇同属于卡尼亚军方的秘密猎毒小队，在执行东南亚边境扫毒任务时，被狡猾的大毒枭贡泰偷袭，即将成为父亲的洪达为掩护弟弟洪宇牺牲，洪宇背负巨大的创痛回到家中，无法面对一对孤儿寡母，加盟新组建的独狼小队，重返边境为哥哥报仇。",
+        "popularity": 0.0454,
+        "poster_path": "/A13DRSvcgTq6rss5MCVRbZLMDRG.jpg",
+        "release_date": "2026-02-04",
+        "title": "猎枭风暴",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             16
         ],
@@ -33,14 +51,14 @@
         "id": 1548113,
         "original_language": "en",
         "original_title": "The Muppet Show",
-        "overview": "",
+        "overview": "科米蛙、猪小姐以及其他迷人的伙伴们，重返最初的布偶剧院舞台，带来全新的音乐、搞笑短剧，以及一连串的后台大乱斗。",
         "popularity": 4.0098,
         "poster_path": "/ox9U8j29MFOtGjjEwsPlN7tvyv1.jpg",
         "release_date": "2026-02-04",
-        "title": "The Muppet Show",
+        "title": "布偶秀50周年特别节目",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧",
             "家庭",
@@ -59,11 +77,11 @@
         "id": 1620991,
         "original_language": "en",
         "original_title": "The Investigation of Lucy Letby",
-        "overview": "",
+        "overview": "本片通过未曾公开的影像与内部人员的首次讲述，揭示了露西·莱比案——这位被判定蓄意伤害婴儿致死的新生儿护士——令人毛骨悚然且充满争议的骇人内幕。",
         "popularity": 2.3684,
-        "poster_path": "/jgZWsr8W1raLdxzuznUJ0ExgNHz.jpg",
+        "poster_path": "/qhNThwc72GqihJhXaP29Af5hJ2A.jpg",
         "release_date": "2026-02-04",
-        "title": "The Investigation of Lucy Letby",
+        "title": "露西·莱比的调查",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -107,12 +125,12 @@
         "original_title": "Relationship Goals",
         "overview": "",
         "popularity": 1.4097,
-        "poster_path": "/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+        "poster_path": "/bQTRPlMKJvcnTjGV63puGqIA6cD.jpg",
         "release_date": "2026-02-04",
         "title": "Relationship Goals",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "爱情",
             "喜剧"
@@ -184,6 +202,50 @@
         "genre_ids_zh": [
             "剧情",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1623569,
+        "original_language": "en",
+        "original_title": "Jackie Fabulous: You Can Leave",
+        "overview": "",
+        "popularity": 0.0658,
+        "poster_path": null,
+        "release_date": "2026-02-04",
+        "title": "Jackie Fabulous: You Can Leave",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1623564,
+        "original_language": "en",
+        "original_title": "Chris Spencer: GOAT Adjacent",
+        "overview": "",
+        "popularity": 0.0404,
+        "poster_path": null,
+        "release_date": "2026-02-04",
+        "title": "Chris Spencer: GOAT Adjacent",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -296,6 +358,30 @@
         "genre_ids_zh": [
             "犯罪",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b2rDPPjNUUVIJrmc0sNdoMp5G2g.jpg",
+        "genre_ids": [
+            10402,
+            99
+        ],
+        "id": 1628921,
+        "original_language": "en",
+        "original_title": "Rainway",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cYDdQq4PQCSni88HNkbALOmAZYR.jpg",
+        "release_date": "2026-02-04",
+        "title": "Rainway",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
