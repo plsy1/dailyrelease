@@ -124,6 +124,26 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 313267,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "跟着哥哥去旅行",
+        "overview": "简介：随着国内二胎、三胎政策开放，多孩家庭矛盾逐渐凸显，资源分配、手足冲突等问题让家长与孩子深陷困扰；与此同时，部分独生子女家庭的孩子却因缺乏陪伴，渴望拥有哥哥姐姐或弟弟妹妹。《跟着哥哥去旅行》节目是通过真实的儿童互动场景，展现多孩关系中的痛点与温暖，为家长提供育儿参考，也让孩子感受手足情的意义。",
+        "popularity": 0.0,
+        "poster_path": "/5ooIfqxyI87xoGdYoKaz6GoCOP2.jpg",
+        "first_air_date": "2026-02-05",
+        "name": "跟着哥哥去旅行",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             18
         ],
@@ -286,11 +306,11 @@
         ],
         "original_language": "de",
         "original_name": "Unfamiliar",
-        "overview": "",
+        "overview": "曾是间谍的西蒙与梅蕾特隐居在柏林市中心，经营着一间安全屋。原以为早已消弭的威胁再度现形，两人必须躲开杀手、俄罗斯探员、德国联邦情报局、前任情人，以及一大堆曾被他们辜负的人，同时还得努力维系婚姻。",
         "popularity": 4.5513,
         "poster_path": "/cdXNPeSidTtc8JG24K7oq7vcab8.jpg",
         "first_air_date": "2026-02-05",
-        "name": "Unfamiliar",
+        "name": "密屋陌路",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -377,7 +397,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/cEBsrkGtNHIDuAHnadVEmyCfymU.jpg",
         "genre_ids": [
             10764
         ],
