@@ -49,6 +49,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1629498,
+        "original_language": "zh",
+        "original_title": "不离不弃",
+        "overview": "电影主要讲述了睿智沉稳的徐文轩、外表文静秀美但性格反叛火爆的白若雪，与伪君子海石在游戏世界相遇相识后，在现实世界里产生纠葛的爱情故事。",
+        "popularity": 0.0071,
+        "poster_path": "/4d2KFxz8qgpgUScT9G7806ZvyDH.jpg",
+        "release_date": "2026-02-06",
+        "title": "不离不弃",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lKSxL53zjKG1xpXcGEhIyczx1k9.jpg",
         "genre_ids": [
             18
@@ -66,30 +84,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cAr3Gb3WLdS4KP9eFtmy10PRyLN.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1373198,
-        "original_language": "en",
-        "original_title": "Twisted",
-        "overview": "",
-        "popularity": 3.429,
-        "poster_path": "/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg",
-        "release_date": "2026-02-06",
-        "title": "Twisted",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -114,6 +108,30 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cAr3Gb3WLdS4KP9eFtmy10PRyLN.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1373198,
+        "original_language": "en",
+        "original_title": "Twisted",
+        "overview": "",
+        "popularity": 3.429,
+        "poster_path": "/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg",
+        "release_date": "2026-02-06",
+        "title": "Twisted",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -207,6 +225,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/2YdoKO3LJq8qdPE4DRBhwhAAPwN.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1559456,
+        "original_language": "en",
+        "original_title": "Finding Harmony: A King's Vision",
+        "overview": "",
+        "popularity": 0.6195,
+        "poster_path": "/9wrDQRS9bH3vaywzklt9t20VL4a.jpg",
+        "release_date": "2026-02-06",
+        "title": "Finding Harmony: A King's Vision",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8rpZcPqpfiMHMkR7vkD1eCNOGVM.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1618945,
+        "original_language": "en",
+        "original_title": "Yoh! Bestie",
+        "overview": "",
+        "popularity": 0.5995,
+        "poster_path": "/aDMDiDdpL8ntmo1biqdbVfrFih7.jpg",
+        "release_date": "2026-02-06",
+        "title": "婚前脱单快乐",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/woAG66LiyVHaueMVLBkNbYSgJ4c.jpg",
         "genre_ids": [
             53,
@@ -226,28 +290,6 @@
         "genre_ids_zh": [
             "惊悚",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2YdoKO3LJq8qdPE4DRBhwhAAPwN.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1559456,
-        "original_language": "en",
-        "original_title": "Finding Harmony: A King's Vision",
-        "overview": "",
-        "popularity": 0.6195,
-        "poster_path": "/9wrDQRS9bH3vaywzklt9t20VL4a.jpg",
-        "release_date": "2026-02-06",
-        "title": "Finding Harmony: A King's Vision",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -294,30 +336,6 @@
         "genre_ids_zh": [
             "动画",
             "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3GUzKLbhZheVKyn6fjN1abzPRmd.jpg",
-        "genre_ids": [
-            35,
-            10749
-        ],
-        "id": 1618945,
-        "original_language": "en",
-        "original_title": "Yoh! Bestie",
-        "overview": "",
-        "popularity": 0.5995,
-        "poster_path": "/aDMDiDdpL8ntmo1biqdbVfrFih7.jpg",
-        "release_date": "2026-02-06",
-        "title": "Yoh! Bestie",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -1459,6 +1477,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/61L6GA0Rz4dKHwX2jplG79uyZ12.jpg",
+        "genre_ids": [
+            878,
+            53,
+            12
+        ],
+        "id": 1515272,
+        "original_language": "es",
+        "original_title": "Azul",
+        "overview": "",
+        "popularity": 3.3202,
+        "poster_path": "/evqjPi27JHHriVMZhDle8DkxtDD.jpg",
+        "release_date": "2026-02-06",
+        "title": "Azul",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "惊悚",
+            "冒险"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1589,6 +1633,24 @@
         "genre_ids_zh": [
             "悬疑"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1630155,
+        "original_language": "es",
+        "original_title": "Antes",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gIf9wgvM8meSDHW1vaCSYeX8tYS.jpg",
+        "release_date": "2026-02-06",
+        "title": "Antes",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
