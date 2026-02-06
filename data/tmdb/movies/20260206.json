@@ -10,7 +10,7 @@
         "original_language": "zh",
         "original_title": "功夫",
         "overview": "讲述两个鲁蛇高中生渊仔、阿义遇上了身怀盖世武功的流浪汉黄骏，他们不只要重建这个城市的正义，也要解开黄骏的身世之谜，还有功夫背后的颠覆性大秘密。",
-        "popularity": 1.3768,
+        "popularity": 1.2904,
         "poster_path": "/ceMT5i6aCdkm1cgAamJ6Fn2GTNE.jpg",
         "release_date": "2026-02-06",
         "title": "功夫",
@@ -34,7 +34,7 @@
         "original_language": "zh",
         "original_title": "六六大顺",
         "overview": "　　濒临破产的老板李大顺（李孟武 饰）为逆转绝境，与死磕项目的技术宅李谱（肖轶 饰）踏上寻“小分子水”之路，临时搭挡的组合囧况百出，还没发车就透露着热闹，并偶遇了身世可怜的少年六六……",
-        "popularity": 0.1418,
+        "popularity": 0.1438,
         "poster_path": "/eHkhTwKHpHL2h77wwfJ5CPGgstO.jpg",
         "release_date": "2026-02-06",
         "title": "六六大顺",
@@ -505,40 +505,48 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            99
         ],
-        "id": 1610783,
+        "id": 1625396,
         "original_language": "en",
-        "original_title": "C.R.E.A.M.",
+        "original_title": "30 for 30: The Philly Special",
         "overview": "",
-        "popularity": 0.0677,
-        "poster_path": "/i0rMusbytsnt878FEaFVrE0UZHj.jpg",
+        "popularity": 0.1278,
+        "poster_path": null,
         "release_date": "2026-02-06",
-        "title": "C.R.E.A.M.",
+        "title": "30 for 30: The Philly Special",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1611639,
+        "backdrop_path": "/y1mCwX4QvwnzHQVhDZoAtf9z81q.jpg",
+        "genre_ids": [
+            27,
+            53,
+            18
+        ],
+        "id": 1471251,
         "original_language": "en",
-        "original_title": "Blue Emanuelle",
+        "original_title": "Intrusion",
         "overview": "",
-        "popularity": 0.0604,
-        "poster_path": "/g6Z1LHeKNoh87xmQOI7xk59m008.jpg",
+        "popularity": 0.1145,
+        "poster_path": "/5rkgvhUZTJ3rHSKdsIYDF185Goo.jpg",
         "release_date": "2026-02-06",
-        "title": "Blue Emanuelle",
+        "title": "Intrusion",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -553,7 +561,7 @@
         "original_language": "en",
         "original_title": "Paro Pinaki Ki Kahani",
         "overview": "",
-        "popularity": 0.0959,
+        "popularity": 0.1173,
         "poster_path": null,
         "release_date": "2026-02-06",
         "title": "Paro Pinaki Ki Kahani",
@@ -569,167 +577,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3mfmwoBSbR1JhTMKIDf008Xknzm.jpg",
+        "backdrop_path": "/mbS8oejfGNZ4KaTuXnVHX2SjOkm.jpg",
         "genre_ids": [
-            80,
-            18,
-            53
+            53,
+            18
         ],
-        "id": 1623905,
+        "id": 1604264,
         "original_language": "en",
-        "original_title": "MISFIRE",
+        "original_title": "ರಕ್ಕಸಪುರದೊಳ್",
         "overview": "",
-        "popularity": 0.0336,
-        "poster_path": "/474z9Jg8R1M5Vy3swlUiYq7Gwsz.jpg",
+        "popularity": 0.1343,
+        "poster_path": "/aOGcRUDWdY5XAzZXVtynDS7ZW0A.jpg",
         "release_date": "2026-02-06",
-        "title": "MISFIRE",
+        "title": "ರಕ್ಕಸಪುರದೊಳ್",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪",
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/7sr3CvSn0sgOGIjNJ3fmoEJ4UGq.jpg",
-        "genre_ids": [
-            16,
-            14,
-            12
-        ],
-        "id": 1618113,
-        "original_language": "en",
-        "original_title": "Part-Time Wizards",
-        "overview": "",
-        "popularity": 0.0621,
-        "poster_path": "/9OEVTgLshsaedVL7HXZrr9XrKCl.jpg",
-        "release_date": "2026-02-06",
-        "title": "Part-Time Wizards",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "奇幻",
-            "冒险"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1625396,
-        "original_language": "en",
-        "original_title": "30 for 30: The Philly Special",
-        "overview": "",
-        "popularity": 0.1063,
-        "poster_path": null,
-        "release_date": "2026-02-06",
-        "title": "30 for 30: The Philly Special",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eP2wooeKJuANvRpHUOAHFqdN0fZ.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1442322,
-        "original_language": "en",
-        "original_title": "Lost for Words",
-        "overview": "",
-        "popularity": 0.0604,
-        "poster_path": "/zDHpE1mcHCD2MwZTXRR2FF2qWKo.jpg",
-        "release_date": "2026-02-06",
-        "title": "Lost for Words",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/x6BqpMGUXc3RCLeEH3s8IaYCrlu.jpg",
-        "genre_ids": [],
-        "id": 1626487,
-        "original_language": "en",
-        "original_title": "SCALES",
-        "overview": "",
-        "popularity": 0.0583,
-        "poster_path": "/djSvMbpmpbxYchYToLcJqGzVw9t.jpg",
-        "release_date": "2026-02-06",
-        "title": "SCALES",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            80,
-            9648
-        ],
-        "id": 1620284,
-        "original_language": "en",
-        "original_title": "Buffalo Buffalo Turquoise Buffalo",
-        "overview": "",
-        "popularity": 0.0453,
-        "poster_path": "/wk8uKC5Sa0soexgB2oWbQa0PCXQ.jpg",
-        "release_date": "2026-02-06",
-        "title": "Buffalo Buffalo Turquoise Buffalo",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "犯罪",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            9648,
-            18,
-            80
-        ],
-        "id": 1627944,
-        "original_language": "en",
-        "original_title": "Deadtention",
-        "overview": "",
-        "popularity": 0.0404,
-        "poster_path": null,
-        "release_date": "2026-02-06",
-        "title": "Deadtention",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "剧情",
-            "犯罪"
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -746,7 +612,7 @@
         "original_language": "en",
         "original_title": "Linkedd 4: The Final Draft",
         "overview": "",
-        "popularity": 0.0786,
+        "popularity": 0.1181,
         "poster_path": "/9Q3ZNsC1WT4nDHYSE605JzX4hV3.jpg",
         "release_date": "2026-02-06",
         "title": "Linkedd 4: The Final Draft",
@@ -767,14 +633,188 @@
         "genre_ids": [
             18
         ],
-        "id": 1542617,
+        "id": 1610783,
         "original_language": "en",
-        "original_title": "My Friends Don’t Like Me",
+        "original_title": "C.R.E.A.M.",
         "overview": "",
-        "popularity": 0.0239,
-        "poster_path": "/12ZR7gc42yhdbgSwhC6Fqm1Cw8B.jpg",
+        "popularity": 0.0748,
+        "poster_path": "/i0rMusbytsnt878FEaFVrE0UZHj.jpg",
         "release_date": "2026-02-06",
-        "title": "My Friends Don’t Like Me",
+        "title": "C.R.E.A.M.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7sr3CvSn0sgOGIjNJ3fmoEJ4UGq.jpg",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ],
+        "id": 1618113,
+        "original_language": "en",
+        "original_title": "Part-Time Wizards",
+        "overview": "",
+        "popularity": 0.0389,
+        "poster_path": "/9OEVTgLshsaedVL7HXZrr9XrKCl.jpg",
+        "release_date": "2026-02-06",
+        "title": "Part-Time Wizards",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1611639,
+        "original_language": "en",
+        "original_title": "Blue Emanuelle",
+        "overview": "",
+        "popularity": 0.0441,
+        "poster_path": "/g6Z1LHeKNoh87xmQOI7xk59m008.jpg",
+        "release_date": "2026-02-06",
+        "title": "Blue Emanuelle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eP2wooeKJuANvRpHUOAHFqdN0fZ.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1442322,
+        "original_language": "en",
+        "original_title": "Lost for Words",
+        "overview": "",
+        "popularity": 0.0441,
+        "poster_path": "/zDHpE1mcHCD2MwZTXRR2FF2qWKo.jpg",
+        "release_date": "2026-02-06",
+        "title": "Lost for Words",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x6BqpMGUXc3RCLeEH3s8IaYCrlu.jpg",
+        "genre_ids": [],
+        "id": 1626487,
+        "original_language": "en",
+        "original_title": "SCALES",
+        "overview": "",
+        "popularity": 0.1015,
+        "poster_path": "/djSvMbpmpbxYchYToLcJqGzVw9t.jpg",
+        "release_date": "2026-02-06",
+        "title": "SCALES",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1621015,
+        "original_language": "en",
+        "original_title": "A Kingdom in Chaos",
+        "overview": "",
+        "popularity": 0.0596,
+        "poster_path": null,
+        "release_date": "2026-02-06",
+        "title": "A Kingdom in Chaos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ixUMHirIBXePKLJfWKoFH8P4ClD.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1627887,
+        "original_language": "en",
+        "original_title": "The City",
+        "overview": "",
+        "popularity": 0.0503,
+        "poster_path": "/A2ksW5ILgguV3nji7mcIsTBwVKJ.jpg",
+        "release_date": "2026-02-06",
+        "title": "The City",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tHtlTcZ58U0s43i4pOQs6JRS1pc.jpg",
+        "genre_ids": [
+            28,
+            14
+        ],
+        "id": 1628611,
+        "original_language": "en",
+        "original_title": "GvGvT: Great Decisive Battle",
+        "overview": "",
+        "popularity": 0.2114,
+        "poster_path": "/3dDCIq41oXcqOJQRCEC2OLoH8O3.jpg",
+        "release_date": "2026-02-06",
+        "title": "GvGvT: Great Decisive Battle",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "动作",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hn0qGrcOnfGC5ZSx7DuyPIvH916.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1627989,
+        "original_language": "en",
+        "original_title": "To Belong Here",
+        "overview": "",
+        "popularity": 0.0973,
+        "poster_path": "/ekGBT99NMVQpCZk29FsKkToONNh.jpg",
+        "release_date": "2026-02-06",
+        "title": "To Belong Here",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -787,20 +827,76 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            53
+            35,
+            80,
+            9648
         ],
-        "id": 1627506,
+        "id": 1620284,
         "original_language": "en",
-        "original_title": "The Bachelorette Party",
+        "original_title": "Buffalo Buffalo Turquoise Buffalo",
         "overview": "",
-        "popularity": 0.0306,
-        "poster_path": null,
+        "popularity": 0.0338,
+        "poster_path": "/wk8uKC5Sa0soexgB2oWbQa0PCXQ.jpg",
         "release_date": "2026-02-06",
-        "title": "The Bachelorette Party",
+        "title": "Buffalo Buffalo Turquoise Buffalo",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "喜剧",
+            "犯罪",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v62a8CTL7iUjl7Cjf4C1UoMgnjq.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 1627944,
+        "original_language": "en",
+        "original_title": "Deadtention",
+        "overview": "",
+        "popularity": 0.0766,
+        "poster_path": "/vxZkn5YK5gQ9ykc9HimEkHanLK.jpg",
+        "release_date": "2026-02-06",
+        "title": "Deadtention",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "剧情",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3mfmwoBSbR1JhTMKIDf008Xknzm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1623905,
+        "original_language": "en",
+        "original_title": "MISFIRE",
+        "overview": "",
+        "popularity": 0.0453,
+        "poster_path": "/474z9Jg8R1M5Vy3swlUiYq7Gwsz.jpg",
+        "release_date": "2026-02-06",
+        "title": "MISFIRE",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
             "惊悚"
         ],
         "original_language_zh": "英语"
@@ -815,7 +911,7 @@
         "original_language": "en",
         "original_title": "A Point of No Return",
         "overview": "",
-        "popularity": 0.0311,
+        "popularity": 0.0214,
         "poster_path": "/koq55KOmNc5poaQ0A0THEgpBSx9.jpg",
         "release_date": "2026-02-06",
         "title": "A Point of No Return",
@@ -831,22 +927,66 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            53
         ],
-        "id": 1621015,
+        "id": 1627506,
         "original_language": "en",
-        "original_title": "A Kingdom in Chaos",
+        "original_title": "The Bachelorette Party",
         "overview": "",
-        "popularity": 0.0538,
+        "popularity": 0.0545,
         "poster_path": null,
         "release_date": "2026-02-06",
-        "title": "A Kingdom in Chaos",
+        "title": "The Bachelorette Party",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "惊悚"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35,
+            878
+        ],
+        "id": 1628777,
+        "original_language": "en",
+        "original_title": "Trash Attack",
+        "overview": "",
+        "popularity": 0.0454,
+        "poster_path": "/4sHlwFtSIgCAEKrxtfVEQNOUiJq.jpg",
+        "release_date": "2026-02-06",
+        "title": "Trash Attack",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1623308,
+        "original_language": "en",
+        "original_title": "No Longer Human",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": null,
+        "release_date": "2026-02-06",
+        "title": "No Longer Human",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -871,48 +1011,6 @@
             "剧情",
             "家庭"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cRorTJckkULGP9csjc3uTPFsI4x.jpg",
-        "genre_ids": [
-            99,
-            10770
-        ],
-        "id": 1555876,
-        "original_language": "en",
-        "original_title": "For The Love of Childhood",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/pJT99Gny1CyKuYa64T2tF34QzFa.jpg",
-        "release_date": "2026-02-06",
-        "title": "For The Love of Childhood",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "电视电影"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1623308,
-        "original_language": "en",
-        "original_title": "No Longer Human",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": null,
-        "release_date": "2026-02-06",
-        "title": "No Longer Human",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -956,6 +1054,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cRorTJckkULGP9csjc3uTPFsI4x.jpg",
+        "genre_ids": [
+            99,
+            10770
+        ],
+        "id": 1555876,
+        "original_language": "en",
+        "original_title": "For The Love of Childhood",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/pJT99Gny1CyKuYa64T2tF34QzFa.jpg",
+        "release_date": "2026-02-06",
+        "title": "For The Love of Childhood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "电视电影"
         ],
         "original_language_zh": "英语"
     },
@@ -1055,7 +1177,7 @@
         "original_language": "ja",
         "original_title": "椰子の高さ",
         "overview": "",
-        "popularity": 1.1236,
+        "popularity": 0.8552,
         "poster_path": "/vCyLm5PN4lkfl89hRn1oeX595En.jpg",
         "release_date": "2026-02-06",
         "title": "椰子树的高度",
@@ -1077,7 +1199,7 @@
         "original_language": "ja",
         "original_title": "ほどなく、お別れです",
         "overview": "",
-        "popularity": 1.0082,
+        "popularity": 0.6998,
         "poster_path": "/wrnPSN0VJDRLFoOmv6T4dMrYYVq.jpg",
         "release_date": "2026-02-06",
         "title": "ほどなく、お別れです",
@@ -1087,6 +1209,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ckTKp3Svy6d01cIvhUDuQGUA4yC.jpg",
+        "genre_ids": [],
+        "id": 1572763,
+        "original_language": "ja",
+        "original_title": "日記箱の恋",
+        "overview": "",
+        "popularity": 0.3206,
+        "poster_path": "/t6WK4FojEB1vvpZ0R9WgqXSS0nq.jpg",
+        "release_date": "2026-02-06",
+        "title": "日記箱の恋",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "日语"
     },
     {
@@ -1103,7 +1243,7 @@
         "original_language": "ja",
         "original_title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
         "overview": "",
-        "popularity": 0.2706,
+        "popularity": 0.276,
         "poster_path": "/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
         "release_date": "2026-02-06",
         "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
@@ -1121,24 +1261,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ckTKp3Svy6d01cIvhUDuQGUA4yC.jpg",
-        "genre_ids": [],
-        "id": 1572763,
-        "original_language": "ja",
-        "original_title": "日記箱の恋",
-        "overview": "",
-        "popularity": 0.3284,
-        "poster_path": "/t6WK4FojEB1vvpZ0R9WgqXSS0nq.jpg",
-        "release_date": "2026-02-06",
-        "title": "日記箱の恋",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/s4jZuMSlFekkW5pjt7lnBXMStOZ.jpg",
         "genre_ids": [
             27
@@ -1147,7 +1269,7 @@
         "original_language": "ja",
         "original_title": "禍禍女",
         "overview": "",
-        "popularity": 0.2701,
+        "popularity": 0.2575,
         "poster_path": "/3TCTYOB1MeEKo8qnaDOiGwd9y31.jpg",
         "release_date": "2026-02-06",
         "title": "禍禍女",
@@ -1167,7 +1289,7 @@
         "original_language": "ja",
         "original_title": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI　月光 ずっとこの光につながっていたんだ",
         "overview": "",
-        "popularity": 0.1353,
+        "popularity": 0.131,
         "poster_path": "/3uCWukCs8yLh2Lh7mzgbZ2BVoQH.jpg",
         "release_date": "2026-02-06",
         "title": "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI　月光 ずっとこの光につながっていたんだ",
@@ -1188,7 +1310,7 @@
         "original_language": "ko",
         "original_title": "신사: 악귀의 속삭임",
         "overview": "",
-        "popularity": 0.3004,
+        "popularity": 0.3279,
         "poster_path": "/grq3eAFw6D0iFB1xfBA9GPbNjeD.jpg",
         "release_date": "2026-02-06",
         "title": "신사: 악귀의 속삭임",
@@ -1211,8 +1333,8 @@
         "original_language": "de",
         "original_title": "Fabian und die mörderische Hochzeit",
         "overview": "",
-        "popularity": 4.3596,
-        "poster_path": "/jerF19jpQvGqdSl9AFWgW0sf7vJ.jpg",
+        "popularity": 3.6994,
+        "poster_path": "/2T4gc5njZ0JJVYLn6Q8VxS9RoM6.jpg",
         "release_date": "2026-02-06",
         "title": "Fabian und die mörderische Hochzeit",
         "video": false,
@@ -1234,7 +1356,7 @@
         "original_language": "de",
         "original_title": "Prophet",
         "overview": "",
-        "popularity": 0.0758,
+        "popularity": 0.1207,
         "poster_path": "/swNfK5RR0F49RY5OIyWaDntvTOp.jpg",
         "release_date": "2026-02-06",
         "title": "Prophet",
@@ -1479,7 +1601,7 @@
         "original_language": "it",
         "original_title": "Cerimonia di apertura dei Giochi Olimpici Invernali Milano Cortina 2026",
         "overview": "",
-        "popularity": 0.1831,
+        "popularity": 0.3719,
         "poster_path": "/qnbAxloreG6IKSQfhFnoCENnZmn.jpg",
         "release_date": "2026-02-06",
         "title": "Cerimonia di apertura dei Giochi Olimpici Invernali Milano Cortina 2026",
@@ -1505,7 +1627,7 @@
         "original_language": "pl",
         "original_title": "Orzełek Iggy",
         "overview": "",
-        "popularity": 4.2727,
+        "popularity": 4.6019,
         "poster_path": "/vah8C08Lie1ldXRdzdNyKwvnBDq.jpg",
         "release_date": "2026-02-06",
         "title": "Orzełek Iggy",
@@ -1532,7 +1654,7 @@
         "original_language": "pl",
         "original_title": "Dalej jazda! 2",
         "overview": "",
-        "popularity": 0.3795,
+        "popularity": 0.3609,
         "poster_path": "/pQNIlbt9M4PcMsHp7ZhEXNJgF7v.jpg",
         "release_date": "2026-02-06",
         "title": "Dalej jazda! 2",
@@ -1555,7 +1677,7 @@
         "original_language": "pl",
         "original_title": "Jak zabić obraz? - Za kulisami Morderstwa obrazu",
         "overview": "",
-        "popularity": 0.0362,
+        "popularity": 0.0261,
         "poster_path": "/9T21NpuQYus2KEIg5zryAb2vVUe.jpg",
         "release_date": "2026-02-06",
         "title": "Jak zabić obraz? - Za kulisami Morderstwa obrazu",
@@ -1675,7 +1797,7 @@
         "original_language": "sv",
         "original_title": "Skurkarnas skurk",
         "overview": "",
-        "popularity": 0.4396,
+        "popularity": 0.3445,
         "poster_path": "/857lVWid2sFKAtZ8HMf1swe53hT.jpg",
         "release_date": "2026-02-06",
         "title": "Skurkarnas skurk",
@@ -1700,7 +1822,7 @@
         "original_language": "sv",
         "original_title": "Kattriket",
         "overview": "",
-        "popularity": 0.1982,
+        "popularity": 0.1713,
         "poster_path": "/zMOCfL6E1NyxURjUMCzKTEPGOAO.jpg",
         "release_date": "2026-02-06",
         "title": "Kattriket",
@@ -1725,7 +1847,7 @@
         "original_language": "no",
         "original_title": "Kraken",
         "overview": "一艘俄罗斯导弹潜艇在格陵兰海执行秘密任务时失踪，不知所踪。北方舰队最年轻的司令维克托·沃罗宁前去搜寻，他的哥哥正是这艘失踪巡洋舰的指挥官。与此同时，由于极地站被毁，一头怪物出现在北方海域。",
-        "popularity": 8.7009,
+        "popularity": 8.7653,
         "poster_path": "/8ExwomWgJoXBdY3u1Otiw2zY9wZ.jpg",
         "release_date": "2026-02-06",
         "title": "极寒潜袭",
@@ -1749,7 +1871,7 @@
         "original_language": "no",
         "original_title": "Fjellets frivillige",
         "overview": "",
-        "popularity": 0.0755,
+        "popularity": 0.1321,
         "poster_path": "/qrDcNbroyS2hRkoXZXxIteq842v.jpg",
         "release_date": "2026-02-06",
         "title": "Fjellets frivillige",
