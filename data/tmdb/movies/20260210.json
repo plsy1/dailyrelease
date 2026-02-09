@@ -45,6 +45,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/2Ylsc9ejBSQrbIghCw30Qz1RfCx.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1616528,
+        "original_language": "en",
+        "original_title": "Strangers",
+        "overview": "",
+        "popularity": 0.4487,
+        "poster_path": "/us5pzhBpRMPnBzbYaUFmSZIs6A1.jpg",
+        "release_date": "2026-02-10",
+        "title": "Strangers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -96,30 +120,6 @@
         "backdrop_path": null,
         "genre_ids": [
             18,
-            53
-        ],
-        "id": 1617115,
-        "original_language": "en",
-        "original_title": "Brother Unknown",
-        "overview": "",
-        "popularity": 0.1643,
-        "poster_path": "/ujhUXdY1B5fp8OgQBSJQo1jTQs6.jpg",
-        "release_date": "2026-02-10",
-        "title": "Brother Unknown",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18,
             10749
         ],
         "id": 1567633,
@@ -141,25 +141,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/2Ylsc9ejBSQrbIghCw30Qz1RfCx.jpg",
+        "backdrop_path": null,
         "genre_ids": [
             18,
-            10749
+            53
         ],
-        "id": 1616528,
+        "id": 1617115,
         "original_language": "en",
-        "original_title": "Strangers",
+        "original_title": "Brother Unknown",
         "overview": "",
-        "popularity": 0.4487,
-        "poster_path": "/us5pzhBpRMPnBzbYaUFmSZIs6A1.jpg",
+        "popularity": 0.1643,
+        "poster_path": "/ujhUXdY1B5fp8OgQBSJQo1jTQs6.jpg",
         "release_date": "2026-02-10",
-        "title": "Strangers",
+        "title": "Brother Unknown",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
-            "爱情"
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -185,24 +185,6 @@
             "剧情",
             "奇幻"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1623007,
-        "original_language": "en",
-        "original_title": "Chef’s Kiss",
-        "overview": "",
-        "popularity": 0.099,
-        "poster_path": "/8V9LrCismvGCjlGR6poIr1mYd0m.jpg",
-        "release_date": "2026-02-10",
-        "title": "Chef’s Kiss",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -251,26 +233,20 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dGFGNe1eH8dYpfxpvORISoKdzNr.jpg",
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1620201,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1623007,
         "original_language": "en",
-        "original_title": "Sandwich",
+        "original_title": "Chef’s Kiss",
         "overview": "",
-        "popularity": 0.0379,
-        "poster_path": "/xw9aCOOSWgqANNb3zi2qPC19gNO.jpg",
+        "popularity": 0.099,
+        "poster_path": "/8V9LrCismvGCjlGR6poIr1mYd0m.jpg",
         "release_date": "2026-02-10",
-        "title": "Sandwich",
+        "title": "Chef’s Kiss",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -294,6 +270,30 @@
         "genre_ids_zh": [
             "音乐",
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dGFGNe1eH8dYpfxpvORISoKdzNr.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1620201,
+        "original_language": "en",
+        "original_title": "Sandwich",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": "/xw9aCOOSWgqANNb3zi2qPC19gNO.jpg",
+        "release_date": "2026-02-10",
+        "title": "Sandwich",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -341,28 +341,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            53
-        ],
-        "id": 1618906,
-        "original_language": "fr",
-        "original_title": "Thallium",
-        "overview": "",
-        "popularity": 0.0884,
-        "poster_path": "/iJHA5Sf0ncNRjjqqRy3c1Y3Zm9h.jpg",
-        "release_date": "2026-02-10",
-        "title": "Thallium",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             99
         ],
         "id": 1593029,
@@ -387,14 +365,14 @@
         "genre_ids": [
             53
         ],
-        "id": 1241722,
+        "id": 1618906,
         "original_language": "fr",
-        "original_title": "Une nuit de chien",
+        "original_title": "Thallium",
         "overview": "",
-        "popularity": 0.0552,
-        "poster_path": "/m5Hy8MQg5yPpS8zfzP0KcGEwXMo.jpg",
+        "popularity": 0.0884,
+        "poster_path": "/iJHA5Sf0ncNRjjqqRy3c1Y3Zm9h.jpg",
         "release_date": "2026-02-10",
-        "title": "Une nuit de chien",
+        "title": "Thallium",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -422,6 +400,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1241722,
+        "original_language": "fr",
+        "original_title": "Une nuit de chien",
+        "overview": "",
+        "popularity": 0.0552,
+        "poster_path": "/m5Hy8MQg5yPpS8zfzP0KcGEwXMo.jpg",
+        "release_date": "2026-02-10",
+        "title": "Une nuit de chien",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "法语"
     },
