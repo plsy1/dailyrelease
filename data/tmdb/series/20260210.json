@@ -69,10 +69,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/yDUwl5jnERs2NsyuILkceYutgyb.jpg",
         "genre_ids": [
-            18,
-            10759
+            10759,
+            80,
+            18
         ],
         "id": 313635,
         "origin_country": [
@@ -81,15 +82,16 @@
         "original_language": "ja",
         "original_name": "龍が如く Powered by 日本統一",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
+        "popularity": 0.0286,
+        "poster_path": "/pE0PYKkYTUFHvniRiTmzlFMtvBc.jpg",
         "first_air_date": "2026-02-10",
         "name": "龍が如く Powered by 日本統一",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "动作与冒险"
+            "动作与冒险",
+            "犯罪",
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
