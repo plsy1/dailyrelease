@@ -83,8 +83,8 @@
         "release_date": "2026-02-12",
         "title": "去你的情人节",
         "video": false,
-        "vote_average": 5.875,
-        "vote_count": 16,
+        "vote_average": 5.647,
+        "vote_count": 17,
         "genre_ids_zh": [
             "爱情",
             "喜剧"
@@ -239,23 +239,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/hisnORmYmcKBobNGOGJoawihv9d.jpg",
         "genre_ids": [
-            99
+            99,
+            10402
         ],
-        "id": 1537280,
+        "id": 1465525,
         "original_language": "en",
-        "original_title": "Googie",
+        "original_title": "The Rose: Come Back to Me",
         "overview": "",
-        "popularity": 0.1779,
-        "poster_path": "/wX0hj5ITMdLSrCVQUtjoBBkHwZm.jpg",
+        "popularity": 0.4657,
+        "poster_path": "/gpS6TCUd8w5qh3ElbfwGk12Pvti.jpg",
         "release_date": "2026-02-12",
-        "title": "Googie",
+        "title": "The Rose: Come Back to Me",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -279,28 +281,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1624030,
-        "original_language": "en",
-        "original_title": "We’ve Lost Dale Earnhardt",
-        "overview": "",
-        "popularity": 0.1631,
-        "poster_path": null,
-        "release_date": "2026-02-12",
-        "title": "We’ve Lost Dale Earnhardt",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/vOq4NCCcuHLrdlLe7Idx6ImfCHV.jpg",
         "genre_ids": [
             99
@@ -313,6 +293,28 @@
         "poster_path": "/9BJkta8tXVDr9OADvZbXSyUK3P4.jpg",
         "release_date": "2026-02-12",
         "title": "Blame",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1537280,
+        "original_language": "en",
+        "original_title": "Googie",
+        "overview": "",
+        "popularity": 0.1779,
+        "poster_path": "/wX0hj5ITMdLSrCVQUtjoBBkHwZm.jpg",
+        "release_date": "2026-02-12",
+        "title": "Googie",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -345,6 +347,76 @@
         "genre_ids": [
             99
         ],
+        "id": 1624030,
+        "original_language": "en",
+        "original_title": "We’ve Lost Dale Earnhardt",
+        "overview": "",
+        "popularity": 0.1631,
+        "poster_path": null,
+        "release_date": "2026-02-12",
+        "title": "We’ve Lost Dale Earnhardt",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6RkfybqGLUyqIZMFHmruWyYN3QD.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1547999,
+        "original_language": "en",
+        "original_title": "Murder in the Stable",
+        "overview": "",
+        "popularity": 0.1581,
+        "poster_path": "/5xrxYZTjrM5qQXx34WtjXPQoQ3p.jpg",
+        "release_date": "2026-02-12",
+        "title": "Murder in the Stable",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/doHIYXPK6mPDgxoUDSsEecY9hSO.jpg",
+        "genre_ids": [
+            27,
+            878
+        ],
+        "id": 1631727,
+        "original_language": "en",
+        "original_title": "Port Meadow",
+        "overview": "",
+        "popularity": 0.1374,
+        "poster_path": "/vZxVYrsqhONAsWeYYexM4Xn9xqx.jpg",
+        "release_date": "2026-02-12",
+        "title": "Port Meadow",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
         "id": 1624493,
         "original_language": "en",
         "original_title": "Tutu",
@@ -353,6 +425,50 @@
         "poster_path": null,
         "release_date": "2026-02-12",
         "title": "Tutu",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1632438,
+        "original_language": "en",
+        "original_title": "222",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": "/kFmY2XxmYgxvDvYYvzNBGvGZfl3.jpg",
+        "release_date": "2026-02-12",
+        "title": "222",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1626579,
+        "original_language": "en",
+        "original_title": "We’ve Lost Dale Earnhardt: 25 Years Later",
+        "overview": "",
+        "popularity": 0.0409,
+        "poster_path": null,
+        "release_date": "2026-02-12",
+        "title": "We’ve Lost Dale Earnhardt: 25 Years Later",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -389,52 +505,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/doHIYXPK6mPDgxoUDSsEecY9hSO.jpg",
-        "genre_ids": [
-            27,
-            878
-        ],
-        "id": 1631727,
-        "original_language": "en",
-        "original_title": "Port Meadow",
-        "overview": "",
-        "popularity": 0.1374,
-        "poster_path": "/vZxVYrsqhONAsWeYYexM4Xn9xqx.jpg",
-        "release_date": "2026-02-12",
-        "title": "Port Meadow",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1626579,
-        "original_language": "en",
-        "original_title": "We’ve Lost Dale Earnhardt: 25 Years Later",
-        "overview": "",
-        "popularity": 0.0409,
-        "poster_path": null,
-        "release_date": "2026-02-12",
-        "title": "We’ve Lost Dale Earnhardt: 25 Years Later",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/9WEIpAf38mPKLi2UTPOgHhkCb3f.jpg",
         "genre_ids": [],
         "id": 1632826,
@@ -449,28 +519,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1632438,
-        "original_language": "en",
-        "original_title": "222",
-        "overview": "",
-        "popularity": 0.0643,
-        "poster_path": "/kFmY2XxmYgxvDvYYvzNBGvGZfl3.jpg",
-        "release_date": "2026-02-12",
-        "title": "222",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -641,6 +689,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 1552642,
+        "original_language": "es",
+        "original_title": "Crónica de una Falsa Autostop",
+        "overview": "",
+        "popularity": 0.3391,
+        "poster_path": "/r3W2tqizbFfmOjbmHdX0a7Vs9Xu.jpg",
+        "release_date": "2026-02-12",
+        "title": "Crónica de una Falsa Autostop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             10749,
             80
@@ -667,30 +739,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            9648
-        ],
-        "id": 1552642,
-        "original_language": "es",
-        "original_title": "Crónica de una Falsa Autostop",
-        "overview": "",
-        "popularity": 0.3391,
-        "poster_path": "/r3W2tqizbFfmOjbmHdX0a7Vs9Xu.jpg",
-        "release_date": "2026-02-12",
-        "title": "Crónica de una Falsa Autostop",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "悬疑"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35
         ],
         "id": 1625185,
@@ -706,6 +754,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1632282,
+        "original_language": "es",
+        "original_title": "La última enseñanza",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/1nqPsicH1M3WOHxOgKYB6cRc9UK.jpg",
+        "release_date": "2026-02-12",
+        "title": "La última enseñanza",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
         ],
         "original_language_zh": "西班牙语"
     },
