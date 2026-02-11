@@ -15,8 +15,8 @@
         "release_date": "2026-02-11",
         "title": "呼啸山庄",
         "video": false,
-        "vote_average": 8.467,
-        "vote_count": 15,
+        "vote_average": 8.444,
+        "vote_count": 18,
         "genre_ids_zh": [
             "剧情",
             "爱情"
@@ -29,8 +29,7 @@
         "genre_ids": [
             16,
             35,
-            10751,
-            28
+            10751
         ],
         "id": 1297842,
         "original_language": "en",
@@ -46,8 +45,31 @@
         "genre_ids_zh": [
             "动画",
             "喜剧",
-            "家庭",
-            "动作"
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1171145,
+        "original_language": "en",
+        "original_title": "Crime 101",
+        "overview": "　　当多年来从未失手的珠宝大盗（克里斯·海姆斯沃斯 饰）决心干票大的就金盆洗手时，人生失意的保险公司高管（哈莉·贝瑞 饰）却意外加入，两人被迫联手。与此同时，一位警探（马克·鲁法洛 饰）正通过蛛丝马迹的线索将矛头对准他们。监守自盗的内鬼，黑吃黑的争斗，交错的阴谋下谁将成为这场惊天劫案的最终赢家？\r 　　影片改编自《纽约时报》榜首畅销书作者唐·温斯洛同名小说。",
+        "popularity": 27.4765,
+        "poster_path": "/aNNDPQn8dUSPp6CH8p45iMlIceC.jpg",
+        "release_date": "2026-02-11",
+        "title": "洛杉矶劫案",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "犯罪",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -355,6 +377,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rz0ShlI6Szq7YnT8HqIDz2ZLu2.jpg",
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1633161,
+        "original_language": "en",
+        "original_title": "Club Toledo LA",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eZyWKHvecKQj4L0HbxRdgm72OoS.jpg",
+        "release_date": "2026-02-11",
+        "title": "Club Toledo LA",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/afyEb7nA62eo9meie3FVbJARXpV.jpg",
         "genre_ids": [],
         "id": 1598324,
@@ -436,7 +482,7 @@
         "release_date": "2026-02-11",
         "title": "LOL 2.0",
         "video": false,
-        "vote_average": 6.75,
+        "vote_average": 6.8,
         "vote_count": 2,
         "genre_ids_zh": [
             "喜剧"
@@ -680,22 +726,24 @@
         "backdrop_path": "/xmiqJzaf3Lt0RxgEDGzi74vOTmj.jpg",
         "genre_ids": [
             28,
+            53,
             80,
             18
         ],
         "id": 1426964,
         "original_language": "pt",
-        "original_title": "Salve Geral: Irmandade",
-        "overview": "",
+        "original_title": "L'Appel du chaos",
+        "overview": "这部电影是 Netflix 热门巴西犯罪影集**《黑狱悲歌》**（Brotherhood / Irmandade）的衍生长篇电影。故事背景设定在圣保罗。当犯罪组织首领的女儿被腐败警察绑架后，该组织发起了大规模的报复行动，使整座城市陷入暴力与混乱的边缘。影集版的主角克里斯蒂娜（由 Naruna Costa 饰演）在片中必须在法律边缘挣扎，试图在局势失控前救出侄女。",
         "popularity": 2.6485,
         "poster_path": "/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
         "release_date": "2026-02-11",
-        "title": "Salve Geral: Irmandade",
+        "title": "惊城之乱",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "动作",
+            "惊悚",
             "犯罪",
             "剧情"
         ],
