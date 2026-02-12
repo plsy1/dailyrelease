@@ -57,7 +57,7 @@
         "original_title": "Good Luck, Have Fun, Don't Die",
         "overview": "　　故事围绕着一个“来自未来的人”展开，他来到洛杉矶的一家小餐馆，在那里他必须招募一群心怀不满的顾客，与他一起完成一个为期一晚、跨越六个街区的任务，以拯救世界免受流氓人工智能的终极威胁。",
         "popularity": 9.7101,
-        "poster_path": "/af7yguGbWQyvYtk6QCD5l4yBbKN.jpg",
+        "poster_path": "/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "release_date": "2026-02-13",
         "title": "团战之夜",
         "video": false,
@@ -99,6 +99,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eoIVtFtidjHGBaDgzPdr3wMfDFR.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1243460,
+        "original_language": "en",
+        "original_title": "Joe's College Road Trip",
+        "overview": "意识到自己可能过度保护了儿子，布赖恩勉强同意让儿子小B.J.跟随祖父乔一同踏上大学参访之旅，希望乔能在沿途向他传授一些非裔美国人的历史与文化，并帮助他认识真实的世界。",
+        "popularity": 3.6676,
+        "poster_path": "/v5YCcj97kknZNtfe6gLRYLGCZgY.jpg",
+        "release_date": "2026-02-13",
+        "title": "乔的大学公路行",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
         "genre_ids": [
             27,
@@ -118,28 +140,6 @@
         "genre_ids_zh": [
             "恐怖",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eoIVtFtidjHGBaDgzPdr3wMfDFR.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1243460,
-        "original_language": "en",
-        "original_title": "Joe's College Road Trip",
-        "overview": "意识到自己可能过度保护了儿子，布赖恩勉强同意让儿子小B.J.跟随祖父乔一同踏上大学参访之旅，希望乔能在沿途向他传授一些非裔美国人的历史与文化，并帮助他认识真实的世界。",
-        "popularity": 3.6676,
-        "poster_path": "/v5YCcj97kknZNtfe6gLRYLGCZgY.jpg",
-        "release_date": "2026-02-13",
-        "title": "乔的大学公路行",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -173,7 +173,7 @@
         "original_title": "Kissing Is the Easy Part",
         "overview": "",
         "popularity": 1.1931,
-        "poster_path": "/d1E887Fl7oOAAz2NwhDM8sowpF8.jpg",
+        "poster_path": "/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
         "release_date": "2026-02-13",
         "title": "Kissing Is the Easy Part",
         "video": false,
@@ -531,6 +531,24 @@
             "爱情",
             "喜剧"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1585481,
+        "original_language": "en",
+        "original_title": "Symphonies",
+        "overview": "",
+        "popularity": 0.093,
+        "poster_path": "/i6NOdb24TDjPerHGRNncBfVqKyC.jpg",
+        "release_date": "2026-02-13",
+        "title": "Symphonies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1069,7 +1087,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/pKG3pbF38UokteQEh4bk12oo6FN.jpg",
         "genre_ids": [
             28,
             18
