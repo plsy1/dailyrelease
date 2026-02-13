@@ -621,28 +621,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            10402
-        ],
-        "id": 1579329,
-        "original_language": "en",
-        "original_title": "Adderall Redbull",
-        "overview": "",
-        "popularity": 0.1235,
-        "poster_path": "/4y3Y8rs2lsQhCpcMNBm922334qk.jpg",
-        "release_date": "2026-02-14",
-        "title": "Adderall Redbull",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             14,
             27
         ],
@@ -1175,6 +1153,168 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            10402,
+            10749,
+            18
+        ],
+        "id": 1634774,
+        "original_language": "en",
+        "original_title": "Tinseltown in Time",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-02-14",
+        "title": "Tinseltown in Time",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ArKxWezGIdMxh75dSdfRgTJJ8Fw.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1634759,
+        "original_language": "en",
+        "original_title": "Party of the Past",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lyr0ykqT1TBb9aSzijHwhUnUSev.jpg",
+        "release_date": "2026-02-14",
+        "title": "Party of the Past",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r9ColW9K9YiN3Mmw2w5gojMhx84.jpg",
+        "genre_ids": [
+            10749
+        ],
+        "id": 1634446,
+        "original_language": "en",
+        "original_title": "Window Service Only",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/f5pXIo8rsIvMwdl7PPvz1sUFBtQ.jpg",
+        "release_date": "2026-02-14",
+        "title": "Window Service Only",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7dwGOCioSTYN21VVb1Pb3VWUM5E.jpg",
+        "genre_ids": [
+            10749,
+            27
+        ],
+        "id": 1634445,
+        "original_language": "en",
+        "original_title": "Grace",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jSLp2wwxJum1nNOIh9W1SxepPRP.jpg",
+        "release_date": "2026-02-14",
+        "title": "Grace",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iuCo08B0iBrWV0DzgM5ISfozHLT.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1634441,
+        "original_language": "en",
+        "original_title": "Detached",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/b2XfKUPWxqT8kxnK65f9iOmSSVS.jpg",
+        "release_date": "2026-02-14",
+        "title": "Detached",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qun7RQnONsMRXQZZTSQ39t6iWTC.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1634438,
+        "original_language": "en",
+        "original_title": "Be Still My Beaten Heart",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-02-14",
+        "title": "Be Still My Beaten Heart",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sBgnxBUd5kVMEeeTgozdFgtavV7.jpg",
+        "genre_ids": [
+            35,
+            878
+        ],
+        "id": 1634427,
+        "original_language": "en",
+        "original_title": "Two Guys and a Time Machine",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/iTOA86IErQEn74kCjLdOt7s8SN3.jpg",
+        "release_date": "2026-02-14",
+        "title": "Two Guys and a Time Machine",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             10749
         ],
         "id": 1634318,
@@ -1509,6 +1649,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/kNQ38Ay0FO1mDKO9aSVK83o4M1H.jpg",
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1026933,
+        "original_language": "fr",
+        "original_title": "Paradise",
+        "overview": "",
+        "popularity": 0.1549,
+        "poster_path": "/5rJRMT3OGrMtUP38aXwp0mRXfLg.jpg",
+        "release_date": "2026-02-14",
+        "title": "Paradise",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -1572,30 +1736,6 @@
         "genre_ids_zh": [
             "纪录",
             "历史"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kNQ38Ay0FO1mDKO9aSVK83o4M1H.jpg",
-        "genre_ids": [
-            18,
-            53
-        ],
-        "id": 1026933,
-        "original_language": "fr",
-        "original_title": "Paradise",
-        "overview": "",
-        "popularity": 0.1549,
-        "poster_path": "/5rJRMT3OGrMtUP38aXwp0mRXfLg.jpg",
-        "release_date": "2026-02-14",
-        "title": "Paradise",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚"
         ],
         "original_language_zh": "法语"
     },
@@ -2099,30 +2239,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402,
-            18
-        ],
-        "id": 1275192,
-        "original_language": "ru",
-        "original_title": "Fear Nothing, I’m With You",
-        "overview": "",
-        "popularity": 0.1482,
-        "poster_path": "/nmkk755dC6ZgqKfV5nm6tbbNN3t.jpg",
-        "release_date": "2026-02-14",
-        "title": "Fear Nothing, I’m With You",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/nT1vEFX4wJgmADlbUnaBVX1vzoF.jpg",
         "genre_ids": [
             16,
@@ -2141,6 +2257,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画",
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            18
+        ],
+        "id": 1275192,
+        "original_language": "ru",
+        "original_title": "Fear Nothing, I’m With You",
+        "overview": "",
+        "popularity": 0.1482,
+        "poster_path": "/nmkk755dC6ZgqKfV5nm6tbbNN3t.jpg",
+        "release_date": "2026-02-14",
+        "title": "Fear Nothing, I’m With You",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
             "剧情"
         ],
         "original_language_zh": "俄语"
@@ -2362,27 +2502,5 @@
             "剧情"
         ],
         "original_language_zh": "挪威语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/x4SSW9nN4uWdr7ewJU5UzQkjc0M.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 964849,
-        "original_language": "fi",
-        "original_title": "Yön lapsi",
-        "overview": "",
-        "popularity": 1.0141,
-        "poster_path": "/odSc0QiuIGNQZ6SDE4NwZOI8yIh.jpg",
-        "release_date": "2026-02-14",
-        "title": "Yön lapsi",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "芬兰语"
     }
 ]

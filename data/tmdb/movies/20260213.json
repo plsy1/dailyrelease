@@ -97,32 +97,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gYWgjYknYRCMegO7UjPgU1wkKqp.jpg",
-        "genre_ids": [
-            35,
-            878,
-            12
-        ],
-        "id": 1154538,
-        "original_language": "en",
-        "original_title": "Nirvanna the Band the Show the Movie",
-        "overview": "",
-        "popularity": 4.2097,
-        "poster_path": "/rmaQL7IFFXeeU33ztEN0z5ucHDy.jpg",
-        "release_date": "2026-02-13",
-        "title": "Nirvanna the Band the Show the Movie",
-        "video": false,
-        "vote_average": 5.3,
-        "vote_count": 3,
-        "genre_ids_zh": [
-            "喜剧",
-            "科幻",
-            "冒险"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/eoIVtFtidjHGBaDgzPdr3wMfDFR.jpg",
         "genre_ids": [
             35
@@ -132,7 +106,7 @@
         "original_title": "Joe's College Road Trip",
         "overview": "意识到自己可能过度保护了儿子，布赖恩勉强同意让儿子小B.J.跟随祖父乔一同踏上大学参访之旅，希望乔能在沿途向他传授一些非裔美国人的历史与文化，并帮助他认识真实的世界。",
         "popularity": 5.0947,
-        "poster_path": "/v5YCcj97kknZNtfe6gLRYLGCZgY.jpg",
+        "poster_path": "/nNSKlX31TMBaZX86tf0gjwbXLcF.jpg",
         "release_date": "2026-02-13",
         "title": "乔的大学公路行",
         "video": false,
@@ -164,6 +138,32 @@
         "genre_ids_zh": [
             "恐怖",
             "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gYWgjYknYRCMegO7UjPgU1wkKqp.jpg",
+        "genre_ids": [
+            35,
+            878,
+            12
+        ],
+        "id": 1154538,
+        "original_language": "en",
+        "original_title": "Nirvanna the Band the Show the Movie",
+        "overview": "",
+        "popularity": 4.2097,
+        "poster_path": "/rmaQL7IFFXeeU33ztEN0z5ucHDy.jpg",
+        "release_date": "2026-02-13",
+        "title": "Nirvanna the Band the Show the Movie",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "喜剧",
+            "科幻",
+            "冒险"
         ],
         "original_language_zh": "英语"
     },
@@ -618,24 +618,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1585481,
-        "original_language": "en",
-        "original_title": "Symphonies",
-        "overview": "",
-        "popularity": 0.1333,
-        "poster_path": "/i6NOdb24TDjPerHGRNncBfVqKyC.jpg",
-        "release_date": "2026-02-13",
-        "title": "Symphonies",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             35,
             16
@@ -654,32 +636,6 @@
         "genre_ids_zh": [
             "喜剧",
             "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/tLqYl6uROZk0aIwqbit8Xucj261.jpg",
-        "genre_ids": [
-            16,
-            27,
-            10749
-        ],
-        "id": 1211351,
-        "original_language": "en",
-        "original_title": "Pesta",
-        "overview": "",
-        "popularity": 0.499,
-        "poster_path": "/lQRp4IitvdWFt6RLSX9c2cR0IDK.jpg",
-        "release_date": "2026-02-13",
-        "title": "Pesta",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "恐怖",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -853,6 +809,24 @@
         "poster_path": null,
         "release_date": "2026-02-13",
         "title": "Milk, Two Sugars (A Jamie Powell Film)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1631285,
+        "original_language": "en",
+        "original_title": "Discipline",
+        "overview": "",
+        "popularity": 0.0386,
+        "poster_path": null,
+        "release_date": "2026-02-13",
+        "title": "Discipline",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1058,6 +1032,30 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1634518,
+        "original_language": "en",
+        "original_title": "Stop Watching.",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8Rzv1dcQcXwb2T0xkaQ07qDPFKg.jpg",
+        "release_date": "2026-02-13",
+        "title": "Stop Watching.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1634341,
         "original_language": "en",
@@ -1175,7 +1173,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/akiufDGkCWZfuj17l8cinPoO6tq.jpg",
         "genre_ids": [
             18
         ],
@@ -1184,7 +1182,7 @@
         "original_title": "エンジェルフライト THE MOVIE",
         "overview": "本片剧情依然围绕遗体送还公司“天使之心”展开。社长伊泽那美得知8年前身亡的恋人或许仍在世而心神动摇。万圣节期间，公司成员奔赴世界各地处理送还事务：有人面对因婴儿猝死而自责的母亲，有人护送突然离世的明星回国，也有人送别在旅途中去世的青年。那美在墨西哥执行任务时，一边处理逝者身后事，一边被旧日恋情的线索牵动，在生死与思念交织中重新审视自己的内心。",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/sdCj5YgSyMUQcjaZXTnEasRGaRI.jpg",
         "release_date": "2026-02-13",
         "title": "天使航班 电影版",
         "video": false,
@@ -1503,6 +1501,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/pjJvT0x1EioVE6TQlM3Zx7ERaGi.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1634725,
+        "original_language": "fr",
+        "original_title": "Les visages de la guerre",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hjq09xT0MGaNy77foZFQkYDgXD.jpg",
+        "release_date": "2026-02-13",
+        "title": "Les visages de la guerre",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m3dLLQ3DVqJuTRwcj4vbuDFnBL4.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1634636,
+        "original_language": "fr",
+        "original_title": "Au Sommet",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/knPTq2BoHvILPz6KQlXX5mTFOdv.jpg",
+        "release_date": "2026-02-13",
+        "title": "Au Sommet",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -1727,7 +1771,7 @@
         "original_title": "La Melancolía de Work a Pizza Place",
         "overview": "",
         "popularity": 0.0386,
-        "poster_path": null,
+        "poster_path": "/rA2FtbLrZU7aeCCsJpcA3mpCiCY.jpg",
         "release_date": "2026-02-13",
         "title": "La Melancolía de Work a Pizza Place",
         "video": false,
@@ -1995,7 +2039,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/wRVJHlxjCjqgbYwzNcEgose0XEK.jpg",
         "genre_ids": [
             35
         ],
