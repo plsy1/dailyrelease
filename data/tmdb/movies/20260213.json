@@ -556,24 +556,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1585481,
-        "original_language": "en",
-        "original_title": "Symphonies",
-        "overview": "",
-        "popularity": 0.093,
-        "poster_path": "/i6NOdb24TDjPerHGRNncBfVqKyC.jpg",
-        "release_date": "2026-02-13",
-        "title": "Symphonies",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -581,7 +563,7 @@
         "original_language": "en",
         "original_title": "Crocodile",
         "overview": "",
-        "popularity": 0.1126,
+        "popularity": 0.091,
         "poster_path": null,
         "release_date": "2026-02-13",
         "title": "Crocodile",
@@ -591,6 +573,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1630522,
+        "original_language": "en",
+        "original_title": "Kabab, Şərab, Hesab!",
+        "overview": "",
+        "popularity": 0.1048,
+        "poster_path": "/mXL1i5pEZXJr2NCx67r23SRkc8c.jpg",
+        "release_date": "2026-02-13",
+        "title": "Kabab, Şərab, Hesab!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -618,6 +618,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1585481,
+        "original_language": "en",
+        "original_title": "Symphonies",
+        "overview": "",
+        "popularity": 0.1333,
+        "poster_path": "/i6NOdb24TDjPerHGRNncBfVqKyC.jpg",
+        "release_date": "2026-02-13",
+        "title": "Symphonies",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             35,
             16
@@ -626,7 +644,7 @@
         "original_language": "en",
         "original_title": "My Dog: The Paradox",
         "overview": "",
-        "popularity": 0.0784,
+        "popularity": 0.0738,
         "poster_path": "/qTx6tCRzapnf3yQBTKcPhvkaLbq.jpg",
         "release_date": "2026-02-13",
         "title": "My Dog: The Paradox",
@@ -641,16 +659,42 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/tLqYl6uROZk0aIwqbit8Xucj261.jpg",
+        "genre_ids": [
+            16,
+            27,
+            10749
+        ],
+        "id": 1211351,
+        "original_language": "en",
+        "original_title": "Pesta",
+        "overview": "",
+        "popularity": 0.499,
+        "poster_path": "/lQRp4IitvdWFt6RLSX9c2cR0IDK.jpg",
+        "release_date": "2026-02-13",
+        "title": "Pesta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "恐怖",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1630522,
+        "id": 1631332,
         "original_language": "en",
-        "original_title": "Kabab, Şərab, Hesab!",
+        "original_title": "For the Love of Strippers",
         "overview": "",
-        "popularity": 0.1028,
-        "poster_path": "/mXL1i5pEZXJr2NCx67r23SRkc8c.jpg",
+        "popularity": 0.082,
+        "poster_path": null,
         "release_date": "2026-02-13",
-        "title": "Kabab, Şərab, Hesab!",
+        "title": "For the Love of Strippers",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -659,23 +703,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mOyxgScKH5kSrTWyX4M4q5JtX9s.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            14
         ],
-        "id": 1628505,
+        "id": 1616902,
         "original_language": "en",
-        "original_title": "BYU's Resident Cougar",
+        "original_title": "Born of the Yam",
         "overview": "",
-        "popularity": 0.0452,
-        "poster_path": "/AfAqbfZ6EaIGONv5catjOVQugjd.jpg",
+        "popularity": 0.0877,
+        "poster_path": null,
         "release_date": "2026-02-13",
-        "title": "BYU's Resident Cougar",
+        "title": "Born of the Yam",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -689,7 +733,7 @@
         "original_language": "en",
         "original_title": "Charlie Shaw's Revenge",
         "overview": "",
-        "popularity": 0.0632,
+        "popularity": 0.148,
         "poster_path": "/fVRD1OFTaMzEqC5ZENJEQ9Tq3Fm.jpg",
         "release_date": "2026-02-13",
         "title": "Charlie Shaw's Revenge",
@@ -703,46 +747,48 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
         "genre_ids": [
             27,
-            878,
-            14
+            53
         ],
-        "id": 1495373,
+        "id": 1631887,
         "original_language": "en",
-        "original_title": "Friday's Chylde 3D",
+        "original_title": "Matchbox",
         "overview": "",
-        "popularity": 0.0409,
-        "poster_path": null,
+        "popularity": 0.0764,
+        "poster_path": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
         "release_date": "2026-02-13",
-        "title": "Friday's Chylde 3D",
+        "title": "Matchbox",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖",
-            "科幻",
-            "奇幻"
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1631332,
+        "backdrop_path": "/mOyxgScKH5kSrTWyX4M4q5JtX9s.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1628505,
         "original_language": "en",
-        "original_title": "For the Love of Strippers",
+        "original_title": "BYU's Resident Cougar",
         "overview": "",
-        "popularity": 0.0677,
-        "poster_path": null,
+        "popularity": 0.1652,
+        "poster_path": "/AfAqbfZ6EaIGONv5catjOVQugjd.jpg",
         "release_date": "2026-02-13",
-        "title": "For the Love of Strippers",
+        "title": "BYU's Resident Cougar",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -756,7 +802,7 @@
         "original_language": "en",
         "original_title": "The Blind Date",
         "overview": "",
-        "popularity": 0.0429,
+        "popularity": 0.0463,
         "poster_path": "/pfTqFGyk7R2QBGNsHSu796wzHAe.jpg",
         "release_date": "2026-02-13",
         "title": "The Blind Date",
@@ -773,6 +819,50 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            878,
+            14
+        ],
+        "id": 1495373,
+        "original_language": "en",
+        "original_title": "Friday's Chylde 3D",
+        "overview": "",
+        "popularity": 0.0579,
+        "poster_path": null,
+        "release_date": "2026-02-13",
+        "title": "Friday's Chylde 3D",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "科幻",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iFAAnpbrk3rO43xUWdN47pCHnPk.jpg",
+        "genre_ids": [],
+        "id": 1632889,
+        "original_language": "en",
+        "original_title": "Milk, Two Sugars (A Jamie Powell Film)",
+        "overview": "",
+        "popularity": 0.047,
+        "poster_path": null,
+        "release_date": "2026-02-13",
+        "title": "Milk, Two Sugars (A Jamie Powell Film)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             10749,
             35,
             18
@@ -781,7 +871,7 @@
         "original_language": "en",
         "original_title": "Mostly Void, Partially Stars",
         "overview": "",
-        "popularity": 0.0379,
+        "popularity": 0.0991,
         "poster_path": "/nzkOZ5P1O1LiEMQC5fuljTY2jXF.jpg",
         "release_date": "2026-02-13",
         "title": "Mostly Void, Partially Stars",
@@ -792,92 +882,6 @@
             "爱情",
             "喜剧",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vAroLszBrRHVgRbIU9tNOEQIuWe.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1631887,
-        "original_language": "en",
-        "original_title": "Matchbox",
-        "overview": "",
-        "popularity": 0.0454,
-        "poster_path": "/9jldgwqF3fwr027N6NRoU8NBanB.jpg",
-        "release_date": "2026-02-13",
-        "title": "Matchbox",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1622287,
-        "original_language": "en",
-        "original_title": "TNA No Surrender 2026",
-        "overview": "",
-        "popularity": 0.0306,
-        "poster_path": null,
-        "release_date": "2026-02-13",
-        "title": "TNA No Surrender 2026",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/udJM4czlMECuoRfM53jeRMku342.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1625600,
-        "original_language": "en",
-        "original_title": "There Is A Woman In The Attic",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/jXJH1JIsPjP96ekpuSJSbBUTzzJ.jpg",
-        "release_date": "2026-02-13",
-        "title": "There Is A Woman In The Attic",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            14
-        ],
-        "id": 1616902,
-        "original_language": "en",
-        "original_title": "Born of the Yam",
-        "overview": "",
-        "popularity": 0.0662,
-        "poster_path": null,
-        "release_date": "2026-02-13",
-        "title": "Born of the Yam",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -926,6 +930,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1622287,
+        "original_language": "en",
+        "original_title": "TNA No Surrender 2026",
+        "overview": "",
+        "popularity": 0.0545,
+        "poster_path": null,
+        "release_date": "2026-02-13",
+        "title": "TNA No Surrender 2026",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -933,7 +955,7 @@
         "original_language": "en",
         "original_title": "in memoriam",
         "overview": "",
-        "popularity": 0.0218,
+        "popularity": 0.0585,
         "poster_path": null,
         "release_date": "2026-02-13",
         "title": "in memoriam",
@@ -953,7 +975,7 @@
         "original_language": "en",
         "original_title": "God Forgive Me",
         "overview": "",
-        "popularity": 0.0214,
+        "popularity": 0.0429,
         "poster_path": "/u1UJUp2yWjETUCCfJmvjPQue04.jpg",
         "release_date": "2026-02-13",
         "title": "God Forgive Me",
@@ -961,6 +983,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/udJM4czlMECuoRfM53jeRMku342.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1625600,
+        "original_language": "en",
+        "original_title": "There Is A Woman In The Attic",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/jXJH1JIsPjP96ekpuSJSbBUTzzJ.jpg",
+        "release_date": "2026-02-13",
+        "title": "There Is A Woman In The Attic",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1159,7 +1203,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/Ak1vYSbJzODbdHLShFt2GrmdNsI.jpg",
+        "backdrop_path": "/3hHlBvryPY0wI6ugM73PqVBEtfJ.jpg",
         "genre_ids": [
             18
         ],
@@ -1167,7 +1211,7 @@
         "original_language": "de",
         "original_title": "Der Heimatlose",
         "overview": "",
-        "popularity": 0.5811,
+        "popularity": 0.5667,
         "poster_path": "/cBxkNpLZtNVNv7Ot5FAA2WsWlQ5.jpg",
         "release_date": "2026-02-13",
         "title": "Der Heimatlose",
@@ -1189,7 +1233,7 @@
         "original_language": "de",
         "original_title": "Two Mountains Weighing Down My Chest",
         "overview": "",
-        "popularity": 0.1696,
+        "popularity": 0.1203,
         "poster_path": "/3EkZxnl7nVcrN0vg9Su42rQZnlw.jpg",
         "release_date": "2026-02-13",
         "title": "Two Mountains Weighing Down My Chest",
@@ -1211,7 +1255,7 @@
         "original_language": "de",
         "original_title": "Ich verstehe Ihren Unmut",
         "overview": "",
-        "popularity": 0.0826,
+        "popularity": 0.1042,
         "poster_path": "/iXrLk4RYQVApzB9V4VE6ip5GPmV.jpg",
         "release_date": "2026-02-13",
         "title": "Ich verstehe Ihren Unmut",
@@ -1233,7 +1277,7 @@
         "original_language": "de",
         "original_title": "Powerwolf: Wildlive (Live at Olympiahalle)",
         "overview": "",
-        "popularity": 0.0811,
+        "popularity": 0.0676,
         "poster_path": "/8Q8TgPPrx4QqJadbyHKdOvceHTq.jpg",
         "release_date": "2026-02-13",
         "title": "Powerwolf: Wildlive (Live at Olympiahalle)",
@@ -1255,7 +1299,7 @@
         "original_language": "de",
         "original_title": "Butterfly Stories: Malaise II",
         "overview": "",
-        "popularity": 0.0641,
+        "popularity": 0.0679,
         "poster_path": null,
         "release_date": "2026-02-13",
         "title": "Butterfly Stories: Malaise II",
@@ -1667,7 +1711,7 @@
         "original_language": "pt",
         "original_title": "The Fabulous Time Machine",
         "overview": "",
-        "popularity": 0.1844,
+        "popularity": 0.2403,
         "poster_path": "/faTcY6pTd0wEtvPa41oAn9S6qm7.jpg",
         "release_date": "2026-02-13",
         "title": "The Fabulous Time Machine",
@@ -1682,24 +1726,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1620151,
-        "original_language": "pt",
-        "original_title": "Estático",
-        "overview": "",
-        "popularity": 0.0454,
-        "poster_path": null,
-        "release_date": "2026-02-13",
-        "title": "Estático",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             27,
             9648,
@@ -1709,7 +1735,7 @@
         "original_language": "pt",
         "original_title": "Carnaval Sangrento 2",
         "overview": "",
-        "popularity": 0.1016,
+        "popularity": 0.0761,
         "poster_path": "/w49mFsiCFPaSlxySX8VaxyNeK77.jpg",
         "release_date": "2026-02-13",
         "title": "Carnaval Sangrento 2",
@@ -1725,6 +1751,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1620151,
+        "original_language": "pt",
+        "original_title": "Estático",
+        "overview": "",
+        "popularity": 0.0352,
+        "poster_path": null,
+        "release_date": "2026-02-13",
+        "title": "Estático",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/yNpI4FppoDuhxpnTeq2GT64BayO.jpg",
         "genre_ids": [
             18,
@@ -1734,7 +1778,7 @@
         "original_language": "pl",
         "original_title": "Piep*zyć Mickiewicza 3",
         "overview": "",
-        "popularity": 0.5693,
+        "popularity": 0.4595,
         "poster_path": "/5x7qmgrysjKTVHGc2zT81yD2g3T.jpg",
         "release_date": "2026-02-13",
         "title": "Piep*zyć Mickiewicza 3",
@@ -1855,7 +1899,7 @@
         "original_language": "sv",
         "original_title": "Den svenska länken",
         "overview": "",
-        "popularity": 1.4013,
+        "popularity": 1.4168,
         "poster_path": "/jYJc4JS24dOv6BJ5cDWvvpDCUsh.jpg",
         "release_date": "2026-02-13",
         "title": "Den svenska länken",
@@ -1880,7 +1924,7 @@
         "original_language": "sv",
         "original_title": "Same mot same",
         "overview": "",
-        "popularity": 0.0752,
+        "popularity": 0.0714,
         "poster_path": "/urrprBFuvj7s2DJFP4VpPEGdlLK.jpg",
         "release_date": "2026-02-13",
         "title": "Same mot same",
@@ -1903,7 +1947,7 @@
         "original_language": "sv",
         "original_title": "Al Pitcher - Tid för Skratt",
         "overview": "",
-        "popularity": 0.0683,
+        "popularity": 0.1137,
         "poster_path": "/nhKvt7X2WPqki0JjLCZDp0frc2A.jpg",
         "release_date": "2026-02-13",
         "title": "Al Pitcher - Tid för Skratt",
