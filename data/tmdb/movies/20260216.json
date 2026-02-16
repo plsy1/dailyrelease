@@ -335,6 +335,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1636478,
+        "original_language": "en",
+        "original_title": "Hustle",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-02-16",
+        "title": "Hustle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1578170,
@@ -440,6 +462,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oDt8HTdUx62LtHXQDX12ZsR5EZm.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1636618,
+        "original_language": "fr",
+        "original_title": "Purgatory for Epiphanea",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/pRfqe63l4H6nETs1d5i4FS1To0z.jpg",
+        "release_date": "2026-02-16",
+        "title": "Purgatory for Epiphanea",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑"
         ],
         "original_language_zh": "法语"
     },
