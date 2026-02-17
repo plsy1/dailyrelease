@@ -69,7 +69,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jnCCegcsk4wkmTzbFV746Myloxs.jpg",
+        "backdrop_path": "/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
         "genre_ids": [
             10402,
             99
@@ -83,8 +83,8 @@
         "release_date": "2026-02-18",
         "title": "传奇：演唱的猫王",
         "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 8.5,
+        "vote_count": 2,
         "genre_ids_zh": [
             "音乐",
             "纪录"
@@ -115,27 +115,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/g6frSC9629Ea7T22bPzRQhERYwX.jpg",
         "genre_ids": [
-            35,
-            18,
-            80
+            18
         ],
-        "id": 1635017,
+        "id": 1614675,
         "original_language": "en",
-        "original_title": "Alan",
+        "original_title": "Abracadabra",
         "overview": "",
-        "popularity": 0.1023,
-        "poster_path": "/3WXWpSNnXZQwJZnxFdbeIdiZJor.jpg",
+        "popularity": 0.221,
+        "poster_path": "/jXSN6pIZ7a7JrEbdPhHGg4s9ePx.jpg",
         "release_date": "2026-02-18",
-        "title": "Alan",
+        "title": "Abracadabra",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "剧情",
-            "犯罪"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -165,23 +161,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/g6frSC9629Ea7T22bPzRQhERYwX.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            35,
+            18,
+            80
         ],
-        "id": 1614675,
+        "id": 1635017,
         "original_language": "en",
-        "original_title": "Abracadabra",
+        "original_title": "Alan",
         "overview": "",
-        "popularity": 0.221,
-        "poster_path": "/jXSN6pIZ7a7JrEbdPhHGg4s9ePx.jpg",
+        "popularity": 0.1023,
+        "poster_path": "/3WXWpSNnXZQwJZnxFdbeIdiZJor.jpg",
         "release_date": "2026-02-18",
-        "title": "Abracadabra",
+        "title": "Alan",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "喜剧",
+            "剧情",
+            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -237,24 +237,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1570937,
-        "original_language": "en",
-        "original_title": "Adonis",
-        "overview": "",
-        "popularity": 0.0193,
-        "poster_path": "/ncEYzwwsi7aD6eg3i8wcSfCkhsx.jpg",
-        "release_date": "2026-02-18",
-        "title": "Adonis",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/mSc8Pjyp8u1cYLcfMsQKv8w83xe.jpg",
         "genre_ids": [
             99
@@ -295,6 +277,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1570937,
+        "original_language": "en",
+        "original_title": "Adonis",
+        "overview": "",
+        "popularity": 0.0193,
+        "poster_path": "/ncEYzwwsi7aD6eg3i8wcSfCkhsx.jpg",
+        "release_date": "2026-02-18",
+        "title": "Adonis",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -429,14 +429,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1616842,
+        "id": 1619230,
         "original_language": "de",
-        "original_title": "Forever…Forever",
+        "original_title": "Metanoia",
         "overview": "",
-        "popularity": 0.068,
-        "poster_path": "/o7Xuaeb9V4nEhNN3IiwhyIpot2b.jpg",
+        "popularity": 0.0882,
+        "poster_path": "/eUHB11yrahw8NG8jxjfSYvgtjrI.jpg",
         "release_date": "2026-02-18",
-        "title": "Forever…Forever",
+        "title": "Metanoia",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -451,14 +451,14 @@
         "genre_ids": [
             99
         ],
-        "id": 1619230,
+        "id": 1616842,
         "original_language": "de",
-        "original_title": "Metanoia",
+        "original_title": "Forever…Forever",
         "overview": "",
-        "popularity": 0.0882,
-        "poster_path": "/eUHB11yrahw8NG8jxjfSYvgtjrI.jpg",
+        "popularity": 0.068,
+        "poster_path": "/o7Xuaeb9V4nEhNN3IiwhyIpot2b.jpg",
         "release_date": "2026-02-18",
-        "title": "Metanoia",
+        "title": "Forever…Forever",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -629,28 +629,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1622079,
-        "original_language": "fr",
-        "original_title": "Saveurs d’Exil",
-        "overview": "",
-        "popularity": 0.0528,
-        "poster_path": null,
-        "release_date": "2026-02-18",
-        "title": "Saveurs d’Exil",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1318328,
@@ -666,6 +644,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1622079,
+        "original_language": "fr",
+        "original_title": "Saveurs d’Exil",
+        "overview": "",
+        "popularity": 0.0528,
+        "poster_path": null,
+        "release_date": "2026-02-18",
+        "title": "Saveurs d’Exil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "法语"
     },
@@ -713,28 +713,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xpfNmaj45MHsuINo5oJoyrCxfQf.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1616180,
-        "original_language": "es",
-        "original_title": "Jülapüin Yonna",
-        "overview": "",
-        "popularity": 0.072,
-        "poster_path": "/kq7jseLyeHjwao6wEo7jBeW3AwT.jpg",
-        "release_date": "2026-02-18",
-        "title": "Jülapüin Yonna",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/iPkiz5LJ8wp80yPoEDk3ycN5kmK.jpg",
         "genre_ids": [
             18
@@ -747,6 +725,28 @@
         "poster_path": "/pNChyziupOFq4AL8KdbU0m4YCpO.jpg",
         "release_date": "2026-02-18",
         "title": "Cuando Llegue a Casa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xpfNmaj45MHsuINo5oJoyrCxfQf.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1616180,
+        "original_language": "es",
+        "original_title": "Jülapüin Yonna",
+        "overview": "",
+        "popularity": 0.072,
+        "poster_path": "/kq7jseLyeHjwao6wEo7jBeW3AwT.jpg",
+        "release_date": "2026-02-18",
+        "title": "Jülapüin Yonna",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
