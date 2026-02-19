@@ -23,56 +23,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qHBnPZA3J6hSl9a3Q1JAQzDeo2L.jpg",
-        "genre_ids": [
-            18,
-            10402
-        ],
-        "id": 1405769,
-        "original_language": "en",
-        "original_title": "I Can Only Imagine 2",
-        "overview": "",
-        "popularity": 12.3288,
-        "poster_path": "/qYBCs9nBmdNCLduw5BTlendq89z.jpg",
-        "release_date": "2026-02-20",
-        "title": "I Can Only Imagine 2",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vuaPZ4IbsIRr2wDARZT7rFQ5CgP.jpg",
-        "genre_ids": [
-            35,
-            53,
-            18
-        ],
-        "id": 467905,
-        "original_language": "en",
-        "original_title": "How to Make a Killing",
-        "overview": "　　本是豪门继承人的贝克特·雷德费洛被家族抛弃，为了确保成为巨额遗产的唯一继承人，他不择手段干掉了七个亲戚。",
-        "popularity": 11.2525,
-        "poster_path": "/A1oi9OK09vvVjSrq7UAKFrp7mvA.jpg",
-        "release_date": "2026-02-20",
-        "title": "如何大赚一笔",
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 4,
-        "genre_ids_zh": [
-            "喜剧",
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/uZMVcWGzGxmXQGVk3hwu9Ne9lVt.jpg",
         "genre_ids": [
             878,
@@ -114,7 +64,7 @@
         "original_title": "Psycho Killer",
         "overview": "",
         "popularity": 5.7398,
-        "poster_path": "/8vaAfqUXW06IlOvhqpxjs9gTtcZ.jpg",
+        "poster_path": "/8xq9LIyYbmHxrr2NUXthbCNtqHA.jpg",
         "release_date": "2026-02-20",
         "title": "Psycho Killer",
         "video": false,
@@ -124,6 +74,28 @@
             "犯罪",
             "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1242937,
+        "original_language": "en",
+        "original_title": "The Dreadful",
+        "overview": "",
+        "popularity": 3.3814,
+        "poster_path": "/8fFnF6VfFojVXYeNjBOyUjuvm70.jpg",
+        "release_date": "2026-02-20",
+        "title": "The Dreadful",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -155,28 +127,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fAF3VGFBpItWNROmiGob60n0y5.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1242937,
-        "original_language": "en",
-        "original_title": "The Dreadful",
-        "overview": "",
-        "popularity": 3.3814,
-        "poster_path": "/8fFnF6VfFojVXYeNjBOyUjuvm70.jpg",
-        "release_date": "2026-02-20",
-        "title": "The Dreadful",
-        "video": false,
-        "vote_average": 7.5,
-        "vote_count": 2,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/mNADhJtFso2utlzroHRqWfK7n6P.jpg",
         "genre_ids": [
             27,
@@ -201,28 +151,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1327688,
-        "original_language": "en",
-        "original_title": "One Mile: Chapter One",
-        "overview": "",
-        "popularity": 1.8183,
-        "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-        "release_date": "2026-02-20",
-        "title": "One Mile: Chapter One",
-        "video": false,
-        "vote_average": 5.8,
-        "vote_count": 5,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/utjArdUrnYknkVdAefwP6e3cY1N.jpg",
         "genre_ids": [
             18,
@@ -242,6 +170,28 @@
         "genre_ids_zh": [
             "剧情",
             "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1327688,
+        "original_language": "en",
+        "original_title": "One Mile: Chapter One",
+        "overview": "",
+        "popularity": 1.8183,
+        "poster_path": "/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+        "release_date": "2026-02-20",
+        "title": "One Mile: Chapter One",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -341,18 +291,18 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/uimWQlMmUEz7sjZLnJySDocvUSC.jpg",
+        "backdrop_path": "/bP9vfwl2YoBcfexbChXdYh44QQ2.jpg",
         "genre_ids": [
             99
         ],
-        "id": 1619820,
+        "id": 1242018,
         "original_language": "en",
-        "original_title": "Yo (Love is a Rebellious Bird)",
+        "original_title": "Billy Preston: That's the Way God Planned It",
         "overview": "",
-        "popularity": 0.216,
-        "poster_path": "/cgOMG0geLkgDDtBY2LOq8bRPCy5.jpg",
+        "popularity": 0.3996,
+        "poster_path": "/bfb1T0BNkDVqrOrQmUPsaNsj7o1.jpg",
         "release_date": "2026-02-20",
-        "title": "Yo (Love is a Rebellious Bird)",
+        "title": "Billy Preston: That's the Way God Planned It",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -380,68 +330,6 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1583962,
-        "original_language": "en",
-        "original_title": "Teenage Mutant Ninja Turtles: Echoes of the Ooze",
-        "overview": "",
-        "popularity": 0.245,
-        "poster_path": null,
-        "release_date": "2026-02-20",
-        "title": "Teenage Mutant Ninja Turtles: Echoes of the Ooze",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bP9vfwl2YoBcfexbChXdYh44QQ2.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1242018,
-        "original_language": "en",
-        "original_title": "Billy Preston: That's the Way God Planned It",
-        "overview": "",
-        "popularity": 0.3996,
-        "poster_path": "/bfb1T0BNkDVqrOrQmUPsaNsj7o1.jpg",
-        "release_date": "2026-02-20",
-        "title": "Billy Preston: That's the Way God Planned It",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1626316,
-        "original_language": "en",
-        "original_title": "Hungry Hollow",
-        "overview": "",
-        "popularity": 0.1931,
-        "poster_path": null,
-        "release_date": "2026-02-20",
-        "title": "Hungry Hollow",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -496,22 +384,40 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1627504,
+        "genre_ids": [],
+        "id": 1583962,
         "original_language": "en",
-        "original_title": "WICKED WONDERLAND 5: THE TICK OF TIME",
+        "original_title": "Teenage Mutant Ninja Turtles: Echoes of the Ooze",
         "overview": "",
-        "popularity": 0.1456,
+        "popularity": 0.245,
         "poster_path": null,
         "release_date": "2026-02-20",
-        "title": "WICKED WONDERLAND 5: THE TICK OF TIME",
+        "title": "Teenage Mutant Ninja Turtles: Echoes of the Ooze",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uimWQlMmUEz7sjZLnJySDocvUSC.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1619820,
+        "original_language": "en",
+        "original_title": "Yo (Love is a Rebellious Bird)",
+        "overview": "",
+        "popularity": 0.216,
+        "poster_path": "/cgOMG0geLkgDDtBY2LOq8bRPCy5.jpg",
+        "release_date": "2026-02-20",
+        "title": "Yo (Love is a Rebellious Bird)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -545,45 +451,43 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            14
+            16
         ],
-        "id": 1513087,
+        "id": 1626316,
         "original_language": "en",
-        "original_title": "La magia dell'uovo",
+        "original_title": "Hungry Hollow",
         "overview": "",
-        "popularity": 0.1331,
+        "popularity": 0.1931,
         "poster_path": null,
         "release_date": "2026-02-20",
-        "title": "La magia dell'uovo",
+        "title": "Hungry Hollow",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "奇幻"
+            "动画"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/nQVb95PeaVfZvv8pkNkGJwKDN3B.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            16
         ],
-        "id": 1626359,
+        "id": 1627504,
         "original_language": "en",
-        "original_title": "Seaweed Snacks",
+        "original_title": "WICKED WONDERLAND 5: THE TICK OF TIME",
         "overview": "",
-        "popularity": 0.085,
-        "poster_path": "/wXJbe2Rj96jk0sOFlXQ8FBNAJS3.jpg",
+        "popularity": 0.1456,
+        "poster_path": null,
         "release_date": "2026-02-20",
-        "title": "Seaweed Snacks",
+        "title": "WICKED WONDERLAND 5: THE TICK OF TIME",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -609,6 +513,54 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1513087,
+        "original_language": "en",
+        "original_title": "La magia dell'uovo",
+        "overview": "",
+        "popularity": 0.1331,
+        "poster_path": null,
+        "release_date": "2026-02-20",
+        "title": "La magia dell'uovo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            36
+        ],
+        "id": 1632990,
+        "original_language": "en",
+        "original_title": "Living Harriet Tubman",
+        "overview": "",
+        "popularity": 0.1061,
+        "poster_path": "/arxzzfOnxXYhrYmMtOsGka33Ys9.jpg",
+        "release_date": "2026-02-20",
+        "title": "Living Harriet Tubman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "历史"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1631633,
@@ -624,48 +576,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1626730,
-        "original_language": "en",
-        "original_title": "You, Rock",
-        "overview": "",
-        "popularity": 0.0841,
-        "poster_path": null,
-        "release_date": "2026-02-20",
-        "title": "You, Rock",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/xnYUnR0b9bRLDr5Qn41wnuXIFNE.jpg",
-        "genre_ids": [
-            878,
-            16
-        ],
-        "id": 1619651,
-        "original_language": "en",
-        "original_title": "Starlit",
-        "overview": "",
-        "popularity": 0.0612,
-        "poster_path": "/vV6wA4WlhQiJWVbZU4gQ9lMAyNS.jpg",
-        "release_date": "2026-02-20",
-        "title": "Starlit",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "动画"
         ],
         "original_language_zh": "英语"
     },
@@ -695,16 +605,62 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/vzn3QR79c7OyN3eqkdO3UoNbBTE.jpg",
+        "genre_ids": [
+            10749,
+            53
+        ],
+        "id": 1635653,
+        "original_language": "en",
+        "original_title": "Vin",
+        "overview": "",
+        "popularity": 0.0863,
+        "poster_path": "/461SCWDdgYRoTDLJTR23tHxG2Kg.jpg",
+        "release_date": "2026-02-20",
+        "title": "Vin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nQVb95PeaVfZvv8pkNkGJwKDN3B.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1626359,
+        "original_language": "en",
+        "original_title": "Seaweed Snacks",
+        "overview": "",
+        "popularity": 0.085,
+        "poster_path": "/wXJbe2Rj96jk0sOFlXQ8FBNAJS3.jpg",
+        "release_date": "2026-02-20",
+        "title": "Seaweed Snacks",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1626296,
+        "id": 1626364,
         "original_language": "en",
-        "original_title": "Harajuku, FL",
+        "original_title": "Keepsake",
         "overview": "",
-        "popularity": 0.0784,
-        "poster_path": null,
+        "popularity": 0.0843,
+        "poster_path": "/zkxB7iznPw0xVA26wzOnFDNDUPA.jpg",
         "release_date": "2026-02-20",
-        "title": "Harajuku, FL",
+        "title": "Keepsake",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -714,23 +670,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1626302,
+        "genre_ids": [],
+        "id": 1626730,
         "original_language": "en",
-        "original_title": "Jonathan",
+        "original_title": "You, Rock",
         "overview": "",
-        "popularity": 0.0668,
+        "popularity": 0.0841,
         "poster_path": null,
         "release_date": "2026-02-20",
-        "title": "Jonathan",
+        "title": "You, Rock",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -757,25 +709,43 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vzn3QR79c7OyN3eqkdO3UoNbBTE.jpg",
-        "genre_ids": [
-            10749,
-            53
-        ],
-        "id": 1635653,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1626296,
         "original_language": "en",
-        "original_title": "Vin",
+        "original_title": "Harajuku, FL",
         "overview": "",
-        "popularity": 0.0863,
-        "poster_path": "/461SCWDdgYRoTDLJTR23tHxG2Kg.jpg",
+        "popularity": 0.0784,
+        "poster_path": null,
         "release_date": "2026-02-20",
-        "title": "Vin",
+        "title": "Harajuku, FL",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uWIPrFIiSDvrqt4F6xINTdRORlJ.jpg",
+        "genre_ids": [
+            99,
+            27
+        ],
+        "id": 1637376,
+        "original_language": "en",
+        "original_title": "When I've Grown Up, Gotten Famous, and Achieved Every Single One of My Many, Many Dreams",
+        "overview": "",
+        "popularity": 0.0671,
+        "poster_path": "/dRDtl2AaTAMMefVvCxoCn4L0gEQ.jpg",
+        "release_date": "2026-02-20",
+        "title": "When I've Grown Up, Gotten Famous, and Achieved Every Single One of My Many, Many Dreams",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "爱情",
-            "惊悚"
+            "纪录",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -783,23 +753,65 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35,
             18
         ],
-        "id": 1615779,
+        "id": 1626302,
         "original_language": "en",
-        "original_title": "BRB",
+        "original_title": "Jonathan",
         "overview": "",
-        "popularity": 0.0609,
-        "poster_path": "/h18NdPRl5yiWFcE5eBpDbLAWy68.jpg",
+        "popularity": 0.0668,
+        "poster_path": null,
         "release_date": "2026-02-20",
-        "title": "BRB",
+        "title": "Jonathan",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1hz1DjO0pg6j55doBf4XrqGwRSx.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1597854,
+        "original_language": "en",
+        "original_title": "To All The Girls I Never Banged: I'm Sorry",
+        "overview": "",
+        "popularity": 0.0635,
+        "poster_path": "/2vC51WuwP40wMjh7oXownkW6SZW.jpg",
+        "release_date": "2026-02-20",
+        "title": "To All The Girls I Never Banged: I'm Sorry",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6ySQdjjuAsRv09h6yv9AD34Ndoe.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1608554,
+        "original_language": "en",
+        "original_title": "Don't Leave Yet",
+        "overview": "",
+        "popularity": 0.0627,
+        "poster_path": "/4cqm36ZzYMXHrUOoeBgFjoBg8aT.jpg",
+        "release_date": "2026-02-20",
+        "title": "Don't Leave Yet",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -827,6 +839,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/xnYUnR0b9bRLDr5Qn41wnuXIFNE.jpg",
+        "genre_ids": [
+            878,
+            16
+        ],
+        "id": 1619651,
+        "original_language": "en",
+        "original_title": "Starlit",
+        "overview": "",
+        "popularity": 0.0612,
+        "poster_path": "/vV6wA4WlhQiJWVbZU4gQ9lMAyNS.jpg",
+        "release_date": "2026-02-20",
+        "title": "Starlit",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1626342,
@@ -841,6 +877,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1615779,
+        "original_language": "en",
+        "original_title": "BRB",
+        "overview": "",
+        "popularity": 0.0609,
+        "poster_path": "/h18NdPRl5yiWFcE5eBpDbLAWy68.jpg",
+        "release_date": "2026-02-20",
+        "title": "BRB",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -873,24 +933,6 @@
         "poster_path": "/9WCErQIOLTSWOeuKkjpe9NMrdB8.jpg",
         "release_date": "2026-02-20",
         "title": "DEAD GRANDMA",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1626364,
-        "original_language": "en",
-        "original_title": "Keepsake",
-        "overview": "",
-        "popularity": 0.0843,
-        "poster_path": "/zkxB7iznPw0xVA26wzOnFDNDUPA.jpg",
-        "release_date": "2026-02-20",
-        "title": "Keepsake",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1455,28 +1497,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hRuDhRqvKaWuknHhGw6cfnw1wuL.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1634021,
-        "original_language": "ja",
-        "original_title": "ハローマイフレンド",
-        "overview": "",
-        "popularity": 0.1519,
-        "poster_path": "/f1CZHT25xeVx7I2xw3P3L8fLKS7.jpg",
-        "release_date": "2026-02-20",
-        "title": "ハローマイフレンド",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -1496,6 +1516,28 @@
         "genre_ids_zh": [
             "纪录",
             "音乐"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hRuDhRqvKaWuknHhGw6cfnw1wuL.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1634021,
+        "original_language": "ja",
+        "original_title": "ハローマイフレンド",
+        "overview": "",
+        "popularity": 0.1519,
+        "poster_path": "/f1CZHT25xeVx7I2xw3P3L8fLKS7.jpg",
+        "release_date": "2026-02-20",
+        "title": "ハローマイフレンド",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
@@ -1706,6 +1748,28 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jeZx8uSqGfpwIHPpbbMbMe0DUmw.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1638467,
+        "original_language": "es",
+        "original_title": "Verde otla",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7rXYBOyD1uVy694d6rDJYKNn2Qb.jpg",
+        "release_date": "2026-02-20",
+        "title": "Verde otla",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
