@@ -271,7 +271,8 @@
         "adult": false,
         "backdrop_path": "/jAKwiwQuighT7gDSEUjozXenTEm.jpg",
         "genre_ids": [
-            10764
+            10764,
+            35
         ],
         "id": 313826,
         "origin_country": [
@@ -287,8 +288,29 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "真人秀"
+            "真人秀",
+            "喜剧"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2ydx6M1mvFo1qDFbxVetmdPIf7f.jpg",
+        "genre_ids": [],
+        "id": 314541,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "es",
+        "original_name": "Surviving the Jehovah’s Witnesses",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/2PdNX6BDFt5nF0Qlzez8U1inaXu.jpg",
+        "first_air_date": "2026-02-20",
+        "name": "Surviving the Jehovah’s Witnesses",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
