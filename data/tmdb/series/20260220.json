@@ -26,21 +26,27 @@
     {
         "adult": false,
         "backdrop_path": "/Av3NA4mTdUHMowqYs9axJH7pPE5.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            18,
+            35
+        ],
         "id": 300239,
         "origin_country": [
             "台湾"
         ],
         "original_language": "zh",
         "original_name": "動物園",
-        "overview": "",
+        "overview": "任职于广告公司的朱欣葵，在职场中磨练出极强的抗压能力。眼看事业即将起飞，却接连遭遇不顺：先是得罪了大客户，接着男友无理取闹，最后还被公司“打入冷宫”。就在此时，寿山动物园公开招标，希望更新品牌形象——这正是她翻身的最后机会。然而她万万没想到，竞标条件竟要求中标者必须亲自担任实习保育员！过去熟悉的办公室法则完全派不上用场，面对动物与形形色色的人类同事，尤其难缠的是前辈苏冠州。第一天就想回家的她不禁怀疑：自己真的能在这里生存下去吗？",
         "popularity": 1.2265,
         "poster_path": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
         "first_air_date": "2026-02-20",
-        "name": "動物園",
+        "name": "动物园",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -95,7 +101,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/aqHZG2DxLiPPDRc0xO31osCS7RN.jpg",
+        "backdrop_path": "/jH1vBLHxp7E2AZGdhvjnxA96mJh.jpg",
         "genre_ids": [
             16,
             35,
@@ -107,11 +113,11 @@
         ],
         "original_language": "en",
         "original_name": "Strip Law",
-        "overview": "",
+        "overview": "《赌城之道》（Strip Law）的故事围绕刻板拘谨的律师林肯·甘布展开：在拉斯维加斯，他的行事风格太过沉闷乏味，根本赢不下官司；直到他与当地的魔术师、享乐主义者希拉·弗拉姆贝联手，为这座城市抛来的各种离谱至极的案件，注入了夺人眼球的舞台感与戏剧张力。",
         "popularity": 6.1506,
         "poster_path": "/b9vgEJB9pHpILr5mUYcAxuTavCh.jpg",
         "first_air_date": "2026-02-20",
-        "name": "Strip Law",
+        "name": "赌城之道",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -144,26 +150,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 311686,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Unlikely Hero Group",
-        "overview": "",
-        "popularity": 0.0338,
-        "poster_path": null,
-        "first_air_date": "2026-02-20",
-        "name": "Unlikely Hero Group",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -187,6 +173,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 311686,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Unlikely Hero Group",
+        "overview": "",
+        "popularity": 0.0338,
+        "poster_path": null,
+        "first_air_date": "2026-02-20",
+        "name": "Unlikely Hero Group",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
         "genre_ids": [
             9648,
@@ -200,7 +206,7 @@
         "original_name": "찬란한 너의 계절에",
         "overview": "该剧讲述了因过去伤痛而封闭内心的女设计师宋嘏烂（李圣经饰）与像阳光般明媚却也深陷伤痛的男设计师鲜于灿（蔡钟协饰）命运般重逢，并在互相救赎中治愈彼此的感人故事。",
         "popularity": 2.2718,
-        "poster_path": "/eUkIxWK9KhLQLPQct9G8HeY61Rj.jpg",
+        "poster_path": "/ad1BV4FnSxpo54TQnVYhhDaoGgK.jpg",
         "first_air_date": "2026-02-20",
         "name": "在你灿烂的季节",
         "vote_average": 0.0,
@@ -309,6 +315,32 @@
         "genre_ids_zh": [
             "剧情",
             "犯罪"
+        ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i5QEZ1rrnjrLbEOhfSNk8u8qSCe.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 314558,
+        "origin_country": [
+            "意大利"
+        ],
+        "original_language": "it",
+        "original_name": "Creatives – The Series",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xLYBZucOIDw2ENdt78B5U9JZEHH.jpg",
+        "first_air_date": "2026-02-20",
+        "name": "Creatives – The Series",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "意大利语"
     },
