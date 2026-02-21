@@ -131,7 +131,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/jgq8K6mDoeAKGeB3nYqVg0R1ojo.jpg",
+        "backdrop_path": "/7R3E08phkM5HYwG7r5T4RJVHX1S.jpg",
         "genre_ids": [
             28
         ],
@@ -855,6 +855,48 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/b41ptp1XE0YtHnRXnN8uiwTfVYu.jpg",
+        "genre_ids": [],
+        "id": 1559317,
+        "original_language": "en",
+        "original_title": "SHOOT LIKE NOBODY'S WATCHING",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/z2oOcVHoiOLi0wkjTOviWtNKRaU.jpg",
+        "release_date": "2026-02-21",
+        "title": "SHOOT LIKE NOBODY'S WATCHING",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            27
+        ],
+        "id": 1639480,
+        "original_language": "en",
+        "original_title": "Left Behind",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hYPuqTNGnKtDqH8KQ6v9PGXQFlI.jpg",
+        "release_date": "2026-02-21",
+        "title": "Left Behind",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10402,
@@ -1148,12 +1190,12 @@
         "original_title": "Les trésors oubliés de la médecine arabe",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": "/eRwfs6GINLiO5bWosk9TJsGECjx.jpg",
+        "poster_path": "/o3dI6cHD0Yb5DJ8OX4CbaT7By3v.jpg",
         "release_date": "2026-02-21",
         "title": "Les trésors oubliés de la médecine arabe",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
@@ -1248,6 +1290,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1639544,
+        "original_language": "es",
+        "original_title": "Bitrate Memories",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3GtLhoXZqOhvDFl78ycUra39n42.jpg",
+        "release_date": "2026-02-21",
+        "title": "Bitrate Memories",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
