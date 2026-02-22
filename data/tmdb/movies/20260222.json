@@ -2,6 +2,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1638195,
+        "original_language": "zh",
+        "original_title": "正义救赎",
+        "overview": "莉莉联合男友二毛假绑架骗父王总200万，同伙实为遭她当年陷害的前男友大头，其目的是报复。交易前夕三方因各怀鬼胎争斗，王总赶到救下莉莉，参与假绑架者皆因贪欲将面临法律制裁，警示莫因欲望犯错。",
+        "popularity": 0.0143,
+        "poster_path": "/gXdUnBvtoudJCKLSboROK144FCP.jpg",
+        "release_date": "2026-02-22",
+        "title": "正义救赎",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -44,6 +62,30 @@
             "剧情",
             "惊悚",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/32dwnKWmjYoOCRxNuB6eF7hy5IS.jpg",
+        "genre_ids": [
+            53,
+            9648
+        ],
+        "id": 1637368,
+        "original_language": "en",
+        "original_title": "Murder in Music City",
+        "overview": "",
+        "popularity": 0.1748,
+        "poster_path": "/pJWFGI1zlSwWAtx3H0GLxwAMonD.jpg",
+        "release_date": "2026-02-22",
+        "title": "Murder in Music City",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -119,30 +161,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/32dwnKWmjYoOCRxNuB6eF7hy5IS.jpg",
-        "genre_ids": [
-            53,
-            9648
-        ],
-        "id": 1637368,
-        "original_language": "en",
-        "original_title": "Murder in Music City",
-        "overview": "",
-        "popularity": 0.1748,
-        "poster_path": "/pJWFGI1zlSwWAtx3H0GLxwAMonD.jpg",
-        "release_date": "2026-02-22",
-        "title": "Murder in Music City",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27,
@@ -179,6 +197,28 @@
         "poster_path": "/6oHRZO5dYzbf9R1Rt9QoCg4htgO.jpg",
         "release_date": "2026-02-22",
         "title": "Black Chariot",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1636106,
+        "original_language": "en",
+        "original_title": "Zoe",
+        "overview": "",
+        "popularity": 0.075,
+        "poster_path": "/cIn1Ck0tgtCQu3dC3LYaOmwbb15.jpg",
+        "release_date": "2026-02-22",
+        "title": "Zoe",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -782,8 +822,8 @@
         "release_date": "2026-02-22",
         "title": "Cop Origin Story",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
