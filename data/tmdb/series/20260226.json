@@ -127,6 +127,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/iu3I2th2zwRBbE2yw7lNcBAcgKc.jpg",
+        "genre_ids": [],
+        "id": 315043,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "Chinese Fairy Tales",
+        "overview": "《Chinese Fairy Tales 经典童话故事系列》故事取材于我们所熟知的四大童话《格林童话》《安徒生童话》《伊索寓言》《一千零一夜》。还有一些是国外本地流传的故事",
+        "popularity": 0.0,
+        "poster_path": "/tJg8DF55iHqN2LMg6vUrIfOCXhz.jpg",
+        "first_air_date": "2026-02-26",
+        "name": "Chinese Fairy Tales",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/crmOfCkfTto7vvzB4vId8qpcK83.jpg",
         "genre_ids": [
             18
@@ -142,8 +162,8 @@
         "poster_path": "/nuCEdVfzPiM68PqJSlzxT4t0kMH.jpg",
         "first_air_date": "2026-02-26",
         "name": "The Gray House",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情"
         ],
