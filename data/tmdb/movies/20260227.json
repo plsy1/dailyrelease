@@ -305,6 +305,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1242876,
+        "original_language": "en",
+        "original_title": "500 Miles",
+        "overview": "",
+        "popularity": 0.4701,
+        "poster_path": null,
+        "release_date": "2026-02-27",
+        "title": "500 Miles",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hXsEEq9LiHC3zsJDWgSSySVXOWf.jpg",
         "genre_ids": [
             35,
@@ -326,28 +348,6 @@
             "喜剧",
             "剧情",
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1242876,
-        "original_language": "en",
-        "original_title": "500 Miles",
-        "overview": "",
-        "popularity": 0.4701,
-        "poster_path": null,
-        "release_date": "2026-02-27",
-        "title": "500 Miles",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1099,7 +1099,8 @@
         "adult": false,
         "backdrop_path": "/2zsn3myyhBB6bjNKGFPgEVfXUBp.jpg",
         "genre_ids": [
-            9648
+            9648,
+            36
         ],
         "id": 1543797,
         "original_language": "ja",
@@ -1113,7 +1114,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "悬疑"
+            "悬疑",
+            "历史"
         ],
         "original_language_zh": "日语"
     },
@@ -1201,7 +1203,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/93VeFrvu1x2uaHexeBpSmITNPuf.jpg",
         "genre_ids": [
             35
         ],
@@ -1210,7 +1212,7 @@
         "original_title": "Das Millionenschnitzel",
         "overview": "",
         "popularity": 0.1595,
-        "poster_path": null,
+        "poster_path": "/l4UXYZNa1BUKXnfny00WSrypYMo.jpg",
         "release_date": "2026-02-27",
         "title": "Das Millionenschnitzel",
         "video": false,
