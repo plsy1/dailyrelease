@@ -147,9 +147,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/crmOfCkfTto7vvzB4vId8qpcK83.jpg",
+        "backdrop_path": "/j51c57imcs6jwUUAM6nmh6ag3po.jpg",
         "genre_ids": [
-            18
+            18,
+            10768,
+            10759
         ],
         "id": 211178,
         "origin_country": [
@@ -159,13 +161,15 @@
         "original_name": "The Gray House",
         "overview": "",
         "popularity": 2.9007,
-        "poster_path": "/nuCEdVfzPiM68PqJSlzxT4t0kMH.jpg",
+        "poster_path": "/wE5jZDeQuiulaAtjeaEq0y8tpey.jpg",
         "first_air_date": "2026-02-26",
         "name": "The Gray House",
-        "vote_average": 10.0,
-        "vote_count": 1,
+        "vote_average": 8.5,
+        "vote_count": 2,
         "genre_ids_zh": [
-            "剧情"
+            "剧情",
+            "战争与政治",
+            "动作与冒险"
         ],
         "original_language_zh": "英语"
     },
