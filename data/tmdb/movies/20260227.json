@@ -71,6 +71,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/hS7d9UCjOUGi1u5UL6HTqa3etND.jpg",
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1032892,
+        "original_language": "en",
+        "original_title": "In the Blink of an Eye",
+        "overview": "三段跨越数千年的故事线交织交汇，映照出希望、联结与生命轮回的主题。",
+        "popularity": 2.7171,
+        "poster_path": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+        "release_date": "2026-02-27",
+        "title": "眨眼之间",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rroo5ANTOLr1JY1JArmpJNQfsEV.jpg",
         "genre_ids": [
             35,
@@ -92,30 +116,6 @@
             "喜剧",
             "剧情",
             "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hS7d9UCjOUGi1u5UL6HTqa3etND.jpg",
-        "genre_ids": [
-            18,
-            878
-        ],
-        "id": 1032892,
-        "original_language": "en",
-        "original_title": "In the Blink of an Eye",
-        "overview": "",
-        "popularity": 2.7171,
-        "poster_path": "/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-        "release_date": "2026-02-27",
-        "title": "In the Blink of an Eye",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -276,6 +276,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1270041,
+        "original_language": "en",
+        "original_title": "Bring the Law",
+        "overview": "",
+        "popularity": 0.5641,
+        "poster_path": "/54yPFDXKnjzrkJqEh8wbch9hmou.jpg",
+        "release_date": "2026-02-27",
+        "title": "Bring the Law",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -783,30 +807,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vzn3QR79c7OyN3eqkdO3UoNbBTE.jpg",
-        "genre_ids": [
-            10749,
-            53
-        ],
-        "id": 1635653,
-        "original_language": "en",
-        "original_title": "Vin",
-        "overview": "",
-        "popularity": 0.1867,
-        "poster_path": "/8zo4yJRjujyhADX8Jm7AHXnQpZj.jpg",
-        "release_date": "2026-02-27",
-        "title": "Vin",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/7qzQRXiv8tYNeQO97ytvtVsrvG9.jpg",
         "genre_ids": [
             18
@@ -1083,6 +1083,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1643309,
+        "original_language": "en",
+        "original_title": "A Strange Man Breaks Into Yet Another Office",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/r7MsjSFX8o1asK01sm6h9SM0sa3.jpg",
+        "release_date": "2026-02-27",
+        "title": "A Strange Man Breaks Into Yet Another Office",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1479,6 +1497,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1628402,
+        "original_language": "ru",
+        "original_title": "Доставка еды",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dQg63BZTniY12c1GXsyc5Jfw9kd.jpg",
+        "release_date": "2026-02-27",
+        "title": "Доставка еды",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/cNswUqn3xk0dUsACgxX1u1DEydo.jpg",
         "genre_ids": [],
         "id": 1643210,
@@ -1660,6 +1702,32 @@
         "genre_ids_zh": [
             "惊悚",
             "剧情"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            16,
+            10751
+        ],
+        "id": 1643434,
+        "original_language": "tr",
+        "original_title": "Tavşan Luna: Kalp Adası",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dYm5ywv8E4X4sK6XbOKGoPKuC7z.jpg",
+        "release_date": "2026-02-27",
+        "title": "Tavşan Luna: Kalp Adası",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "动画",
+            "家庭"
         ],
         "original_language_zh": "土耳其语"
     },
