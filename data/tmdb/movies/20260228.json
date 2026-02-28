@@ -11,7 +11,7 @@
         "original_language": "zh",
         "original_title": "团圆令",
         "overview": "　　因一场意外，熊猫兄妹“团仔”与“圆妞”不幸离散，各自踏上了危机四伏的寻亲之旅。一路上结识挚友收获勇气。然而，一股企图割裂亲缘的邪恶阴影正在悄然逼近......  　　当“离散”成为血脉的考验，“团圆”是他们唯一寻找的归途。这对兄妹能否突破重重险阻，跨越山河血脉相聚，守护住他们共同的家园？",
-        "popularity": 0.7851,
+        "popularity": 0.5804,
         "poster_path": "/lVdryD9bJWHWC48vYPGGXy6tgOE.jpg",
         "release_date": "2026-02-28",
         "title": "团圆令",
@@ -38,7 +38,7 @@
         "original_language": "zh",
         "original_title": "Interview Record of New Artists",
         "overview": "由Antonio Torres（安东尼），Phoenix Ferrero（费凤凰）导演，百新伦、张瑞珅、吉顺贾、靳项杰、刘晨宇、欧阳霆锟领衔主演的沉浸式声音情景体验剧。每个人都有属于自己的形状，就让我们一起来探索这个神秘领域吧。",
-        "popularity": 0.1921,
+        "popularity": 0.1881,
         "poster_path": "/kA7uUDmlQrAHiiyhfXMLvWqAUcR.jpg",
         "release_date": "2026-02-28",
         "title": "新艺术家的访问录",
@@ -1028,7 +1028,7 @@
         "original_language": "fr",
         "original_title": "Rêves",
         "overview": "",
-        "popularity": 0.2831,
+        "popularity": 0.2396,
         "poster_path": "/vdigp0y0qwuZupFO6uJUAQbacsZ.jpg",
         "release_date": "2026-02-28",
         "title": "Rêves",
@@ -1053,7 +1053,7 @@
         "original_language": "fr",
         "original_title": "Simulacre",
         "overview": "",
-        "popularity": 0.1298,
+        "popularity": 0.1187,
         "poster_path": "/yd4nhZkAadGIEkAovoPX8wmJOmE.jpg",
         "release_date": "2026-02-28",
         "title": "Simulacre",
@@ -1064,6 +1064,28 @@
             "剧情",
             "惊悚",
             "悬疑"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c8ax1zwjlNwRAkOdUVtkTkwaFi.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1638762,
+        "original_language": "fr",
+        "original_title": "La valse des pingouins",
+        "overview": "",
+        "popularity": 0.1918,
+        "poster_path": "/r02TXg3J2APLpIjc1Ph2H4EiMD2.jpg",
+        "release_date": "2026-02-28",
+        "title": "La valse des pingouins",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -1080,7 +1102,7 @@
         "original_language": "fr",
         "original_title": "Cassandre - Un homme parfait",
         "overview": "",
-        "popularity": 0.053,
+        "popularity": 0.1049,
         "poster_path": "/1NGAdm6OkTlmk1TllmGgXPnqcls.jpg",
         "release_date": "2026-02-28",
         "title": "Cassandre - Un homme parfait",
@@ -1092,28 +1114,6 @@
             "剧情",
             "喜剧",
             "电视电影"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/c8ax1zwjlNwRAkOdUVtkTkwaFi.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1638762,
-        "original_language": "fr",
-        "original_title": "La valse des pingouins",
-        "overview": "",
-        "popularity": 0.0818,
-        "poster_path": "/r02TXg3J2APLpIjc1Ph2H4EiMD2.jpg",
-        "release_date": "2026-02-28",
-        "title": "La valse des pingouins",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "法语"
     },
@@ -1330,7 +1330,7 @@
         "original_language": "sv",
         "original_title": "Den Okonventionella Begravningsbyrån",
         "overview": "",
-        "popularity": 0.0847,
+        "popularity": 0.0557,
         "poster_path": "/w0THiecVEDim0JpgEM4Pt1bXnJZ.jpg",
         "release_date": "2026-02-28",
         "title": "Den Okonventionella Begravningsbyrån",
