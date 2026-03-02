@@ -261,28 +261,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1633295,
-        "original_language": "es",
-        "original_title": "Ex Change",
-        "overview": "",
-        "popularity": 0.0409,
-        "poster_path": "/6g4pAq6DSgwHSK8kChmzNjW6dfq.jpg",
-        "release_date": "2026-03-03",
-        "title": "Ex Change",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/bvnMYZvu3ei0508FdX7LqhdyRel.jpg",
         "genre_ids": [
             18
@@ -300,6 +278,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1633295,
+        "original_language": "es",
+        "original_title": "Ex Change",
+        "overview": "",
+        "popularity": 0.0409,
+        "poster_path": "/6g4pAq6DSgwHSK8kChmzNjW6dfq.jpg",
+        "release_date": "2026-03-03",
+        "title": "Ex Change",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
