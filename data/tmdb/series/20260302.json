@@ -157,6 +157,8 @@
         "adult": false,
         "backdrop_path": "/hCEl9Tb27chAWYXYau05pCSKEL.jpg",
         "genre_ids": [
+            18,
+            80,
             9648
         ],
         "id": 310800,
@@ -173,6 +175,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "剧情",
+            "犯罪",
             "悬疑"
         ],
         "original_language_zh": "韩语"
@@ -229,7 +233,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/zMeMy9o0nC9RM5YGmqkCFZuGLyH.jpg",
         "genre_ids": [
             80,
             18
@@ -239,12 +243,12 @@
             "法国"
         ],
         "original_language": "fr",
-        "original_name": "Un prophète : La série",
+        "original_name": "Un prophète",
         "overview": "",
         "popularity": 1.7199,
         "poster_path": "/mtfCtv8dnnyqBUZavZS6L8KJO3D.jpg",
         "first_air_date": "2026-03-02",
-        "name": "Un prophète : La série",
+        "name": "Un prophète",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
