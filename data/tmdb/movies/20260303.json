@@ -47,6 +47,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/kX9df8GcZdTiCmW9gI24T7HcoDr.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1482365,
+        "original_language": "en",
+        "original_title": "Royal Ballet & Opera 2025/26: Giselle",
+        "overview": "",
+        "popularity": 0.4337,
+        "poster_path": "/pYjzu4ubAX8JuGkdzDp6OKc9T56.jpg",
+        "release_date": "2026-03-03",
+        "title": "Royal Ballet & Opera 2025/26: Giselle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -64,6 +86,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1613813,
+        "original_language": "en",
+        "original_title": "JC Bratton's Dollhouse",
+        "overview": "",
+        "popularity": 0.1204,
+        "poster_path": "/a3zMgvz4xTKnl1XTLsfNDseRyTD.jpg",
+        "release_date": "2026-03-03",
+        "title": "JC Bratton's Dollhouse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -93,23 +139,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kX9df8GcZdTiCmW9gI24T7HcoDr.jpg",
+        "backdrop_path": "/b6LKKoklP0dFNhSK1zvzSNiNkZD.jpg",
         "genre_ids": [
-            10402
+            27,
+            53,
+            18
         ],
-        "id": 1482365,
+        "id": 1501787,
         "original_language": "en",
-        "original_title": "Royal Ballet & Opera 2025/26: Giselle",
+        "original_title": "Hús Kamra",
         "overview": "",
-        "popularity": 0.4337,
-        "poster_path": "/pYjzu4ubAX8JuGkdzDp6OKc9T56.jpg",
+        "popularity": 0.0978,
+        "poster_path": "/vvsKq4xeARluQNJ4XxFuqXCGlwv.jpg",
         "release_date": "2026-03-03",
-        "title": "Royal Ballet & Opera 2025/26: Giselle",
+        "title": "Hús Kamra",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "音乐"
+            "恐怖",
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -134,32 +184,6 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/b6LKKoklP0dFNhSK1zvzSNiNkZD.jpg",
-        "genre_ids": [
-            27,
-            53,
-            18
-        ],
-        "id": 1501787,
-        "original_language": "en",
-        "original_title": "Hús Kamra",
-        "overview": "",
-        "popularity": 0.0978,
-        "poster_path": "/vvsKq4xeARluQNJ4XxFuqXCGlwv.jpg",
-        "release_date": "2026-03-03",
-        "title": "Hús Kamra",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚",
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -208,30 +232,6 @@
         "genre_ids_zh": [
             "恐怖",
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1613813,
-        "original_language": "en",
-        "original_title": "JC Bratton's Dollhouse",
-        "overview": "",
-        "popularity": 0.1204,
-        "poster_path": "/a3zMgvz4xTKnl1XTLsfNDseRyTD.jpg",
-        "release_date": "2026-03-03",
-        "title": "JC Bratton's Dollhouse",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -352,6 +352,140 @@
             "喜剧"
         ],
         "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1645292,
+        "original_language": "sv",
+        "original_title": "4-i-rad – i covid 19:s klor",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "4-i-rad – i covid 19:s klor",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1645272,
+        "original_language": "sv",
+        "original_title": "Greensburg Anew",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "Greensburg Anew",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1645268,
+        "original_language": "sv",
+        "original_title": "Mesa Verde",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "Mesa Verde",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1645262,
+        "original_language": "sv",
+        "original_title": "Robota Sweden",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "Robota Sweden",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1645260,
+        "original_language": "sv",
+        "original_title": "Röda linjen",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "Röda linjen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1645249,
+        "original_language": "sv",
+        "original_title": "Guden i den gula t-shirten",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "Guden i den gula t-shirten",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1645247,
+        "original_language": "sv",
+        "original_title": "Nationens minne",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-03",
+        "title": "Nationens minne",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
     },
     {
         "adult": false,
