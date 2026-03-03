@@ -40,8 +40,8 @@
         "release_date": "2026-03-04",
         "title": "暗黑新娘！",
         "video": false,
-        "vote_average": 8.5,
-        "vote_count": 2,
+        "vote_average": 8.3,
+        "vote_count": 3,
         "genre_ids_zh": [
             "科幻",
             "恐怖",
@@ -125,6 +125,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1463434,
+        "original_language": "en",
+        "original_title": "Look At This Freak",
+        "overview": "",
+        "popularity": 0.1715,
+        "poster_path": "/dn5xz9Z2QQUIw3z0Va8xHs62f4J.jpg",
+        "release_date": "2026-03-04",
+        "title": "Look At This Freak",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             36,
             53,
@@ -146,28 +168,6 @@
             "历史",
             "惊悚",
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1463434,
-        "original_language": "en",
-        "original_title": "Look At This Freak",
-        "overview": "",
-        "popularity": 0.1715,
-        "poster_path": "/dn5xz9Z2QQUIw3z0Va8xHs62f4J.jpg",
-        "release_date": "2026-03-04",
-        "title": "Look At This Freak",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
