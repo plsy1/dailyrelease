@@ -1,8 +1,65 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/4SVBHmakNpBVgKt5IgMRrChwypp.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "id": 298026,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "放开那个女巫",
+        "overview": "",
+        "popularity": 2.8217,
+        "poster_path": "/aALqEgghYorHOwR5pgeCq9YMrjj.jpg",
+        "first_air_date": "2026-03-03",
+        "name": "放开那个女巫",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "动作与冒险",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7FBOuZZ7kGDwLYD2f9S8mFPPzOD.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 297051,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "进击的叶辰",
+        "overview": "豪门赘婿的隐藏身份竟是首富长孙，为保命隐姓埋名，以赘婿身份横扫上流社会，寻找杀害父母的幕后黑手。叶辰一路收“小弟”，结识“红粉知己”，终揭开父母被害真相。然而“身份危机”接踵而至，叶辰又将如何应对？",
+        "popularity": 1.5412,
+        "poster_path": "/heaSlBOuMb3wXi4AnCTlDziQuha.jpg",
+        "first_air_date": "2026-03-03",
+        "name": "进击的叶辰",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            16,
+            10759,
+            18,
+            10765
+        ],
         "id": 315088,
         "origin_country": [
             "中国"
@@ -10,13 +67,42 @@
         "original_language": "zh",
         "original_name": "盗妖行",
         "overview": "因一场以利益交换为目的的联姻，太玄楼刺客江元与九璇宗圣女韶月奉命成婚。两人在洞房夜发起暗杀，却发现彼此皆是不死之身。为了得到对方宗门的秘宝御妖铃、镇魔钟，两人从死敌转为表面夫妻，虚与委蛇。但两人尚不知道，对方也是家园被“虚无”所毁的外星遗民。这对宿命伴侣在戒备与试探中结成同盟，不仅要寻找遗失飞船化做的秘宝，更要对抗虎视眈眈的整个修仙界，在危机四伏中寻找击败“虚无”的希望。",
-        "popularity": 0.0361,
+        "popularity": 0.1096,
         "poster_path": "/4l4LfiTnQkyWW5Lzh59cOsTBnXl.jpg",
         "first_air_date": "2026-03-03",
         "name": "盗妖行",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画",
+            "动作与冒险",
+            "剧情",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hDWj8yk5aDF2CRRCwybFNc0N3VN.jpg",
+        "genre_ids": [
+            9648
+        ],
+        "id": 315337,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "捕心师",
+        "overview": "夏医大附院副院长高格非驾车肇事致三死两伤，其家属及辩护律师以急性短暂性精神障碍的司法鉴定为由意图脱罪，引发议论。精英律师俞鱼借此案正名，记者林达策动舆论。心理医生俞莫寒参与鉴定，却发现此案与五年前杀害自己恋人的精神病脱罪案存在诡谲雷同，由此卷入更深的漩涡。调查逐步揭开夏江医疗圈内幕，权钱，权色交易交织，一桩被掩盖的严重医疗事故与高格非异常晋升之路相勾连，指向一张精心编织的利益网络。在权势压制，专业操守与未泯良知的多重撕扯中，每个人都走到抉择的十字路口。最终，当证据链冲破重重黑幕，真相昭示悲剧绝非偶然，人性的审判，此刻才刚刚开始。而在这纷乱世间，唯有持守底线，无愧于心，方能在修行中找到归处。",
+        "popularity": 0.0322,
+        "poster_path": "/u8Qa52sKMt8zMjIfCCMp6aHUUZP.jpg",
+        "first_air_date": "2026-03-03",
+        "name": "捕心师",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -148,7 +234,7 @@
         "original_language": "pl",
         "original_name": "Polska Kronika Filmowa",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": "/w13XnvyHm0DqRx704xKNgsMUZsi.jpg",
         "first_air_date": "2026-03-03",
         "name": "Polska Kronika Filmowa",
