@@ -53,30 +53,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 314339,
-        "origin_country": [
-            "英国"
-        ],
-        "original_language": "en",
-        "original_name": "Hostage",
-        "overview": "",
-        "popularity": 0.4098,
-        "poster_path": null,
-        "first_air_date": "2026-03-04",
-        "name": "Hostage",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             35
         ],
         "id": 314483,
@@ -94,6 +70,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 314339,
+        "origin_country": [
+            "英国"
+        ],
+        "original_language": "en",
+        "original_name": "Hostage",
+        "overview": "",
+        "popularity": 0.4098,
+        "poster_path": null,
+        "first_air_date": "2026-03-04",
+        "name": "Hostage",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -190,5 +190,29 @@
             "剧情"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yYHG7kQuTjp6bpwVYwXjWlqZuJ7.jpg",
+        "genre_ids": [
+            10764
+        ],
+        "id": 315616,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Jagad - kändisar på rymmen",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cRo8Gy5NTvcpQcIleCesOQrN1lh.jpg",
+        "first_air_date": "2026-03-04",
+        "name": "Jagad - kändisar på rymmen",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
