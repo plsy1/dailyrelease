@@ -8,17 +8,18 @@
         ],
         "id": 255661,
         "origin_country": [
-            "英国"
+            "英国",
+            "美国"
         ],
         "original_language": "en",
         "original_name": "Young Sherlock",
-        "overview": "延续了盖里奇执导的《大侦探福尔摩斯》系列电影的诙谐与魅力，以爆炸性的全新视角，重新演绎了柯南·道尔笔下这位深受喜爱的侦探的早期故事。夏洛克·福尔摩斯年轻时声名狼藉，性格粗犷不羁，却意外卷入了一桩威胁他自由的谋杀案。他的第一个案子揭开了一场席卷全球的阴谋，彻底改变了他的人生。故事发生在1870年代的牛津，并延伸至海外，展现了这位尚未成长为贝克街最负盛名的侦探的叛逆青年早期的种种趣事。",
+        "overview": "这部玩世不恭、动作场面精彩的推理影集由盖瑞奇执导，讲述夏洛克福尔摩斯的传奇起源，描绘这位著名侦探最早期的冒险故事。",
         "popularity": 16.2075,
-        "poster_path": "/aDzemNN1bnga1q1x269mlpuf08G.jpg",
+        "poster_path": "/beWoUmSdD8BHGmtodOoxVYQO6lG.jpg",
         "first_air_date": "2026-03-04",
         "name": "青年夏洛克",
-        "vote_average": 9.667,
-        "vote_count": 3,
+        "vote_average": 9.8,
+        "vote_count": 5,
         "genre_ids_zh": [
             "动作与冒险",
             "悬疑"
@@ -75,6 +76,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mY1XhTMKEbl8LhZrQpa3zoFiMcw.jpg",
+        "genre_ids": [
+            10764
+        ],
+        "id": 314297,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Blue Therapy",
+        "overview": "",
+        "popularity": 0.4291,
+        "poster_path": "/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
+        "first_air_date": "2026-03-04",
+        "name": "Blue Therapy",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -94,30 +119,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/pq2FXU8iGx7T90sbpeBXwzovSRt.jpg",
-        "genre_ids": [
-            10764
-        ],
-        "id": 314297,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "Blue Therapy",
-        "overview": "",
-        "popularity": 0.4291,
-        "poster_path": null,
-        "first_air_date": "2026-03-04",
-        "name": "Blue Therapy",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "真人秀"
         ],
         "original_language_zh": "英语"
     },
@@ -154,13 +155,13 @@
         ],
         "original_language": "fr",
         "original_name": "Traqués",
-        "overview": "弗兰克（伯努瓦·马吉梅尔饰）和他的老朋友们喜欢一起在周末打猎，但某个星期天，他们遇到另一群猎人，这群人毫无理由地开始攻击他们。当他们一行中的一人中枪时，弗兰克的朋友们反击，将一名袭击者击倒。他们勉强逃脱后，四人决定将这件事隐瞒下来。弗兰克试图回归正常生活，与妻子克里斯特尔（梅拉尼·罗兰饰）一起生活，但接下来的几天，他开始感到自己和朋友们似乎被人监视，甚至更糟——那些猎人似乎正在追踪他们，决心复仇。",
+        "overview": "一群好友在狩猎旅行中与其他猎人爆发致命冲突后，立誓要隐瞒此事。然而随着疑心越来越重，残酷复仇逐步迫近，驱使他们正视自身的道德抉择、家庭责任与野性本能。",
         "popularity": 3.6815,
         "poster_path": "/rPeY995yKEaAj96jk2WSbi5QoJl.jpg",
         "first_air_date": "2026-03-04",
         "name": "猎杀",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "悬疑"
