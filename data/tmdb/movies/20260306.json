@@ -283,30 +283,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1432706,
-        "original_language": "en",
-        "original_title": "Bury the Devil",
-        "overview": "",
-        "popularity": 0.2754,
-        "poster_path": "/jmTpe5ghWMOcVFvZFFtieQ9cq0i.jpg",
-        "release_date": "2026-03-06",
-        "title": "Bury the Devil",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1X9tkMHiSgydY78hgBngnnGHn6z.jpg",
         "genre_ids": [
             37,
@@ -350,6 +326,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1432706,
+        "original_language": "en",
+        "original_title": "Bury the Devil",
+        "overview": "",
+        "popularity": 0.2754,
+        "poster_path": "/jmTpe5ghWMOcVFvZFFtieQ9cq0i.jpg",
+        "release_date": "2026-03-06",
+        "title": "Bury the Devil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -921,6 +921,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1575309,
+        "original_language": "en",
+        "original_title": "THREE COOL PEOPLE 5",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/qfcc4xyqAR46awbiyfwbGTLxtZ8.jpg",
+        "release_date": "2026-03-06",
+        "title": "THREE COOL PEOPLE 5",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/o2Mff7cTErPKJmkCV5q2Jk2kQax.jpg",
         "genre_ids": [
             99
@@ -1247,6 +1271,24 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mWKhIZXS1ltVLwKghK06Vgrjhyt.jpg",
+        "genre_ids": [],
+        "id": 1646561,
+        "original_language": "de",
+        "original_title": "Zwei Frauen für alle Felle - Pferdeliebe",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7EeSCNlS7psKJpVPWcMfZp33T0Z.jpg",
+        "release_date": "2026-03-06",
+        "title": "Zwei Frauen für alle Felle - Pferdeliebe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "德语"
     },
     {

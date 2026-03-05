@@ -47,7 +47,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/CVBSp8moyEheunLMSqtai5nORF.jpg",
+        "backdrop_path": "/filZFYKr17wIJ4j1Cz115DOdegh.jpg",
         "genre_ids": [
             80,
             18
@@ -61,8 +61,8 @@
         "release_date": "2026-03-05",
         "title": "浴血黑帮：不朽传奇",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 1,
+        "vote_average": 8.3,
+        "vote_count": 3,
         "genre_ids_zh": [
             "犯罪",
             "剧情"
@@ -241,6 +241,28 @@
         "poster_path": "/1t5rFLw4pzPsVbv47aWc40VRgYq.jpg",
         "release_date": "2026-03-05",
         "title": "The Man Who Saw Them Arrive",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/P56VwPeOWA5fS0hVl1vG2h4f8a.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1627962,
+        "original_language": "en",
+        "original_title": "大湾区之肋",
+        "overview": "",
+        "popularity": 0.1292,
+        "poster_path": "/f8vbcGqWuM6JTd4g2QFdJMoYgDs.jpg",
+        "release_date": "2026-03-05",
+        "title": "大湾区之肋",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -607,6 +629,24 @@
         "genre_ids_zh": [
             "奇幻"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1646647,
+        "original_language": "en",
+        "original_title": "Holnap is van",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/lyRgMyO2D9fXILwc69euEHbBTY8.jpg",
+        "release_date": "2026-03-05",
+        "title": "Holnap is van",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1244,6 +1284,32 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "波兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qolSryE7Ppqn2SRqAqm5wyYgpEx.jpg",
+        "genre_ids": [
+            10751,
+            18,
+            35
+        ],
+        "id": 1484486,
+        "original_language": "pl",
+        "original_title": "Za duży na bajki 3",
+        "overview": "",
+        "popularity": 0.2618,
+        "poster_path": "/2x9Fkoea4brpGEJHE4xJWddMx8C.jpg",
+        "release_date": "2026-03-05",
+        "title": "Za duży na bajki 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "波兰语"
     },
