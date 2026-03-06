@@ -92,5 +92,51 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 310935,
+        "origin_country": [
+            "泰国"
+        ],
+        "original_language": "th",
+        "original_name": "เด็กใหม่ The Reset",
+        "overview": "故事围绕着一名神秘女孩——娜诺（瑞玫高·阿瑟农 饰演）展开。她经常转学到泰国的各大私立学校，致力于揭露学生与教职员工所隐藏的谎言、秘密和道德沦丧。",
+        "popularity": 6.0487,
+        "poster_path": "/wlqM6zg6tI177njuc7f82wx34Nd.jpg",
+        "first_air_date": "2026-03-07",
+        "name": "禁忌女孩：重启",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 315900,
+        "origin_country": [
+            "波兰"
+        ],
+        "original_language": "pl",
+        "original_name": "I love kabaret",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-03-07",
+        "name": "I love kabaret",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "波兰语"
     }
 ]
