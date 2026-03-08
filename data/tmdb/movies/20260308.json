@@ -129,6 +129,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/12dr8NGLEQsMZ2qfQzwyp3RtMD8.jpg",
+        "genre_ids": [
+            35,
+            53
+        ],
+        "id": 1635504,
+        "original_language": "en",
+        "original_title": "For the Love of Gold",
+        "overview": "",
+        "popularity": 0.0386,
+        "poster_path": "/mZohyRzG8MuiImrW5qO4TFS7CPZ.jpg",
+        "release_date": "2026-03-08",
+        "title": "For the Love of Gold",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/doUpBImMUrQY67Z5SRSx2sWnMJr.jpg",
         "genre_ids": [
             28,
@@ -239,6 +263,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1647788,
+        "original_language": "en",
+        "original_title": "(MOURNING) AFFIRMATIONS",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/iO478xlSCGatFdIvMeozaM8w8Ec.jpg",
+        "release_date": "2026-03-08",
+        "title": "(MOURNING) AFFIRMATIONS",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1648271,
+        "original_language": "en",
+        "original_title": "Tahira",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vByfVukK4uAWPzxjRkLGldDUvE2.jpg",
+        "release_date": "2026-03-08",
+        "title": "Tahira",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/4RzRJLhcKmqjXUgmFmTmSOuPCjL.jpg",
         "genre_ids": [
             18,
@@ -302,28 +372,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            53
-        ],
-        "id": 1647788,
-        "original_language": "en",
-        "original_title": "(MOURNING) AFFIRMATIONS",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/iO478xlSCGatFdIvMeozaM8w8Ec.jpg",
-        "release_date": "2026-03-08",
-        "title": "(MOURNING) AFFIRMATIONS",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -415,7 +463,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9u4QbHC466cEphuk4UCOBeUxk3F.jpg",
+        "backdrop_path": "/pKzWp1HRucmTkALGjhkiI4MNm16.jpg",
         "genre_ids": [
             28,
             18
@@ -429,8 +477,8 @@
         "release_date": "2026-03-08",
         "title": "STARDOM CINDERELLA TOURNAMENT 2026 ～2回戦～",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动作",
             "剧情"
