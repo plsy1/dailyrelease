@@ -116,26 +116,9 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1644320,
-        "original_language": "en",
-        "original_title": "Hard Pass",
-        "overview": "",
-        "popularity": 0.1127,
-        "poster_path": "/3hK35I5U9pT0aw58dxSa8mrbI0N.jpg",
-        "release_date": "2026-03-10",
-        "title": "Hard Pass",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
-            10749
+            10749,
+            53
         ],
         "id": 1535905,
         "original_language": "en",
@@ -149,8 +132,27 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "爱情"
+            "爱情",
+            "惊悚"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1644320,
+        "original_language": "en",
+        "original_title": "Hard Pass",
+        "overview": "",
+        "popularity": 0.1127,
+        "poster_path": "/3hK35I5U9pT0aw58dxSa8mrbI0N.jpg",
+        "release_date": "2026-03-10",
+        "title": "Hard Pass",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -345,24 +347,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/Ak7OuPduyw3pEwU9iR38hl4RhrN.jpg",
-        "genre_ids": [],
-        "id": 1607369,
-        "original_language": "fr",
-        "original_title": "Barbara (Partie 2)",
-        "overview": "",
-        "popularity": 0.0168,
-        "poster_path": "/AqVjwqj4CRJvRAKmDaAvPluAtiS.jpg",
-        "release_date": "2026-03-10",
-        "title": "Barbara (Partie 2)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/rC5Lc7bwZsqjqdddg15BumSuagF.jpg",
         "genre_ids": [
             99
@@ -380,6 +364,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ak7OuPduyw3pEwU9iR38hl4RhrN.jpg",
+        "genre_ids": [
+            37
+        ],
+        "id": 1607369,
+        "original_language": "fr",
+        "original_title": "Barbara (Partie 2)",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/AqVjwqj4CRJvRAKmDaAvPluAtiS.jpg",
+        "release_date": "2026-03-10",
+        "title": "Barbara (Partie 2)",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "西部"
         ],
         "original_language_zh": "法语"
     },
@@ -438,6 +444,34 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AbMdfmM9TqHdkqAdCr8FNf6gKWe.jpg",
+        "genre_ids": [
+            35,
+            53,
+            18,
+            99
+        ],
+        "id": 1648684,
+        "original_language": "es",
+        "original_title": "LO DE SIEMPRE...",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-10",
+        "title": "LO DE SIEMPRE...",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "惊悚",
+            "剧情",
+            "纪录"
         ],
         "original_language_zh": "西班牙语"
     }
