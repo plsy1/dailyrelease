@@ -60,8 +60,8 @@
         "release_date": "2026-03-10",
         "title": "One Piece: Into the Grand Line",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动作",
             "冒险",
@@ -140,24 +140,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1644320,
-        "original_language": "en",
-        "original_title": "Hard Pass",
-        "overview": "",
-        "popularity": 0.0707,
-        "poster_path": "/3hK35I5U9pT0aw58dxSa8mrbI0N.jpg",
-        "release_date": "2026-03-10",
-        "title": "Hard Pass",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             53,
             27
@@ -177,6 +159,24 @@
             "惊悚",
             "恐怖"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1644320,
+        "original_language": "en",
+        "original_title": "Hard Pass",
+        "overview": "",
+        "popularity": 0.0707,
+        "poster_path": "/3hK35I5U9pT0aw58dxSa8mrbI0N.jpg",
+        "release_date": "2026-03-10",
+        "title": "Hard Pass",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -307,7 +307,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/ytLQsljng7tAqzWmpwIDBOyGzOB.jpg",
         "genre_ids": [
             35
         ],
@@ -316,7 +316,7 @@
         "original_title": "Training Day",
         "overview": "",
         "popularity": 0.0071,
-        "poster_path": null,
+        "poster_path": "/v70y9tdZTxjiu8GgQIiXJzsxoAq.jpg",
         "release_date": "2026-03-10",
         "title": "Training Day",
         "video": false,

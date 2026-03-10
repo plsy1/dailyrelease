@@ -793,6 +793,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1649428,
+        "original_language": "fr",
+        "original_title": "Stupid, emotional, (autistic), obsessive little me",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dF0oCmAdHXoKtuDDb7nZFs4Omhy.jpg",
+        "release_date": "2026-03-11",
+        "title": "Stupid, emotional, (autistic), obsessive little me",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qkCBkHxPNhvv8Dq31yfOxe4MviO.jpg",
+        "genre_ids": [
+            35,
+            12,
+            99
+        ],
+        "id": 1649405,
+        "original_language": "fr",
+        "original_title": "Fécamp - Le Havre",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/uizLroXBbWxQ5V0sFrkDYtE30Li.jpg",
+        "release_date": "2026-03-11",
+        "title": "Fécamp - Le Havre",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "冒险",
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
         "genre_ids": [
             80,
