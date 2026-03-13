@@ -279,9 +279,9 @@
         "genre_ids": [],
         "id": 316481,
         "origin_country": [
-            "美国"
+            "土耳其"
         ],
-        "original_language": "en",
+        "original_language": "tr",
         "original_name": "Mira: Life After Divorce",
         "overview": "",
         "popularity": 0.0,
@@ -291,7 +291,7 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
+        "original_language_zh": "土耳其语"
     },
     {
         "adult": false,
@@ -445,6 +445,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/mTTIV8OgL5oe9Z55N7sROhRYfad.jpg",
+        "genre_ids": [
+            10764
+        ],
+        "id": 316503,
+        "origin_country": [
+            "加拿大"
+        ],
+        "original_language": "fr",
+        "original_name": "Coach Phil et Son Chalet",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/l5hGRYgdsnaOUEABAQlRUjjiLXC.jpg",
+        "first_air_date": "2026-03-13",
+        "name": "Coach Phil et Son Chalet",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lreax2U5xDNekHdAlfLARPC4Oto.jpg",
         "genre_ids": [
             80,
@@ -523,22 +547,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/ypFjs8KIZNlk5uJcBwKq03YjQbx.jpg",
+        "genre_ids": [
+            18
+        ],
         "id": 316474,
         "origin_country": [
             "土耳其"
         ],
         "original_language": "tr",
-        "original_name": "Mira",
+        "original_name": "Mira: Her Şey Yolundaymış Gibi",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/bCoLLuCXN4crruP5tPzagoTb2WH.jpg",
         "first_air_date": "2026-03-13",
-        "name": "Mira",
+        "name": "Mira: Her Şey Yolundaymış Gibi",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "土耳其语"
     }
 ]
