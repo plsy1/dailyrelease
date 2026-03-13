@@ -302,7 +302,7 @@
         "original_language": "ja",
         "original_name": "コントラスト",
         "overview": "",
-        "popularity": 0.8015,
+        "popularity": 0.865,
         "poster_path": "/gF9uvsknSthHhbelLzwis4Nzoee.jpg",
         "first_air_date": "2026-03-13",
         "name": "コントラスト",
@@ -327,7 +327,7 @@
         "original_language": "ja",
         "original_name": "3.11～東日本大震災１５年　福島第一原発事故　命の戦い～知られざる葛藤の物語",
         "overview": "",
-        "popularity": 0.0997,
+        "popularity": 0.1115,
         "poster_path": null,
         "first_air_date": "2026-03-13",
         "name": "3.11～東日本大震災１５年　福島第一原発事故　命の戦い～知られざる葛藤の物語",
@@ -407,7 +407,7 @@
         "original_language": "th",
         "original_name": "คิดถึงจัง ตังค์อยู่ไหน",
         "overview": "",
-        "popularity": 0.8913,
+        "popularity": 0.8897,
         "poster_path": "/xw27D6Q0K5H6Y7urU7cD4Ut8Pz7.jpg",
         "first_air_date": "2026-03-13",
         "name": "คิดถึงจัง ตังค์อยู่ไหน",
@@ -434,14 +434,40 @@
         "original_language": "es",
         "original_name": "Esa noche",
         "overview": "年轻天真的单身母亲在海岛度假时被卷入一起谋杀案，姐妹们纷纷赶来帮忙，结果却弄巧成拙。",
-        "popularity": 5.226,
+        "popularity": 5.5123,
         "poster_path": "/4ygRftdeyHWAJK60ytg70rQ6HaA.jpg",
         "first_air_date": "2026-03-13",
         "name": "是夜危机",
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4uKDIoL3o3xtm9n3dCuZVOQjo1J.jpg",
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 285386,
+        "origin_country": [
+            "西班牙"
+        ],
+        "original_language": "es",
+        "original_name": "Day One",
+        "overview": "",
+        "popularity": 2.7145,
+        "poster_path": "/m4eL0zSNElpM8g1kFA6PE5TfVZS.jpg",
+        "first_air_date": "2026-03-13",
+        "name": "Day One",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪",
             "剧情",
             "悬疑"
         ],
@@ -460,7 +486,7 @@
         "original_language": "es",
         "original_name": "La oficina",
         "overview": "",
-        "popularity": 1.9343,
+        "popularity": 2.1779,
         "poster_path": "/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
         "first_air_date": "2026-03-13",
         "name": "La oficina",
@@ -473,34 +499,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4uKDIoL3o3xtm9n3dCuZVOQjo1J.jpg",
-        "genre_ids": [
-            18,
-            9648
-        ],
-        "id": 285386,
-        "origin_country": [
-            "西班牙"
-        ],
-        "original_language": "es",
-        "original_name": "Day One",
-        "overview": "",
-        "popularity": 1.9066,
-        "poster_path": "/m4eL0zSNElpM8g1kFA6PE5TfVZS.jpg",
-        "first_air_date": "2026-03-13",
-        "name": "Day One",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "悬疑"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18
+        ],
         "id": 314592,
         "origin_country": [
             "西班牙"
@@ -508,13 +510,15 @@
         "original_language": "es",
         "original_name": "Esa Noche",
         "overview": "",
-        "popularity": 1.389,
+        "popularity": 1.4099,
         "poster_path": "/bGUW9scpnkxalrSi4nOS511qdtP.jpg",
         "first_air_date": "2026-03-13",
         "name": "Esa Noche",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "西班牙语"
     }
 ]
