@@ -97,7 +97,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
         "genre_ids": [
             878,
             12,
@@ -118,56 +118,6 @@
             "科幻",
             "冒险",
             "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/9MzGxIrijDNHIHWoiwJWlfbqzE8.jpg",
-        "genre_ids": [
-            28,
-            53
-        ],
-        "id": 1084187,
-        "original_language": "en",
-        "original_title": "Pretty Lethal",
-        "overview": "",
-        "popularity": 3.3025,
-        "poster_path": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-        "release_date": "2026-03-13",
-        "title": "Pretty Lethal",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/nA6HGGSJmuM8YKtA4Ihr4xi2SNb.jpg",
-        "genre_ids": [
-            35,
-            27,
-            878
-        ],
-        "id": 1297446,
-        "original_language": "en",
-        "original_title": "Slanted",
-        "overview": "",
-        "popularity": 3.6563,
-        "poster_path": "/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
-        "release_date": "2026-03-13",
-        "title": "Slanted",
-        "video": false,
-        "vote_average": 8.7,
-        "vote_count": 3,
-        "genre_ids_zh": [
-            "喜剧",
-            "恐怖",
-            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -199,6 +149,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/nA6HGGSJmuM8YKtA4Ihr4xi2SNb.jpg",
+        "genre_ids": [
+            35,
+            27,
+            878
+        ],
+        "id": 1297446,
+        "original_language": "en",
+        "original_title": "Slanted",
+        "overview": "",
+        "popularity": 3.6563,
+        "poster_path": "/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
+        "release_date": "2026-03-13",
+        "title": "Slanted",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9MzGxIrijDNHIHWoiwJWlfbqzE8.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1084187,
+        "original_language": "en",
+        "original_title": "Pretty Lethal",
+        "overview": "",
+        "popularity": 3.3025,
+        "poster_path": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "release_date": "2026-03-13",
+        "title": "Pretty Lethal",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/3RjydMNJFUf6x71dNEelYYjZpeH.jpg",
         "genre_ids": [
             27,
@@ -212,30 +212,6 @@
         "poster_path": "/ftuEpSaujftvfRFFFP6rQdWWVdo.jpg",
         "release_date": "2026-03-13",
         "title": "Scared to Death",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1382802,
-        "original_language": "en",
-        "original_title": "Family Movie",
-        "overview": "",
-        "popularity": 1.7503,
-        "poster_path": "/iKGb52exgPMsoy9v3wR51SjQcdY.jpg",
-        "release_date": "2026-03-13",
-        "title": "Family Movie",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -273,6 +249,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1382802,
+        "original_language": "en",
+        "original_title": "Family Movie",
+        "overview": "",
+        "popularity": 1.7503,
+        "poster_path": "/iKGb52exgPMsoy9v3wR51SjQcdY.jpg",
+        "release_date": "2026-03-13",
+        "title": "Family Movie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35
         ],
         "id": 1587537,
@@ -288,6 +288,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1436214,
+        "original_language": "en",
+        "original_title": "Amityverse: Infinity",
+        "overview": "",
+        "popularity": 1.2444,
+        "poster_path": "/z8jBcReGKGXYHfknWkjZOZFjCM8.jpg",
+        "release_date": "2026-03-13",
+        "title": "Amityverse: Infinity",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -315,24 +337,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1486759,
-        "original_language": "en",
-        "original_title": "Seahorse",
-        "overview": "",
-        "popularity": 1.0697,
-        "poster_path": null,
-        "release_date": "2026-03-13",
-        "title": "Seahorse",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
         "genre_ids": [
             53
@@ -351,6 +355,24 @@
         "genre_ids_zh": [
             "惊悚"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1486759,
+        "original_language": "en",
+        "original_title": "Seahorse",
+        "overview": "",
+        "popularity": 1.0697,
+        "poster_path": null,
+        "release_date": "2026-03-13",
+        "title": "Seahorse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -531,8 +553,8 @@
         "release_date": "2026-03-13",
         "title": "Maid Robot",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 2.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "科幻",
             "惊悚"
@@ -1189,6 +1211,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/psEuT725EjUfAcjUnqNEPs1Qsfh.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1651035,
+        "original_language": "en",
+        "original_title": "Let's Help Olivia Kill Herself",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xWLQnnqHYaS7OdEJLQCPdrTikCj.jpg",
+        "release_date": "2026-03-13",
+        "title": "Let's Help Olivia Kill Herself",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/r8h4564mFS5M0Mk7cMFU3emhk08.jpg",
         "genre_ids": [
             35,
@@ -1576,11 +1622,11 @@
         "id": 1649887,
         "original_language": "de",
         "original_title": "Barbara – Becoming Shirin David",
-        "overview": "",
+        "overview": "就在她30岁生日前夕，希琳·大卫带我们开启了一场关于她职业生涯的个人之旅。",
         "popularity": 0.105,
         "poster_path": "/pn9IFXqFcF58SfdOgq6FqMBs2oS.jpg",
         "release_date": "2026-03-13",
-        "title": "Barbara – Becoming Shirin David",
+        "title": "芭芭拉：成为希琳·大卫",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1627,8 +1673,8 @@
         "release_date": "2026-03-13",
         "title": "Le cratère des Hautes-Bruyères",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "惊悚",
             "冒险"
