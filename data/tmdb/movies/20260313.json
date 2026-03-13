@@ -9,7 +9,7 @@
         "original_language": "zh",
         "original_title": "讓建築歌唱～徐亞英的交響人生",
         "overview": "",
-        "popularity": 0.1551,
+        "popularity": 0.1038,
         "poster_path": "/ctoY2dhrVO5cAUXa7IqzDmaarK5.jpg",
         "release_date": "2026-03-13",
         "title": "讓建築歌唱～徐亞英的交響人生",
@@ -31,7 +31,7 @@
         "original_language": "zh",
         "original_title": "大姊，賢慧",
         "overview": "",
-        "popularity": 0.1158,
+        "popularity": 0.0921,
         "poster_path": "/6Swwtosc9P0ART9qYzDrzwycElR.jpg",
         "release_date": "2026-03-13",
         "title": "大姊，賢慧",
@@ -55,7 +55,7 @@
         "original_language": "zh",
         "original_title": "神头岭1938",
         "overview": "　　电影围绕主角靳万福展开，以“神头岭伏击战”为蓝本，再现那段波澜壮阔的抗战历史，将对深入挖掘革命老区红色资源，激励广大人民群众从红色资源中汲取精神滋养和前进力量起到积极的推动作用。",
-        "popularity": 0.0,
+        "popularity": 0.0357,
         "poster_path": "/q7yOS4mNBQQ4eTziZaW1EdUFZIE.jpg",
         "release_date": "2026-03-13",
         "title": "神头岭1938",
@@ -81,7 +81,7 @@
         "original_language": "zh",
         "original_title": "哀牢山",
         "overview": "　　哀牢山灵异事件轰动一时，来自六名露营的高校学生，前往云南哀牢山原始森林。谁也没有想到一次平常的露营探险任务，竟然成了一次诡异的死亡序曲。他们进入哀牢山地带仅仅过去几天，就全部无人生还。比较离奇的是，当搜救者发现这几位遇难者时，有两位遇难者的死状非常诡异！",
-        "popularity": 0.0,
+        "popularity": 0.1786,
         "poster_path": "/WxFFMxkAUplYMjbcYntEUsZewk.jpg",
         "release_date": "2026-03-13",
         "title": "哀牢山",
@@ -1557,7 +1557,7 @@
         "original_language": "de",
         "original_title": "Zwei Frauen für alle Felle - Neues Glück",
         "overview": "",
-        "popularity": 0.2264,
+        "popularity": 0.1682,
         "poster_path": "/lVaANObZ3DQvYS8vX3P9mQ4wwKk.jpg",
         "release_date": "2026-03-13",
         "title": "Zwei Frauen für alle Felle - Neues Glück",
@@ -1577,7 +1577,7 @@
         "original_language": "de",
         "original_title": "Barbara – Becoming Shirin David",
         "overview": "",
-        "popularity": 0.0643,
+        "popularity": 0.105,
         "poster_path": "/pn9IFXqFcF58SfdOgq6FqMBs2oS.jpg",
         "release_date": "2026-03-13",
         "title": "Barbara – Becoming Shirin David",
@@ -1599,7 +1599,7 @@
         "original_language": "fr",
         "original_title": "Voyage voyage, les stars chantent au Maroc",
         "overview": "",
-        "popularity": 0.2175,
+        "popularity": 0.2079,
         "poster_path": "/me9gkz7RNhzzeodZRpgweuGNDcr.jpg",
         "release_date": "2026-03-13",
         "title": "Voyage voyage, les stars chantent au Maroc",
@@ -1614,19 +1614,25 @@
     {
         "adult": false,
         "backdrop_path": "/cXVdvk0jyzqtzdy0XCaIif9XEFb.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            53,
+            12
+        ],
         "id": 1650042,
         "original_language": "fr",
         "original_title": "Le cratère des Hautes-Bruyères",
         "overview": "",
-        "popularity": 0.0214,
+        "popularity": 0.0664,
         "poster_path": "/ccpToEeUOHofZFynyhXjvT53v4M.jpg",
         "release_date": "2026-03-13",
         "title": "Le cratère des Hautes-Bruyères",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "惊悚",
+            "冒险"
+        ],
         "original_language_zh": "法语"
     },
     {
@@ -1991,102 +1997,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1649420,
+        "id": 1649595,
         "original_language": "ru",
-        "original_title": "Нюня",
+        "original_title": "Пустые места",
         "overview": "",
-        "popularity": 0.0518,
-        "poster_path": "/hWqHFU1I4mxyaZCbJCkBD7Rrncz.jpg",
+        "popularity": 0.1793,
+        "poster_path": "/rFJGHF9Km0zNKAS9ERb6A0s98Qo.jpg",
         "release_date": "2026-03-13",
-        "title": "Нюня",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1649416,
-        "original_language": "ru",
-        "original_title": "Как в старой сказке",
-        "overview": "",
-        "popularity": 0.1143,
-        "poster_path": null,
-        "release_date": "2026-03-13",
-        "title": "Как в старой сказке",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1649011,
-        "original_language": "ru",
-        "original_title": "The Dino Family",
-        "overview": "",
-        "popularity": 0.0297,
-        "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
-        "release_date": "2026-03-13",
-        "title": "The Dino Family",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1649430,
-        "original_language": "ru",
-        "original_title": "Последняя",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/xiTwa43hv6Okkza4VfJd7DwlVRu.jpg",
-        "release_date": "2026-03-13",
-        "title": "Последняя",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1649628,
-        "original_language": "ru",
-        "original_title": "Юля для Вити",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2026-03-13",
-        "title": "Юля для Вити",
+        "title": "Пустые места",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2127,10 +2045,32 @@
         "original_language": "ru",
         "original_title": "Уязвимость",
         "overview": "",
-        "popularity": 0.1675,
+        "popularity": 0.0751,
         "poster_path": "/4QZmnlmNB1pqT9VfVIpncTuRrzY.jpg",
         "release_date": "2026-03-13",
         "title": "Уязвимость",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1649589,
+        "original_language": "ru",
+        "original_title": "Пустота",
+        "overview": "",
+        "popularity": 0.1675,
+        "poster_path": null,
+        "release_date": "2026-03-13",
+        "title": "Пустота",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2167,14 +2107,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1649595,
+        "id": 1649416,
         "original_language": "ru",
-        "original_title": "Пустые места",
+        "original_title": "Как в старой сказке",
         "overview": "",
-        "popularity": 0.1793,
-        "poster_path": "/rFJGHF9Km0zNKAS9ERb6A0s98Qo.jpg",
+        "popularity": 0.1143,
+        "poster_path": null,
         "release_date": "2026-03-13",
-        "title": "Пустые места",
+        "title": "Как в старой сказке",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2189,14 +2129,80 @@
         "genre_ids": [
             18
         ],
-        "id": 1649589,
+        "id": 1649420,
         "original_language": "ru",
-        "original_title": "Пустота",
+        "original_title": "Нюня",
         "overview": "",
-        "popularity": 0.1675,
+        "popularity": 0.0518,
+        "poster_path": "/hWqHFU1I4mxyaZCbJCkBD7Rrncz.jpg",
+        "release_date": "2026-03-13",
+        "title": "Нюня",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1649011,
+        "original_language": "ru",
+        "original_title": "The Dino Family",
+        "overview": "",
+        "popularity": 0.0297,
+        "poster_path": "/xtmTvcY4bpCmHUqJDFm9sZVA9dQ.jpg",
+        "release_date": "2026-03-13",
+        "title": "The Dino Family",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1649430,
+        "original_language": "ru",
+        "original_title": "Последняя",
+        "overview": "",
+        "popularity": 0.0664,
+        "poster_path": "/xiTwa43hv6Okkza4VfJd7DwlVRu.jpg",
+        "release_date": "2026-03-13",
+        "title": "Последняя",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1649628,
+        "original_language": "ru",
+        "original_title": "Юля для Вити",
+        "overview": "",
+        "popularity": 0.0143,
         "poster_path": null,
         "release_date": "2026-03-13",
-        "title": "Пустота",
+        "title": "Юля для Вити",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -2262,7 +2268,7 @@
         "original_language": "tr",
         "original_title": "Deccal 3",
         "overview": "",
-        "popularity": 0.3879,
+        "popularity": 0.18,
         "poster_path": "/oPoiEMnMfXiSe8cLMxkRfBRy5se.jpg",
         "release_date": "2026-03-13",
         "title": "Deccal 3",
@@ -2285,7 +2291,7 @@
         "original_language": "tr",
         "original_title": "Dedektif Reptır: Birlikte Gülelim",
         "overview": "",
-        "popularity": 0.0363,
+        "popularity": 0.0434,
         "poster_path": "/kMUHRRmlRfqlUje7WjTSLd6XyIW.jpg",
         "release_date": "2026-03-13",
         "title": "Dedektif Reptır: Birlikte Gülelim",
@@ -2307,7 +2313,7 @@
         "original_language": "tr",
         "original_title": "Kuru Taşın Başı",
         "overview": "",
-        "popularity": 0.0261,
+        "popularity": 0.1144,
         "poster_path": null,
         "release_date": "2026-03-13",
         "title": "Kuru Taşın Başı",
@@ -2347,7 +2353,7 @@
         "original_language": "no",
         "original_title": "Agnes Mot Verden",
         "overview": "",
-        "popularity": 0.2051,
+        "popularity": 0.14,
         "poster_path": "/gGFHBoHwkuWUzNDiEhZYY3ITajH.jpg",
         "release_date": "2026-03-13",
         "title": "Agnes Mot Verden",
