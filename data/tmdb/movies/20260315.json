@@ -23,6 +23,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/bR8BZhgeedlZWJRd6coDagNisZ3.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "id": 1650606,
+        "original_language": "en",
+        "original_title": "Communion",
+        "overview": "",
+        "popularity": 0.3736,
+        "poster_path": "/aRsX6u4tIGu1Ty3eCmELVw9AvBN.jpg",
+        "release_date": "2026-03-15",
+        "title": "Communion",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/eYxMjWVyKgVYxH23ZOSYFUv5Wyc.jpg",
         "genre_ids": [
             35
@@ -298,32 +324,6 @@
         "genre_ids_zh": [
             "纪录",
             "冒险"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bR8BZhgeedlZWJRd6coDagNisZ3.jpg",
-        "genre_ids": [
-            27,
-            9648,
-            53
-        ],
-        "id": 1650606,
-        "original_language": "en",
-        "original_title": "Communion",
-        "overview": "",
-        "popularity": 0.3736,
-        "poster_path": "/aRsX6u4tIGu1Ty3eCmELVw9AvBN.jpg",
-        "release_date": "2026-03-15",
-        "title": "Communion",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
