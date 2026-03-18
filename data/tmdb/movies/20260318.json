@@ -101,30 +101,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6yxGFyJdnJyDdZvYWkCGr3c6LS5.jpg",
-        "genre_ids": [
-            18,
-            9648
-        ],
-        "id": 1648702,
-        "original_language": "en",
-        "original_title": "Negative Space",
-        "overview": "",
-        "popularity": 0.2046,
-        "poster_path": "/fZS7xxJnzt6H1deEz6UnMhMk24l.jpg",
-        "release_date": "2026-03-18",
-        "title": "Negative Space",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/xWGbwpNyEsqRxQOR7skrUPR1WMv.jpg",
         "genre_ids": [
             27,
@@ -144,6 +120,30 @@
         "genre_ids_zh": [
             "恐怖",
             "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6yxGFyJdnJyDdZvYWkCGr3c6LS5.jpg",
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 1648702,
+        "original_language": "en",
+        "original_title": "Negative Space",
+        "overview": "",
+        "popularity": 0.2046,
+        "poster_path": "/fZS7xxJnzt6H1deEz6UnMhMk24l.jpg",
+        "release_date": "2026-03-18",
+        "title": "Negative Space",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -894,7 +894,7 @@
         "original_title": "धुरंधर: द रिवेंज",
         "overview": "　　当敌对帮派、腐败官员和冷酷的伊克巴尔少校步步紧逼，哈姆扎为国家而战的使命逐渐沦陷为一场血腥的个人复仇。在利亚里的街头，爱国者与恶魔的界限逐渐模糊。",
         "popularity": 32.3422,
-        "poster_path": "/jvAEt2mqWdY0sUNybtVFelRzMnZ.jpg",
+        "poster_path": "/ptTwQES14pr5c3aZvJg56YlYgb1.jpg",
         "release_date": "2026-03-18",
         "title": "征服者2",
         "video": false,
@@ -930,5 +930,23 @@
             "惊悚"
         ],
         "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1653831,
+        "original_language": "tr",
+        "original_title": "Rava",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/g9YTGaLuuBZLpOaVuLX6lWspTmg.jpg",
+        "release_date": "2026-03-18",
+        "title": "Rava",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "土耳其语"
     }
 ]
