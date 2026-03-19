@@ -51,6 +51,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6yNo2KERx4BaKfvnoVe8WEXjW1W.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1654429,
+        "original_language": "zh",
+        "original_title": "扫恶",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xDFlWTgY60FiBW1QiGbm1KwwBd7.jpg",
+        "release_date": "2026-03-20",
+        "title": "扫恶",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "犯罪"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -1395,6 +1419,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1654559,
+        "original_language": "de",
+        "original_title": "Die Drei von der Müllabfuhr - Hand in Hand",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-20",
+        "title": "Die Drei von der Müllabfuhr - Hand in Hand",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/QmAsWYOQMI3o2YmddtXHc3F8U4.jpg",
         "genre_ids": [
             14,
@@ -1649,6 +1697,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 1639745,
+        "original_language": "es",
+        "original_title": "Don't Ask, Don't Tell",
+        "overview": "",
+        "popularity": 0.1246,
+        "poster_path": null,
+        "release_date": "2026-03-20",
+        "title": "Don't Ask, Don't Tell",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 1645192,
         "original_language": "es",
         "original_title": "Yo soy Mika de Frankfurt",
@@ -1683,24 +1749,6 @@
         "genre_ids_zh": [
             "剧情"
         ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1639745,
-        "original_language": "es",
-        "original_title": "Don't Ask, Don't Tell",
-        "overview": "",
-        "popularity": 0.1246,
-        "poster_path": null,
-        "release_date": "2026-03-20",
-        "title": "Don't Ask, Don't Tell",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
