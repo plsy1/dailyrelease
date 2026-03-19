@@ -80,8 +80,8 @@
         "release_date": "2026-03-19",
         "title": "准备好了没2：我来了",
         "video": false,
-        "vote_average": 7.6,
-        "vote_count": 4,
+        "vote_average": 7.9,
+        "vote_count": 5,
         "genre_ids_zh": [
             "恐怖",
             "惊悚",
@@ -249,6 +249,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/zpOUQ7rpNfV4Tny8GDwEGKCLdmw.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1649758,
+        "original_language": "en",
+        "original_title": "Meal Ticket",
+        "overview": "",
+        "popularity": 0.2553,
+        "poster_path": "/3u9QWCxPtc4tg9UmZbXK20Gp4Z0.jpg",
+        "release_date": "2026-03-19",
+        "title": "Meal Ticket",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -327,28 +349,6 @@
         "poster_path": "/o0oiGzx04uMQNEQlpR0IgEYGuLT.jpg",
         "release_date": "2026-03-19",
         "title": "Jack Johnson: SURFILMUSIC",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1649758,
-        "original_language": "en",
-        "original_title": "Meal Ticket",
-        "overview": "",
-        "popularity": 0.2553,
-        "poster_path": null,
-        "release_date": "2026-03-19",
-        "title": "Meal Ticket",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -556,28 +556,6 @@
         "vote_count": 1,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            80
-        ],
-        "id": 1394462,
-        "original_language": "en",
-        "original_title": "Blood is Thicker",
-        "overview": "",
-        "popularity": 0.0681,
-        "poster_path": "/iKR7jvEwCrfcisytW077m3KkCSZ.jpg",
-        "release_date": "2026-03-19",
-        "title": "Blood is Thicker",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪"
         ],
         "original_language_zh": "英语"
     },
@@ -1120,6 +1098,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1654398,
+        "original_language": "fr",
+        "original_title": "Akhati",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-19",
+        "title": "Akhati",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1654275,
         "original_language": "fr",
@@ -1207,6 +1207,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/pg2aORJB2NgFPrXHeP6Iv2LDJDg.jpg",
+        "genre_ids": [
+            18,
+            878
+        ],
+        "id": 1549560,
+        "original_language": "es",
+        "original_title": "Los Imaginarios",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": "/gelf4NRYVvMIm8t8TTGnUl6QCdg.jpg",
+        "release_date": "2026-03-19",
+        "title": "Los Imaginarios",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "科幻"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1636826,
@@ -1270,6 +1294,28 @@
             "剧情",
             "家庭",
             "奇幻"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jWc2iOWesyYXdlFDLAIezq6K0BO.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1653647,
+        "original_language": "pt",
+        "original_title": "Cosmonauta",
+        "overview": "",
+        "popularity": 0.1439,
+        "poster_path": "/9qGrQpZVaXkYwXEqlC1CRi6yXZY.jpg",
+        "release_date": "2026-03-19",
+        "title": "Cosmonauta",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1395,6 +1441,28 @@
         "genre_ids": [
             16
         ],
+        "id": 1647759,
+        "original_language": "ru",
+        "original_title": "Родина солнца",
+        "overview": "",
+        "popularity": 0.1709,
+        "poster_path": null,
+        "release_date": "2026-03-19",
+        "title": "Родина солнца",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
         "id": 1645816,
         "original_language": "ru",
         "original_title": "Четыре остановки",
@@ -1430,28 +1498,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1647759,
-        "original_language": "ru",
-        "original_title": "Родина солнца",
-        "overview": "",
-        "popularity": 0.1709,
-        "poster_path": null,
-        "release_date": "2026-03-19",
-        "title": "Родина солнца",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "俄语"
     },
