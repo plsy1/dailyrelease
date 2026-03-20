@@ -974,6 +974,42 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1654944,
+        "original_language": "en",
+        "original_title": "Fred and Aphrodite",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/cUwQkMDrlsS01xUbQcWoxIWmKfN.jpg",
+        "release_date": "2026-03-21",
+        "title": "Fred and Aphrodite",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1654861,
+        "original_language": "en",
+        "original_title": "Kill & Tell",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/h213pyMMuAu2Db2nEoI3lw6titn.jpg",
+        "release_date": "2026-03-21",
+        "title": "Kill & Tell",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             16
         ],
@@ -1582,28 +1618,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            53
-        ],
-        "id": 1650142,
-        "original_language": "es",
-        "original_title": "Muñequita Linda",
-        "overview": "",
-        "popularity": 0.1361,
-        "poster_path": "/85JZ5Nhy3s0cowRxGEWRSpOYpNR.jpg",
-        "release_date": "2026-03-21",
-        "title": "Muñequita Linda",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1640038,
         "original_language": "es",
@@ -1638,6 +1652,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yUUZgBcRrBkQvvy7et4XY34tX4S.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1650142,
+        "original_language": "es",
+        "original_title": "Muñequita Linda",
+        "overview": "",
+        "popularity": 0.1361,
+        "poster_path": "/85JZ5Nhy3s0cowRxGEWRSpOYpNR.jpg",
+        "release_date": "2026-03-21",
+        "title": "Muñequita Linda",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1715,6 +1751,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zGvIB1FJ6v9u11CbahzD8aR9v5W.jpg",
+        "genre_ids": [
+            18,
+            10751
+        ],
+        "id": 1654812,
+        "original_language": "es",
+        "original_title": "Los Límites de una Obsesión, Sin Guarnición",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1tXC3LB8AsMogDDgRWzxpYmu0wU.jpg",
+        "release_date": "2026-03-21",
+        "title": "Los Límites de una Obsesión, Sin Guarnición",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "家庭"
+        ],
         "original_language_zh": "西班牙语"
     },
     {

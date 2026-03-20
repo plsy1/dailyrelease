@@ -97,30 +97,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            27
-        ],
-        "id": 1217931,
-        "original_language": "en",
-        "original_title": "Vampires of the Velvet Lounge",
-        "overview": "",
-        "popularity": 2.0307,
-        "poster_path": "/doTL7vyk04xBmH140BNbPvGNxmW.jpg",
-        "release_date": "2026-03-20",
-        "title": "Vampires of the Velvet Lounge",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/tcJrcZmMYDvHoYd04YAXR5sYGTY.jpg",
         "genre_ids": [
             27,
@@ -142,6 +118,30 @@
             "恐怖",
             "喜剧",
             "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1217931,
+        "original_language": "en",
+        "original_title": "Vampires of the Velvet Lounge",
+        "overview": "",
+        "popularity": 2.0307,
+        "poster_path": "/doTL7vyk04xBmH140BNbPvGNxmW.jpg",
+        "release_date": "2026-03-20",
+        "title": "Vampires of the Velvet Lounge",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -171,28 +171,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1U12SjJjlfUpcutFLXpBNEmRHQB.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 999136,
-        "original_language": "en",
-        "original_title": "Do Not Enter",
-        "overview": "",
-        "popularity": 1.6581,
-        "poster_path": "/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg",
-        "release_date": "2026-03-20",
-        "title": "Do Not Enter",
-        "video": false,
-        "vote_average": 4.0,
-        "vote_count": 3,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/vpDZjfuiyCpi2hQIAmCnRP7ct4L.jpg",
         "genre_ids": [
             16,
@@ -216,6 +194,28 @@
             "奇幻",
             "家庭",
             "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1U12SjJjlfUpcutFLXpBNEmRHQB.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 999136,
+        "original_language": "en",
+        "original_title": "Do Not Enter",
+        "overview": "　　一群探险家调查一座古老的废弃酒店，遇到奇怪的超自然存在，以及一个寻找传奇隐藏宝藏的竞争对手团队。",
+        "popularity": 1.6581,
+        "poster_path": "/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg",
+        "release_date": "2026-03-20",
+        "title": "非请勿进",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -291,28 +291,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/lPPxRIyQ4xSTNntozIzdYmqFaZZ.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1536845,
-        "original_language": "en",
-        "original_title": "Monument",
-        "overview": "",
-        "popularity": 0.8133,
-        "poster_path": "/uWSZLPXqL3TEwrOEiTidiSuNasA.jpg",
-        "release_date": "2026-03-20",
-        "title": "Monument",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/8hOM1CcCbSGHPNXVCPyVeIEYda4.jpg",
         "genre_ids": [
             27,
@@ -332,6 +310,28 @@
         "genre_ids_zh": [
             "恐怖",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lPPxRIyQ4xSTNntozIzdYmqFaZZ.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1536845,
+        "original_language": "en",
+        "original_title": "Monument",
+        "overview": "",
+        "popularity": 0.8133,
+        "poster_path": "/uWSZLPXqL3TEwrOEiTidiSuNasA.jpg",
+        "release_date": "2026-03-20",
+        "title": "Monument",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -525,24 +525,6 @@
         "genre_ids_zh": [
             "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1641464,
-        "original_language": "en",
-        "original_title": "La liga",
-        "overview": "",
-        "popularity": 0.1828,
-        "poster_path": "/4Oue2EPh3P9WwqYcvd9NQ6SLNU7.jpg",
-        "release_date": "2026-03-20",
-        "title": "La liga",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -1229,6 +1211,50 @@
         "genre_ids": [
             16
         ],
+        "id": 1654916,
+        "original_language": "en",
+        "original_title": "소나기의 형태",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/alCLSrIx6xLAjTvFPWLKEYAUoFP.jpg",
+        "release_date": "2026-03-20",
+        "title": "소나기의 형태",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1654914,
+        "original_language": "en",
+        "original_title": "연흔",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6N99dJloJeg73MbEFh3zgnyMpUu.jpg",
+        "release_date": "2026-03-20",
+        "title": "연흔",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
         "id": 1654589,
         "original_language": "en",
         "original_title": "고운아 아프지마",
@@ -1693,7 +1719,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+        "backdrop_path": "/nsuqPeZcXiGTu7ezxuJpy7M6NEk.jpg",
         "genre_ids": [
             18,
             53
@@ -1701,14 +1727,14 @@
         "id": 1314786,
         "original_language": "es",
         "original_title": "Zeta",
-        "overview": "",
+        "overview": "五名曾于数十年前在哥伦比亚参与秘密行动的西班牙前特工，在世界各地同时遭到暗杀。",
         "popularity": 2.8794,
-        "poster_path": "/5KpkV8xDBtUrQAOWrcsBuOsBag3.jpg",
+        "poster_path": "/1R8ZQjZqTZM7YUVnEo5Oes0fygp.jpg",
         "release_date": "2026-03-20",
-        "title": "Zeta",
+        "title": "特工泽塔",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 2,
         "genre_ids_zh": [
             "剧情",
             "惊悚"
@@ -1759,6 +1785,24 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1641464,
+        "original_language": "es",
+        "original_title": "La liga",
+        "overview": "",
+        "popularity": 0.1828,
+        "poster_path": "/4Oue2EPh3P9WwqYcvd9NQ6SLNU7.jpg",
+        "release_date": "2026-03-20",
+        "title": "La liga",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
@@ -1839,6 +1883,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/t1h9ksmgfIfod45EWfPLblXBoH6.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1654868,
+        "original_language": "es",
+        "original_title": "Hogaza",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qZAaeIIrjaBZ4E9p4AArud909S7.jpg",
+        "release_date": "2026-03-20",
+        "title": "Hogaza",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rOCKocNtd1JiPlUgeSsx7XJQ7Pa.jpg",
         "genre_ids": [],
         "id": 1654637,
@@ -1853,6 +1919,28 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k1vItXKfEzynY87Wg842cgmIYMp.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1469592,
+        "original_language": "es",
+        "original_title": "La Reina de los Idiotas",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/bdopBQXIWS0l3QzcpHYyk4LbnKJ.jpg",
+        "release_date": "2026-03-20",
+        "title": "La Reina de los Idiotas",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -2125,7 +2213,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/qiDTUhFutAptQuRPa3gCPsWdY7N.jpg",
+        "backdrop_path": "/gG0I1NdBTFSzipLRIBNoWHIXQHI.jpg",
         "genre_ids": [
             80,
             9648,
@@ -2136,12 +2224,12 @@
         "original_title": "Beck 54 - I skuggorna",
         "overview": "",
         "popularity": 0.8243,
-        "poster_path": "/fmIEe80spUtVGaqeJDOcgYTVRom.jpg",
+        "poster_path": "/wrsGQgdWX06iuPvq3R7u90jL2gZ.jpg",
         "release_date": "2026-03-20",
         "title": "Beck 54 - I skuggorna",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "犯罪",
             "悬疑",
