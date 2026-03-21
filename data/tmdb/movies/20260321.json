@@ -67,6 +67,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8aEuNJKUF3PrmWXR9H5Ql5NLm5Q.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1655470,
+        "original_language": "zh",
+        "original_title": "On and off",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gGeOnmFMTumDVCpOj9NOICCZYIt.jpg",
+        "release_date": "2026-03-21",
+        "title": "On and off",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/4CmJSmQZVzYEaEXzL8nOcpYhVDO.jpg",
         "genre_ids": [
             35
@@ -84,6 +106,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1134306,
+        "original_language": "en",
+        "original_title": "Thread: An Insidious Tale",
+        "overview": "",
+        "popularity": 1.1966,
+        "poster_path": "/noMFmZsIs2s4867dbyrZMPLDj5b.jpg",
+        "release_date": "2026-03-21",
+        "title": "潜伏6：暗线",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -206,7 +252,7 @@
         "original_title": "UFC Fight Night 270: Evloev vs. Murphy",
         "overview": "",
         "popularity": 0.2814,
-        "poster_path": "/lmyayfRfWpT3wFCkCPIJauJxLpE.jpg",
+        "poster_path": "/iLMsIDQGnRSR4us1TWDupO2UAHJ.jpg",
         "release_date": "2026-03-21",
         "title": "UFC Fight Night 270: Evloev vs. Murphy",
         "video": false,
@@ -890,6 +936,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1650668,
+        "original_language": "en",
+        "original_title": "RevPro High Stakes 2026",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2026-03-21",
+        "title": "RevPro High Stakes 2026",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             16
         ],
@@ -968,6 +1032,86 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1655453,
+        "original_language": "en",
+        "original_title": "Dark Times",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-21",
+        "title": "Dark Times",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1655407,
+        "original_language": "en",
+        "original_title": "7 Butterflies and We Dance. And It Will Be Our Revolution",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-21",
+        "title": "7 Butterflies and We Dance. And It Will Be Our Revolution",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1655368,
+        "original_language": "en",
+        "original_title": "Letters from Home",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-21",
+        "title": "Letters from Home",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1655349,
+        "original_language": "en",
+        "original_title": "When Fire Turns to Ash",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-21",
+        "title": "When Fire Turns to Ash",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -1097,7 +1241,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sAdkQwKmoDsQnrt0R84RYwPrnXs.jpg",
+        "backdrop_path": "/lNhWEcUO2SuDz8Cd3Ms9wk36YRY.jpg",
         "genre_ids": [],
         "id": 1635189,
         "original_language": "ja",
@@ -1108,8 +1252,8 @@
         "release_date": "2026-03-21",
         "title": "NJPW New Japan Cup 2026 - Day 12 (Final)",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [],
         "original_language_zh": "日语"
     },
@@ -1128,8 +1272,8 @@
         "release_date": "2026-03-21",
         "title": "BTS THE COMEBACK 演唱会 | ARIRANG",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.76,
+        "vote_count": 25,
         "genre_ids_zh": [
             "音乐"
         ],
