@@ -29,7 +29,6 @@
         "adult": false,
         "backdrop_path": "/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
         "genre_ids": [
-            99,
             10751,
             10402
         ],
@@ -45,7 +44,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
             "家庭",
             "音乐"
         ],
@@ -319,6 +317,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4hCfxB1MQ9mzD1JFGHpgVNI73QE.jpg",
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1656444,
+        "original_language": "en",
+        "original_title": "Kountry Wayne: Nostalgia",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-23",
+        "title": "Kountry Wayne: Nostalgia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27,
@@ -362,30 +384,6 @@
             "恐怖"
         ],
         "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bQ4OJcHzLSnKu9LwqoSev96gL8q.jpg",
-        "genre_ids": [
-            28,
-            18
-        ],
-        "id": 1646808,
-        "original_language": "ja",
-        "original_title": "Marigold Spring Victory Series 2026 ~ Day 4",
-        "overview": "",
-        "popularity": 0.1252,
-        "poster_path": "/bqRXS9N69E36G8StjdVjtog6vHh.jpg",
-        "release_date": "2026-03-23",
-        "title": "Marigold Spring Victory Series 2026 ~ Day 4",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "剧情"
-        ],
-        "original_language_zh": "日语"
     },
     {
         "adult": false,
