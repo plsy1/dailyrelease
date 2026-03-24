@@ -1,6 +1,30 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 316861,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "黑金",
+        "overview": "矿场改制的浪潮席卷大杨村，平凡村民杨钢为护家人，被迫踏入矿场的暗流漩涡。他与兄弟铤而走险闯矿洞，意外触碰到金矿的秘密，自此被卷入贪腐与罪恶的纠缠。面对矿场负责人的步步紧逼，各方势力的明争暗斗，身边人的接连遭遇变故，杨钢在生存与道义间艰难抉择。黑金的诱惑下，人性的善恶激烈交锋，他的每一步选择，都牵动着整个大杨村的命运，而这场围绕金矿的博弈，最终究竟会走向何方？",
+        "popularity": 0.2038,
+        "poster_path": "/vkthDiTfwm0oVk0cb2eoXIdY6pq.jpg",
+        "first_air_date": "2026-03-24",
+        "name": "黑金",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/At2jLKKvnicvh8EGbudNtsup4D9.jpg",
         "genre_ids": [
             18
@@ -12,7 +36,7 @@
         "original_language": "zh",
         "original_name": "沉靡",
         "overview": "陷入至暗时刻的宋昭礼，遇到遭遇家庭变故的纪璇后，匿名资助其完成学业。多年后，一场意外，纪璇再次闯入宋昭礼的生活。宋昭礼破除重重障碍，逆袭上位。两人在不断拉扯中逐渐互相理解与尊重，以爱治愈彼此。",
-        "popularity": 0.0429,
+        "popularity": 0.0975,
         "poster_path": "/2gvR67iivNAAJuLCi31n6REwleD.jpg",
         "first_air_date": "2026-03-24",
         "name": "沉靡",
@@ -37,7 +61,7 @@
         "original_language": "en",
         "original_name": "Toonout",
         "overview": "",
-        "popularity": 0.4167,
+        "popularity": 0.806,
         "poster_path": "/65lIuv5GAnfMieSQ5VxcKGaMmIh.jpg",
         "first_air_date": "2026-03-24",
         "name": "Toonout",
@@ -60,7 +84,7 @@
         "original_language": "en",
         "original_name": "Picture This",
         "overview": "",
-        "popularity": 0.0379,
+        "popularity": 0.0593,
         "poster_path": null,
         "first_air_date": "2026-03-24",
         "name": "Picture This",
@@ -80,7 +104,7 @@
         "original_language": "en",
         "original_name": "The Verdict",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0214,
         "poster_path": null,
         "first_air_date": "2026-03-24",
         "name": "The Verdict",
