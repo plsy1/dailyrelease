@@ -2,6 +2,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1657007,
+        "original_language": "zh",
+        "original_title": "龙口走蛟",
+        "overview": "全镇都在等“蛟”化龙，却不知有人在等献祭！暴雨连下七天，离奇死亡接二连三……道士张不平闯入龙口镇，发现每个死者身上，都有一道不该有的“墮龙爪印”。是千年传说应验，还是一场借神杀人的完美犯罪？",
+        "popularity": 0.0,
+        "poster_path": "/qV4IzXpxh2ynqrvERhdCvb1wJh0.jpg",
+        "release_date": "2026-03-24",
+        "title": "龙口走蛟",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             27
         ],
@@ -30,11 +48,11 @@
         "id": 1555160,
         "original_language": "en",
         "original_title": "Jeff Ross: Take a Banana for the Ride",
-        "overview": "",
+        "overview": "传奇喜剧演员杰夫·罗斯首登百老汇，将聚光灯对准自己，带来真诚而爆笑的个人秀。",
         "popularity": 0.4703,
         "poster_path": "/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
         "release_date": "2026-03-24",
-        "title": "Jeff Ross: Take a Banana for the Ride",
+        "title": "杰夫·罗斯：带蕉上路",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -105,6 +123,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            27
+        ],
+        "id": 1479319,
+        "original_language": "en",
+        "original_title": "Under the Rug",
+        "overview": "",
+        "popularity": 0.0888,
+        "poster_path": "/22GgFgusbmVrwsTiDNbSBUSiPvn.jpg",
+        "release_date": "2026-03-24",
+        "title": "Under the Rug",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "恐怖"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -456,6 +498,28 @@
             "音乐"
         ],
         "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            37
+        ],
+        "id": 1657106,
+        "original_language": "ru",
+        "original_title": "Спектр",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-03-24",
+        "title": "Спектр",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "西部"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
