@@ -27,7 +27,8 @@
         "adult": false,
         "backdrop_path": "/76Vdt31jeJtewbb5YkL1Q91DYeO.jpg",
         "genre_ids": [
-            16
+            16,
+            10759
         ],
         "id": 233291,
         "origin_country": [
@@ -43,7 +44,8 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画"
+            "动画",
+            "动作与冒险"
         ],
         "original_language_zh": "汉语"
     },
@@ -447,12 +449,12 @@
             "土耳其"
         ],
         "original_language": "tr",
-        "original_name": "Bize BiŞey Olmaz",
+        "original_name": "Bize Bi'Şey Olmaz",
         "overview": "",
         "popularity": 0.722,
         "poster_path": "/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
         "first_air_date": "2026-03-25",
-        "name": "Bize BiŞey Olmaz",
+        "name": "Bize Bi'Şey Olmaz",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -487,5 +489,29 @@
             "脱口秀"
         ],
         "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2G6PzRW97y7XcNL4eELYTNoBAh.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 317495,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Uppdrag Granskning: Mormor ska Dö",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-03-25",
+        "name": "Uppdrag Granskning: Mormor ska Dö",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
