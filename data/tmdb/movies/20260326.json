@@ -45,7 +45,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/x4g6y3KPbX0goeI4d3AyoQkjN3R.jpg",
+        "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
         "genre_ids": [
             10751,
             14,
@@ -793,12 +793,12 @@
         ],
         "id": 1653353,
         "original_language": "es",
-        "original_title": "PRINCESA,20",
+        "original_title": "PRINCESA, 20",
         "overview": "",
         "popularity": 0.0286,
         "poster_path": "/5cYahMikNWdzbJ63b4CO1ePZPSl.jpg",
         "release_date": "2026-03-26",
-        "title": "PRINCESA,20",
+        "title": "PRINCESA, 20",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -855,28 +855,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/drEC5ZDesvz3g7xuApbud6xKSm7.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1134517,
-        "original_language": "pt",
-        "original_title": "Ruas da Glória",
-        "overview": "",
-        "popularity": 1.1437,
-        "poster_path": "/8TuRyX64xqLsYjz1xIyWnyevQkg.jpg",
-        "release_date": "2026-03-26",
-        "title": "Ruas da Glória",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/ssBROQ3WPs1JB9cyMaEi5rlt9i5.jpg",
         "genre_ids": [
             35,
@@ -898,6 +876,28 @@
             "喜剧",
             "动作",
             "犯罪"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/drEC5ZDesvz3g7xuApbud6xKSm7.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1134517,
+        "original_language": "pt",
+        "original_title": "Ruas da Glória",
+        "overview": "",
+        "popularity": 1.1437,
+        "poster_path": "/8TuRyX64xqLsYjz1xIyWnyevQkg.jpg",
+        "release_date": "2026-03-26",
+        "title": "Ruas da Glória",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "葡萄牙语"
     },
