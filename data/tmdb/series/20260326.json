@@ -51,7 +51,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gfXqlJMEyDV4x5bE4z8yY8zmUDf.jpg",
+        "backdrop_path": "/tsatObfXdVBtYmHkjdBEKzKzyNB.jpg",
         "genre_ids": [
             18,
             9648
@@ -67,41 +67,13 @@
         "poster_path": "/92GrUAwk3WxjaUMBRX4hKfNqa4x.jpg",
         "first_air_date": "2026-03-26",
         "name": "命中婚劫",
-        "vote_average": 2.0,
-        "vote_count": 1,
+        "vote_average": 6.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "剧情",
             "悬疑"
         ],
         "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/e9HhOb3o22t89lnpN511GzZE0Fp.jpg",
-        "genre_ids": [
-            9648,
-            80
-        ],
-        "id": 249597,
-        "origin_country": [
-            "挪威",
-            "英国",
-            "美国"
-        ],
-        "original_language": "no",
-        "original_name": "Harry Hole",
-        "overview": "奥斯陆发生了一连串带有仪式色彩的凶杀案。一位名探必须理清错综复杂的线索，揭露腐败并克服心魔，才能将凶手绳之以法。",
-        "popularity": 4.7025,
-        "poster_path": "/xG68ZN6vTaCj7BTb3PT9HdwE7Ri.jpg",
-        "first_air_date": "2026-03-26",
-        "name": "哈利警探",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "犯罪"
-        ],
-        "original_language_zh": "挪威语"
     },
     {
         "adult": false,
@@ -239,7 +211,7 @@
         ],
         "original_language": "ko",
         "original_name": "고백해서 미안합니다",
-        "overview": "本剧描写因一次告白而意外纠缠上四名男子的女主角，展开大混乱的摆脱单身项目。讲述了因为仅仅一次告白，就不情愿地与多名男子产生交集，产生了1V4的告白丑闻。",
+        "overview": "一名因暗恋对象受伤的女孩，冲动之下向三位男闺蜜发出了表白。原本以为会被悉数拒绝，没曾想三人竟然在同一时间全部答应了。母胎单身的她摇身一变，成了脚踏三条船的“蛇蝎美人”。这场剪不断理还乱的多重恋爱，她究竟能否顺理成章地应对下去呢？",
         "popularity": 0.1379,
         "poster_path": "/aY1VnJAKPjPCjdQdPITZQdmczK3.jpg",
         "first_air_date": "2026-03-26",
@@ -360,11 +332,11 @@
         ],
         "original_language": "es",
         "original_name": "La fiscal",
-        "overview": "",
+        "overview": "这部纪录片剧集坦诚讲述了墨西哥城首位杀害女性案件调查检查办的故事，这个新部门致力于终结针对女性的暴行。",
         "popularity": 0.4662,
-        "poster_path": null,
+        "poster_path": "/brhRmUVayuBOnO1R0evvF7L89R4.jpg",
         "first_air_date": "2026-03-26",
-        "name": "La fiscal",
+        "name": "特别主控官：墨西哥女性命案守护者",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -419,9 +391,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/yOsANXDL9oxWp8t0J9uiYyyyOdq.jpg",
+        "backdrop_path": "/kzh7sMRx0xlSYzTl2jul9ueDD0l.jpg",
         "genre_ids": [
-            18
+            18,
+            9648
         ],
         "id": 251301,
         "origin_country": [
@@ -431,13 +404,14 @@
         "original_name": "Чёрная графиня",
         "overview": "",
         "popularity": 1.1856,
-        "poster_path": "/w9eyH1RJv4kX5SwWpiOtVGhuLob.jpg",
+        "poster_path": "/mNFevaGboFT5AFFHKlfj8gELUqe.jpg",
         "first_air_date": "2026-03-26",
         "name": "Чёрная графиня",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.5,
+        "vote_count": 2,
         "genre_ids_zh": [
-            "剧情"
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "俄语"
     },
@@ -488,5 +462,33 @@
             "真人秀"
         ],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e9HhOb3o22t89lnpN511GzZE0Fp.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 249597,
+        "origin_country": [
+            "挪威",
+            "英国",
+            "美国"
+        ],
+        "original_language": "no",
+        "original_name": "Harry Hole",
+        "overview": "奥斯陆发生了一连串带有仪式色彩的凶杀案。一位名探必须理清错综复杂的线索，揭露腐败并克服心魔，才能将凶手绳之以法。",
+        "popularity": 4.7025,
+        "poster_path": "/xG68ZN6vTaCj7BTb3PT9HdwE7Ri.jpg",
+        "first_air_date": "2026-03-26",
+        "name": "哈利警探",
+        "vote_average": 6.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "悬疑",
+            "犯罪"
+        ],
+        "original_language_zh": "挪威语"
     }
 ]
