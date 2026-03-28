@@ -2,7 +2,9 @@
     {
         "adult": false,
         "backdrop_path": "/aFcLMJkJRLnTzxqxxlVw6Xn34NC.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 317264,
         "origin_country": [
             "美国"
@@ -16,7 +18,9 @@
         "name": "Betrayal: Secrets & Lies",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -64,8 +68,8 @@
         "poster_path": "/sfUtvSr6vIOA4VLOiMUxCyfHNVS.jpg",
         "first_air_date": "2026-03-29",
         "name": "Football Island",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "真人秀"
         ],
