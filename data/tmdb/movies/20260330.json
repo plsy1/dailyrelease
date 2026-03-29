@@ -49,6 +49,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            27
+        ],
+        "id": 1609447,
+        "original_language": "en",
+        "original_title": "Zoglins: Horror da Estrada Sem Luz",
+        "overview": "",
+        "popularity": 0.1342,
+        "poster_path": "/7AYXcqCoD4tYORA2EHLObjlQ6SP.jpg",
+        "release_date": "2026-03-30",
+        "title": "Zoglins: Horror da Estrada Sem Luz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/f3pNoEwJhvkr0IfVGhSpz1NqwzV.jpg",
         "genre_ids": [
             18,
@@ -75,14 +99,14 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1644408,
+        "id": 1649601,
         "original_language": "en",
-        "original_title": "Life of Kai",
+        "original_title": "The Mysterious Reapernce Of A Batman",
         "overview": "",
-        "popularity": 0.0386,
-        "poster_path": "/n1tOC5b9CqVBIH5wFHKCfgzzDLo.jpg",
+        "popularity": 0.0513,
+        "poster_path": "/15nIRRvjTslXkiM4wWDCI8jxTPN.jpg",
         "release_date": "2026-03-30",
-        "title": "Life of Kai",
+        "title": "The Mysterious Reapernce Of A Batman",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -127,6 +151,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1644408,
+        "original_language": "en",
+        "original_title": "Life of Kai",
+        "overview": "",
+        "popularity": 0.0386,
+        "poster_path": "/n1tOC5b9CqVBIH5wFHKCfgzzDLo.jpg",
+        "release_date": "2026-03-30",
+        "title": "Life of Kai",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ost3viSnQwdbqKBUylB29gVbigk.jpg",
         "genre_ids": [
             80,
@@ -146,30 +188,6 @@
         "genre_ids_zh": [
             "犯罪",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878,
-            27
-        ],
-        "id": 1609447,
-        "original_language": "en",
-        "original_title": "Zoglins: Horror da Estrada Sem Luz",
-        "overview": "",
-        "popularity": 0.1342,
-        "poster_path": "/7AYXcqCoD4tYORA2EHLObjlQ6SP.jpg",
-        "release_date": "2026-03-30",
-        "title": "Zoglins: Horror da Estrada Sem Luz",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -297,6 +315,24 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1659137,
+        "original_language": "fr",
+        "original_title": "Le Retour des fleurs",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/ovGKIRPlvRQUkn8cYKZ0LTxKFhQ.jpg",
+        "release_date": "2026-03-30",
+        "title": "Le Retour des fleurs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
