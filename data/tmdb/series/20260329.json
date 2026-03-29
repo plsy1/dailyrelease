@@ -73,6 +73,32 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 289576,
+        "origin_country": [
+            "德国",
+            "奥地利",
+            "CZ"
+        ],
+        "original_language": "de",
+        "original_name": "Sternstunde der Mörder",
+        "overview": "",
+        "popularity": 1.2166,
+        "poster_path": null,
+        "first_air_date": "2026-03-29",
+        "name": "Sternstunde der Mörder",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/obP9XFsgw8tqbiYa4y6DeeqIdX7.jpg",
         "genre_ids": [
             10764
@@ -108,7 +134,7 @@
         "original_language": "tr",
         "original_name": "Çirkin",
         "overview": "",
-        "popularity": 1.709,
+        "popularity": 1.7012,
         "poster_path": "/nrBNLQUzs6KiqL6nTRfVTQdlVgP.jpg",
         "first_air_date": "2026-03-29",
         "name": "Çirkin",
