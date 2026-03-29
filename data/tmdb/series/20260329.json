@@ -75,25 +75,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            80
+            80,
+            10768,
+            18
         ],
         "id": 289576,
         "origin_country": [
             "德国",
-            "奥地利",
-            "CZ"
+            "奥地利"
         ],
         "original_language": "de",
         "original_name": "Sternstunde der Mörder",
         "overview": "",
         "popularity": 1.2166,
-        "poster_path": null,
+        "poster_path": "/cDRLgFCrgKEoAAg0YfWfA98BAPu.jpg",
         "first_air_date": "2026-03-29",
         "name": "Sternstunde der Mörder",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪"
+            "犯罪",
+            "战争与政治",
+            "剧情"
         ],
         "original_language_zh": "德语"
     },
