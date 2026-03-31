@@ -18,8 +18,8 @@
         "release_date": "2026-04-01",
         "title": "超级马力欧银河大电影",
         "video": false,
-        "vote_average": 8.4,
-        "vote_count": 7,
+        "vote_average": 7.889,
+        "vote_count": 9,
         "genre_ids_zh": [
             "家庭",
             "奇幻",
@@ -34,8 +34,7 @@
         "backdrop_path": "/gemH3TTDSI0tygKff4YCfBeOBLO.jpg",
         "genre_ids": [
             10749,
-            35,
-            18
+            35
         ],
         "id": 1325734,
         "original_language": "en",
@@ -50,8 +49,7 @@
         "vote_count": 3,
         "genre_ids_zh": [
             "爱情",
-            "喜剧",
-            "剧情"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -709,6 +707,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/Ai30lHkIf1dMaMY3KU4FYKTwHpc.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1660444,
+        "original_language": "th",
+        "original_title": "La la bye",
+        "overview": "",
+        "popularity": 0.2714,
+        "poster_path": "/9ORCYVL0ZGzNbIwUpXWlZjfqFcA.jpg",
+        "release_date": "2026-04-01",
+        "title": "La la bye",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
         "genre_ids": [
             35
@@ -871,6 +891,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/scB5QCvUayxTCdTYjg73bt87qWd.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1657407,
+        "original_language": "fr",
+        "original_title": "Alison Wheeler : La Promesse d'un soir",
+        "overview": "",
+        "popularity": 0.1092,
+        "poster_path": "/n0EI2tNFxjyDp8tFFL1eAdgJJ2L.jpg",
+        "release_date": "2026-04-01",
+        "title": "Alison Wheeler : La Promesse d'un soir",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wT7gb3AJhPzI8lPcbCVBhzzXD4p.jpg",
         "genre_ids": [
             99
@@ -910,28 +952,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/scB5QCvUayxTCdTYjg73bt87qWd.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1657407,
-        "original_language": "fr",
-        "original_title": "Alison Wheeler : La Promesse d'un soir",
-        "overview": "",
-        "popularity": 0.1092,
-        "poster_path": "/n0EI2tNFxjyDp8tFFL1eAdgJJ2L.jpg",
-        "release_date": "2026-04-01",
-        "title": "Alison Wheeler : La Promesse d'un soir",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "法语"
     },
