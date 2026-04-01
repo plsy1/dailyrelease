@@ -18,8 +18,8 @@
         "release_date": "2026-04-01",
         "title": "超级马力欧银河大电影",
         "video": false,
-        "vote_average": 7.5,
-        "vote_count": 15,
+        "vote_average": 7.1,
+        "vote_count": 22,
         "genre_ids_zh": [
             "家庭",
             "奇幻",
@@ -257,6 +257,34 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rPp2I133FDlU1JdjoIQ5lcuDcBG.jpg",
+        "genre_ids": [
+            12,
+            35,
+            878,
+            18
+        ],
+        "id": 1660969,
+        "original_language": "en",
+        "original_title": "vertical timelord",
+        "overview": "",
+        "popularity": 0.1286,
+        "poster_path": "/mXZqskrjcjmgxGzZ2WvMhLJh4M6.jpg",
+        "release_date": "2026-04-01",
+        "title": "vertical timelord",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "喜剧",
+            "科幻",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -585,6 +613,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rI4p9RcZ6FwgVtdOQh0PfKkjgMs.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1661829,
+        "original_language": "en",
+        "original_title": "Smoke",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-01",
+        "title": "Smoke",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1661644,
+        "original_language": "en",
+        "original_title": "Randy Feltface: First Banana",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zgcgBhKUpJzxI59HN1u8XU3Xg2D.jpg",
+        "release_date": "2026-04-01",
+        "title": "Randy Feltface: First Banana",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/z8zMmqz7EgIL5XG50uzQApRJtR1.jpg",
         "genre_ids": [
             12,
@@ -645,34 +717,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            12,
-            35,
-            878,
-            18
-        ],
-        "id": 1660969,
-        "original_language": "en",
-        "original_title": "vertical timelord",
-        "overview": "",
-        "popularity": 0.1286,
-        "poster_path": "/mXZqskrjcjmgxGzZ2WvMhLJh4M6.jpg",
-        "release_date": "2026-04-01",
-        "title": "vertical timelord",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "冒险",
-            "喜剧",
-            "科幻",
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -1486,7 +1530,7 @@
         "original_title": "Scuola di seduzione",
         "overview": "",
         "popularity": 0.3878,
-        "poster_path": "/ez2Vgogx1bASALeHNQzCmXvtIXU.jpg",
+        "poster_path": "/vQtgFAT7GALLn5LJonQMcbBMjT3.jpg",
         "release_date": "2026-04-01",
         "title": "Scuola di seduzione",
         "video": false,
@@ -1547,6 +1591,7 @@
         "adult": false,
         "backdrop_path": "/qmv2obINyicDg0Pt7CTr1bamAJw.jpg",
         "genre_ids": [
+            10749,
             35
         ],
         "id": 1561758,
@@ -1561,6 +1606,7 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "爱情",
             "喜剧"
         ],
         "original_language_zh": "波兰语"
