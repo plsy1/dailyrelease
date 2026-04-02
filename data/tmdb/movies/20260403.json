@@ -29,28 +29,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1579223,
-        "original_language": "zh",
-        "original_title": "北回归线以北",
-        "overview": "　　影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
-        "popularity": 0.7129,
-        "poster_path": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
-        "release_date": "2026-04-03",
-        "title": "北回归线以北",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             53,
             27
         ],
@@ -68,6 +46,28 @@
         "genre_ids_zh": [
             "惊悚",
             "恐怖"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1579223,
+        "original_language": "zh",
+        "original_title": "北回归线以北",
+        "overview": "　　影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
+        "popularity": 0.7129,
+        "poster_path": "/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
+        "release_date": "2026-04-03",
+        "title": "北回归线以北",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -95,7 +95,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dP3W1ztH2798SEj8IEy1YLllGz8.jpg",
+        "backdrop_path": "/xP9YyExJeXo5c5WrjRftm90mQRt.jpg",
         "genre_ids": [
             80,
             10749
@@ -103,11 +103,11 @@
         "id": 1509632,
         "original_language": "zh",
         "original_title": "我們不是什麼",
-        "overview": "",
+        "overview": "情人节当天，一辆双层巴士在闹市发生爆炸，造成多人伤亡，鉴于案情严重，警队重聘离职六载的前警队鉴证专家龙Sir协助调查。爆炸案死者当中，有两具遗体没有家属认领，他们是出身问题家庭的晖仔与被父亲赶离家的Ike。警察到晖仔居所调查时，发现㓥房门后写着：“当雪崩的时候，没有一片雪花是无辜的。",
         "popularity": 1.0674,
         "poster_path": "/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
         "release_date": "2026-04-03",
-        "title": "我們不是什麼",
+        "title": "我们不是什么",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -652,6 +652,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4fuI2xLPC6DQQ6yLVx8vMrOhgoJ.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1656533,
+        "original_language": "ja",
+        "original_title": "〜高須クリニックpresents〜靖国神社奉納プロレス「マリーゴールド大和神州女祭り」",
+        "overview": "",
+        "popularity": 0.1491,
+        "poster_path": "/k0r84z8uUBfM4hyiEsFYB6Hf0UZ.jpg",
+        "release_date": "2026-04-03",
+        "title": "〜高須クリニックpresents〜靖国神社奉納プロレス「マリーゴールド大和神州女祭り」",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
         ],
         "original_language_zh": "日语"
     },
