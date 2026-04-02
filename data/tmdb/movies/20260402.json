@@ -819,6 +819,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jxVEH3wZqG58rz7jbmg1Yl6UZtY.jpg",
+        "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1000609,
+        "original_language": "fr",
+        "original_title": "Voyages en têtes étrangères",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/884OxZQ1onGLtg6ujSzzgglMMEd.jpg",
+        "release_date": "2026-04-02",
+        "title": "Voyages en têtes étrangères",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -838,6 +862,28 @@
         "genre_ids_zh": [
             "剧情",
             "音乐"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1659869,
+        "original_language": "es",
+        "original_title": "Paranoia",
+        "overview": "",
+        "popularity": 0.1804,
+        "poster_path": "/fCqBLEEqruJxxmmUqA1wZp39G0U.jpg",
+        "release_date": "2026-04-02",
+        "title": "Paranoia",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1039,6 +1085,30 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/4PXAidfLcf1FlaLNcSorjIc4lfB.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1429829,
+        "original_language": "pt",
+        "original_title": "Shadowplay",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/ekOxhQvYlea5gB8zWwzhNHnST8V.jpg",
+        "release_date": "2026-04-02",
+        "title": "Shadowplay",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/iXvXXRWmenJKe6oFDXE1KRkTi9e.jpg",
         "genre_ids": [
             35
@@ -1107,46 +1177,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1654358,
-        "original_language": "ru",
-        "original_title": "Путорана",
-        "overview": "",
-        "popularity": 0.1845,
-        "poster_path": null,
-        "release_date": "2026-04-02",
-        "title": "Путорана",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1655384,
-        "original_language": "ru",
-        "original_title": "Поколение героев",
-        "overview": "",
-        "popularity": 0.1164,
-        "poster_path": null,
-        "release_date": "2026-04-02",
-        "title": "Поколение героев",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1655365,
@@ -1162,50 +1192,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1655383,
-        "original_language": "ru",
-        "original_title": "Хранители Ольджиканского",
-        "overview": "",
-        "popularity": 0.106,
-        "poster_path": null,
-        "release_date": "2026-04-02",
-        "title": "Хранители Ольджиканского",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1655367,
-        "original_language": "ru",
-        "original_title": "Пик Креницына",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2026-04-02",
-        "title": "Пик Креницына",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "俄语"
     },
@@ -1367,6 +1353,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18
+        ],
+        "id": 1662379,
+        "original_language": "tr",
+        "original_title": "Kuşlar Uçtuğunda",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tnME0UuY7YyFGbZVSjruMluQDbW.jpg",
+        "release_date": "2026-04-02",
+        "title": "Kuşlar Uçtuğunda",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "土耳其语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1662261,
@@ -1422,8 +1430,8 @@
         "release_date": "2026-04-02",
         "title": "The Beauty of Errors - Kappale kauneinta Suomea",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 9.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],

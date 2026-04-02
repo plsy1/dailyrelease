@@ -27,30 +27,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dP3W1ztH2798SEj8IEy1YLllGz8.jpg",
-        "genre_ids": [
-            80,
-            10749
-        ],
-        "id": 1509632,
-        "original_language": "zh",
-        "original_title": "我們不是什麼",
-        "overview": "",
-        "popularity": 1.0674,
-        "poster_path": "/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
-        "release_date": "2026-04-03",
-        "title": "我們不是什麼",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "爱情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -114,6 +90,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dP3W1ztH2798SEj8IEy1YLllGz8.jpg",
+        "genre_ids": [
+            80,
+            10749
+        ],
+        "id": 1509632,
+        "original_language": "zh",
+        "original_title": "我們不是什麼",
+        "overview": "",
+        "popularity": 1.0674,
+        "poster_path": "/ewDa8LYwczVuL9gACSkHjakLTcC.jpg",
+        "release_date": "2026-04-03",
+        "title": "我們不是什麼",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "爱情"
         ],
         "original_language_zh": "汉语"
     },
@@ -304,6 +304,30 @@
         "genre_ids_zh": [
             "剧情",
             "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8RpA9szuCJPus4HMHgOOrHWcx6T.jpg",
+        "genre_ids": [
+            35,
+            14
+        ],
+        "id": 1659818,
+        "original_language": "en",
+        "original_title": "Goblin Sighting",
+        "overview": "",
+        "popularity": 0.139,
+        "poster_path": "/qtViAEVs6rx8wo1lERUwBOlIaWj.jpg",
+        "release_date": "2026-04-03",
+        "title": "Goblin Sighting",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -800,6 +824,94 @@
             "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1654358,
+        "original_language": "ru",
+        "original_title": "Путорана",
+        "overview": "",
+        "popularity": 0.1845,
+        "poster_path": "/eX0JyB14OZkAFvORSt1P6GmFhf7.jpg",
+        "release_date": "2026-04-03",
+        "title": "Путорана",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1655384,
+        "original_language": "ru",
+        "original_title": "Поколение героев",
+        "overview": "",
+        "popularity": 0.1164,
+        "poster_path": "/5vfDEkHnrPxwfOxmq2XtDvYr18s.jpg",
+        "release_date": "2026-04-03",
+        "title": "Поколение героев",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1655383,
+        "original_language": "ru",
+        "original_title": "Хранители Ольджиканского",
+        "overview": "",
+        "popularity": 0.106,
+        "poster_path": "/kGoTKQUVR8zwFCV1vIxZh03B2mU.jpg",
+        "release_date": "2026-04-03",
+        "title": "Хранители Ольджиканского",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1655367,
+        "original_language": "ru",
+        "original_title": "Пик Креницына",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2026-04-03",
+        "title": "Пик Креницына",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
     },
     {
         "adult": false,
