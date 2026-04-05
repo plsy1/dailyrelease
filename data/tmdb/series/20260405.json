@@ -49,34 +49,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            10759,
-            10765
-        ],
-        "id": 286361,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "魔法の姉妹ルルットリリィ",
-        "overview": "　　野野山风是个天真烂漫的小学生，翘首期盼着暑假的到来。野野山流是个内敛却努力上进的初中生。曾经亲密无间的姐妹俩，近来却不知为何心生隔阂……\n\n　　某日，风偶遇一艘奇妙的宇宙船，被授予了魔法之力。与此同时，流也获得了一份美好的魔法力量。姐妹俩都变身成了憧憬已久的成熟姿态。\n\n　　然而，有两条铁律，魔法之事不可向任何人泄露，期限仅一年。\n\n　　不久后，彼此不知对方秘密的二人，分别作为偶像活跃了起来——！",
-        "popularity": 5.7166,
-        "poster_path": "/1lziKy50ykj6T5blCMnrQweB7HW.jpg",
-        "first_air_date": "2026-04-05",
-        "name": "魔法的姐妹露露和莉莉",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "动作与冒险",
-            "科幻与奇幻"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/n66qRDYmZ2fmyAC9IFzcSZULAAN.jpg",
         "genre_ids": [
             16,
@@ -183,6 +155,34 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "id": 286361,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "魔法の姉妹ルルットリリィ",
+        "overview": "　　野野山风是个天真烂漫的小学生，翘首期盼着暑假的到来。野野山流是个内敛却努力上进的初中生。曾经亲密无间的姐妹俩，近来却不知为何心生隔阂……\n\n　　某日，风偶遇一艘奇妙的宇宙船，被授予了魔法之力。与此同时，流也获得了一份美好的魔法力量。姐妹俩都变身成了憧憬已久的成熟姿态。\n\n　　然而，有两条铁律，魔法之事不可向任何人泄露，期限仅一年。\n\n　　不久后，彼此不知对方秘密的二人，分别作为偶像活跃了起来——！",
+        "popularity": 5.7166,
+        "poster_path": "/pCMsBxG8DKlphthT1VUzkCdBnyN.jpg",
+        "first_air_date": "2026-04-05",
+        "name": "魔法的姐妹露露和莉莉",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "动作与冒险",
+            "科幻与奇幻"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hvxUBjO9zROmNhdC1DswAwRbbYG.jpg",
         "genre_ids": [
             80,
@@ -281,26 +281,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 318672,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "運転席からの風景",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
-        "first_air_date": "2026-04-05",
-        "name": "運転席からの風景",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
         "id": 318641,
         "origin_country": [
             "日本"
@@ -312,6 +292,26 @@
         "poster_path": null,
         "first_air_date": "2026-04-05",
         "name": "アニメA",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 318672,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "運転席からの風景",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-04-05",
+        "name": "運転席からの風景",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
