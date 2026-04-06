@@ -1,8 +1,11 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/owkbfPETgw86BQlcffk6PYT2vqS.jpg",
-        "genre_ids": [],
+        "backdrop_path": "/htdObOindLCRiKq46RTzhWTKJCx.jpg",
+        "genre_ids": [
+            16,
+            18
+        ],
         "id": 317320,
         "origin_country": [
             "中国"
@@ -10,13 +13,16 @@
         "original_language": "zh",
         "original_name": "大道独行之蝶龙变",
         "overview": "洛离从⼩被困于⽆灵之地银州⼤陆，成为天绝杀堂的第⼀杀⼿。⽗亲慈云⼤师牺牲⾃⼰为洛离换来⼀线⽣机，让其逃离银州，前往中天主世界去寻找真正的修仙之路。",
-        "popularity": 0.2089,
+        "popularity": 0.2098,
         "poster_path": "/qgrVf9iv1NFYYgPN7YH4W7Z89NG.jpg",
         "first_air_date": "2026-04-06",
         "name": "大道独行之蝶龙变",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "动画",
+            "剧情"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -34,12 +40,12 @@
         "original_language": "en",
         "original_name": "Star Wars: Maul - Shadow Lord",
         "overview": "",
-        "popularity": 7.1854,
+        "popularity": 7.8624,
         "poster_path": "/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg",
         "first_air_date": "2026-04-06",
         "name": "星球大战：摩尔-暗影之王",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 4.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "动画",
             "科幻与奇幻",
@@ -58,7 +64,7 @@
         "original_language": "en",
         "original_name": "Foul Play with Anthony Davis",
         "overview": "",
-        "popularity": 0.174,
+        "popularity": 0.1833,
         "poster_path": "/z1XtnOjJAlRgYrc0HLYmeFBVbPD.jpg",
         "first_air_date": "2026-04-06",
         "name": "Foul Play with Anthony Davis",
@@ -80,7 +86,7 @@
         "original_language": "en",
         "original_name": "Ben Fogle in China",
         "overview": "",
-        "popularity": 0.1037,
+        "popularity": 0.1246,
         "poster_path": null,
         "first_air_date": "2026-04-06",
         "name": "Ben Fogle in China",
@@ -90,6 +96,52 @@
             "纪录"
         ],
         "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8HUkdE7jIDGJyLBgDK9meojrRtz.jpg",
+        "genre_ids": [],
+        "id": 318777,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "編成王川島",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/nYXhHDjoEOMOCgNvroHDO6gQt1i.jpg",
+        "first_air_date": "2026-04-06",
+        "name": "編成王川島",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fxkcclraLCONUZEJLylKACAgRdt.jpg",
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 315816,
+        "origin_country": [
+            "日本"
+        ],
+        "original_language": "ja",
+        "original_name": "茉莉花ちゃんの好感度はぶっ壊れている",
+        "overview": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
+        "popularity": 6.2027,
+        "poster_path": "/A8dwD5GUUGgCXjTxuSWWGM6g6u1.jpg",
+        "first_air_date": "2026-04-06",
+        "name": "茉莉花酱的好感度正在崩坏",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧"
+        ],
+        "original_language_zh": "日语"
     },
     {
         "adult": false,
@@ -106,7 +158,7 @@
         "original_language": "ja",
         "original_name": "とんがり帽子のアトリエ",
         "overview": "　　生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇弗利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇弗利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。",
-        "popularity": 4.6239,
+        "popularity": 4.9348,
         "poster_path": "/1qGSBnrANHLX8C7KqGuPDCylns2.jpg",
         "first_air_date": "2026-04-06",
         "name": "尖帽子的魔法工房",
@@ -116,32 +168,6 @@
             "动画",
             "科幻与奇幻",
             "剧情"
-        ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/fxkcclraLCONUZEJLylKACAgRdt.jpg",
-        "genre_ids": [
-            16,
-            35
-        ],
-        "id": 315816,
-        "origin_country": [
-            "日本"
-        ],
-        "original_language": "ja",
-        "original_name": "茉莉花ちゃんの好感度はぶっ壊れている",
-        "overview": "　　变得能够看到喜欢的女孩子的好感度了——没有向青梅竹马的茉莉花酱表白勇气的我。一天，在向流行拼命许愿“希望能够像恋爱游戏一样能够了解对方的心意”后，这份愿望就被实现了……？！好感度条浮现在班上的女生旁。在为这超现实的场景感到困惑的同时去看了下茉莉花酱，结果是跌破了下线的地狱般的好感度条……？！茉莉花酱，明明讨厌我为什么要这么温柔……？有隐情的可爱茉莉花酱所隐藏的真心是？真的是讨厌吗？！还是说……？！",
-        "popularity": 4.2092,
-        "poster_path": "/A8dwD5GUUGgCXjTxuSWWGM6g6u1.jpg",
-        "first_air_date": "2026-04-06",
-        "name": "茉莉花酱的好感度正在崩坏",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "喜剧"
         ],
         "original_language_zh": "日语"
     },
@@ -159,7 +185,7 @@
         "original_language": "ja",
         "original_name": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
         "overview": "　　严格过头的风纪委员樱大门的职务是，在校门口检查学生着装。最让他介意的，是那个染发和穿超短裙的问题少女小日向。然而，认为樱大门很啰嗦的她，却发现他是个“学渣”的惊人事实...",
-        "popularity": 3.4906,
+        "popularity": 3.4994,
         "poster_path": "/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
         "first_air_date": "2026-04-06",
         "name": "木头风纪委员和迷你裙JK的故事",
@@ -186,7 +212,7 @@
         "original_language": "ja",
         "original_name": "ゴーストコンサート : missing Songs",
         "overview": "　　2045年，歌声被禁止的世界——。创造音乐、演奏乐曲，这些全都由音乐APP《MiucS》代替人类承担。少女·相叶芹亚与朋友们外出时，听到了本应被禁止的歌声。循着歌声，芹亚眼前出现的，是一位幽灵。\n\n　　从现世之外显现的伟人—— \"Great Ghost\"。\n\n　　灵能力者集团——\"TERA\"。\n\n　　以及回响的——\"凭依镇魂歌\"。\n\n　　\"这是，我成为幽灵之前的故事。\"",
-        "popularity": 2.3831,
+        "popularity": 5.1896,
         "poster_path": "/yMt59KZr0OewyRs31Vd3zWuneeW.jpg",
         "first_air_date": "2026-04-06",
         "name": "幽灵音乐会",
@@ -213,7 +239,7 @@
         "original_language": "ja",
         "original_name": "インゴクダンチ",
         "overview": "　　那里是危险人妻嚣张跋扈的魔之社区——在受到能够增幅人的欲望的“性欲衣”诱惑的人妻面前，菜鸟管理员吉田的命运将会……？ ​​​​",
-        "popularity": 0.802,
+        "popularity": 2.3359,
         "poster_path": "/q2YnIH8V09ugX8i9TajYFew5Qsg.jpg",
         "first_air_date": "2026-04-06",
         "name": "淫狱团地",
