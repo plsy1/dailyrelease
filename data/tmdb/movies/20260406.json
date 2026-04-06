@@ -9,7 +9,7 @@
         "original_language": "en",
         "original_title": "Precious",
         "overview": "",
-        "popularity": 0.3363,
+        "popularity": 0.5281,
         "poster_path": "/aBJpSYXdGOxsQcQIjiecRGfdqvV.jpg",
         "release_date": "2026-04-06",
         "title": "Precious",
@@ -32,7 +32,7 @@
         "original_language": "en",
         "original_title": "Goblin Sighting",
         "overview": "",
-        "popularity": 0.3077,
+        "popularity": 0.3662,
         "poster_path": "/qtViAEVs6rx8wo1lERUwBOlIaWj.jpg",
         "release_date": "2026-04-06",
         "title": "Goblin Sighting",
@@ -56,7 +56,7 @@
         "original_language": "en",
         "original_title": "Before It’s Too Late",
         "overview": "",
-        "popularity": 0.1609,
+        "popularity": 0.2016,
         "poster_path": "/kqYRKTBZKKQYBCB6BLY5LcrQAFR.jpg",
         "release_date": "2026-04-06",
         "title": "Before It’s Too Late",
@@ -79,7 +79,7 @@
         "original_language": "en",
         "original_title": "Sports Heaven: The Birth of ESPN",
         "overview": "",
-        "popularity": 0.1344,
+        "popularity": 0.2069,
         "poster_path": null,
         "release_date": "2026-04-06",
         "title": "Sports Heaven: The Birth of ESPN",
@@ -101,7 +101,7 @@
         "original_language": "en",
         "original_title": "This Is The Best Part",
         "overview": "",
-        "popularity": 0.0286,
+        "popularity": 0.0218,
         "poster_path": "/q1PZ0ds97Qzp4jHQ9hx84vSvfp0.jpg",
         "release_date": "2026-04-06",
         "title": "This Is The Best Part",
@@ -110,6 +110,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 1664278,
+        "original_language": "en",
+        "original_title": "Mr Wiggles kumar",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/gjV0IXWIPfkTpV4yLBmVdRJMHBd.jpg",
+        "release_date": "2026-04-06",
+        "title": "Mr Wiggles kumar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -190,7 +214,7 @@
         "original_language": "pt",
         "original_title": "VivaCidade",
         "overview": "",
-        "popularity": 0.2218,
+        "popularity": 0.2366,
         "poster_path": "/4foOonSyj0IhESS1uZBRk9d9wX4.jpg",
         "release_date": "2026-04-06",
         "title": "VivaCidade",
@@ -200,28 +224,6 @@
         "genre_ids_zh": [
             "动画",
             "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10770
-        ],
-        "id": 1618951,
-        "original_language": "pt",
-        "original_title": "Teste para Cardíaco",
-        "overview": "",
-        "popularity": 0.1132,
-        "poster_path": null,
-        "release_date": "2026-04-06",
-        "title": "Teste para Cardíaco",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "电视电影"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -237,7 +239,7 @@
         "original_language": "pt",
         "original_title": "Ato Final",
         "overview": "",
-        "popularity": 0.1265,
+        "popularity": 0.1126,
         "poster_path": "/OBPQZFtdYsyrXsmu6DZgASxlGS.jpg",
         "release_date": "2026-04-06",
         "title": "Ato Final",
@@ -249,6 +251,68 @@
             "喜剧",
             "犯罪"
         ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770
+        ],
+        "id": 1618951,
+        "original_language": "pt",
+        "original_title": "Teste para Cardíaco",
+        "overview": "",
+        "popularity": 0.0986,
+        "poster_path": null,
+        "release_date": "2026-04-06",
+        "title": "Teste para Cardíaco",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "电视电影"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1664331,
+        "original_language": "pt",
+        "original_title": "Dirty Sanchez",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/g74E8dJIqTqHomITodkpZXnQ1xg.jpg",
+        "release_date": "2026-04-06",
+        "title": "Dirty Sanchez",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1664313,
+        "original_language": "pt",
+        "original_title": "Batismo em Clorato de Potássio",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/6MU8kzjYAIZcYKW5diV4eNO0fGR.jpg",
+        "release_date": "2026-04-06",
+        "title": "Batismo em Clorato de Potássio",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
