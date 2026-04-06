@@ -59,30 +59,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8RpA9szuCJPus4HMHgOOrHWcx6T.jpg",
-        "genre_ids": [
-            35,
-            14
-        ],
-        "id": 1659818,
-        "original_language": "en",
-        "original_title": "Goblin Sighting",
-        "overview": "",
-        "popularity": 0.3662,
-        "poster_path": "/qtViAEVs6rx8wo1lERUwBOlIaWj.jpg",
-        "release_date": "2026-04-06",
-        "title": "Goblin Sighting",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -146,6 +122,50 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1664162,
+        "original_language": "en",
+        "original_title": "U/S/B",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/jD6UOypZ5d5YcVXMVTtbSth62lE.jpg",
+        "release_date": "2026-04-06",
+        "title": "U/S/B",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1664664,
+        "original_language": "en",
+        "original_title": "The Neighborhood: A Farewell Special",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-06",
+        "title": "The Neighborhood: A Farewell Special",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -332,6 +352,28 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "电视电影"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/daajew8ypdzZAYGpAD1nAbAlnMz.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1664570,
+        "original_language": "pt",
+        "original_title": "Pulso: As Brabas in London",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3EkVdnXWjHt3Nb388H4VPFcs2oU.jpg",
+        "release_date": "2026-04-06",
+        "title": "Pulso: As Brabas in London",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
