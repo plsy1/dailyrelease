@@ -1,6 +1,30 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/9mgKDddLVQouKpXcb4ul1tUwUO9.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1641319,
+        "original_language": "en",
+        "original_title": "Sniper: No Nation",
+        "overview": "",
+        "popularity": 1.4157,
+        "poster_path": "/y54ZFjeM3BEb40mBDAF8Jxv7mwG.jpg",
+        "release_date": "2026-04-07",
+        "title": "Sniper: No Nation",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             878,
@@ -87,6 +111,32 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uAQaeXdWMibbJvZ9jfrGhFz9z1N.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            878
+        ],
+        "id": 1664992,
+        "original_language": "en",
+        "original_title": "BE - VOLUME ONE",
+        "overview": "",
+        "popularity": 0.4286,
+        "poster_path": "/fk8PPTyBrhRhdxENnb0tMlPOhmh.jpg",
+        "release_date": "2026-04-07",
+        "title": "BE - VOLUME ONE",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "恐怖",
+            "悬疑",
+            "科幻"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -203,6 +253,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/6qywp22WDIY6sAzD6WpOgf4osml.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1665224,
+        "original_language": "en",
+        "original_title": "Sheng Wang: Purple",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/gelPSmueNEusloIqZLwy8d4dBGH.jpg",
+        "release_date": "2026-04-07",
+        "title": "Sheng Wang: Purple",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/pPnrylYbP9ZlqNJJwUHLE5TZkkr.jpg",
         "genre_ids": [],
         "id": 1665132,
@@ -238,32 +310,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/uAQaeXdWMibbJvZ9jfrGhFz9z1N.jpg",
-        "genre_ids": [
-            27,
-            9648,
-            878
-        ],
-        "id": 1664992,
-        "original_language": "en",
-        "original_title": "BE - VOLUME ONE",
-        "overview": "",
-        "popularity": 0.4286,
-        "poster_path": "/fk8PPTyBrhRhdxENnb0tMlPOhmh.jpg",
-        "release_date": "2026-04-07",
-        "title": "BE - VOLUME ONE",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑",
-            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -316,28 +362,6 @@
             "喜剧"
         ],
         "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1665224,
-        "original_language": "fr",
-        "original_title": "Sheng Wang: Purple",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/6BKDUcNi9blIZDXRaHZAL7OkwP1.jpg",
-        "release_date": "2026-04-07",
-        "title": "Sheng Wang: Purple",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "法语"
     },
     {
         "adult": false,
@@ -424,6 +448,32 @@
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lflJ328rcnsHpyvOMuARp1lxoej.jpg",
+        "genre_ids": [
+            9648,
+            27,
+            18
+        ],
+        "id": 1665291,
+        "original_language": "it",
+        "original_title": "Red Candle",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/bo6UqeFG0D96zzYWOkU73ZRg30K.jpg",
+        "release_date": "2026-04-07",
+        "title": "Red Candle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "意大利语"
     },
     {
         "adult": false,
