@@ -89,8 +89,8 @@
         "poster_path": "/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
         "first_air_date": "2026-04-08",
         "name": "The Testaments",
-        "vote_average": 5.5,
-        "vote_count": 2,
+        "vote_average": 4.0,
+        "vote_count": 3,
         "genre_ids_zh": [
             "剧情",
             "科幻与奇幻"
@@ -126,7 +126,9 @@
     {
         "adult": false,
         "backdrop_path": "/9wYxqq5I4e6Tm2Gb1pLPpizQEvC.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            35
+        ],
         "id": 317556,
         "origin_country": [
             "英国"
@@ -140,7 +142,9 @@
         "name": "Twenty Twenty Six",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
