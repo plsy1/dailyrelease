@@ -55,11 +55,39 @@
         "release_date": "2026-04-09",
         "title": "You, Me & Tuscany",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "爱情",
             "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qV42S4n6HC1kz97yJKSpAZjiQ6j.jpg",
+        "genre_ids": [
+            36,
+            28,
+            12,
+            10752
+        ],
+        "id": 1207162,
+        "original_language": "en",
+        "original_title": "Rise of the Conqueror",
+        "overview": "",
+        "popularity": 2.8266,
+        "poster_path": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+        "release_date": "2026-04-09",
+        "title": "Rise of the Conqueror",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "历史",
+            "动作",
+            "冒险",
+            "战争"
         ],
         "original_language_zh": "英语"
     },
@@ -418,6 +446,24 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1666123,
+        "original_language": "en",
+        "original_title": "Canard",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": null,
+        "release_date": "2026-04-09",
+        "title": "Canard",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             27
         ],
@@ -475,6 +521,86 @@
         "genre_ids_zh": [
             "恐怖"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            35,
+            27
+        ],
+        "id": 1666124,
+        "original_language": "en",
+        "original_title": "Yo Yo Springs",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-04-09",
+        "title": "Yo Yo Springs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "喜剧",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1666118,
+        "original_language": "en",
+        "original_title": "Strings: A Documentary",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-04-09",
+        "title": "Strings: A Documentary",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1666113,
+        "original_language": "en",
+        "original_title": "A Trash Life",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-04-09",
+        "title": "A Trash Life",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1666622,
+        "original_language": "en",
+        "original_title": "Reborn",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-09",
+        "title": "Reborn",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
