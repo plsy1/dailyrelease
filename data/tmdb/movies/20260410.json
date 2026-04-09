@@ -71,6 +71,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/vd4GC8P7MDxLCrW2SeUgr6pFVm1.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1666525,
+        "original_language": "zh",
+        "original_title": "寒·露",
+        "overview": "一连串匿名勒索电话，寄到家里的裸照让强势的医生赵寒雪饱受丈夫的暴力摧残。女儿离家出走，下落不明。赵寒雪能否解决勒索，逃离暴力？又该如何寻回女儿？",
+        "popularity": 0.0,
+        "poster_path": "/ctNkAlfc4XW1JMF0vEl92nSqlN9.jpg",
+        "release_date": "2026-04-10",
+        "title": "寒·露",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             28,
@@ -571,32 +593,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            10402,
-            35
-        ],
-        "id": 1384149,
-        "original_language": "en",
-        "original_title": "All Roads Lead To Home",
-        "overview": "",
-        "popularity": 0.1745,
-        "poster_path": "/7ebzeTUrOgdr29h443MYlVUTdH5.jpg",
-        "release_date": "2026-04-10",
-        "title": "All Roads Lead To Home",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "音乐",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             878,
             9648,
             14,
@@ -983,6 +979,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zp9tvRhysCi2Y3GcB8Efpb7FjnT.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1666490,
+        "original_language": "en",
+        "original_title": "Return to Sender",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/wQXDCh7BslXaZSYmVympqZAHMkC.jpg",
+        "release_date": "2026-04-10",
+        "title": "Return to Sender",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
             "恐怖"
         ],
         "original_language_zh": "英语"
