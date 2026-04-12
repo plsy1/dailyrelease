@@ -205,30 +205,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iNgb33nh6v8dfaMOVOJDUxABaIa.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1636981,
-        "original_language": "en",
-        "original_title": "Ten Thousand Reasons for Revenge",
-        "overview": "",
-        "popularity": 0.2037,
-        "poster_path": "/xFkGNlxzaeHsxtRzf7ltUIXvniC.jpg",
-        "release_date": "2026-04-12",
-        "title": "Ten Thousand Reasons for Revenge",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1662897,
@@ -283,6 +259,30 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iNgb33nh6v8dfaMOVOJDUxABaIa.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1636981,
+        "original_language": "en",
+        "original_title": "Ten Thousand Reasons for Revenge",
+        "overview": "",
+        "popularity": 0.2037,
+        "poster_path": "/xFkGNlxzaeHsxtRzf7ltUIXvniC.jpg",
+        "release_date": "2026-04-12",
+        "title": "Ten Thousand Reasons for Revenge",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -371,6 +371,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            53
+        ],
+        "id": 1513761,
+        "original_language": "en",
+        "original_title": "Hollis",
+        "overview": "",
+        "popularity": 0.1326,
+        "poster_path": "/tcifP1P2lIG3Av6KdZEKOSkyAsl.jpg",
+        "release_date": "2026-04-12",
+        "title": "Hollis",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             27
         ],
@@ -436,28 +458,6 @@
         "genre_ids_zh": [
             "剧情",
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1664322,
-        "original_language": "en",
-        "original_title": "Their Safe Haven",
-        "overview": "",
-        "popularity": 0.0923,
-        "poster_path": "/39wvPH1tnsrD5cXm75ne3FTJ3my.jpg",
-        "release_date": "2026-04-12",
-        "title": "Their Safe Haven",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -751,7 +751,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/wpOhXInO5EVfQX3oatVeXklMDm4.jpg",
+        "backdrop_path": "/8jxP3SHXeMKx4LBDdnDSzCaw0Qq.jpg",
         "genre_ids": [
             99,
             36,
