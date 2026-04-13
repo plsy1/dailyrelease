@@ -194,7 +194,7 @@
         "original_language": "de",
         "original_name": "Rex - Vienna Calling",
         "overview": "",
-        "popularity": 0.5364,
+        "popularity": 0.8743,
         "poster_path": "/nGVEVL7dgYbkwo0MNXG8tBn4lZW.jpg",
         "first_air_date": "2026-04-13",
         "name": "Rex - Vienna Calling",
@@ -255,6 +255,26 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/fBeuc4SIit1hZ3iMHrg4mdyQQ3J.jpg",
+        "genre_ids": [],
+        "id": 126918,
+        "origin_country": [
+            "葡萄牙"
+        ],
+        "original_language": "pt",
+        "original_name": "Madrugada Suja",
+        "overview": "",
+        "popularity": 0.9067,
+        "poster_path": "/A6IQTvrIzG0LZbi9GEKAn6Su4JC.jpg",
+        "first_air_date": "2026-04-13",
+        "name": "Madrugada Suja",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/a5nhICZWrFXOXl18v47mDv9cUto.jpg",
         "genre_ids": [
             18,
@@ -267,8 +287,8 @@
         "original_language": "pt",
         "original_name": "Lisbon Noir",
         "overview": "",
-        "popularity": 1.0651,
-        "poster_path": null,
+        "popularity": 0.8252,
+        "poster_path": "/t8pJgw27hci7eSQMsVwCiPeI7Lg.jpg",
         "first_air_date": "2026-04-13",
         "name": "Lisbon Noir",
         "vote_average": 0.0,
@@ -281,22 +301,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/fBeuc4SIit1hZ3iMHrg4mdyQQ3J.jpg",
-        "genre_ids": [],
-        "id": 126918,
-        "origin_country": [
-            "葡萄牙"
+        "backdrop_path": "/3k6AOE3a3IyAKsQvNTK24keIWWw.jpg",
+        "genre_ids": [
+            10764
         ],
-        "original_language": "pt",
-        "original_name": "Madrugada Suja",
+        "id": 319443,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Spökjakt - Inlåsta",
         "overview": "",
-        "popularity": 1.0021,
-        "poster_path": "/A6IQTvrIzG0LZbi9GEKAn6Su4JC.jpg",
+        "popularity": 0.0286,
+        "poster_path": "/jf9BDClH8UG01UkMAIjEgXAF6AD.jpg",
         "first_air_date": "2026-04-13",
-        "name": "Madrugada Suja",
+        "name": "Spökjakt - Inlåsta",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "葡萄牙语"
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "瑞典语"
     }
 ]
