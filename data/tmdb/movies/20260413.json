@@ -1,6 +1,32 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 1669196,
+        "original_language": "zh",
+        "original_title": "最优路径",
+        "overview": "故事发生在一个被AI算法统治的赛博朋克未来。瀚海公司通过\"最优路径算法\"管控社会秩序，底层人类被迫接受身体改造，沦为系统的零件。地下城里，反抗者们举办着\"系统滚蛋\"派对，用粗糙的机械改造和违禁药物表达最后的反抗。 林墨是瀚海公司的精英执法者，他率领特遣队突袭地下城派对，在枪林弹雨中找到了失踪一年的女儿林跃——一个白发少女，混迹在反抗者之中。林跃主动现身，以自己换取其他人的安全。 父女之间的裂痕暴露无遗。林墨曾经历妻子被绑架、女儿受创的惨痛往事，他坚信只有让林跃接受\"意识同步\"——用自己的稳定情绪覆盖女儿的叛逆信号——才能保她不被系统标记为\"高风险变量\"而遭到销毁。林跃拒绝成为\"听话的木偶\"，但被强行绑上了修正电椅。 修正过程中，林跃的记忆被篡改，她被困在孤独的虚空里。就在此刻，瀚海公司的幕后主宰——老板现身。老板揭露了真相：林跃体内仅存的人类意识是他完全控制她的最后障碍，而林墨的\"修正\"恰好帮他清除了这个障碍。",
+        "popularity": 0.0,
+        "poster_path": "/2Ub6eycdoFO0mxgPePDmZqyaGX4.jpg",
+        "release_date": "2026-04-13",
+        "title": "最优路径",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "犯罪",
+            "动作"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/sNGYmmOfJkQT4NqEhD3a0NTDhdN.jpg",
         "genre_ids": [
             18
@@ -446,7 +472,7 @@
         "original_language": "es",
         "original_title": "1,5 y más",
         "overview": "",
-        "popularity": 0.1661,
+        "popularity": 0.1514,
         "poster_path": "/gRe0XGpm4vvYAOQG9T1LY2vYKxO.jpg",
         "release_date": "2026-04-13",
         "title": "1,5 y más",
@@ -515,7 +541,7 @@
         "original_language": "it",
         "original_title": "Il figlio più bello",
         "overview": "",
-        "popularity": 0.6968,
+        "popularity": 0.6409,
         "poster_path": "/8xjqh3g6lduw4IGD3602W2Jawjr.jpg",
         "release_date": "2026-04-13",
         "title": "Il figlio più bello",
@@ -537,7 +563,7 @@
         "original_language": "it",
         "original_title": "Pontifex - Un ponte tra la misericordia e la speranza",
         "overview": "",
-        "popularity": 0.1462,
+        "popularity": 0.1661,
         "poster_path": "/tPU7Hv3vNmLsVcvkrFa4InsDksv.jpg",
         "release_date": "2026-04-13",
         "title": "Pontifex - Un ponte tra la misericordia e la speranza",
