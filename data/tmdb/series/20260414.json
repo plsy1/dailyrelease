@@ -1,6 +1,32 @@
 [
     {
         "adult": false,
+        "backdrop_path": "/fiUFlP2SoFBuZAjt3KEa0CRjDxC.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 272476,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "金关",
+        "overview": "滨海空港海关旅检一科科长郭聪带领张瑜、吕晓妍、言柏然等关员坚守海关一线，在长约五十米的海关出入境通道之内，识别并拦截各种走私分子。在基因样本走私案、《层峦时景图》走私案、HPV九价疫苗走私案、盔犀鸟头胄走私案等案件中，他们战胜了重重困难，揪出走私团伙幕后头目，保护了国家利益。郭聪、张瑜等新一代海关人也各自有了宝贵的收获，在并肩作战中迅速成长起来。",
+        "popularity": 1.5746,
+        "poster_path": "/h1xuGOxIdbJmZ8ENJN0GI5S9lyp.jpg",
+        "first_air_date": "2026-04-14",
+        "name": "金关",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "犯罪"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -288,5 +314,25 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 319565,
+        "origin_country": [
+            "瑞典"
+        ],
+        "original_language": "sv",
+        "original_name": "Det nya kalla kriget",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-04-14",
+        "name": "Det nya kalla kriget",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "瑞典语"
     }
 ]
