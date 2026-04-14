@@ -166,7 +166,7 @@
         "original_title": "Trevor Noah: Joy in the Trenches",
         "overview": "",
         "popularity": 0.2414,
-        "poster_path": null,
+        "poster_path": "/g7B4mjpZZkYozcUwWzQENhK9TPD.jpg",
         "release_date": "2026-04-14",
         "title": "Trevor Noah: Joy in the Trenches",
         "video": false,
@@ -186,11 +186,11 @@
         "id": 1641965,
         "original_language": "en",
         "original_title": "Untold: Jail Blazers",
-        "overview": "",
+        "overview": "喜怒无常的球员、刑事指控、全国新闻头条。这部真实大胆的纪录片讲述了波特兰这支冠军级 NBA 球队如何轰然崩塌。",
         "popularity": 0.1986,
         "poster_path": "/m0tiJEfi9kIzzzfQGURcVE6sKIC.jpg",
         "release_date": "2026-04-14",
-        "title": "Untold: Jail Blazers",
+        "title": "体坛秘史：监狱拓荒者",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -311,6 +311,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/ofeX6zcd81uZL6hBGIzzSrnmVMz.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1670189,
+        "original_language": "en",
+        "original_title": "চা গরম",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6YOo0OvVgcYwf3S5bisVa1o3xRa.jpg",
+        "release_date": "2026-04-14",
+        "title": "চা গরম",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1670108,
+        "original_language": "en",
+        "original_title": "NOTHING WILL COME OF NOTHING",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/PoAwjU223lMvprrwhKx7EbaOBX.jpg",
+        "release_date": "2026-04-14",
+        "title": "NOTHING WILL COME OF NOTHING",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1669982,
@@ -347,7 +393,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9IYPCHStqE84Gurs0RqwUjt2XGT.jpg",
+        "backdrop_path": "/4wXRfOwQ9Z7yIUqdASNpqmWpmBH.jpg",
         "genre_ids": [
             99
         ],
@@ -356,7 +402,7 @@
         "original_title": "RN 72, à la conquête de l'Ouest",
         "overview": "",
         "popularity": 0.0797,
-        "poster_path": "/m4D5tw3smpZfe0xYiaOc5xCd5ct.jpg",
+        "poster_path": "/qGNPeQ3fkE23yruVc9pjee7dKjt.jpg",
         "release_date": "2026-04-14",
         "title": "RN 72, à la conquête de l'Ouest",
         "video": false,
@@ -364,6 +410,30 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/inusq1VpRZ3DFCYSqoudEF0LypT.jpg",
+        "genre_ids": [
+            18,
+            9648
+        ],
+        "id": 1669527,
+        "original_language": "fr",
+        "original_title": "Intérêt de vie",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/dCSLCzvAMddAKfhKVXaj1OH2XjA.jpg",
+        "release_date": "2026-04-14",
+        "title": "Intérêt de vie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "悬疑"
         ],
         "original_language_zh": "法语"
     },
