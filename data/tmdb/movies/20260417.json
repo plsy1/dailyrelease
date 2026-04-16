@@ -24,6 +24,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1667895,
+        "original_language": "zh",
+        "original_title": "Broken Spear",
+        "overview": "",
+        "popularity": 0.2173,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Broken Spear",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1225105,
         "original_language": "zh",
@@ -37,30 +59,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            10402
-        ],
-        "id": 1666392,
-        "original_language": "zh",
-        "original_title": "舞向巅峰",
-        "overview": "舞台艺术片《舞向巅峰》 是北京舞蹈学院和中国舞蹈教育事业发展史上重要的里程碑，本片共分为十一个篇章：《幼苗》《大地》《亮点》《风华》《观点》《绽放》《焦点》《冠军》《支点》《母亲》《参天）。集合了国内各舞种、各学科的一流創作与表演力量，\r 创新性地展现中国古典舞、中国民间舞、芭蕾舞、现代舞、国标舞、音乐剧等不同舞种的精神风貌和精彩表演，展示舞蹈名校的风采和舞蹈艺术的魅力。",
-        "popularity": 0.1729,
-        "poster_path": "/6sc1gKxyXIjQAXYFRs49WMsVfl2.jpg",
-        "release_date": "2026-04-17",
-        "title": "舞向巅峰",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "音乐"
-        ],
         "original_language_zh": "汉语"
     },
     {
@@ -91,6 +89,30 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99,
+            10402
+        ],
+        "id": 1666392,
+        "original_language": "zh",
+        "original_title": "舞向巅峰",
+        "overview": "舞台艺术片《舞向巅峰》 是北京舞蹈学院和中国舞蹈教育事业发展史上重要的里程碑，本片共分为十一个篇章：《幼苗》《大地》《亮点》《风华》《观点》《绽放》《焦点》《冠军》《支点》《母亲》《参天）。集合了国内各舞种、各学科的一流創作与表演力量，\r 创新性地展现中国古典舞、中国民间舞、芭蕾舞、现代舞、国标舞、音乐剧等不同舞种的精神风貌和精彩表演，展示舞蹈名校的风采和舞蹈艺术的魅力。",
+        "popularity": 0.1729,
+        "poster_path": "/6sc1gKxyXIjQAXYFRs49WMsVfl2.jpg",
+        "release_date": "2026-04-17",
+        "title": "舞向巅峰",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             878
         ],
         "id": 1662696,
@@ -106,28 +128,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "科幻"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1667895,
-        "original_language": "zh",
-        "original_title": "Broken Spear",
-        "overview": "",
-        "popularity": 0.2173,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Broken Spear",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -313,25 +313,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iRgQfUdLKNbpsf31yrnowSUwHBn.jpg",
+        "backdrop_path": "/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
         "genre_ids": [
-            53,
-            18
+            28,
+            53
         ],
         "id": 1243741,
         "original_language": "en",
         "original_title": "Ballistic",
         "overview": "",
         "popularity": 4.7363,
-        "poster_path": "/wfXSwkKXVY90epyeIB55OAD1jdP.jpg",
+        "poster_path": "/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
         "release_date": "2026-04-17",
         "title": "Ballistic",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚",
-            "剧情"
+            "动作",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -358,54 +358,6 @@
             "喜剧",
             "爱情",
             "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/29XMlo2zt5LTA0YMjA3hubbM942.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1656489,
-        "original_language": "en",
-        "original_title": "Sultana",
-        "overview": "",
-        "popularity": 1.6143,
-        "poster_path": "/v7eW9Rpnb2etRvjN7P7gNzHhfxV.jpg",
-        "release_date": "2026-04-17",
-        "title": "Sultana",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/sdyFxaJbWPgmsHwWjy6HfwWbBTT.jpg",
-        "genre_ids": [
-            27,
-            18,
-            9648
-        ],
-        "id": 1364953,
-        "original_language": "en",
-        "original_title": "Mārama",
-        "overview": "",
-        "popularity": 1.6213,
-        "poster_path": "/kbhqPDnqGBfmTf5Yu5f8fBj6tfp.jpg",
-        "release_date": "2026-04-17",
-        "title": "Mārama",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情",
-            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -483,23 +435,97 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/sdyFxaJbWPgmsHwWjy6HfwWbBTT.jpg",
         "genre_ids": [
-            35
+            27,
+            18,
+            9648
         ],
-        "id": 1646221,
+        "id": 1364953,
         "original_language": "en",
-        "original_title": "Paul Smith: Pablo Live",
+        "original_title": "Mārama",
         "overview": "",
-        "popularity": 1.0514,
-        "poster_path": null,
+        "popularity": 1.6213,
+        "poster_path": "/kbhqPDnqGBfmTf5Yu5f8fBj6tfp.jpg",
         "release_date": "2026-04-17",
-        "title": "Paul Smith: Pablo Live",
+        "title": "Mārama",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "恐怖",
+            "剧情",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10751
+        ],
+        "id": 1631668,
+        "original_language": "en",
+        "original_title": "Stay in the car",
+        "overview": "",
+        "popularity": 1.6153,
+        "poster_path": "/hAKxiGK6bGyGSi4ahDQQSe8b6mL.jpg",
+        "release_date": "2026-04-17",
+        "title": "Stay in the car",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "剧情",
+            "家庭"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/29XMlo2zt5LTA0YMjA3hubbM942.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1656489,
+        "original_language": "en",
+        "original_title": "Sultana",
+        "overview": "",
+        "popularity": 1.6143,
+        "poster_path": "/v7eW9Rpnb2etRvjN7P7gNzHhfxV.jpg",
+        "release_date": "2026-04-17",
+        "title": "Sultana",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/umXk6Fl3EbL4Jai2cbywWhkIAjk.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1472844,
+        "original_language": "en",
+        "original_title": "Everyone Is Lying to You for Money",
+        "overview": "",
+        "popularity": 1.3644,
+        "poster_path": "/4mASfyyrMTKY0o1tQlhUBP9dDQj.jpg",
+        "release_date": "2026-04-17",
+        "title": "Everyone Is Lying to You for Money",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -551,28 +577,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hQFl9Ph7KXcRDc3BbN9mGkNivNh.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1623125,
-        "original_language": "en",
-        "original_title": "A Gorilla Story: Told by David Attenborough",
-        "overview": "资深博物学家大卫·艾登堡爵士讲述了一群非比寻常的大猩猩的故事。这个故事从他 70 年代的第一次邂逅开始，一直延续到今天。",
-        "popularity": 0.8242,
-        "poster_path": "/43XAqW4AnHaDqez4C8qYk55A75o.jpg",
-        "release_date": "2026-04-17",
-        "title": "大卫·艾登堡：大猩猩的故事",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             9648,
@@ -599,52 +603,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/umXk6Fl3EbL4Jai2cbywWhkIAjk.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1472844,
-        "original_language": "en",
-        "original_title": "Everyone Is Lying to You for Money",
-        "overview": "",
-        "popularity": 1.3644,
-        "poster_path": "/4mASfyyrMTKY0o1tQlhUBP9dDQj.jpg",
-        "release_date": "2026-04-17",
-        "title": "Everyone Is Lying to You for Money",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/VOyfFlaJvKTfo6qTujtNNG1sAw.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1628323,
-        "original_language": "en",
-        "original_title": "The Three Urns",
-        "overview": "",
-        "popularity": 0.834,
-        "poster_path": "/2CrWgCgHAbOoWq6zBucReHOqQ8t.jpg",
-        "release_date": "2026-04-17",
-        "title": "The Three Urns",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/utpd4H566GFpw6hjufRxEuoSIIg.jpg",
         "genre_ids": [
             80,
@@ -664,6 +622,28 @@
         "genre_ids_zh": [
             "犯罪",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1646221,
+        "original_language": "en",
+        "original_title": "Paul Smith: Pablo Live",
+        "overview": "",
+        "popularity": 1.0514,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Paul Smith: Pablo Live",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -695,47 +675,97 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/75hExu4ecgwGftn2Ev2rpdAPaqq.jpg",
+        "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
         "genre_ids": [
-            27,
+            80,
+            18,
             53
         ],
-        "id": 1479846,
+        "id": 1659087,
         "original_language": "en",
-        "original_title": "Hive",
-        "overview": "",
-        "popularity": 0.5085,
-        "poster_path": "/aFGoHyaTPERCyuAhEvonS8xlk9Y.jpg",
+        "original_title": "180",
+        "overview": "一场突如其来的公路暴力事件让儿子命悬一线，这名愤怒的父亲失去控制，走上情绪崩溃和复仇交织的黑暗道路。",
+        "popularity": 0.8498,
+        "poster_path": "/p79mJw7ILs8WeISptlr6FbKdJS1.jpg",
         "release_date": "2026-04-17",
-        "title": "Hive",
+        "title": "180度",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
+            "犯罪",
+            "剧情",
             "惊悚"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/qJ2fqrKPBmiFH1wGt6DKHkgD6zB.jpg",
+        "backdrop_path": "/VOyfFlaJvKTfo6qTujtNNG1sAw.jpg",
         "genre_ids": [
-            18
+            18,
+            35
         ],
-        "id": 1647277,
+        "id": 1628323,
         "original_language": "en",
-        "original_title": "The Gardener",
+        "original_title": "The Three Urns",
         "overview": "",
-        "popularity": 0.6934,
-        "poster_path": "/3v2vttsSVOAaJEmYmnHLik05790.jpg",
+        "popularity": 0.834,
+        "poster_path": "/2CrWgCgHAbOoWq6zBucReHOqQ8t.jpg",
         "release_date": "2026-04-17",
-        "title": "The Gardener",
+        "title": "The Three Urns",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hQFl9Ph7KXcRDc3BbN9mGkNivNh.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1623125,
+        "original_language": "en",
+        "original_title": "A Gorilla Story: Told by David Attenborough",
+        "overview": "资深博物学家大卫·艾登堡爵士讲述了一群非比寻常的大猩猩的故事。这个故事从他 70 年代的第一次邂逅开始，一直延续到今天。",
+        "popularity": 0.8242,
+        "poster_path": "/43XAqW4AnHaDqez4C8qYk55A75o.jpg",
+        "release_date": "2026-04-17",
+        "title": "大卫·艾登堡：大猩猩的故事",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/me74gWpwWqRY8uGzRN2aQQvTa4M.jpg",
+        "genre_ids": [
+            18,
+            10402
+        ],
+        "id": 1383580,
+        "original_language": "en",
+        "original_title": "Surviving Earth",
+        "overview": "",
+        "popularity": 0.775,
+        "poster_path": "/72LcMssU4U4fJ2EUPPS7ulsEGVE.jpg",
+        "release_date": "2026-04-17",
+        "title": "Surviving Earth",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "音乐"
         ],
         "original_language_zh": "英语"
     },
@@ -767,77 +797,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+        "backdrop_path": "/qJ2fqrKPBmiFH1wGt6DKHkgD6zB.jpg",
         "genre_ids": [
-            80,
-            18,
-            53
+            18
         ],
-        "id": 1659087,
+        "id": 1647277,
         "original_language": "en",
-        "original_title": "180",
-        "overview": "一场突如其来的公路暴力事件让儿子命悬一线，这名愤怒的父亲失去控制，走上情绪崩溃和复仇交织的黑暗道路。",
-        "popularity": 0.8498,
-        "poster_path": "/p79mJw7ILs8WeISptlr6FbKdJS1.jpg",
-        "release_date": "2026-04-17",
-        "title": "180度",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "犯罪",
-            "剧情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            80,
-            18,
-            10751
-        ],
-        "id": 1631668,
-        "original_language": "en",
-        "original_title": "Stay in the car",
+        "original_title": "The Gardener",
         "overview": "",
-        "popularity": 1.6153,
-        "poster_path": "/hAKxiGK6bGyGSi4ahDQQSe8b6mL.jpg",
+        "popularity": 0.6934,
+        "poster_path": "/3v2vttsSVOAaJEmYmnHLik05790.jpg",
         "release_date": "2026-04-17",
-        "title": "Stay in the car",
+        "title": "The Gardener",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "犯罪",
-            "剧情",
-            "家庭"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/me74gWpwWqRY8uGzRN2aQQvTa4M.jpg",
-        "genre_ids": [
-            18,
-            10402
-        ],
-        "id": 1383580,
-        "original_language": "en",
-        "original_title": "Surviving Earth",
-        "overview": "",
-        "popularity": 0.775,
-        "poster_path": "/72LcMssU4U4fJ2EUPPS7ulsEGVE.jpg",
-        "release_date": "2026-04-17",
-        "title": "Surviving Earth",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "音乐"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -857,6 +833,52 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8aWpLTQcGGxkW5011am8BGaZkdN.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 854934,
+        "original_language": "en",
+        "original_title": "Mabel",
+        "overview": "",
+        "popularity": 0.5203,
+        "poster_path": "/jviTHarhjM6nOVWdQvYG8AhK0ya.jpg",
+        "release_date": "2026-04-17",
+        "title": "Mabel",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/75hExu4ecgwGftn2Ev2rpdAPaqq.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1479846,
+        "original_language": "en",
+        "original_title": "Hive",
+        "overview": "",
+        "popularity": 0.5085,
+        "poster_path": "/aFGoHyaTPERCyuAhEvonS8xlk9Y.jpg",
+        "release_date": "2026-04-17",
+        "title": "Hive",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -885,40 +907,40 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8aWpLTQcGGxkW5011am8BGaZkdN.jpg",
+        "backdrop_path": "/kGJRCZgUYLnsDufxWnXBTutqikO.jpg",
         "genre_ids": [
-            18
+            10749
         ],
-        "id": 854934,
+        "id": 1596168,
         "original_language": "en",
-        "original_title": "Mabel",
+        "original_title": "A Tribe Called Love",
         "overview": "",
-        "popularity": 0.5203,
-        "poster_path": "/jviTHarhjM6nOVWdQvYG8AhK0ya.jpg",
+        "popularity": 0.436,
+        "poster_path": "/u6Ffel5IFruW0D0JpYKFJiyzHe8.jpg",
         "release_date": "2026-04-17",
-        "title": "Mabel",
+        "title": "A Tribe Called Love",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/yrbuUQooId6cMr9jpr5e39hQ2KS.jpg",
         "genre_ids": [
             18
         ],
-        "id": 1651783,
+        "id": 1400756,
         "original_language": "en",
-        "original_title": "The Man with the Plan",
+        "original_title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
         "overview": "",
-        "popularity": 0.4106,
-        "poster_path": "/5EmcfQNzrMRo4cTYDjR8LeWXWPv.jpg",
+        "popularity": 0.4298,
+        "poster_path": "/5f0AG1eGsRC5aIdUGt8wAkrTSuS.jpg",
         "release_date": "2026-04-17",
-        "title": "The Man with the Plan",
+        "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -955,23 +977,45 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kGJRCZgUYLnsDufxWnXBTutqikO.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            10749
+            18
         ],
-        "id": 1596168,
+        "id": 1651783,
         "original_language": "en",
-        "original_title": "A Tribe Called Love",
+        "original_title": "The Man with the Plan",
         "overview": "",
-        "popularity": 0.436,
-        "poster_path": "/u6Ffel5IFruW0D0JpYKFJiyzHe8.jpg",
+        "popularity": 0.4106,
+        "poster_path": "/5EmcfQNzrMRo4cTYDjR8LeWXWPv.jpg",
         "release_date": "2026-04-17",
-        "title": "A Tribe Called Love",
+        "title": "The Man with the Plan",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "爱情"
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AczGScx4DiotRXX68IDraGhl4cX.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1657502,
+        "original_language": "en",
+        "original_title": "Ramy Youssef: In Love",
+        "overview": "",
+        "popularity": 0.3594,
+        "poster_path": "/1wDb1KuGESqDs0flyqZ2wYE2Zg.jpg",
+        "release_date": "2026-04-17",
+        "title": "Ramy Youssef: In Love",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1001,6 +1045,28 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            35
+        ],
+        "id": 1663152,
+        "original_language": "en",
+        "original_title": "Scape Goat",
+        "overview": "",
+        "popularity": 0.3256,
+        "poster_path": "/zhMznCWVydLHAsJUCqcZPZmebRL.jpg",
+        "release_date": "2026-04-17",
+        "title": "Scape Goat",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1652827,
@@ -1016,28 +1082,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hzjuyKYJGEVBtLBB1gqvuknpwfR.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1651251,
-        "original_language": "en",
-        "original_title": "Power Slap 19",
-        "overview": "",
-        "popularity": 0.2381,
-        "poster_path": "/iaih4C4vghDPiWPBwG8wQ94z0Zz.jpg",
-        "release_date": "2026-04-17",
-        "title": "Power Slap 19",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -1069,50 +1113,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/AczGScx4DiotRXX68IDraGhl4cX.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1657502,
-        "original_language": "en",
-        "original_title": "Ramy Youssef: In Love",
-        "overview": "",
-        "popularity": 0.3594,
-        "poster_path": "/1wDb1KuGESqDs0flyqZ2wYE2Zg.jpg",
-        "release_date": "2026-04-17",
-        "title": "Ramy Youssef: In Love",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1415154,
-        "original_language": "en",
-        "original_title": "Glimmer",
-        "overview": "",
-        "popularity": 0.2542,
-        "poster_path": "/2DxYXocRJ225GqGj8BwYU8THFN9.jpg",
-        "release_date": "2026-04-17",
-        "title": "Glimmer",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18,
@@ -1132,146 +1132,6 @@
         "genre_ids_zh": [
             "剧情",
             "电视电影"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878,
-            9648,
-            10749,
-            35
-        ],
-        "id": 1654515,
-        "original_language": "en",
-        "original_title": "Bluebird",
-        "overview": "",
-        "popularity": 0.2307,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Bluebird",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "悬疑",
-            "爱情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/yrbuUQooId6cMr9jpr5e39hQ2KS.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1400756,
-        "original_language": "en",
-        "original_title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-        "overview": "",
-        "popularity": 0.4298,
-        "poster_path": "/5f0AG1eGsRC5aIdUGt8wAkrTSuS.jpg",
-        "release_date": "2026-04-17",
-        "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kJwSAtuST7PI52p2GjlDPToQt1l.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1669270,
-        "original_language": "en",
-        "original_title": "The Heir of Hildegard",
-        "overview": "",
-        "popularity": 0.136,
-        "poster_path": "/cEtiYrlJKeiQeAOuM12NwkK7C5w.jpg",
-        "release_date": "2026-04-17",
-        "title": "The Heir of Hildegard",
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10749,
-            53
-        ],
-        "id": 1665472,
-        "original_language": "en",
-        "original_title": "María Carmen",
-        "overview": "",
-        "popularity": 0.0652,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "María Carmen",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/gI8B7Cn2Ity45PPi2ShBMaxDGs2.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1658904,
-        "original_language": "en",
-        "original_title": "Marshland",
-        "overview": "",
-        "popularity": 0.1636,
-        "poster_path": "/2BAY1NB57UZyirlXJuvcCtDXndL.jpg",
-        "release_date": "2026-04-17",
-        "title": "Marshland",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1663152,
-        "original_language": "en",
-        "original_title": "Scape Goat",
-        "overview": "",
-        "popularity": 0.3256,
-        "poster_path": "/zhMznCWVydLHAsJUCqcZPZmebRL.jpg",
-        "release_date": "2026-04-17",
-        "title": "Scape Goat",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1306,41 +1166,117 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1659644,
-        "original_language": "en",
-        "original_title": "Khalaqa",
-        "overview": "",
-        "popularity": 0.1604,
-        "poster_path": "/rDTPWXo3Xz4HTh3M3lO8Stq73PU.jpg",
-        "release_date": "2026-04-17",
-        "title": "Khalaqa",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/jLlKsOikBKsspgjEFoz55NvcCc1.jpg",
         "genre_ids": [
-            10751,
-            18
+            27
         ],
-        "id": 1665174,
+        "id": 1415154,
         "original_language": "en",
-        "original_title": "Gary’s Day",
+        "original_title": "Glimmer",
         "overview": "",
-        "popularity": 0.1439,
-        "poster_path": "/5KSEvWBPDwD74IpFew9wnJ02Z0U.jpg",
+        "popularity": 0.2542,
+        "poster_path": "/2DxYXocRJ225GqGj8BwYU8THFN9.jpg",
         "release_date": "2026-04-17",
-        "title": "Gary’s Day",
+        "title": "Glimmer",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "家庭",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hzjuyKYJGEVBtLBB1gqvuknpwfR.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1651251,
+        "original_language": "en",
+        "original_title": "Power Slap 19",
+        "overview": "",
+        "popularity": 0.2381,
+        "poster_path": "/iaih4C4vghDPiWPBwG8wQ94z0Zz.jpg",
+        "release_date": "2026-04-17",
+        "title": "Power Slap 19",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            9648,
+            10749,
+            35
+        ],
+        "id": 1654515,
+        "original_language": "en",
+        "original_title": "Bluebird",
+        "overview": "",
+        "popularity": 0.2307,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Bluebird",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "悬疑",
+            "爱情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/31Jlve2rGS2XbHIfoZJYephgMsw.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1609838,
+        "original_language": "en",
+        "original_title": "CONTAINMENT",
+        "overview": "",
+        "popularity": 0.1934,
+        "poster_path": "/fNDKLJIFxIl2LNs4To8wHaBigll.jpg",
+        "release_date": "2026-04-17",
+        "title": "CONTAINMENT",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gI8B7Cn2Ity45PPi2ShBMaxDGs2.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1658904,
+        "original_language": "en",
+        "original_title": "Marshland",
+        "overview": "",
+        "popularity": 0.1636,
+        "poster_path": "/2BAY1NB57UZyirlXJuvcCtDXndL.jpg",
+        "release_date": "2026-04-17",
+        "title": "Marshland",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -1395,202 +1331,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/y75EqeaZR9yW5VAXLcaNRe2IMUk.jpg",
-        "genre_ids": [
-            35,
-            99
-        ],
-        "id": 1610585,
-        "original_language": "en",
-        "original_title": "Call Time",
-        "overview": "",
-        "popularity": 0.0825,
-        "poster_path": "/vzPUu6jwUaTzn1uuQweOhrNNitt.jpg",
-        "release_date": "2026-04-17",
-        "title": "Call Time",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/31Jlve2rGS2XbHIfoZJYephgMsw.jpg",
-        "genre_ids": [
-            53,
-            27
-        ],
-        "id": 1609838,
-        "original_language": "en",
-        "original_title": "CONTAINMENT",
-        "overview": "",
-        "popularity": 0.1934,
-        "poster_path": "/fNDKLJIFxIl2LNs4To8wHaBigll.jpg",
-        "release_date": "2026-04-17",
-        "title": "CONTAINMENT",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2QyJWHKD5GEqEsJQ7vr3fMS2Yjy.jpg",
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1610088,
-        "original_language": "en",
-        "original_title": "We'll Keep It Down",
-        "overview": "",
-        "popularity": 0.0786,
-        "poster_path": "/ciZe9qXJ4hSxEtLJrSIzSn5B1vg.jpg",
-        "release_date": "2026-04-17",
-        "title": "We'll Keep It Down",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1659092,
-        "original_language": "en",
-        "original_title": "Bellwether",
-        "overview": "",
-        "popularity": 0.1085,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Bellwether",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/bWCmBgmrlQdjwbbIAX54hLmBiJ5.jpg",
-        "genre_ids": [
-            28,
-            18
-        ],
-        "id": 1656143,
-        "original_language": "en",
-        "original_title": "MDK Fight Club 2026",
-        "overview": "",
-        "popularity": 0.1127,
-        "poster_path": "/57GFzMWz4MxDl6OlNa7A9Xa8oeZ.jpg",
-        "release_date": "2026-04-17",
-        "title": "MDK Fight Club 2026",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/kiGh6vqJty10pVkzShKZ8E7n6M.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1662094,
-        "original_language": "en",
-        "original_title": "White Noise",
-        "overview": "",
-        "popularity": 0.0677,
-        "poster_path": "/6CLtR7ieqXShMHUCQFgrva2kupp.jpg",
-        "release_date": "2026-04-17",
-        "title": "White Noise",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1667906,
-        "original_language": "en",
-        "original_title": "Mah e kochoolooye man",
-        "overview": "",
-        "popularity": 0.1076,
-        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
-        "release_date": "2026-04-17",
-        "title": "Mah e kochoolooye man",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/njA1OEVRtENOK33VLoLySFs1QtK.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1669085,
-        "original_language": "en",
-        "original_title": "In The Hour of Darkness",
-        "overview": "",
-        "popularity": 0.0792,
-        "poster_path": "/ka8eS3wwyxwvNH0AMqH9myzNQly.jpg",
-        "release_date": "2026-04-17",
-        "title": "In The Hour of Darkness",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
-        "id": 1662193,
+        "id": 1659644,
         "original_language": "en",
-        "original_title": "Äquator Song",
+        "original_title": "Khalaqa",
         "overview": "",
-        "popularity": 0.0698,
-        "poster_path": "/urv0ZN8Wjlp6Um06qF34wc1duYX.jpg",
+        "popularity": 0.1604,
+        "poster_path": "/rDTPWXo3Xz4HTh3M3lO8Stq73PU.jpg",
         "release_date": "2026-04-17",
-        "title": "Äquator Song",
+        "title": "Khalaqa",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1599,26 +1349,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/r9kSnFeSddO8WBbC2rNvAkZ94F4.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            28,
-            18,
+            27,
+            10749,
             35
         ],
-        "id": 1656167,
+        "id": 1666985,
         "original_language": "en",
-        "original_title": "Game Changer Wrestling: Joey Janela’s Spring Break X",
+        "original_title": "Before Death Do Us Part",
         "overview": "",
-        "popularity": 0.0729,
-        "poster_path": "/yTJ6LaVEi2h9sClPzqExZzajth3.jpg",
+        "popularity": 0.1505,
+        "poster_path": "/8XkUcPFIEYvmA4KCJibpJgutmbJ.jpg",
         "release_date": "2026-04-17",
-        "title": "Game Changer Wrestling: Joey Janela’s Spring Break X",
+        "title": "Before Death Do Us Part",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动作",
-            "剧情",
+            "恐怖",
+            "爱情",
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -1649,6 +1399,344 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/jLlKsOikBKsspgjEFoz55NvcCc1.jpg",
+        "genre_ids": [
+            10751,
+            18
+        ],
+        "id": 1665174,
+        "original_language": "en",
+        "original_title": "Gary’s Day",
+        "overview": "",
+        "popularity": 0.1439,
+        "poster_path": "/5KSEvWBPDwD74IpFew9wnJ02Z0U.jpg",
+        "release_date": "2026-04-17",
+        "title": "Gary’s Day",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kJwSAtuST7PI52p2GjlDPToQt1l.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1669270,
+        "original_language": "en",
+        "original_title": "The Heir of Hildegard",
+        "overview": "",
+        "popularity": 0.136,
+        "poster_path": "/cEtiYrlJKeiQeAOuM12NwkK7C5w.jpg",
+        "release_date": "2026-04-17",
+        "title": "The Heir of Hildegard",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1662441,
+        "original_language": "en",
+        "original_title": "Coming Home",
+        "overview": "",
+        "popularity": 0.1292,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Coming Home",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7PPdRfhjnJMQLvDyd6e2rAgXg1b.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1671637,
+        "original_language": "en",
+        "original_title": "Lebedynske",
+        "overview": "",
+        "popularity": 0.1214,
+        "poster_path": "/kHQrBZTYRiuNY9XvpRzB94LOZTK.jpg",
+        "release_date": "2026-04-17",
+        "title": "Lebedynske",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bWCmBgmrlQdjwbbIAX54hLmBiJ5.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1656143,
+        "original_language": "en",
+        "original_title": "MDK Fight Club 2026",
+        "overview": "",
+        "popularity": 0.1127,
+        "poster_path": "/57GFzMWz4MxDl6OlNa7A9Xa8oeZ.jpg",
+        "release_date": "2026-04-17",
+        "title": "MDK Fight Club 2026",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1659092,
+        "original_language": "en",
+        "original_title": "Bellwether",
+        "overview": "",
+        "popularity": 0.1085,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Bellwether",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1667906,
+        "original_language": "en",
+        "original_title": "Mah e kochoolooye man",
+        "overview": "",
+        "popularity": 0.1076,
+        "poster_path": "/QTfTP87tnzcasyIcAZQufYE44c.jpg",
+        "release_date": "2026-04-17",
+        "title": "Mah e kochoolooye man",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y75EqeaZR9yW5VAXLcaNRe2IMUk.jpg",
+        "genre_ids": [
+            35,
+            99
+        ],
+        "id": 1610585,
+        "original_language": "en",
+        "original_title": "Call Time",
+        "overview": "",
+        "popularity": 0.0825,
+        "poster_path": "/vzPUu6jwUaTzn1uuQweOhrNNitt.jpg",
+        "release_date": "2026-04-17",
+        "title": "Call Time",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/njA1OEVRtENOK33VLoLySFs1QtK.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1669085,
+        "original_language": "en",
+        "original_title": "In The Hour of Darkness",
+        "overview": "",
+        "popularity": 0.0792,
+        "poster_path": "/ka8eS3wwyxwvNH0AMqH9myzNQly.jpg",
+        "release_date": "2026-04-17",
+        "title": "In The Hour of Darkness",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2QyJWHKD5GEqEsJQ7vr3fMS2Yjy.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 1610088,
+        "original_language": "en",
+        "original_title": "We'll Keep It Down",
+        "overview": "",
+        "popularity": 0.0786,
+        "poster_path": "/ciZe9qXJ4hSxEtLJrSIzSn5B1vg.jpg",
+        "release_date": "2026-04-17",
+        "title": "We'll Keep It Down",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r9kSnFeSddO8WBbC2rNvAkZ94F4.jpg",
+        "genre_ids": [
+            28,
+            18,
+            35
+        ],
+        "id": 1656167,
+        "original_language": "en",
+        "original_title": "Game Changer Wrestling: Joey Janela’s Spring Break X",
+        "overview": "",
+        "popularity": 0.0729,
+        "poster_path": "/yTJ6LaVEi2h9sClPzqExZzajth3.jpg",
+        "release_date": "2026-04-17",
+        "title": "Game Changer Wrestling: Joey Janela’s Spring Break X",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1662193,
+        "original_language": "en",
+        "original_title": "Äquator Song",
+        "overview": "",
+        "popularity": 0.0698,
+        "poster_path": "/urv0ZN8Wjlp6Um06qF34wc1duYX.jpg",
+        "release_date": "2026-04-17",
+        "title": "Äquator Song",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kiGh6vqJty10pVkzShKZ8E7n6M.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1662094,
+        "original_language": "en",
+        "original_title": "White Noise",
+        "overview": "",
+        "popularity": 0.0677,
+        "poster_path": "/6CLtR7ieqXShMHUCQFgrva2kupp.jpg",
+        "release_date": "2026-04-17",
+        "title": "White Noise",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            53
+        ],
+        "id": 1665472,
+        "original_language": "en",
+        "original_title": "María Carmen",
+        "overview": "",
+        "popularity": 0.0652,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "María Carmen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Q1aw5CKHTmqHuIUGfstF3lFtAo.jpg",
+        "genre_ids": [],
+        "id": 1664352,
+        "original_language": "en",
+        "original_title": "Some Palm Trees Are Taller Than Others",
+        "overview": "",
+        "popularity": 0.0495,
+        "poster_path": "/xcV2TmtwrfbOVu7zONAJPAvM1BY.jpg",
+        "release_date": "2026-04-17",
+        "title": "Some Palm Trees Are Taller Than Others",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/hLrzCyGvupBuxkL2TU9XxvmQYCA.jpg",
         "genre_ids": [
             28,
@@ -1673,44 +1761,52 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/7Q1aw5CKHTmqHuIUGfstF3lFtAo.jpg",
-        "genre_ids": [],
-        "id": 1664352,
-        "original_language": "en",
-        "original_title": "Some Palm Trees Are Taller Than Others",
-        "overview": "",
-        "popularity": 0.0495,
-        "poster_path": "/xcV2TmtwrfbOVu7zONAJPAvM1BY.jpg",
-        "release_date": "2026-04-17",
-        "title": "Some Palm Trees Are Taller Than Others",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            27,
-            10749,
-            35
+            9648,
+            80,
+            27
         ],
-        "id": 1666985,
+        "id": 1654309,
         "original_language": "en",
-        "original_title": "Before Death Do Us Part",
+        "original_title": "The Escape",
         "overview": "",
-        "popularity": 0.1505,
-        "poster_path": "/8XkUcPFIEYvmA4KCJibpJgutmbJ.jpg",
+        "popularity": 0.044,
+        "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Before Death Do Us Part",
+        "title": "The Escape",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "爱情",
+            "悬疑",
+            "犯罪",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cN1W6p4kyXSjRxVNnV2R8hr4WcZ.jpg",
+        "genre_ids": [
+            28,
+            878,
+            35
+        ],
+        "id": 1673064,
+        "original_language": "en",
+        "original_title": "Double Fisted",
+        "overview": "",
+        "popularity": 0.0429,
+        "poster_path": "/hFs7LY4GpNBTKfHCow1zeyhvId9.jpg",
+        "release_date": "2026-04-17",
+        "title": "Double Fisted",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "科幻",
             "喜剧"
         ],
         "original_language_zh": "英语"
@@ -1753,54 +1849,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            9648,
-            80,
-            27
-        ],
-        "id": 1654309,
-        "original_language": "en",
-        "original_title": "The Escape",
-        "overview": "",
-        "popularity": 0.044,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "The Escape",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "犯罪",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1662441,
-        "original_language": "en",
-        "original_title": "Coming Home",
-        "overview": "",
-        "popularity": 0.1292,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Coming Home",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -1874,6 +1922,28 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1671549,
+        "original_language": "en",
+        "original_title": "Good Morning Evan",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Good Morning Evan",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1669123,
         "original_language": "en",
@@ -1883,6 +1953,408 @@
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "A Perfectly Okay Garden",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674027,
+        "original_language": "en",
+        "original_title": "Bigger Than US, The Berkeley Pitt, Butte Montana",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Bigger Than US, The Berkeley Pitt, Butte Montana",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674025,
+        "original_language": "en",
+        "original_title": "Habana 2006",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Habana 2006",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674015,
+        "original_language": "en",
+        "original_title": "I Remember, I Feel, I See, I Am Seen",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "I Remember, I Feel, I See, I Am Seen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674009,
+        "original_language": "en",
+        "original_title": "Disappearing",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Disappearing",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674008,
+        "original_language": "en",
+        "original_title": "Above Sun",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Above Sun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674005,
+        "original_language": "en",
+        "original_title": "Patjuk",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Patjuk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674003,
+        "original_language": "en",
+        "original_title": "The City",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "The City",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674001,
+        "original_language": "en",
+        "original_title": "The Language of the Universe",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "The Language of the Universe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1674000,
+        "original_language": "en",
+        "original_title": "Primitive",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Primitive",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673998,
+        "original_language": "en",
+        "original_title": "A Cry Through the Expanse",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "A Cry Through the Expanse",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673996,
+        "original_language": "en",
+        "original_title": "(Don't) Hide Your Hue",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "(Don't) Hide Your Hue",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673993,
+        "original_language": "en",
+        "original_title": "Have a Piece",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Have a Piece",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673989,
+        "original_language": "en",
+        "original_title": "I Want Magic Too!",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "I Want Magic Too!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673986,
+        "original_language": "en",
+        "original_title": "Drafting",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Drafting",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673984,
+        "original_language": "en",
+        "original_title": "Silence Speaks: A Dialogue Between Beloved and Ran",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Silence Speaks: A Dialogue Between Beloved and Ran",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673983,
+        "original_language": "en",
+        "original_title": "Stage Fright",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Stage Fright",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oH1ZplsCuyx6MRBIIWddwBRwEOx.jpg",
+        "genre_ids": [
+            14,
+            878
+        ],
+        "id": 1673981,
+        "original_language": "en",
+        "original_title": "Memory of a Mycelium",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8oKC8P5HxPtDtXJ97ELfGwZE9ra.jpg",
+        "release_date": "2026-04-17",
+        "title": "Memory of a Mycelium",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673980,
+        "original_language": "en",
+        "original_title": "Black & White",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Black & White",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673974,
+        "original_language": "en",
+        "original_title": "Happy Birthday Countdown",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Happy Birthday Countdown",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673948,
+        "original_language": "en",
+        "original_title": "Generations",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Generations",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673945,
+        "original_language": "en",
+        "original_title": "Mirror Dance",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Mirror Dance",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673939,
+        "original_language": "en",
+        "original_title": "January 22",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "January 22",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -1975,76 +2447,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cN1W6p4kyXSjRxVNnV2R8hr4WcZ.jpg",
-        "genre_ids": [
-            28,
-            878,
-            35
-        ],
-        "id": 1673064,
-        "original_language": "en",
-        "original_title": "Double Fisted",
-        "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/hFs7LY4GpNBTKfHCow1zeyhvId9.jpg",
-        "release_date": "2026-04-17",
-        "title": "Double Fisted",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "科幻",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/7PPdRfhjnJMQLvDyd6e2rAgXg1b.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1671637,
-        "original_language": "en",
-        "original_title": "Lebedynske",
-        "overview": "",
-        "popularity": 0.1214,
-        "poster_path": "/kHQrBZTYRiuNY9XvpRzB94LOZTK.jpg",
-        "release_date": "2026-04-17",
-        "title": "Lebedynske",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1671549,
-        "original_language": "en",
-        "original_title": "Good Morning Evan",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Good Morning Evan",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -2209,27 +2611,23 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gQGHF4ucRku8J4F1YTlNfyZ1yaQ.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            18,
-            36
+            18
         ],
-        "id": 1601847,
+        "id": 1668496,
         "original_language": "de",
-        "original_title": "Krampus",
+        "original_title": "Denkst du auch, was ich denk, Couseng",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/nQ5KJNESTd2z1qKB6rqBNlbCLx.jpg",
+        "popularity": 0.0429,
+        "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Krampus",
+        "title": "Denkst du auch, was ich denk, Couseng",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "剧情",
-            "历史"
+            "剧情"
         ],
         "original_language_zh": "德语"
     },
@@ -2249,28 +2647,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1668496,
-        "original_language": "de",
-        "original_title": "Denkst du auch, was ich denk, Couseng",
-        "overview": "",
-        "popularity": 0.0429,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Denkst du auch, was ich denk, Couseng",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
         "original_language_zh": "德语"
     },
     {
@@ -2297,20 +2673,28 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1670562,
+        "backdrop_path": "/gQGHF4ucRku8J4F1YTlNfyZ1yaQ.jpg",
+        "genre_ids": [
+            27,
+            18,
+            36
+        ],
+        "id": 1601847,
         "original_language": "de",
-        "original_title": "Dark Dilemma",
+        "original_title": "Krampus",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/8kcotX6eDSNkP6I8WmPtZ1NKLim.jpg",
+        "popularity": 0.0286,
+        "poster_path": "/nQ5KJNESTd2z1qKB6rqBNlbCLx.jpg",
         "release_date": "2026-04-17",
-        "title": "Dark Dilemma",
+        "title": "Krampus",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "历史"
+        ],
         "original_language_zh": "德语"
     },
     {
@@ -2343,6 +2727,24 @@
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "Alles was wir wissen wollen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1670562,
+        "original_language": "de",
+        "original_title": "Dark Dilemma",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/8kcotX6eDSNkP6I8WmPtZ1NKLim.jpg",
+        "release_date": "2026-04-17",
+        "title": "Dark Dilemma",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3079,6 +3481,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1662671,
+        "original_language": "pt",
+        "original_title": "Ópera Mestiça",
+        "overview": "",
+        "popularity": 0.0929,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Ópera Mestiça",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/tNGkJbSWPKOmMmzo89lT3w3TOTC.jpg",
         "genre_ids": [
             99
@@ -3143,28 +3567,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1662671,
-        "original_language": "pt",
-        "original_title": "Ópera Mestiça",
-        "overview": "",
-        "popularity": 0.0929,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Ópera Mestiça",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
         "id": 1530379,
@@ -3175,6 +3577,140 @@
         "poster_path": "/ab3O6QEuHsNWnHCGAikzauBQBpA.jpg",
         "release_date": "2026-04-17",
         "title": "Чужой звонок",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1662685,
+        "original_language": "ru",
+        "original_title": "Хрупкость. Выдумщица",
+        "overview": "",
+        "popularity": 0.3727,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Хрупкость. Выдумщица",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1662410,
+        "original_language": "ru",
+        "original_title": "Машенька",
+        "overview": "",
+        "popularity": 0.343,
+        "poster_path": "/eElgfxJoFAzHEJc1DeG1eWEYs3w.jpg",
+        "release_date": "2026-04-17",
+        "title": "Машенька",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10402
+        ],
+        "id": 1514601,
+        "original_language": "ru",
+        "original_title": "Песни джиннов",
+        "overview": "",
+        "popularity": 0.3395,
+        "poster_path": "/arCG71MlGUSGE4aet0E1HA0zb7o.jpg",
+        "release_date": "2026-04-17",
+        "title": "Песни джиннов",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "音乐"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1545931,
+        "original_language": "ru",
+        "original_title": "Другой мир",
+        "overview": "",
+        "popularity": 0.2517,
+        "poster_path": "/zhpoQAYDqvSB3DWvxCJA2LF5VRT.jpg",
+        "release_date": "2026-04-17",
+        "title": "Другой мир",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1662667,
+        "original_language": "ru",
+        "original_title": "Музей",
+        "overview": "",
+        "popularity": 0.2465,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Музей",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1662430,
+        "original_language": "ru",
+        "original_title": "Мам",
+        "overview": "",
+        "popularity": 0.2033,
+        "poster_path": "/flWMqxTdnaP0FOzaU0fPFJuMUpn.jpg",
+        "release_date": "2026-04-17",
+        "title": "Мам",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3237,72 +3773,6 @@
         "genre_ids": [
             18
         ],
-        "id": 1545931,
-        "original_language": "ru",
-        "original_title": "Другой мир",
-        "overview": "",
-        "popularity": 0.2517,
-        "poster_path": "/zhpoQAYDqvSB3DWvxCJA2LF5VRT.jpg",
-        "release_date": "2026-04-17",
-        "title": "Другой мир",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1662410,
-        "original_language": "ru",
-        "original_title": "Машенька",
-        "overview": "",
-        "popularity": 0.343,
-        "poster_path": "/ziNsnRWV72MRN0lxEnhSYQYDvwU.jpg",
-        "release_date": "2026-04-17",
-        "title": "Машенька",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1662430,
-        "original_language": "ru",
-        "original_title": "Мам",
-        "overview": "",
-        "popularity": 0.2033,
-        "poster_path": "/flWMqxTdnaP0FOzaU0fPFJuMUpn.jpg",
-        "release_date": "2026-04-17",
-        "title": "Мам",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
         "id": 1561949,
         "original_language": "ru",
         "original_title": "Выготский",
@@ -3325,14 +3795,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1662685,
+        "id": 1668107,
         "original_language": "ru",
-        "original_title": "Хрупкость. Выдумщица",
+        "original_title": "Стрелок",
         "overview": "",
-        "popularity": 0.3727,
-        "poster_path": null,
+        "popularity": 0.1467,
+        "poster_path": "/kQuKZEsMv75lwacn2ueV6kgCUbQ.jpg",
         "release_date": "2026-04-17",
-        "title": "Хрупкость. Выдумщица",
+        "title": "Стрелок",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3347,14 +3817,36 @@
         "genre_ids": [
             18
         ],
-        "id": 1662694,
+        "id": 1667897,
         "original_language": "ru",
-        "original_title": "Кокице",
+        "original_title": "Секунды до нуля",
         "overview": "",
-        "popularity": 0.0672,
-        "poster_path": "/bnvfoLDTWGzYN7ZH7VrMkda0cac.jpg",
+        "popularity": 0.134,
+        "poster_path": "/8N23qCe3bpDeAaeSZd3AZx0QucV.jpg",
         "release_date": "2026-04-17",
-        "title": "Кокице",
+        "title": "Секунды до нуля",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1667833,
+        "original_language": "ru",
+        "original_title": "Если долго идти навстречу",
+        "overview": "",
+        "popularity": 0.131,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Если долго идти навстречу",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3389,74 +3881,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            10402
-        ],
-        "id": 1514601,
-        "original_language": "ru",
-        "original_title": "Песни джиннов",
-        "overview": "",
-        "popularity": 0.3395,
-        "poster_path": "/arCG71MlGUSGE4aet0E1HA0zb7o.jpg",
-        "release_date": "2026-04-17",
-        "title": "Песни джиннов",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "音乐"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 952569,
-        "original_language": "ru",
-        "original_title": "Рождённые в СССР: 35 лет",
-        "overview": "",
-        "popularity": 0.1105,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Рождённые в СССР: 35 лет",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1667897,
-        "original_language": "ru",
-        "original_title": "Секунды до нуля",
-        "overview": "",
-        "popularity": 0.134,
-        "poster_path": "/8N23qCe3bpDeAaeSZd3AZx0QucV.jpg",
-        "release_date": "2026-04-17",
-        "title": "Секунды до нуля",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
         "id": 1661498,
@@ -3467,72 +3891,6 @@
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "И что-то ещё",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1662673,
-        "original_language": "ru",
-        "original_title": "Приграничье",
-        "overview": "",
-        "popularity": 0.0996,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Приграничье",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1670504,
-        "original_language": "ru",
-        "original_title": "Мой 2007",
-        "overview": "",
-        "popularity": 0.1143,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Мой 2007",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1667902,
-        "original_language": "ru",
-        "original_title": "Коралловые бусы",
-        "overview": "",
-        "popularity": 0.1101,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Коралловые бусы",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3567,40 +3925,16 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            36
-        ],
-        "id": 1662678,
-        "original_language": "ru",
-        "original_title": "На краю света",
-        "overview": "",
-        "popularity": 0.0627,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "На краю света",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "历史"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
-        "id": 1667833,
+        "id": 1670504,
         "original_language": "ru",
-        "original_title": "Если долго идти навстречу",
+        "original_title": "Мой 2007",
         "overview": "",
-        "popularity": 0.131,
+        "popularity": 0.1143,
         "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Если долго идти навстречу",
+        "title": "Мой 2007",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3613,16 +3947,38 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            99
         ],
-        "id": 1662433,
+        "id": 952569,
         "original_language": "ru",
-        "original_title": "Пер Гюнт",
+        "original_title": "Рождённые в СССР: 35 лет",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.1105,
         "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Пер Гюнт",
+        "title": "Рождённые в СССР: 35 лет",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1667902,
+        "original_language": "ru",
+        "original_title": "Коралловые бусы",
+        "overview": "",
+        "popularity": 0.1101,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Коралловые бусы",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3645,6 +4001,72 @@
         "poster_path": "/hMub9iPxI8P0OntAwXnDVIIHTz9.jpg",
         "release_date": "2026-04-17",
         "title": "Эфир",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1662673,
+        "original_language": "ru",
+        "original_title": "Приграничье",
+        "overview": "",
+        "popularity": 0.0996,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Приграничье",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1662676,
+        "original_language": "ru",
+        "original_title": "Русский Челси",
+        "overview": "",
+        "popularity": 0.0929,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Русский Челси",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1668188,
+        "original_language": "ru",
+        "original_title": "Здоров",
+        "overview": "",
+        "popularity": 0.0855,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Здоров",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3683,19 +4105,65 @@
         "genre_ids": [
             18
         ],
-        "id": 1668188,
+        "id": 1662694,
         "original_language": "ru",
-        "original_title": "Здоров",
+        "original_title": "Кокице",
         "overview": "",
-        "popularity": 0.0855,
-        "poster_path": null,
+        "popularity": 0.0672,
+        "poster_path": "/bnvfoLDTWGzYN7ZH7VrMkda0cac.jpg",
         "release_date": "2026-04-17",
-        "title": "Здоров",
+        "title": "Кокице",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1667844,
+        "original_language": "ru",
+        "original_title": "Переговорщик «Операция Дамаск»",
+        "overview": "",
+        "popularity": 0.0636,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Переговорщик «Операция Дамаск»",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            36
+        ],
+        "id": 1662678,
+        "original_language": "ru",
+        "original_title": "На краю света",
+        "overview": "",
+        "popularity": 0.0627,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "На краю света",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "历史"
         ],
         "original_language_zh": "俄语"
     },
@@ -3727,14 +4195,14 @@
         "genre_ids": [
             18
         ],
-        "id": 1667844,
+        "id": 1668407,
         "original_language": "ru",
-        "original_title": "Переговорщик «Операция Дамаск»",
+        "original_title": "Хорошие дети молчат",
         "overview": "",
-        "popularity": 0.0636,
+        "popularity": 0.0564,
         "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Переговорщик «Операция Дамаск»",
+        "title": "Хорошие дети молчат",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3791,65 +4259,23 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
+            35,
+            10749
         ],
-        "id": 1662427,
+        "id": 1542356,
         "original_language": "ru",
-        "original_title": "Дортмундские тени над Мордовией",
+        "original_title": "Между нами джаз",
         "overview": "",
-        "popularity": 0.0363,
-        "poster_path": null,
+        "popularity": 0.0423,
+        "poster_path": "/jQGXXGJBFGpXCwWuwoU65jETScL.jpg",
         "release_date": "2026-04-17",
-        "title": "Дортмундские тени над Мордовией",
+        "title": "Между нами джаз",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1668407,
-        "original_language": "ru",
-        "original_title": "Хорошие дети молчат",
-        "overview": "",
-        "popularity": 0.0564,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Хорошие дети молчат",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1668107,
-        "original_language": "ru",
-        "original_title": "Стрелок",
-        "overview": "",
-        "popularity": 0.1467,
-        "poster_path": "/kQuKZEsMv75lwacn2ueV6kgCUbQ.jpg",
-        "release_date": "2026-04-17",
-        "title": "Стрелок",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
+            "喜剧",
+            "爱情"
         ],
         "original_language_zh": "俄语"
     },
@@ -3879,23 +4305,21 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35,
-            10749
+            18
         ],
-        "id": 1542356,
+        "id": 1662427,
         "original_language": "ru",
-        "original_title": "Между нами джаз",
+        "original_title": "Дортмундские тени над Мордовией",
         "overview": "",
-        "popularity": 0.0423,
-        "poster_path": "/jQGXXGJBFGpXCwWuwoU65jETScL.jpg",
+        "popularity": 0.0363,
+        "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Между нами джаз",
+        "title": "Дортмундские тени над Мордовией",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "爱情"
+            "剧情"
         ],
         "original_language_zh": "俄语"
     },
@@ -3993,28 +4417,6 @@
         "genre_ids": [
             99
         ],
-        "id": 1662667,
-        "original_language": "ru",
-        "original_title": "Музей",
-        "overview": "",
-        "popularity": 0.2465,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Музей",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
         "id": 1667872,
         "original_language": "ru",
         "original_title": "В круге добра",
@@ -4023,28 +4425,6 @@
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "В круге добра",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "俄语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1667863,
-        "original_language": "ru",
-        "original_title": "Проханов. Контратака",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Проханов. Контратака",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -4081,19 +4461,41 @@
         "genre_ids": [
             99
         ],
-        "id": 1662676,
+        "id": 1667863,
         "original_language": "ru",
-        "original_title": "Русский Челси",
+        "original_title": "Проханов. Контратака",
         "overview": "",
-        "popularity": 0.0929,
+        "popularity": 0.0143,
         "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Русский Челси",
+        "title": "Проханов. Контратака",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1662433,
+        "original_language": "ru",
+        "original_title": "Пер Гюнт",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-17",
+        "title": "Пер Гюнт",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "俄语"
     },
