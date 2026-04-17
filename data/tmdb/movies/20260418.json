@@ -45,6 +45,24 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/znHotHtWWZY9QwCZYMTlElzjKkk.jpg",
+        "genre_ids": [],
+        "id": 1658461,
+        "original_language": "en",
+        "original_title": "WWE WrestleMania 42 Countdown - Saturday",
+        "overview": "",
+        "popularity": 0.97,
+        "poster_path": "/xvLcy9qSjybu0U6CGm1yqnvS7l2.jpg",
+        "release_date": "2026-04-18",
+        "title": "WWE WrestleMania 42 Countdown - Saturday",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10749
@@ -62,32 +80,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mvf1IznZuhk8Rk0fOcbGudpGMqA.jpg",
-        "genre_ids": [
-            18,
-            28,
-            35
-        ],
-        "id": 1658461,
-        "original_language": "en",
-        "original_title": "WWE WrestleMania 42 - Saturday",
-        "overview": "",
-        "popularity": 0.97,
-        "poster_path": "/axfOsqQbc7Uj09JQ82kMnNB8yWO.jpg",
-        "release_date": "2026-04-18",
-        "title": "WWE WrestleMania 42 - Saturday",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "动作",
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1261,6 +1253,56 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/edJuJS2p4P2QQLXFSbcRn9D8PCj.jpg",
+        "genre_ids": [
+            28,
+            18,
+            35
+        ],
+        "id": 1674749,
+        "original_language": "en",
+        "original_title": "WWE WrestleMania 42 - Saturday",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/axfOsqQbc7Uj09JQ82kMnNB8yWO.jpg",
+        "release_date": "2026-04-18",
+        "title": "WWE WrestleMania 42 - Saturday",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ffq1Ml8TihwbWeumiHPOmBLabP2.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1674570,
+        "original_language": "en",
+        "original_title": "Cycles",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7DDcJHxnLPGH6fKiLQtKLnvwrNk.jpg",
+        "release_date": "2026-04-18",
+        "title": "Cycles",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/ka8NVONLKqUVxylXfyMVc2trHFt.jpg",
         "genre_ids": [
             18
@@ -1606,8 +1648,8 @@
         "release_date": "2026-04-18",
         "title": "#indie",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 5.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧"
         ],
