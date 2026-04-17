@@ -2460,7 +2460,7 @@
         "original_language": "ja",
         "original_title": "ONE OK ROCK DETOX JAPAN TOUR AT NISSAN STADIUM 2025 IN CINEMAS",
         "overview": "",
-        "popularity": 1.031,
+        "popularity": 1.0191,
         "poster_path": "/7RLtRxTrkienGb5S6FwGYYOQotx.jpg",
         "release_date": "2026-04-17",
         "title": "ONE OK ROCK DETOX JAPAN TOUR AT NISSAN STADIUM 2025 IN CINEMAS",
@@ -2484,7 +2484,7 @@
         "original_language": "ja",
         "original_title": "人はなぜラブレターを書くのか",
         "overview": "",
-        "popularity": 0.5154,
+        "popularity": 0.71,
         "poster_path": "/6qfSXke7BoD7713u64CzrmKdZDR.jpg",
         "release_date": "2026-04-17",
         "title": "人はなぜラブレターを書くのか",
@@ -2753,24 +2753,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1632175,
-        "original_language": "fr",
-        "original_title": "La couleur de Réal",
-        "overview": "",
-        "popularity": 0.128,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "La couleur de Réal",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/2YWhaYSTYSuyo0BQrHycro26vxq.jpg",
         "genre_ids": [
             10402
@@ -2779,7 +2761,7 @@
         "original_language": "fr",
         "original_title": "La fête de la chanson française - 20 ans d'émotions",
         "overview": "",
-        "popularity": 0.1571,
+        "popularity": 0.1532,
         "poster_path": "/yjOwZhbviYdZnrIyTQFEeP8UFmf.jpg",
         "release_date": "2026-04-17",
         "title": "La fête de la chanson française - 20 ans d'émotions",
@@ -2794,25 +2776,19 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            99,
-            18
-        ],
-        "id": 1665648,
+        "genre_ids": [],
+        "id": 1632175,
         "original_language": "fr",
-        "original_title": "SPARTIATES - Une semaine, un match, une vie",
+        "original_title": "La couleur de Réal",
         "overview": "",
-        "popularity": 0.0633,
-        "poster_path": "/z5Ya2bYzMGSMylcAdQOii3r6Q1E.jpg",
+        "popularity": 0.1083,
+        "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "SPARTIATES - Une semaine, un match, une vie",
+        "title": "La couleur de Réal",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
@@ -2827,7 +2803,7 @@
         "original_language": "fr",
         "original_title": "Our Family Story",
         "overview": "",
-        "popularity": 0.0648,
+        "popularity": 0.098,
         "poster_path": "/gU2rKu0LZmYefkhiNhVM23AYfYA.jpg",
         "release_date": "2026-04-17",
         "title": "Our Family Story",
@@ -2844,12 +2820,36 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1665648,
+        "original_language": "fr",
+        "original_title": "SPARTIATES - Une semaine, un match, une vie",
+        "overview": "",
+        "popularity": 0.0518,
+        "poster_path": "/z5Ya2bYzMGSMylcAdQOii3r6Q1E.jpg",
+        "release_date": "2026-04-17",
+        "title": "SPARTIATES - Une semaine, un match, une vie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1670530,
         "original_language": "fr",
         "original_title": "Dernière Séance",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0239,
         "poster_path": "/zZpyIYoHjuVisLfz136mltCuhXT.jpg",
         "release_date": "2026-04-17",
         "title": "Dernière Séance",
@@ -2867,7 +2867,7 @@
         "original_language": "fr",
         "original_title": "FUMER TUE",
         "overview": "",
-        "popularity": 0.0143,
+        "popularity": 0.0214,
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "FUMER TUE",
@@ -2906,7 +2906,7 @@
         "original_language": "es",
         "original_title": "Mi querida señorita",
         "overview": "",
-        "popularity": 2.1754,
+        "popularity": 1.9868,
         "poster_path": "/wPMb6ECpefJXtXRV0C5Qx45HprA.jpg",
         "release_date": "2026-04-17",
         "title": "Mi querida señorita",
@@ -2931,7 +2931,7 @@
         "original_language": "es",
         "original_title": "Calcinación",
         "overview": "",
-        "popularity": 0.7364,
+        "popularity": 0.7617,
         "poster_path": "/xYZHsSPPBZzURHWce6T83vupNb8.jpg",
         "release_date": "2026-04-17",
         "title": "Calcinación",
@@ -2947,6 +2947,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1391325,
+        "original_language": "es",
+        "original_title": "La familia Benetón +2",
+        "overview": "",
+        "popularity": 0.3763,
+        "poster_path": "/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+        "release_date": "2026-04-17",
+        "title": "La familia Benetón +2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -2955,7 +2977,7 @@
         "original_language": "es",
         "original_title": "Landa",
         "overview": "",
-        "popularity": 0.4027,
+        "popularity": 0.4275,
         "poster_path": "/kcEoJ8WfJz4wzMOGr2hLphoZIKI.jpg",
         "release_date": "2026-04-17",
         "title": "Landa",
@@ -2978,7 +3000,7 @@
         "original_language": "es",
         "original_title": "Melodrama",
         "overview": "",
-        "popularity": 0.3908,
+        "popularity": 0.4054,
         "poster_path": "/iRBSanGvo5wZJtFenDpzouSnfyZ.jpg",
         "release_date": "2026-04-17",
         "title": "Melodrama",
@@ -2993,42 +3015,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1jSW5NoWWEFeC84PTQ5VKChm4is.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            18
         ],
-        "id": 1391325,
+        "id": 1662689,
         "original_language": "es",
-        "original_title": "La familia Benetón +2",
+        "original_title": "La biblioteca",
         "overview": "",
-        "popularity": 0.4201,
-        "poster_path": "/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+        "popularity": 0.1179,
+        "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "La familia Benetón +2",
+        "title": "La biblioteca",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "剧情"
         ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1661527,
-        "original_language": "es",
-        "original_title": "LolaGodstar",
-        "overview": "",
-        "popularity": 0.2487,
-        "poster_path": "/hxEofCnO1ieQ9DOPdpNPvVvGJkS.jpg",
-        "release_date": "2026-04-17",
-        "title": "LolaGodstar",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
@@ -3039,10 +3043,28 @@
         "original_language": "es",
         "original_title": "Annemarie",
         "overview": "",
-        "popularity": 0.2575,
+        "popularity": 0.2346,
         "poster_path": "/uQLnV6G5fxWcjWvFs1igin3YykH.jpg",
         "release_date": "2026-04-17",
         "title": "Annemarie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1661527,
+        "original_language": "es",
+        "original_title": "LolaGodstar",
+        "overview": "",
+        "popularity": 0.1841,
+        "poster_path": "/hxEofCnO1ieQ9DOPdpNPvVvGJkS.jpg",
+        "release_date": "2026-04-17",
+        "title": "LolaGodstar",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3061,7 +3083,7 @@
         "original_language": "es",
         "original_title": "SADO",
         "overview": "",
-        "popularity": 0.1718,
+        "popularity": 0.1799,
         "poster_path": "/1HEpmGQ5zsROu1SFcaJ0m67Allu.jpg",
         "release_date": "2026-04-17",
         "title": "SADO",
@@ -3085,7 +3107,7 @@
         "original_language": "es",
         "original_title": "Navegamos",
         "overview": "",
-        "popularity": 0.1233,
+        "popularity": 0.1089,
         "poster_path": "/hfcWI4bHj7WLbGyIDjKtwcpvbul.jpg",
         "release_date": "2026-04-17",
         "title": "Navegamos",
@@ -3107,54 +3129,10 @@
         "original_language": "es",
         "original_title": "Donn. Instrumento de Dios",
         "overview": "",
-        "popularity": 0.1078,
+        "popularity": 0.0747,
         "poster_path": "/1XhcGvTnfXbvMEILScr5LdTFxmb.jpg",
         "release_date": "2026-04-17",
         "title": "Donn. Instrumento de Dios",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1658351,
-        "original_language": "es",
-        "original_title": "La rodilla de Lola",
-        "overview": "",
-        "popularity": 0.0923,
-        "poster_path": "/6nmeZ4lMO3jdvJ0m4fKkCFFeqE2.jpg",
-        "release_date": "2026-04-17",
-        "title": "La rodilla de Lola",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1661239,
-        "original_language": "es",
-        "original_title": "Los vencedores",
-        "overview": "",
-        "popularity": 0.085,
-        "poster_path": "/hJVeuvHc7xmeYHhCs1iypk6nPy.jpg",
-        "release_date": "2026-04-17",
-        "title": "Los vencedores",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3188,6 +3166,50 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1658351,
+        "original_language": "es",
+        "original_title": "La rodilla de Lola",
+        "overview": "",
+        "popularity": 0.0805,
+        "poster_path": "/6nmeZ4lMO3jdvJ0m4fKkCFFeqE2.jpg",
+        "release_date": "2026-04-17",
+        "title": "La rodilla de Lola",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1661239,
+        "original_language": "es",
+        "original_title": "Los vencedores",
+        "overview": "",
+        "popularity": 0.1243,
+        "poster_path": "/hJVeuvHc7xmeYHhCs1iypk6nPy.jpg",
+        "release_date": "2026-04-17",
+        "title": "Los vencedores",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1663181,
         "original_language": "es",
@@ -3206,12 +3228,52 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1668170,
+        "original_language": "es",
+        "original_title": "Un hombre bueno",
+        "overview": "",
+        "popularity": 0.0636,
+        "poster_path": "/vhznxaoKZvNCARESXXnR4YXiLvM.jpg",
+        "release_date": "2026-04-17",
+        "title": "Un hombre bueno",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1662167,
+        "original_language": "es",
+        "original_title": "Lo que nos une",
+        "overview": "",
+        "popularity": 0.0505,
+        "poster_path": "/U1XAeQ3ioCPM1G0SjiNZZbYJWk.jpg",
+        "release_date": "2026-04-17",
+        "title": "Lo que nos une",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1661833,
         "original_language": "es",
         "original_title": "Detrás de la sombra",
         "overview": "",
-        "popularity": 0.0621,
+        "popularity": 0.0389,
         "poster_path": "/9N0uluF8CNkBisQ61N41U4EwX0e.jpg",
         "release_date": "2026-04-17",
         "title": "Detrás de la sombra",
@@ -3247,46 +3309,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1668170,
-        "original_language": "es",
-        "original_title": "Un hombre bueno",
-        "overview": "",
-        "popularity": 0.0636,
-        "poster_path": "/vhznxaoKZvNCARESXXnR4YXiLvM.jpg",
-        "release_date": "2026-04-17",
-        "title": "Un hombre bueno",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1662167,
-        "original_language": "es",
-        "original_title": "Lo que nos une",
-        "overview": "",
-        "popularity": 0.0621,
-        "poster_path": "/U1XAeQ3ioCPM1G0SjiNZZbYJWk.jpg",
-        "release_date": "2026-04-17",
-        "title": "Lo que nos une",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1670307,
@@ -3315,7 +3337,7 @@
         "original_language": "es",
         "original_title": "Tejuanti Mijtotie, Tejuani Patlani",
         "overview": "",
-        "popularity": 0.0261,
+        "popularity": 0.0256,
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "Tejuanti Mijtotie, Tejuani Patlani",
@@ -3335,7 +3357,7 @@
         "original_language": "es",
         "original_title": "Mi amigo, el arquitecto",
         "overview": "",
-        "popularity": 0.0239,
+        "popularity": 0.0214,
         "poster_path": "/sMB00Njgb5QlOHPoD16Am79twm5.jpg",
         "release_date": "2026-04-17",
         "title": "Mi amigo, el arquitecto",
@@ -3348,77 +3370,15 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1662689,
-        "original_language": "es",
-        "original_title": "La biblioteca",
-        "overview": "",
-        "popularity": 0.2633,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "La biblioteca",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1661473,
         "original_language": "es",
         "original_title": "La lámpara de Happy Together",
         "overview": "",
-        "popularity": 0.0214,
+        "popularity": 0.0143,
         "poster_path": "/yH86GK8PFPO7Jqp7yacxzKiWsgo.jpg",
         "release_date": "2026-04-17",
         "title": "La lámpara de Happy Together",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1670480,
-        "original_language": "es",
-        "original_title": "Abans De",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2026-04-17",
-        "title": "Abans De",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1661459,
-        "original_language": "es",
-        "original_title": "Xul",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/dhaaWuuChNBcw2fji1HtQnexKS6.jpg",
-        "release_date": "2026-04-17",
-        "title": "Xul",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -3446,19 +3406,47 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1661424,
+        "genre_ids": [
+            18
+        ],
+        "id": 1670480,
         "original_language": "es",
-        "original_title": "Lo que dura la noche",
+        "original_title": "Abans De",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/k3tMUdszbGuNdF7WPiWs8KJ15GR.jpg",
+        "popularity": 0.0143,
+        "poster_path": null,
         "release_date": "2026-04-17",
-        "title": "Lo que dura la noche",
+        "title": "Abans De",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1669745,
+        "original_language": "es",
+        "original_title": "Cinquillo -1",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/id8hBPFmZZZpiq9P4VsSe59NPUV.jpg",
+        "release_date": "2026-04-17",
+        "title": "Cinquillo -1",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "喜剧"
+        ],
         "original_language_zh": "西班牙语"
     },
     {
@@ -3469,10 +3457,46 @@
         "original_language": "es",
         "original_title": "Estoy solo aquí en la playa",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0143,
         "poster_path": "/yPBSV4pwGAsdRyAUOQ16gAbZuFY.jpg",
         "release_date": "2026-04-17",
         "title": "Estoy solo aquí en la playa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1661459,
+        "original_language": "es",
+        "original_title": "Xul",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/dhaaWuuChNBcw2fji1HtQnexKS6.jpg",
+        "release_date": "2026-04-17",
+        "title": "Xul",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1661424,
+        "original_language": "es",
+        "original_title": "Lo que dura la noche",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/k3tMUdszbGuNdF7WPiWs8KJ15GR.jpg",
+        "release_date": "2026-04-17",
+        "title": "Lo que dura la noche",
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
@@ -4523,6 +4547,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/g9BSsz8wBMH42OE5RSo2sZe0Tgp.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1663851,
+        "original_language": "pl",
+        "original_title": "Próbowałeś nas ogniem",
+        "overview": "",
+        "popularity": 0.1436,
+        "poster_path": "/sCtpH2sXQsWlP5h2j1gpaMlqOV4.jpg",
+        "release_date": "2026-04-17",
+        "title": "Próbowałeś nas ogniem",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "波兰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6tYyzZKgZS4dxwxZUgBaawhZdJJ.jpg",
         "genre_ids": [
             16,
@@ -4533,7 +4579,7 @@
         "original_language": "pl",
         "original_title": "Pucio",
         "overview": "",
-        "popularity": 0.0883,
+        "popularity": 0.1652,
         "poster_path": "/m8bHBkQEw2fk5RUx7uz7lG8jGW9.jpg",
         "release_date": "2026-04-17",
         "title": "Pucio",
@@ -4549,28 +4595,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/g9BSsz8wBMH42OE5RSo2sZe0Tgp.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1663851,
-        "original_language": "pl",
-        "original_title": "Próbowałeś nas ogniem",
-        "overview": "",
-        "popularity": 0.1333,
-        "poster_path": "/sCtpH2sXQsWlP5h2j1gpaMlqOV4.jpg",
-        "release_date": "2026-04-17",
-        "title": "Próbowałeś nas ogniem",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "波兰语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -4581,7 +4605,7 @@
         "original_language": "pl",
         "original_title": "Maryja. Matka papieża",
         "overview": "",
-        "popularity": 0.0429,
+        "popularity": 0.0286,
         "poster_path": "/oobYj3aeb4HvHcxn5JmkCHqk3AV.jpg",
         "release_date": "2026-04-17",
         "title": "Maryja. Matka papieża",
@@ -4605,7 +4629,7 @@
         "original_language": "pl",
         "original_title": "Szepty lasu",
         "overview": "",
-        "popularity": 0.0363,
+        "popularity": 0.0327,
         "poster_path": null,
         "release_date": "2026-04-17",
         "title": "Szepty lasu",
@@ -4663,7 +4687,7 @@
         "original_language": "sv",
         "original_title": "Biodlaren",
         "overview": "",
-        "popularity": 0.4639,
+        "popularity": 0.4252,
         "poster_path": "/xBnUwBy3itkwcZG3SLQlg5J12cc.jpg",
         "release_date": "2026-04-17",
         "title": "Biodlaren",
