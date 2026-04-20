@@ -545,6 +545,28 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/A0inSDiBOzKVA60t0jxi9scv82r.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1677221,
+        "original_language": "en",
+        "original_title": "Rogues Unscripted",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/44DvjBYjYZZ2p9imSllVqJU0tMq.jpg",
+        "release_date": "2026-04-20",
+        "title": "Rogues Unscripted",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             28
@@ -1077,12 +1099,12 @@
         "original_title": "Acronya",
         "overview": "",
         "popularity": 0.0143,
-        "poster_path": null,
+        "poster_path": "/ltopxmvNgNbeUQBXWPCbs1ftt87.jpg",
         "release_date": "2026-04-20",
         "title": "Acronya",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "悬疑",
             "剧情"
