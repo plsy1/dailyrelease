@@ -95,8 +95,10 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
+        "backdrop_path": "/mLvGuNTflf8wqGonVtH3OME66HL.jpg",
+        "genre_ids": [
+            18
+        ],
         "id": 317623,
         "origin_country": [
             "日本"
@@ -105,12 +107,14 @@
         "original_name": "share",
         "overview": "",
         "popularity": 0.1805,
-        "poster_path": null,
+        "poster_path": "/Ao8yJKpZE0ssTAd3B5zjRUceNGz.jpg",
         "first_air_date": "2026-04-21",
         "name": "share",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "日语"
     },
     {
