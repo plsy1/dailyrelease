@@ -92,7 +92,7 @@
         "original_language": "ja",
         "original_name": "雨上がりのスカイツリー",
         "overview": "",
-        "popularity": 0.0256,
+        "popularity": 0.0495,
         "poster_path": null,
         "first_air_date": "2026-04-22",
         "softcore": false,
@@ -140,14 +140,40 @@
         "original_language": "th",
         "original_name": "สอดสร้อยมาลา",
         "overview": "",
-        "popularity": 0.4071,
+        "popularity": 0.4695,
         "poster_path": "/u8N055Iyu3TDkzvSsUAks3JBw6T.jpg",
         "first_air_date": "2026-04-22",
+        "softcore": false,
         "name": "สอดสร้อยมาลา",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yAhfGiMNinP6skjAHanr5uzVo17.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 320419,
+        "origin_country": [
+            "加拿大"
+        ],
+        "original_language": "fr",
+        "original_name": "Liées par le Crime",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tgkvR6j3gbGhSo1WnyWwcJklKvM.jpg",
+        "first_air_date": "2026-04-22",
+        "softcore": false,
+        "name": "Liées par le Crime",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
     },
     {
         "adult": false,
