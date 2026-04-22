@@ -255,6 +255,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1673120,
+        "title": "A Little Death",
+        "original_language": "en",
+        "original_title": "A Little Death",
+        "overview": "",
+        "popularity": 0.1098,
+        "poster_path": null,
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/lRej72lOerx5E3Y03V5VTgV8S2j.jpg",
         "genre_ids": [
             35
@@ -304,20 +323,51 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1673120,
-        "title": "A Little Death",
+        "genre_ids": [
+            99
+        ],
+        "id": 1657849,
+        "title": "Ghost Town",
         "original_language": "en",
-        "original_title": "A Little Death",
+        "original_title": "Ghost Town",
         "overview": "",
-        "popularity": 0.1098,
-        "poster_path": null,
+        "popularity": 0.0552,
+        "poster_path": "/n3qZSbfCv2p1FH0ykX2jwUEW62u.jpg",
         "release_date": "2026-04-23",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            18,
+            35
+        ],
+        "id": 1675733,
+        "title": "Lone' Wolves",
+        "original_language": "en",
+        "original_title": "Lone' Wolves",
+        "overview": "",
+        "popularity": 0.051,
+        "poster_path": "/4P0DyK0CauinqXSWJRFlWmzGuZw.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情",
+            "喜剧"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -349,6 +399,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1669412,
+        "title": "I Love You My Narcissist",
+        "original_language": "en",
+        "original_title": "I Love You My Narcissist",
+        "overview": "",
+        "popularity": 0.0362,
+        "poster_path": "/66jISsdknsnw9ouYkJvRv8URYD5.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/yfhcUk31zzBXV0epdeeSEAoEgqQ.jpg",
         "genre_ids": [
             35
@@ -372,6 +441,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1677446,
+        "title": "The SD Swap",
+        "original_language": "en",
+        "original_title": "The SD Swap",
+        "overview": "",
+        "popularity": 0.0336,
+        "poster_path": "/dJAV4uJCdPQVJAZSxSujGz8QnLN.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/fH7mm8XGUOLvSefbbj4W9jyn99G.jpg",
         "genre_ids": [
             99
@@ -390,6 +484,129 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AoQOSIYYEjYM0tUNAYOQHcvv9ie.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1677254,
+        "title": "The Healing Circle",
+        "original_language": "en",
+        "original_title": "The Healing Circle",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/5yQp1Y1FQa4BLuxSjOdAUNlLQP.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hKozLWDeqqWrBr1YVRUNLUu0hii.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1651997,
+        "title": "The Coronation",
+        "original_language": "en",
+        "original_title": "The Coronation",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/taFG4fedR9TsmgEsngteeQkmxmT.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aeKVRgpasRNrMmhQor1uD5ZKVOF.jpg",
+        "genre_ids": [
+            18,
+            35,
+            9648
+        ],
+        "id": 1660080,
+        "title": "Guess Who's Back",
+        "original_language": "en",
+        "original_title": "Guess Who's Back",
+        "overview": "",
+        "popularity": 0.0218,
+        "poster_path": "/8DVYImDLSEsp7RxNYju10fdSXwg.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v39FNLwK1iJP3ij1yBzQbLlRwua.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1678469,
+        "title": "Talking To Strangers",
+        "original_language": "en",
+        "original_title": "Talking To Strangers",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/lto4fWVELRGe5Gh3DtdPiAaGj5D.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99,
+            18
+        ],
+        "id": 1659003,
+        "title": "One Last Cheer",
+        "original_language": "en",
+        "original_title": "One Last Cheer",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/rFWrpTj8rOy8F0ibOGLIhaMSV3j.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -441,102 +658,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            9648
-        ],
-        "id": 1677446,
-        "title": "The SD Swap",
-        "original_language": "en",
-        "original_title": "The SD Swap",
-        "overview": "",
-        "popularity": 0.0336,
-        "poster_path": "/dJAV4uJCdPQVJAZSxSujGz8QnLN.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/AoQOSIYYEjYM0tUNAYOQHcvv9ie.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1677254,
-        "title": "The Healing Circle",
-        "original_language": "en",
-        "original_title": "The Healing Circle",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/5yQp1Y1FQa4BLuxSjOdAUNlLQP.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1657849,
-        "title": "Ghost Town",
-        "original_language": "en",
-        "original_title": "Ghost Town",
-        "overview": "",
-        "popularity": 0.0552,
-        "poster_path": "/n3qZSbfCv2p1FH0ykX2jwUEW62u.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99,
-            18
-        ],
-        "id": 1659003,
-        "title": "One Last Cheer",
-        "original_language": "en",
-        "original_title": "One Last Cheer",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/rFWrpTj8rOy8F0ibOGLIhaMSV3j.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/qmFJvYI2drR88NdJOUJAa4APkOJ.jpg",
         "genre_ids": [
             28
@@ -555,102 +676,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/aeKVRgpasRNrMmhQor1uD5ZKVOF.jpg",
-        "genre_ids": [
-            18,
-            35,
-            9648
-        ],
-        "id": 1660080,
-        "title": "Guess Who's Back",
-        "original_language": "en",
-        "original_title": "Guess Who's Back",
-        "overview": "",
-        "popularity": 0.0218,
-        "poster_path": "/8DVYImDLSEsp7RxNYju10fdSXwg.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧",
-            "悬疑"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1669412,
-        "title": "I Love You My Narcissist",
-        "original_language": "en",
-        "original_title": "I Love You My Narcissist",
-        "overview": "",
-        "popularity": 0.0362,
-        "poster_path": "/66jISsdknsnw9ouYkJvRv8URYD5.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            18,
-            35
-        ],
-        "id": 1675733,
-        "title": "Lone' Wolves",
-        "original_language": "en",
-        "original_title": "Lone' Wolves",
-        "overview": "",
-        "popularity": 0.051,
-        "poster_path": "/4P0DyK0CauinqXSWJRFlWmzGuZw.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hKozLWDeqqWrBr1YVRUNLUu0hii.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1651997,
-        "title": "The Coronation",
-        "original_language": "en",
-        "original_title": "The Coronation",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/taFG4fedR9TsmgEsngteeQkmxmT.jpg",
-        "release_date": "2026-04-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -679,27 +704,21 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/v39FNLwK1iJP3ij1yBzQbLlRwua.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1678469,
-        "title": "Talking To Strangers",
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1679039,
+        "title": "Stranger Things: Tales From '85",
         "original_language": "en",
-        "original_title": "Talking To Strangers",
+        "original_title": "Stranger Things: Tales From '85",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/lto4fWVELRGe5Gh3DtdPiAaGj5D.jpg",
+        "popularity": 0.0,
+        "poster_path": null,
         "release_date": "2026-04-23",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -875,13 +894,13 @@
         "genre_ids": [
             99
         ],
-        "id": 1658248,
-        "title": "To the Moon and Back",
+        "id": 1658147,
+        "title": "Djeliya, mémoire du Mandé",
         "original_language": "fr",
-        "original_title": "To the Moon and Back",
+        "original_title": "Djeliya, mémoire du Mandé",
         "overview": "",
-        "popularity": 0.0311,
-        "poster_path": "/cFQtbeS0sZN7gBqayPc7i9u2p2X.jpg",
+        "popularity": 0.0357,
+        "poster_path": "/gZ8t1CIq1U8iazrI7sFJcvP1bBr.jpg",
         "release_date": "2026-04-23",
         "softcore": false,
         "video": false,
@@ -898,13 +917,13 @@
         "genre_ids": [
             99
         ],
-        "id": 1658147,
-        "title": "Djeliya, mémoire du Mandé",
+        "id": 1658248,
+        "title": "To the Moon and Back",
         "original_language": "fr",
-        "original_title": "Djeliya, mémoire du Mandé",
+        "original_title": "To the Moon and Back",
         "overview": "",
-        "popularity": 0.0357,
-        "poster_path": "/gZ8t1CIq1U8iazrI7sFJcvP1bBr.jpg",
+        "popularity": 0.0311,
+        "poster_path": "/cFQtbeS0sZN7gBqayPc7i9u2p2X.jpg",
         "release_date": "2026-04-23",
         "softcore": false,
         "video": false,
@@ -1410,6 +1429,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dI08YFvzGKgyIgPrcetATTaSbE.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1679055,
+        "title": "Owls",
+        "original_language": "es",
+        "original_title": "Owls",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8x2O6NABw0DRdmaIH1IFoccLzDR.jpg",
+        "release_date": "2026-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
