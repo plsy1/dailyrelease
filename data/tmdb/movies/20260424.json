@@ -166,8 +166,8 @@
         "release_date": "2026-04-24",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.5,
+        "vote_count": 6,
         "genre_ids_zh": [
             "动作",
             "惊悚"
@@ -255,7 +255,30 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/sEBA5lnaf4zi2r3wjLju3rxZ3wr.jpg",
+        "backdrop_path": "/pARvnLY4YIwkAsjBmp6bv2hm7ld.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1472304,
+        "title": "Original Sound",
+        "original_language": "en",
+        "original_title": "Original Sound",
+        "overview": "",
+        "popularity": 1.3082,
+        "poster_path": "/f4zm6xgjWoZRymAQP7CKI75kT7M.jpg",
+        "release_date": "2026-04-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xKeYArWgmP7oEyDxsz7aK9fETm.jpg",
         "genre_ids": [
             878,
             9648,
@@ -276,29 +299,6 @@
         "genre_ids_zh": [
             "科幻",
             "悬疑",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/pARvnLY4YIwkAsjBmp6bv2hm7ld.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1472304,
-        "title": "Original Sound",
-        "original_language": "en",
-        "original_title": "Original Sound",
-        "overview": "",
-        "popularity": 1.3082,
-        "poster_path": "/f4zm6xgjWoZRymAQP7CKI75kT7M.jpg",
-        "release_date": "2026-04-24",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
             "剧情"
         ],
         "original_language_zh": "英语"
@@ -335,10 +335,10 @@
             35
         ],
         "id": 1567151,
-        "title": "Nikki Glaser: Good Girl",
+        "title": "妮基·格拉瑟：好女孩",
         "original_language": "en",
         "original_title": "Nikki Glaser: Good Girl",
-        "overview": "",
+        "overview": "妮基·格拉泽 (Nikki Glaser) 已确定在 Hulu 推出她的下一部喜剧特辑。\r 　　这位言辞犀利的吐槽大师兼金球奖主持人将于十月在家乡圣路易斯的福克斯剧院 (Fabulous Fox Theatre) 录制这部一小时的脱口秀节目，届时现场座无虚席。这部节目是格拉泽“活着与不适”巡回演出的一部分。\r 　　这部尚未命名的特辑将于 2026 年播出，由哈米什·汉密尔顿 (Hamish Hamilton) 执导。",
         "popularity": 0.9763,
         "poster_path": "/aKPxBMJo1o3NNDetVDkvExbRlMC.jpg",
         "release_date": "2026-04-24",
@@ -1069,6 +1069,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/eBvq89jL7aLF6st59PY0R2OolM7.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1678269,
+        "title": "Fate",
+        "original_language": "en",
+        "original_title": "Fate",
+        "overview": "",
+        "popularity": 0.0552,
+        "poster_path": "/3vTrOzqkJmiSsDOWqIpbwt9SAbl.jpg",
+        "release_date": "2026-04-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/doxK03bdIP7J0Z00hb3RliXu2bl.jpg",
         "genre_ids": [
             18,
@@ -1089,29 +1114,6 @@
         "genre_ids_zh": [
             "剧情",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/4WWxK03r6bc750FkuYlaGC86OrM.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1514765,
-        "title": "Samanta Nobody",
-        "original_language": "en",
-        "original_title": "Samanta Nobody",
-        "overview": "",
-        "popularity": 0.0363,
-        "poster_path": "/y7D4nBDMpjFfZAIEYPELYXAr8g0.jpg",
-        "release_date": "2026-04-24",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1237,31 +1239,6 @@
             "惊悚",
             "恐怖",
             "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/eBvq89jL7aLF6st59PY0R2OolM7.jpg",
-        "genre_ids": [
-            10749,
-            18
-        ],
-        "id": 1678269,
-        "title": "Fate",
-        "original_language": "en",
-        "original_title": "Fate",
-        "overview": "",
-        "popularity": 0.0552,
-        "poster_path": "/3vTrOzqkJmiSsDOWqIpbwt9SAbl.jpg",
-        "release_date": "2026-04-24",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
