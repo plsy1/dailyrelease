@@ -120,25 +120,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/oMLCSIt0ny4hZkcCfaQBgr6sc7l.jpg",
-        "genre_ids": [],
-        "id": 1661591,
-        "title": "遠離自由",
-        "original_language": "zh",
-        "original_title": "遠離自由",
-        "overview": "",
-        "popularity": 0.0973,
-        "poster_path": "/x8O5OoTtjrp3QbIeEMunQIXIFpP.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/naeOSRV3iHly1HZcMdOCKmy3TzI.jpg",
         "genre_ids": [
             18
@@ -157,29 +138,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1608961,
-        "title": "夕日記",
-        "original_language": "zh",
-        "original_title": "夕日記",
-        "overview": "",
-        "popularity": 0.0928,
-        "poster_path": "/77BNcZhm7HFX6O2GjVxv2irwLo9.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "汉语"
     },
@@ -227,21 +185,44 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mkA9omidPrSZwJmYijbdB29VM6L.jpg",
+        "backdrop_path": "/oMLCSIt0ny4hZkcCfaQBgr6sc7l.jpg",
         "genre_ids": [],
-        "id": 1661595,
-        "title": "兒童樂園 Children's/Ground",
+        "id": 1661591,
+        "title": "遠離自由",
         "original_language": "zh",
-        "original_title": "兒童樂園 Children's/Ground",
+        "original_title": "遠離自由",
         "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/yJnZIs8uUOZc0JUKqSnxqJswyz1.jpg",
+        "popularity": 0.0973,
+        "poster_path": "/x8O5OoTtjrp3QbIeEMunQIXIFpP.jpg",
         "release_date": "2026-04-26",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1608961,
+        "title": "夕日記",
+        "original_language": "zh",
+        "original_title": "夕日記",
+        "overview": "",
+        "popularity": 0.0928,
+        "poster_path": "/77BNcZhm7HFX6O2GjVxv2irwLo9.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -307,25 +288,21 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1661168,
-        "title": "過於煩躁的我們",
+        "backdrop_path": "/mkA9omidPrSZwJmYijbdB29VM6L.jpg",
+        "genre_ids": [],
+        "id": 1661595,
+        "title": "兒童樂園 Children's/Ground",
         "original_language": "zh",
-        "original_title": "過於煩躁的我們",
+        "original_title": "兒童樂園 Children's/Ground",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/azYQQwIvaRGyr5F3MIk2qHU7MIe.jpg",
+        "popularity": 0.0338,
+        "poster_path": "/yJnZIs8uUOZc0JUKqSnxqJswyz1.jpg",
         "release_date": "2026-04-26",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "汉语"
     },
     {
@@ -345,6 +322,29 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1661168,
+        "title": "過於煩躁的我們",
+        "original_language": "zh",
+        "original_title": "過於煩躁的我們",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/azYQQwIvaRGyr5F3MIk2qHU7MIe.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -374,6 +374,54 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/7rszOD9xG7O6xL5TMPUodEQrAM2.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1676309,
+        "title": "The Moonlight Murders",
+        "original_language": "en",
+        "original_title": "The Moonlight Murders",
+        "overview": "",
+        "popularity": 0.2226,
+        "poster_path": "/vs5D3qPcIbHc9wkuWripf5KHFN2.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            28
+        ],
+        "id": 1659433,
+        "title": "Kai Pai La! Guaishou Da Dianying",
+        "original_language": "en",
+        "original_title": "Kai Pai La! Guaishou Da Dianying",
+        "overview": "",
+        "popularity": 0.1922,
+        "poster_path": "/bjRMRvIVWlGSuUvoCTPfc0I1JWM.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "动作"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1666781,
@@ -389,29 +437,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1409955,
-        "title": "Survival",
-        "original_language": "en",
-        "original_title": "Survival",
-        "overview": "",
-        "popularity": 0.0701,
-        "poster_path": "/cDnORQ7g9xaYRDSGEjtpMgxXCNM.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -464,26 +489,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/e9mnIRZJebAZ62hQ4iClWJzfYd1.jpg",
         "genre_ids": [
-            35,
-            28
+            35
         ],
-        "id": 1659433,
-        "title": "Kai Pai La! Guaishou Da Dianying",
+        "id": 1677543,
+        "title": "Keep The Change",
         "original_language": "en",
-        "original_title": "Kai Pai La! Guaishou Da Dianying",
+        "original_title": "Keep The Change",
         "overview": "",
-        "popularity": 0.1922,
-        "poster_path": "/bjRMRvIVWlGSuUvoCTPfc0I1JWM.jpg",
+        "popularity": 0.0869,
+        "poster_path": "/a4AZRleQ6Uv8ZRGqPTmtD4w8Y1Q.jpg",
         "release_date": "2026-04-26",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "动作"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -527,67 +550,48 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/e9mnIRZJebAZ62hQ4iClWJzfYd1.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            27
         ],
-        "id": 1677543,
-        "title": "Keep The Change",
+        "id": 1409955,
+        "title": "Survival",
         "original_language": "en",
-        "original_title": "Keep The Change",
+        "original_title": "Survival",
         "overview": "",
-        "popularity": 0.0869,
-        "poster_path": "/a4AZRleQ6Uv8ZRGqPTmtD4w8Y1Q.jpg",
+        "popularity": 0.0701,
+        "poster_path": "/cDnORQ7g9xaYRDSGEjtpMgxXCNM.jpg",
         "release_date": "2026-04-26",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/7rszOD9xG7O6xL5TMPUodEQrAM2.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            53
+            99
         ],
-        "id": 1676309,
-        "title": "The Moonlight Murders",
+        "id": 1665775,
+        "title": "farewell, the metal workers (ghosts▼↑hell’s gate)",
         "original_language": "en",
-        "original_title": "The Moonlight Murders",
+        "original_title": "farewell, the metal workers (ghosts▼↑hell’s gate)",
         "overview": "",
-        "popularity": 0.2226,
-        "poster_path": "/vs5D3qPcIbHc9wkuWripf5KHFN2.jpg",
+        "popularity": 0.0662,
+        "poster_path": "/xijnEamg6pRZrTg9mwTAmy1UNY7.jpg",
         "release_date": "2026-04-26",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚"
+            "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/yZPIi3kcopXvTfOPKOGlxojgPcB.jpg",
-        "genre_ids": [],
-        "id": 1662264,
-        "title": "Crossroads!",
-        "original_language": "en",
-        "original_title": "Crossroads!",
-        "overview": "",
-        "popularity": 0.0439,
-        "poster_path": "/ee4WYn221qNEPltNMX2JyAQBJIo.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -634,6 +638,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/yZPIi3kcopXvTfOPKOGlxojgPcB.jpg",
+        "genre_ids": [],
+        "id": 1662264,
+        "title": "Crossroads!",
+        "original_language": "en",
+        "original_title": "Crossroads!",
+        "overview": "",
+        "popularity": 0.0439,
+        "poster_path": "/ee4WYn221qNEPltNMX2JyAQBJIo.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1660875,
@@ -653,97 +676,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1665775,
-        "title": "farewell, the metal workers (ghosts▼↑hell’s gate)",
-        "original_language": "en",
-        "original_title": "farewell, the metal workers (ghosts▼↑hell’s gate)",
-        "overview": "",
-        "popularity": 0.0662,
-        "poster_path": "/xijnEamg6pRZrTg9mwTAmy1UNY7.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/u2GbyQvIjphmeRTj21TyWOGlFYU.jpg",
-        "genre_ids": [
-            10402
-        ],
-        "id": 1673766,
-        "title": "Happy Today",
-        "original_language": "en",
-        "original_title": "Happy Today",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/5hLLTjmhWjSRylHO3RI8op3tDXo.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            35
-        ],
-        "id": 1638737,
-        "title": "Horny For Justice IV",
-        "original_language": "en",
-        "original_title": "Horny For Justice IV",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/4uVAqQz5duiVGJTKNLGBuR0wzbB.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1681162,
-        "title": "53 Spaceships",
-        "original_language": "en",
-        "original_title": "53 Spaceships",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/eledoBwLVZjT5TUYxZJA5q0DppC.jpg",
-        "release_date": "2026-04-26",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vHjhpb76w91q850zanlNzAspu9u.jpg",
         "genre_ids": [
             18,
             27,
@@ -755,7 +688,7 @@
         "original_title": "NEW RED 40",
         "overview": "",
         "popularity": 0.0286,
-        "poster_path": "/taDMLAIWIwK7lwcdN7IXZPDl7SX.jpg",
+        "poster_path": "/pjD4pwbqJVmHRRWKSojtQ3YrbMw.jpg",
         "release_date": "2026-04-26",
         "softcore": false,
         "video": false,
@@ -795,6 +728,54 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35
+        ],
+        "id": 1638737,
+        "title": "Horny For Justice IV",
+        "original_language": "en",
+        "original_title": "Horny For Justice IV",
+        "overview": "",
+        "popularity": 0.0214,
+        "poster_path": "/4uVAqQz5duiVGJTKNLGBuR0wzbB.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u2GbyQvIjphmeRTj21TyWOGlFYU.jpg",
+        "genre_ids": [
+            10402
+        ],
+        "id": 1673766,
+        "title": "Happy Today",
+        "original_language": "en",
+        "original_title": "Happy Today",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/5hLLTjmhWjSRylHO3RI8op3tDXo.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/gsg4igzm9sItq5ngvTQ9z5zmM4n.jpg",
         "genre_ids": [
             35,
@@ -816,6 +797,96 @@
             "喜剧",
             "惊悚"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1681341,
+        "title": "Princes of Claiborne",
+        "original_language": "en",
+        "original_title": "Princes of Claiborne",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/rCkX04WnMdtljsxuqTCr55FT69W.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1681307,
+        "title": "Fallen From Grace",
+        "original_language": "en",
+        "original_title": "Fallen From Grace",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/qsYYRRKmnxh7heEDiDKDK3mxgig.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            9648
+        ],
+        "id": 1681285,
+        "title": "McGhee Mysteries",
+        "original_language": "en",
+        "original_title": "McGhee Mysteries",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jno5oECOOw41m6tk5c13oOJ0LgL.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "悬疑"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1681162,
+        "title": "53 Spaceships",
+        "original_language": "en",
+        "original_title": "53 Spaceships",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eledoBwLVZjT5TUYxZJA5q0DppC.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -977,6 +1048,25 @@
         "genre_ids_zh": [
             "喜剧"
         ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1681418,
+        "title": "LE CID",
+        "original_language": "fr",
+        "original_title": "LE CID",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/sdXvrT0fiRweS76abfP4J9taGop.jpg",
+        "release_date": "2026-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "法语"
     },
     {
