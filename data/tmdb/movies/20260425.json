@@ -76,6 +76,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3xKzLqjzOYYEAKxvXR4opyxbH3S.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1649846,
+        "title": "修不修",
+        "original_language": "zh",
+        "original_title": "修不修",
+        "overview": "",
+        "popularity": 0.2098,
+        "poster_path": null,
+        "release_date": "2026-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -140,6 +163,35 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ps6BYVM1hDKrGGoTcjCXedEmYox.jpg",
+        "genre_ids": [
+            14,
+            9648,
+            53,
+            12
+        ],
+        "id": 1675806,
+        "title": "长白山猎人传说2",
+        "original_language": "zh",
+        "original_title": "长白山猎人传说2",
+        "overview": "民国末年，长白山深处的迷雾山村怪事频发。村民陈狗子偶遇神秘新娘并收留，此后命运陡转，暴富后离奇暴毙，接连命案让村子陷入恐惧。老猎户马三爷携众人追查真相，在灵异传闻与人心叵测间探寻谜底，山林深处的隐秘与善恶纠葛正悄然浮出水面。",
+        "popularity": 0.1379,
+        "poster_path": "/wWxZM07j6xRBPyZvhLwUftCt8Hz.jpg",
+        "release_date": "2026-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "悬疑",
+            "惊悚",
+            "冒险"
         ],
         "original_language_zh": "汉语"
     },
@@ -225,29 +277,6 @@
         "overview": "",
         "popularity": 0.2229,
         "poster_path": "/kvD8WxNRhBV60YG1EGVnryGGVwW.jpg",
-        "release_date": "2026-04-25",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3xKzLqjzOYYEAKxvXR4opyxbH3S.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1649846,
-        "title": "修不修",
-        "original_language": "zh",
-        "original_title": "修不修",
-        "overview": "",
-        "popularity": 0.2098,
-        "poster_path": null,
         "release_date": "2026-04-25",
         "softcore": false,
         "video": false,
@@ -862,6 +891,29 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            878
+        ],
+        "id": 1643588,
+        "title": "Surplus to Requirements",
+        "original_language": "en",
+        "original_title": "Surplus to Requirements",
+        "overview": "",
+        "popularity": 0.0453,
+        "poster_path": null,
+        "release_date": "2026-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1657452,
@@ -1040,7 +1092,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/qXPHgOIUqaTQPwkM3sWrjSvYrXU.jpg",
         "genre_ids": [
             35,
             18
@@ -1051,7 +1103,7 @@
         "original_title": "The Parking Spot",
         "overview": "",
         "popularity": 0.0193,
-        "poster_path": null,
+        "poster_path": "/fQrl9qJkvNxM9BWctLBiHcx65D3.jpg",
         "release_date": "2026-04-25",
         "softcore": false,
         "video": false,
@@ -1060,29 +1112,6 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878
-        ],
-        "id": 1643588,
-        "title": "Surplus To Requirements",
-        "original_language": "en",
-        "original_title": "Surplus To Requirements",
-        "overview": "",
-        "popularity": 0.0453,
-        "poster_path": null,
-        "release_date": "2026-04-25",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻"
         ],
         "original_language_zh": "英语"
     },
@@ -1180,43 +1209,51 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1680861,
-        "title": "Ad Nauseam",
+        "backdrop_path": "/191usHHIz8IzBXIZMMxi8P0nOR6.jpg",
+        "genre_ids": [
+            10749,
+            27
+        ],
+        "id": 1681223,
+        "title": "Lovebug",
         "original_language": "en",
-        "original_title": "Ad Nauseam",
+        "original_title": "Lovebug",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": "/dhsiFYenmP5djj6XPYAKcj1DPIW.jpg",
-        "release_date": "2026-04-25",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/1weQEtzcksrw9eqnNKOdwd3v3U6.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1680441,
-        "title": "Behind Closed Doors",
-        "original_language": "en",
-        "original_title": "Behind Closed Doors",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/80ZR02hr4EMXAHjXzC8USD4SGYz.jpg",
+        "poster_path": "/fshyG8N9wTTTuMjXPTNEg1v5VGl.jpg",
         "release_date": "2026-04-25",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚"
+            "爱情",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            35
+        ],
+        "id": 1681193,
+        "title": "OFFICE JOB",
+        "original_language": "en",
+        "original_title": "OFFICE JOB",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1245,7 +1282,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zm0iVLVnWz55R73eubPHtJioeZV.jpg",
+        "backdrop_path": "/237Naupn9JQ6VqPnF3waOmgjNHp.jpg",
         "genre_ids": [],
         "id": 1677712,
         "title": "NJPW Wrestling Redzone In Hiroshima 2026",
