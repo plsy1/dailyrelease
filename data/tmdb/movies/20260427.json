@@ -399,6 +399,33 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            12,
+            35,
+            18
+        ],
+        "id": 1681888,
+        "title": "All Roads Lead to Kyusi",
+        "original_language": "en",
+        "original_title": "All Roads Lead to Kyusi",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/oVxU9Wdzw8r9VOyW9ny01PJFvrt.jpg",
+        "release_date": "2026-04-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1662986,
         "title": "NJPW Road to Wrestling Dontaku 2026 - Day 5",
