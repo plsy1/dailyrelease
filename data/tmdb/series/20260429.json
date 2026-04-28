@@ -105,33 +105,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 320348,
-        "origin_country": [
-            "NZ"
-        ],
-        "original_language": "en",
-        "original_name": "New Zealand Spy",
-        "overview": "",
-        "popularity": 0.5882,
-        "poster_path": null,
-        "first_air_date": "2026-04-29",
-        "softcore": false,
-        "name": "New Zealand Spy",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/geMIopeJXtAWL8HR2p1dVfUPLBY.jpg",
         "genre_ids": [
             99,
@@ -154,6 +127,33 @@
         "genre_ids_zh": [
             "纪录",
             "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 320348,
+        "origin_country": [
+            "NZ"
+        ],
+        "original_language": "en",
+        "original_name": "New Zealand Spy",
+        "overview": "",
+        "popularity": 0.5882,
+        "poster_path": null,
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "New Zealand Spy",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
