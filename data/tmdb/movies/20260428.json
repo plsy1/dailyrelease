@@ -30,6 +30,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1660890,
+        "title": "HIM+",
+        "original_language": "en",
+        "original_title": "HIM+",
+        "overview": "",
+        "popularity": 0.4729,
+        "poster_path": "/amMasHTRJT53ik6bbnfHYIo4K6Y.jpg",
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jo0RbDggV2QDPfDZgPEurl0GPLz.jpg",
         "genre_ids": [
             35,
@@ -53,25 +72,6 @@
             "惊悚",
             "犯罪"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1660890,
-        "title": "HIM+",
-        "original_language": "en",
-        "original_title": "HIM+",
-        "overview": "",
-        "popularity": 0.4729,
-        "poster_path": "/amMasHTRJT53ik6bbnfHYIo4K6Y.jpg",
-        "release_date": "2026-04-28",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/myI1mDGqilTHRawnG03PenZReTs.jpg",
         "genre_ids": [
             99,
             36
@@ -462,6 +462,33 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            878,
+            80,
+            18
+        ],
+        "id": 1670122,
+        "title": "Systema",
+        "original_language": "en",
+        "original_title": "Systema",
+        "overview": "",
+        "popularity": 0.0382,
+        "poster_path": "/4PuBaWc92MUsCAy1tOL4jNmzOTy.jpg",
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "犯罪",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1679622,
@@ -502,6 +529,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/rHHAw0B5JpYHcHfEzGAtWcMVykM.jpg",
+        "genre_ids": [
+            10749,
+            27
+        ],
+        "id": 1683417,
+        "title": "Hollow Walker of the Lake",
+        "original_language": "en",
+        "original_title": "Hollow Walker of the Lake",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/1zwA7cKpWyVlNkLFEANETgAyFu9.jpg",
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "爱情",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -522,6 +574,50 @@
         "genre_ids_zh": [
             "喜剧",
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tZ9dgBfXOCoY2N6H1uwcd5M5Lx2.jpg",
+        "genre_ids": [],
+        "id": 1683739,
+        "title": "The Taylor Swift Interview",
+        "original_language": "en",
+        "original_title": "The Taylor Swift Interview",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/aECqyq4aANY2U17lgO0QCd1u7vW.jpg",
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n6flgEDQDEZcxV9yajTftrd0jw7.jpg",
+        "genre_ids": [
+            35,
+            9648
+        ],
+        "id": 1683698,
+        "title": "Out Of The Shell",
+        "original_language": "en",
+        "original_title": "Out Of The Shell",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -565,31 +661,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/rHHAw0B5JpYHcHfEzGAtWcMVykM.jpg",
-        "genre_ids": [
-            10749,
-            27
-        ],
-        "id": 1683417,
-        "title": "Hollow Walker of the Lake",
-        "original_language": "en",
-        "original_title": "Hollow Walker of the Lake",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/1zwA7cKpWyVlNkLFEANETgAyFu9.jpg",
-        "release_date": "2026-04-28",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "爱情",
-            "恐怖"
-        ],
         "original_language_zh": "英语"
     },
     {
@@ -775,6 +846,25 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1680606,
+        "title": "Et voilà",
+        "original_language": "fr",
+        "original_title": "Et voilà",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/5EqZCmhBYW3xDZnoih0sic9MOwG.jpg",
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             99
         ],
@@ -818,29 +908,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
-        ],
-        "id": 1665531,
-        "title": "Terror na Terra da Uva",
-        "original_language": "pt",
-        "original_title": "Terror na Terra da Uva",
-        "overview": "",
-        "popularity": 0.1503,
-        "poster_path": "/wjfNOdHEGPCFkhdMlTQWw8aMDiE.jpg",
-        "release_date": "2026-04-28",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             18
         ],
         "id": 1541612,
@@ -857,6 +924,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1665531,
+        "title": "Terror na Terra da Uva",
+        "original_language": "pt",
+        "original_title": "Terror na Terra da Uva",
+        "overview": "",
+        "popularity": 0.1503,
+        "poster_path": "/wjfNOdHEGPCFkhdMlTQWw8aMDiE.jpg",
+        "release_date": "2026-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "葡萄牙语"
     },
