@@ -492,25 +492,42 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18,
-            10749
+            18
         ],
-        "id": 1645536,
-        "title": "A Ghost's Song",
+        "id": 1683218,
+        "title": "CENSUS",
         "original_language": "en",
-        "original_title": "A Ghost's Song",
+        "original_title": "CENSUS",
         "overview": "",
-        "popularity": 0.0362,
-        "poster_path": "/OsDXs61pMSmncmDNXPnbM4523w.jpg",
+        "popularity": 0.0143,
+        "poster_path": "/rnVm3M1gTtEfAI1WD2kXK1e4Ju4.jpg",
         "release_date": "2026-04-29",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "爱情"
+            "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/go05RJJrKUNogVznYKyCkGACszU.jpg",
+        "genre_ids": [],
+        "id": 1683920,
+        "title": "Four Words for Memory",
+        "original_language": "en",
+        "original_title": "Four Words for Memory",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/eTsnQXRgRMrB3LNeiQ3rF7cuIsu.jpg",
+        "release_date": "2026-04-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -973,29 +990,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/kvNSAe26wlkXK8l92VItzP6LT4q.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1629222,
-        "title": "Prolife",
-        "original_language": "es",
-        "original_title": "Prolife",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/rSbVHn39JYl9TW0MqSFlHfX5mP4.jpg",
-        "release_date": "2026-04-29",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -1014,6 +1008,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kvNSAe26wlkXK8l92VItzP6LT4q.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1629222,
+        "title": "Prolife",
+        "original_language": "es",
+        "original_title": "Prolife",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/rSbVHn39JYl9TW0MqSFlHfX5mP4.jpg",
+        "release_date": "2026-04-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "西班牙语"
     },
