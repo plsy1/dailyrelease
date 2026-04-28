@@ -12,7 +12,7 @@
         "original_language": "zh",
         "original_name": "你是人间惊鸿客",
         "overview": "靖澜寒氏，世袭医官、医术精湛、名扬四海，寒氏后人寒云苓承家风、习医术。然而，八年前的一场毒疫，让寒家满门获罪被诛，寒云苓亦下落不明。八年后，靖澜边境战乱再起，一名女神医于乱世之中以一己之力救死扶伤，这人正是寒云苓。一次两军交战后，少年将军萧池和寒云苓相识，萧池一眼认出她便是儿时救他性命之人，发誓要守护她一生，同时萧池也发现寒云苓身上所背负的秘密。寒云苓在萧池的帮助下，成功为寒家翻案，萧池也在寒云苓的支持下，成功地平息了内忧外患，为国家赢得了安宁。二人在乱世中并肩作战，彼此依赖，相互救赎。",
-        "popularity": 0.9905,
+        "popularity": 3.4966,
         "poster_path": "/brtI8oXlJDKrWnATZCZtIuPmWGv.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -38,7 +38,7 @@
         "original_language": "zh",
         "original_name": "少年演绎法",
         "overview": "在落日镇这座日渐萧条的县城，天赋异禀的少年韩皓辉做出了一个震惊全镇的决定：放弃夕晖市名校的奖学金，留在本地高中。驱使他的并非叛逆或冲动，而是对一年前同校女生安然坠楼案“自杀”定论的强烈质疑，安然没有自杀动机。他坚信，这看似平静的校园背后，隐藏着被刻意掩盖的真相。",
-        "popularity": 0.5268,
+        "popularity": 0.3506,
         "poster_path": "/AeJXd6UIraLjEhqfy7vnQNt93ga.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -64,7 +64,7 @@
         "original_language": "en",
         "original_name": "The House of the Spirits",
         "overview": "",
-        "popularity": 3.8384,
+        "popularity": 4.2578,
         "poster_path": "/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -90,7 +90,7 @@
         "original_language": "en",
         "original_name": "Should I Marry A Murderer?",
         "overview": "",
-        "popularity": 0.7315,
+        "popularity": 0.8411,
         "poster_path": "/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -100,6 +100,33 @@
         "genre_ids_zh": [
             "纪录",
             "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 320348,
+        "origin_country": [
+            "NZ"
+        ],
+        "original_language": "en",
+        "original_name": "New Zealand Spy",
+        "overview": "",
+        "popularity": 0.5882,
+        "poster_path": null,
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "New Zealand Spy",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -117,7 +144,7 @@
         "original_language": "en",
         "original_name": "Salisbury Poisonings: The Untold Story",
         "overview": "",
-        "popularity": 0.5287,
+        "popularity": 0.7728,
         "poster_path": "/d7YjeWob8tEJmrAn44vYBTO8erc.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -146,7 +173,7 @@
         "original_language": "en",
         "original_name": "A MAZE IN TRUTH",
         "overview": "",
-        "popularity": 0.2951,
+        "popularity": 0.2694,
         "poster_path": "/YLNu570mJR9wucezfD9mmbt61P.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -164,33 +191,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35,
-            18
-        ],
-        "id": 320348,
-        "origin_country": [
-            "NZ"
-        ],
-        "original_language": "en",
-        "original_name": "New Zealand Spy",
-        "overview": "",
-        "popularity": 0.2859,
-        "poster_path": null,
-        "first_air_date": "2026-04-29",
-        "softcore": false,
-        "name": "New Zealand Spy",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             80
         ],
         "id": 320935,
@@ -200,7 +200,7 @@
         "original_language": "en",
         "original_name": "Allegedly",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0143,
         "poster_path": null,
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -226,7 +226,7 @@
         "original_language": "ko",
         "original_name": "골드랜드",
         "overview": "故事围绕一场卷入600亿韩元来历不明的金条走私案，以及展开的人性欲望纠葛，并一步步揭开深藏的真相。",
-        "popularity": 3.2384,
+        "popularity": 4.0553,
         "poster_path": "/pGsaDGXoHIgLy925o9rxptgEf27.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -250,7 +250,7 @@
         "original_language": "ru",
         "original_name": "Берлин'23",
         "overview": "",
-        "popularity": 0.3306,
+        "popularity": 0.6114,
         "poster_path": "/o5SvTK3sLArXosYBQNm8oOY4EFc.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
