@@ -1,7 +1,7 @@
 [
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/do4lhqH2USNUMVYzQWn9kMq1chJ.jpg",
         "genre_ids": [
             18
         ],
@@ -10,13 +10,13 @@
             "中国"
         ],
         "original_language": "zh",
-        "original_name": "你是人间惊鸿客",
+        "original_name": "人间惊鸿客",
         "overview": "靖澜寒氏，世袭医官、医术精湛、名扬四海，寒氏后人寒云苓承家风、习医术。然而，八年前的一场毒疫，让寒家满门获罪被诛，寒云苓亦下落不明。八年后，靖澜边境战乱再起，一名女神医于乱世之中以一己之力救死扶伤，这人正是寒云苓。一次两军交战后，少年将军萧池和寒云苓相识，萧池一眼认出她便是儿时救他性命之人，发誓要守护她一生，同时萧池也发现寒云苓身上所背负的秘密。寒云苓在萧池的帮助下，成功为寒家翻案，萧池也在寒云苓的支持下，成功地平息了内忧外患，为国家赢得了安宁。二人在乱世中并肩作战，彼此依赖，相互救赎。",
-        "popularity": 3.4966,
-        "poster_path": "/brtI8oXlJDKrWnATZCZtIuPmWGv.jpg",
+        "popularity": 3.3977,
+        "poster_path": "/mX9RzIqEy63Cnn7ls0cH5Wu0htE.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
-        "name": "你是人间惊鸿客",
+        "name": "人间惊鸿客",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -38,7 +38,7 @@
         "original_language": "zh",
         "original_name": "少年演绎法",
         "overview": "在落日镇这座日渐萧条的县城，天赋异禀的少年韩皓辉做出了一个震惊全镇的决定：放弃夕晖市名校的奖学金，留在本地高中。驱使他的并非叛逆或冲动，而是对一年前同校女生安然坠楼案“自杀”定论的强烈质疑，安然没有自杀动机。他坚信，这看似平静的校园背后，隐藏着被刻意掩盖的真相。",
-        "popularity": 0.3506,
+        "popularity": 0.6074,
         "poster_path": "/AeJXd6UIraLjEhqfy7vnQNt93ga.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -65,7 +65,7 @@
         "original_name": "The House of the Spirits",
         "overview": "这是一部横跨半世纪的家族史诗，故事聚焦三代女性：外婆克拉拉、女儿布兰卡、孙女阿尔芭。她们在一个偏远保守的南美洲国家，以革命之志与坚韧之姿，穿越灾难、阶级冲突与魔幻命运。",
         "popularity": 6.4579,
-        "poster_path": "/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+        "poster_path": "/yb682O0KCZlS5qRydxOytO5A6co.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
         "name": "幽灵之家",
@@ -214,7 +214,32 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9PPwN7uMdYPYFfpZ9VciDoJQHm6.jpg",
+        "backdrop_path": "/aI4uAxsB5gg8UmQbsA5ne8RYP2z.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 321032,
+        "origin_country": [
+            "澳大利亚"
+        ],
+        "original_language": "en",
+        "original_name": "Urzila",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/j2qkxHG9sQniP2A2d0rq21IT33s.jpg",
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "Urzila",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tJxbqrKBoCJdJrsBKL9qTswENc5.jpg",
         "genre_ids": [
             18,
             80
@@ -226,7 +251,7 @@
         "original_language": "ko",
         "original_name": "골드랜드",
         "overview": "故事围绕一场卷入600亿韩元来历不明的金条走私案，以及展开的人性欲望纠葛，并一步步揭开深藏的真相。",
-        "popularity": 4.0553,
+        "popularity": 5.3715,
         "poster_path": "/pGsaDGXoHIgLy925o9rxptgEf27.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
@@ -238,6 +263,27 @@
             "犯罪"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321041,
+        "origin_country": [
+            "西班牙"
+        ],
+        "original_language": "es",
+        "original_name": "La Noche de Aimar",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "La Noche de Aimar",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
