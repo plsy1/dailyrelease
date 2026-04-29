@@ -78,6 +78,33 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 320348,
+        "origin_country": [
+            "NZ"
+        ],
+        "original_language": "en",
+        "original_name": "New Zealand Spy",
+        "overview": "",
+        "popularity": 0.9692,
+        "poster_path": "/azxgCSj4VwYtnY8r4oowhQzsprW.jpg",
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "New Zealand Spy",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/A1DSMj6VQcvvJmNNBTSSLqQ5bzF.jpg",
         "genre_ids": [
             99,
@@ -89,12 +116,12 @@
         ],
         "original_language": "en",
         "original_name": "Should I Marry A Murderer?",
-        "overview": "",
+        "overview": "这部纪录片剧集聚焦一位变成关键证人的未婚妻，揭露了她如何在与被控谋杀的男子保持订婚关系的同时收集不利于他的证据。",
         "popularity": 0.8742,
-        "poster_path": "/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
+        "poster_path": "/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
-        "name": "Should I Marry A Murderer?",
+        "name": "凶手嫁不嫁：未婚妻搜证实录",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -127,33 +154,6 @@
         "genre_ids_zh": [
             "纪录",
             "犯罪"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 320348,
-        "origin_country": [
-            "NZ"
-        ],
-        "original_language": "en",
-        "original_name": "New Zealand Spy",
-        "overview": "",
-        "popularity": 0.9692,
-        "poster_path": null,
-        "first_air_date": "2026-04-29",
-        "softcore": false,
-        "name": "New Zealand Spy",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -239,10 +239,11 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tJxbqrKBoCJdJrsBKL9qTswENc5.jpg",
+        "backdrop_path": "/9PPwN7uMdYPYFfpZ9VciDoJQHm6.jpg",
         "genre_ids": [
             18,
-            80
+            80,
+            9648
         ],
         "id": 278113,
         "origin_country": [
@@ -250,19 +251,70 @@
         ],
         "original_language": "ko",
         "original_name": "골드랜드",
-        "overview": "故事围绕一场卷入600亿韩元来历不明的金条走私案，以及展开的人性欲望纠葛，并一步步揭开深藏的真相。",
+        "overview": "海关职员金禧主意外获得走私集团的金条，各方人马围绕着黄金，贪婪与背叛交织成一片混乱的修罗场；而禧主也被独吞黄金的欲望占据，为了死守金条而奋力一搏。",
         "popularity": 5.3715,
         "poster_path": "/pGsaDGXoHIgLy925o9rxptgEf27.jpg",
         "first_air_date": "2026-04-29",
         "softcore": false,
         "name": "赌金",
+        "vote_average": 9.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xNZl2W6MPFvOBpUFfWBlyVyCfB8.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 321065,
+        "origin_country": [
+            "韩国"
+        ],
+        "original_language": "ko",
+        "original_name": "금발에 파란 눈동자가 좋아",
+        "overview": "一名失去视力的消防员与一名被宣告生命进入倒计时的青年，偶然住进了同一间病房。起初，他们用尖锐的言语和戒备心彼此冲突，但随着逐渐了解对方的痛苦与秘密，那份疏离感竟转化为意想不到的亲近。而就在终于开始领悟爱情意义的瞬间⋯⋯他们之中的其中一人，却已经在准备告别。",
+        "popularity": 0.0,
+        "poster_path": "/tiBQE1HuKWdmdK8jTxHZHYEqjgw.jpg",
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "金发蓝眼",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "犯罪"
+            "剧情"
         ],
         "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w9R4JENUEzliC7KQ7R7vtkMag3e.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 321083,
+        "origin_country": [
+            "泰国"
+        ],
+        "original_language": "th",
+        "original_name": "My Staycation Boy",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xCRlWRP2BWpSMTzvcZqVdGWpZiv.jpg",
+        "first_air_date": "2026-04-29",
+        "softcore": false,
+        "name": "My Staycation Boy",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "泰语"
     },
     {
         "adult": false,
