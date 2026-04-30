@@ -814,6 +814,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/p1qJQCNdb1Nf02m87K26Agy7F9V.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1681365,
+        "title": "Eva and Alfie",
+        "original_language": "en",
+        "original_title": "Eva and Alfie",
+        "overview": "",
+        "popularity": 0.0855,
+        "poster_path": "/gETosur4wwhITqz7dwcTQaAk285.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -1614,6 +1637,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28
+        ],
+        "id": 1613054,
+        "title": "Baku Hantam",
+        "original_language": "en",
+        "original_title": "Baku Hantam",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/h6TOt1kizBDy9reJAynpP7AAhgs.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -2502,7 +2548,7 @@
         "original_title": "la langue du capitalisme",
         "overview": "",
         "popularity": 0.0561,
-        "poster_path": "/zvECIEemGqoINsKleZVhyd9uyUw.jpg",
+        "poster_path": "/86IrniNi4fF6IVofE6KYsTWzwjM.jpg",
         "release_date": "2026-05-01",
         "softcore": false,
         "video": false,

@@ -1077,6 +1077,52 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1685370,
+        "title": "I Will Kill You",
+        "original_language": "en",
+        "original_title": "I Will Kill You",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/vJ2OqXcWTih5WWbhtyqrhOhwC9Q.jpg",
+        "release_date": "2026-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1685331,
+        "title": "Vote Gavin Lyle",
+        "original_language": "en",
+        "original_title": "Vote Gavin Lyle",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             9648,
             80
@@ -1169,6 +1215,33 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            16,
+            10751,
+            14
+        ],
+        "id": 1625495,
+        "title": "인터랙티브 신비아파트 : 극장귀의 속삭임",
+        "original_language": "ko",
+        "original_title": "인터랙티브 신비아파트 : 극장귀의 속삭임",
+        "overview": "",
+        "popularity": 0.549,
+        "poster_path": "/tpYYDRmHeqxP1QTKArr4cyTrcK0.jpg",
+        "release_date": "2026-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "家庭",
+            "奇幻"
+        ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1663971,
@@ -1237,33 +1310,6 @@
         "genre_ids_zh": [
             "剧情",
             "音乐"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16,
-            10751,
-            14
-        ],
-        "id": 1625495,
-        "title": "인터랙티브 신비아파트 : 극장귀의 속삭임",
-        "original_language": "ko",
-        "original_title": "인터랙티브 신비아파트 : 극장귀의 속삭임",
-        "overview": "",
-        "popularity": 0.549,
-        "poster_path": null,
-        "release_date": "2026-04-30",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画",
-            "家庭",
-            "奇幻"
         ],
         "original_language_zh": "韩语"
     },
@@ -2109,7 +2155,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mBxu4e76j2KqMs7XyXQKewyROor.jpg",
+        "backdrop_path": "/7bY85O4yBZEsm2FzSLNN66FrUGU.jpg",
         "genre_ids": [
             99
         ],
@@ -2301,6 +2347,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/lBSsBgfUsAq7TbjXNj2aYXMKP41.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1685212,
+        "title": "1936, le Front Populaire, entre joie et colères",
+        "original_language": "fr",
+        "original_title": "1936, le Front Populaire, entre joie et colères",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/iWCVsFqzX1OL0vRZSmnd2HaPPFc.jpg",
+        "release_date": "2026-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
         "id": 1684987,
@@ -2317,25 +2386,6 @@
         "vote_count": 0,
         "genre_ids_zh": [],
         "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/uY6QpDcwmvGJMaEJAwzEE21ac2z.jpg",
-        "genre_ids": [],
-        "id": 1680651,
-        "title": "Poder de convocatoria",
-        "original_language": "es",
-        "original_title": "Poder de convocatoria",
-        "overview": "",
-        "popularity": 0.2863,
-        "poster_path": "/n2CegSLOFyBxJSlj2z49YULQAGV.jpg",
-        "release_date": "2026-04-30",
-        "softcore": false,
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 2,
-        "genre_ids_zh": [],
-        "original_language_zh": "西班牙语"
     },
     {
         "adult": false,
