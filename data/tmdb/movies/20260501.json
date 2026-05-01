@@ -70,8 +70,8 @@
         "release_date": "2026-05-01",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 7.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "犯罪"
@@ -123,8 +123,8 @@
         "release_date": "2026-05-01",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "喜剧",
@@ -224,8 +224,8 @@
         "release_date": "2026-05-01",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 8.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "犯罪",
             "剧情"
@@ -481,6 +481,29 @@
         "genre_ids_zh": [
             "犯罪",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/raTY5CIX4Zzq3hXpybly4kEWeFf.jpg",
+        "genre_ids": [
+            28
+        ],
+        "id": 1025835,
+        "title": "Prey of Wrath",
+        "original_language": "en",
+        "original_title": "Prey of Wrath",
+        "overview": "",
+        "popularity": 0.239,
+        "poster_path": "/jeMmzpYBe2V0GYGpLfESlb2ZaVF.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -1755,6 +1778,98 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1686035,
+        "title": "V/C/R",
+        "original_language": "en",
+        "original_title": "V/C/R",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/hhLygcurZxtW5ZIKxoPvKg7UZ2v.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1685927,
+        "title": "Buried Under Years of Dust",
+        "original_language": "en",
+        "original_title": "Buried Under Years of Dust",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            14,
+            10749,
+            18
+        ],
+        "id": 1685859,
+        "title": "When I Get Home",
+        "original_language": "en",
+        "original_title": "When I Get Home",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9ZV5jMgSCMx2IHMB8mPLR94ayqK.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻",
+            "爱情",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1685835,
+        "title": "What Happens Next?",
+        "original_language": "en",
+        "original_title": "What Happens Next?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/2whQGV5UcbYAwjCSDADnHWop1Nm.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vW7ddpbbgpo9aCoxPVtSVekNO1c.jpg",
         "genre_ids": [
             10402
@@ -1876,7 +1991,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/1fGGKv8da8CuIhSOXPtYtw3TFka.jpg",
+        "backdrop_path": "/dPBaHzHtqTQkcBzFRdx30PAAcVr.jpg",
         "genre_ids": [
             53
         ],
@@ -2488,31 +2603,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1684532,
-        "title": "아파트",
-        "original_language": "ko",
-        "original_title": "아파트",
-        "overview": "",
-        "popularity": 0.0596,
-        "poster_path": null,
-        "release_date": "2026-05-01",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
-        "original_language_zh": "韩语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/7FYpZoDzTIqiorNzYt0BeMu2EaG.jpg",
         "genre_ids": [
             99
@@ -3065,6 +3155,33 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gaUnzTMWkchTZeB6RrHe3zV6keb.jpg",
+        "genre_ids": [
+            35,
+            12,
+            10751
+        ],
+        "id": 1685932,
+        "title": "До Луны и обратно",
+        "original_language": "ru",
+        "original_title": "До Луны и обратно",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7QGofoluIIGKeHGpO6frt2wXua5.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "冒险",
+            "家庭"
+        ],
         "original_language_zh": "俄语"
     },
     {
