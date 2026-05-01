@@ -1503,6 +1503,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            10751
+        ],
+        "id": 1685980,
+        "title": "Earthqake (วัยซ่าห์ โลก(เกือบ)สั่น)",
+        "original_language": "th",
+        "original_title": "Earthqake (วัยซ่าห์ โลก(เกือบ)สั่น)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/yfhfrrIcQdHA4fZNF8BOavudAG1.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "家庭"
+        ],
+        "original_language_zh": "泰语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vfQdCHgBhZTu6oAXuTZptFMA1qi.jpg",
         "genre_ids": [
             99
