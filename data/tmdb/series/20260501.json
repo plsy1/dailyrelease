@@ -419,22 +419,28 @@
     {
         "adult": false,
         "backdrop_path": "/yuyBZNP3GGJ37FhgZBVhbhZUnsu.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            35,
+            80
+        ],
         "id": 321223,
         "origin_country": [
             "土耳其"
         ],
         "original_language": "tr",
-        "original_name": "P.A.Y.",
+        "original_name": "Pay",
         "overview": "",
         "popularity": 0.0286,
-        "poster_path": "/bDtkLzTj77G5MWipiN97u8nuEIo.jpg",
+        "poster_path": "/oXMvLzMjBfQSKmSAqqaOZhfYvKE.jpg",
         "first_air_date": "2026-05-01",
         "softcore": false,
-        "name": "P.A.Y.",
+        "name": "Pay",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "喜剧",
+            "犯罪"
+        ],
         "original_language_zh": "土耳其语"
     },
     {
