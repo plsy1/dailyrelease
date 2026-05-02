@@ -688,6 +688,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/oiNUfWx4GDm5w4zGnmCprIzcS19.jpg",
+        "genre_ids": [],
+        "id": 1686280,
+        "title": "In Winter",
+        "original_language": "en",
+        "original_title": "In Winter",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/hUhtuTiLPTtkeJUwx1jwBf3Tij3.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99
@@ -750,6 +769,29 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749
+        ],
+        "id": 1686578,
+        "title": "Gio Love",
+        "original_language": "en",
+        "original_title": "Gio Love",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/jwCxfNZ1Tzeot78H1AaNsK7Lff.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -914,6 +956,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/8Rk61QSVcp8G4YqpHsEqjzzhkNO.jpg",
+        "genre_ids": [
+            16,
+            28
+        ],
+        "id": 1684326,
+        "title": "僕のヒーローアカデミア More",
+        "original_language": "ja",
+        "original_title": "僕のヒーローアカデミア More",
+        "overview": "",
+        "popularity": 0.1905,
+        "poster_path": "/ffDdEGXuqyPgeeTnNjUHB4tHU4p.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "动作"
+        ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/rBOyvV3VBNSiEJWevHPkMspg2Se.jpg",
         "genre_ids": [
             27
@@ -933,25 +1000,6 @@
         "genre_ids_zh": [
             "恐怖"
         ],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1684326,
-        "title": "My Hero Academia: More",
-        "original_language": "ja",
-        "original_title": "My Hero Academia: More",
-        "overview": "",
-        "popularity": 0.1905,
-        "poster_path": "/ffDdEGXuqyPgeeTnNjUHB4tHU4p.jpg",
-        "release_date": "2026-05-02",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "日语"
     },
     {
@@ -1999,6 +2047,29 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1686575,
+        "title": "Счастливого пути",
+        "original_language": "ru",
+        "original_title": "Счастливого пути",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xbm0IHSpkHQLptH8PKLYGA6gvTL.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
         "original_language_zh": "俄语"
     },
     {
