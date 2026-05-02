@@ -527,6 +527,96 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/3AXxwyz11mZOXf2Btong0S2UBqA.jpg",
+        "genre_ids": [
+            35,
+            10749
+        ],
+        "id": 1661847,
+        "title": "Anxiety & Me",
+        "original_language": "en",
+        "original_title": "Anxiety & Me",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/qpAhSOWk2AUBE8hx7HxfkJKLXfb.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bIrs4PUOKiEfTSByiGKfXnF17Da.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1634580,
+        "title": "The Magic Words",
+        "original_language": "en",
+        "original_title": "The Magic Words",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/7tQnnIpQyipXCBICk9ktayDpFU5.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1683562,
+        "title": "This is Not a Showcase",
+        "original_language": "en",
+        "original_title": "This is Not a Showcase",
+        "overview": "",
+        "popularity": 0.0495,
+        "poster_path": null,
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1685131,
+        "title": "Slots of Life",
+        "original_language": "en",
+        "original_title": "Slots of Life",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/hln1AyjI2pzIb830Pwd8j9Jr4sv.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35
@@ -596,24 +686,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/3kYc2KCBghRrGtQm3yAgTKzEj5c.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35
+            99
         ],
-        "id": 1678863,
-        "title": "Ocker Couture",
+        "id": 1662024,
+        "title": "Mysterious Bird",
         "original_language": "en",
-        "original_title": "Ocker Couture",
+        "original_title": "Mysterious Bird",
         "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/jPBet8T9EyktyNJ12qCZGsv5T3H.jpg",
+        "popularity": 0.0143,
+        "poster_path": null,
         "release_date": "2026-05-02",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -626,7 +716,7 @@
         "original_language": "en",
         "original_title": "A Dish Best Served Hot",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.0379,
         "poster_path": "/pVyel0lZjLdWOZSWWC1f95Ij00C.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -664,13 +754,36 @@
     {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1686290,
+        "title": "Walk the Cat",
+        "original_language": "en",
+        "original_title": "Walk the Cat",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/uW82olyb43h5oNYQDmdi7rl24vC.jpg",
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [],
         "id": 1685912,
         "title": "There Goes Your Man",
         "original_language": "en",
         "original_title": "There Goes Your Man",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0071,
         "poster_path": "/6ZU9GRpOSLKucRjPyrCRWuwgwon.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -691,7 +804,7 @@
         "original_language": "en",
         "original_title": "static: Interconnected Woes of the In Between",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0143,
         "poster_path": "/9Kj0MrFVAuhihxgnYH4OlBYQsH2.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -705,7 +818,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/3sdidmmSsJpoRlj41X4NwqDXU7W.jpg",
         "genre_ids": [
             18,
             10749
@@ -715,7 +828,7 @@
         "original_language": "en",
         "original_title": "Fragile",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0286,
         "poster_path": "/vegk18bRv2V7wHfprvBTAMvuHJi.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -730,47 +843,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/3kYc2KCBghRrGtQm3yAgTKzEj5c.jpg",
         "genre_ids": [
-            18
+            35
         ],
-        "id": 1685131,
-        "title": "Slots of Life",
+        "id": 1678863,
+        "title": "Ocker Couture",
         "original_language": "en",
-        "original_title": "Slots of Life",
+        "original_title": "Ocker Couture",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/hln1AyjI2pzIb830Pwd8j9Jr4sv.jpg",
+        "popularity": 0.0,
+        "poster_path": "/jPBet8T9EyktyNJ12qCZGsv5T3H.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1662024,
-        "title": "Mysterious Bird",
-        "original_language": "en",
-        "original_title": "Mysterious Bird",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
-        "release_date": "2026-05-02",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -785,7 +875,7 @@
         "original_language": "ja",
         "original_title": "沖で待つ",
         "overview": "",
-        "popularity": 0.4985,
+        "popularity": 0.3889,
         "poster_path": "/mkBroq9kDmp7pqGsZUSqOKedpvD.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -808,7 +898,7 @@
         "original_language": "ja",
         "original_title": "猫を放つ",
         "overview": "",
-        "popularity": 0.4966,
+        "popularity": 0.5567,
         "poster_path": "/hOaFUe8Z9Yq48RlQuVFtHsVaN4g.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -831,7 +921,7 @@
         "original_language": "ja",
         "original_title": "世界の終わりより",
         "overview": "",
-        "popularity": 0.1356,
+        "popularity": 0.1509,
         "poster_path": "/e7HGQFmiEzzPPQDgsk2DM1Rxaup.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -852,7 +942,7 @@
         "original_language": "ja",
         "original_title": "My Hero Academia: More",
         "overview": "",
-        "popularity": 0.1032,
+        "popularity": 0.1905,
         "poster_path": "/ffDdEGXuqyPgeeTnNjUHB4tHU4p.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1332,7 +1422,7 @@
         "original_language": "ko",
         "original_title": "BIASes",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0239,
         "poster_path": "/xcUS1nyhrHqxtm9Y2SEmscTuARZ.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1355,7 +1445,7 @@
         "original_language": "ko",
         "original_title": "사랑, 우린 멀리 이곳에",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0071,
         "poster_path": "/rTnv166ZZFrKW7FQYACq3I6kCXa.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1421,7 +1511,7 @@
         "original_language": "th",
         "original_title": "แกว่งปืนหาเอเลี่ยน",
         "overview": "",
-        "popularity": 0.0193,
+        "popularity": 0.0264,
         "poster_path": "/l7jhOYNavjl1saDCzXK43LzUB8h.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1446,7 +1536,7 @@
         "original_language": "th",
         "original_title": "Earthqake (วัยซ่าห์ โลก(เกือบ)สั่น)",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.0571,
         "poster_path": "/yfhfrrIcQdHA4fZNF8BOavudAG1.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1461,29 +1551,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vfQdCHgBhZTu6oAXuTZptFMA1qi.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1673530,
-        "title": "Boney M: Disco. Macht. Legende.",
-        "original_language": "de",
-        "original_title": "Boney M: Disco. Macht. Legende.",
-        "overview": "",
-        "popularity": 0.089,
-        "poster_path": null,
-        "release_date": "2026-05-02",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "德语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/IbIeCTsVyfUU2d2zAK3gu6BaYN.jpg",
         "genre_ids": [
             18
@@ -1493,7 +1560,7 @@
         "original_language": "de",
         "original_title": "Baba Kush",
         "overview": "",
-        "popularity": 0.0985,
+        "popularity": 0.0802,
         "poster_path": "/fqkxd1sPRdRgsinGyY5hhEf0kdY.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1502,6 +1569,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vfQdCHgBhZTu6oAXuTZptFMA1qi.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1673530,
+        "title": "Boney M: Disco. Macht. Legende.",
+        "original_language": "de",
+        "original_title": "Boney M: Disco. Macht. Legende.",
+        "overview": "",
+        "popularity": 0.1181,
+        "poster_path": null,
+        "release_date": "2026-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "德语"
     },
@@ -1764,7 +1854,7 @@
         "original_language": "pt",
         "original_title": "Shakira no Rio",
         "overview": "",
-        "popularity": 0.1238,
+        "popularity": 0.1064,
         "poster_path": "/1MMnzcCjrcyFLV8bR4GueSvZpZD.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1789,7 +1879,7 @@
         "original_language": "pt",
         "original_title": "Reflexão, Improvisação",
         "overview": "",
-        "popularity": 0.0478,
+        "popularity": 0.0362,
         "poster_path": "/tv1Uzmc1cAhyFx6g8Bia5HS8uNf.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1813,7 +1903,7 @@
         "original_language": "pt",
         "original_title": "ALA, ALA",
         "overview": "",
-        "popularity": 0.0411,
+        "popularity": 0.0214,
         "poster_path": "/wLZj3ShbxQS2Uglt9stTwlMNwRi.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1899,7 +1989,7 @@
         "original_language": "ru",
         "original_title": "The Metropolitan Opera: Eugene Onegin",
         "overview": "",
-        "popularity": 0.212,
+        "popularity": 0.1486,
         "poster_path": "/zvfz5Dds1LFtHv76XcSnYWjyoes.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
@@ -1963,7 +2053,7 @@
         "original_language": "sv",
         "original_title": "Se upp!",
         "overview": "",
-        "popularity": 0.0675,
+        "popularity": 0.0805,
         "poster_path": "/omIVaJo7KMomDdSzTK5Rlx1irmB.jpg",
         "release_date": "2026-05-02",
         "softcore": false,
