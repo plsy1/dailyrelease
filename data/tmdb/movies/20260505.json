@@ -469,24 +469,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/eQYNNYZXfpHcB8mxp9DDylfSDi0.jpg",
         "genre_ids": [
-            99
+            99,
+            36
         ],
-        "id": 1688180,
-        "title": "Making Life on Earth: Attenborough’s Greatest Adventure",
+        "id": 1688368,
+        "title": "American Prometheus",
         "original_language": "en",
-        "original_title": "Making Life on Earth: Attenborough’s Greatest Adventure",
+        "original_title": "American Prometheus",
         "overview": "",
-        "popularity": 0.0571,
-        "poster_path": "/rQ5w5gJLC6VpVlpx4MRVBaNMyfv.jpg",
+        "popularity": 0.0,
+        "poster_path": "/qc8VV4QUMSzI3ikx7c7XoFHniFk.jpg",
         "release_date": "2026-05-05",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "历史"
         ],
         "original_language_zh": "英语"
     },
