@@ -1,6 +1,25 @@
 [
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1688510,
+        "title": "琴谱",
+        "original_language": "zh",
+        "original_title": "琴谱",
+        "overview": "崔迎阶到汾州的第二年，德高望重的琴界泰斗焦师父宣布退位，为琴谱寻找接班人。在皇上的推崇下，崔应阶临危受命，面对无人帮助的困境，遇上身处窘境的平民琴师王受白。 经历30 年，二人最终成为知音，并完成琴谱。",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
         "genre_ids": [
             28,
@@ -17,8 +36,8 @@
         "release_date": "2026-05-06",
         "softcore": false,
         "video": false,
-        "vote_average": 8.1,
-        "vote_count": 5,
+        "vote_average": 8.4,
+        "vote_count": 6,
         "genre_ids_zh": [
             "动作",
             "奇幻",
@@ -82,6 +101,33 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            10402,
+            14,
+            27
+        ],
+        "id": 1664302,
+        "title": "Bend Sinister",
+        "original_language": "en",
+        "original_title": "Bend Sinister",
+        "overview": "",
+        "popularity": 0.098,
+        "poster_path": "/m79QNtmvYDt31YG0VADXaPrbDVX.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "音乐",
+            "奇幻",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1518202,
@@ -130,51 +176,24 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            10402,
-            14,
-            27
+            35,
+            99
         ],
-        "id": 1664302,
-        "title": "Bend Sinister",
+        "id": 1665151,
+        "title": "Delightful Delivery",
         "original_language": "en",
-        "original_title": "Bend Sinister",
+        "original_title": "Delightful Delivery",
         "overview": "",
-        "popularity": 0.098,
-        "poster_path": "/m79QNtmvYDt31YG0VADXaPrbDVX.jpg",
+        "popularity": 0.0759,
+        "poster_path": null,
         "release_date": "2026-05-06",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "音乐",
-            "奇幻",
-            "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2rkr5HOr6nCMGRDDTtM9qVcaRDG.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1645663,
-        "title": "Not Another Rockstar",
-        "original_language": "en",
-        "original_title": "Not Another Rockstar",
-        "overview": "",
-        "popularity": 0.0563,
-        "poster_path": "/9L0tUbMf6zkkFxFZTxngSdH1ppo.jpg",
-        "release_date": "2026-05-06",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
+            "喜剧",
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -202,6 +221,56 @@
             "冒险",
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aT5jdmTRbXEMPv8xFuc4Go2xoI.jpg",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "id": 1688208,
+        "title": "The Bruiser",
+        "original_language": "en",
+        "original_title": "The Bruiser",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": "/httWqyAzNi3toYtQtqaol43REir.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动作",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2rkr5HOr6nCMGRDDTtM9qVcaRDG.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1645663,
+        "title": "Not Another Rockstar",
+        "original_language": "en",
+        "original_title": "Not Another Rockstar",
+        "overview": "",
+        "popularity": 0.0563,
+        "poster_path": "/9L0tUbMf6zkkFxFZTxngSdH1ppo.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -261,6 +330,54 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            878,
+            12
+        ],
+        "id": 1688161,
+        "title": "Heirloom",
+        "original_language": "en",
+        "original_title": "Heirloom",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/9cdW7LJ7j2LGKOVQIf0bmvvUncy.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "科幻",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8SrdYA1X2iUMTUQCEW33o0z0gnR.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1686034,
+        "title": "The Doll Lady!",
+        "original_language": "en",
+        "original_title": "The Doll Lady!",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": "/laGbwGEnum0NFqCrvMWutlYXaMr.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18
         ],
         "id": 1667372,
@@ -282,17 +399,16 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/1pUNZMXzlWiUinps9zUGEQixEnW.jpg",
         "genre_ids": [
-            35,
             99
         ],
-        "id": 1665151,
-        "title": "Delightful Delivery",
+        "id": 1583832,
+        "title": "Cooking Up Democracy",
         "original_language": "en",
-        "original_title": "Delightful Delivery",
+        "original_title": "Cooking Up Democracy",
         "overview": "",
-        "popularity": 0.0759,
+        "popularity": 0.0281,
         "poster_path": null,
         "release_date": "2026-05-06",
         "softcore": false,
@@ -300,8 +416,32 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Wzv9bL6ci72EM05v0TChszvBwm.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1686942,
+        "title": "Stacy Prewitt Marries Michael Jordan (Not the Basketball Player, a Different Guy)",
+        "original_language": "en",
+        "original_title": "Stacy Prewitt Marries Michael Jordan (Not the Basketball Player, a Different Guy)",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/wfTTK9vRFuKiJiTXkFbJnxc7TE5.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -332,47 +472,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/8SrdYA1X2iUMTUQCEW33o0z0gnR.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            99
+            10749
         ],
-        "id": 1686034,
-        "title": "The Doll Lady!",
+        "id": 1686375,
+        "title": "Mabel  the Hopeless Romantic",
         "original_language": "en",
-        "original_title": "The Doll Lady!",
+        "original_title": "Mabel  the Hopeless Romantic",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/laGbwGEnum0NFqCrvMWutlYXaMr.jpg",
+        "popularity": 0.0193,
+        "poster_path": "/5ceHhwjmiF2P5HHF1WxFA7PvBUx.jpg",
         "release_date": "2026-05-06",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/1pUNZMXzlWiUinps9zUGEQixEnW.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1583832,
-        "title": "Cooking Up Democracy",
-        "original_language": "en",
-        "original_title": "Cooking Up Democracy",
-        "overview": "",
-        "popularity": 0.0281,
-        "poster_path": null,
-        "release_date": "2026-05-06",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -441,31 +558,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/4Wzv9bL6ci72EM05v0TChszvBwm.jpg",
-        "genre_ids": [
-            35,
-            18
-        ],
-        "id": 1686942,
-        "title": "Stacy Prewitt Marries Michael Jordan (Not the Basketball Player, a Different Guy)",
-        "original_language": "en",
-        "original_title": "Stacy Prewitt Marries Michael Jordan (Not the Basketball Player, a Different Guy)",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/wfTTK9vRFuKiJiTXkFbJnxc7TE5.jpg",
-        "release_date": "2026-05-06",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -481,36 +573,11 @@
         "release_date": "2026-05-06",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            878,
-            12
-        ],
-        "id": 1688161,
-        "title": "Heirloom",
-        "original_language": "en",
-        "original_title": "Heirloom",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/9cdW7LJ7j2LGKOVQIf0bmvvUncy.jpg",
-        "release_date": "2026-05-06",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "科幻",
-            "冒险"
         ],
         "original_language_zh": "英语"
     },
@@ -557,6 +624,33 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            14,
+            12
+        ],
+        "id": 1442075,
+        "title": "Seaper Powers: The Rescue",
+        "original_language": "en",
+        "original_title": "Seaper Powers: The Rescue",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6anewLizVd18JDkaCCmSduuhUqa.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻",
+            "冒险"
         ],
         "original_language_zh": "英语"
     },
