@@ -280,31 +280,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/aT5jdmTRbXEMPv8xFuc4Go2xoI.jpg",
-        "genre_ids": [
-            28,
-            18
-        ],
-        "id": 1688208,
-        "title": "The Bruiser",
-        "original_language": "en",
-        "original_title": "The Bruiser",
-        "overview": "",
-        "popularity": 0.1757,
-        "poster_path": "/httWqyAzNi3toYtQtqaol43REir.jpg",
-        "release_date": "2026-05-06",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/2rkr5HOr6nCMGRDDTtM9qVcaRDG.jpg",
         "genre_ids": [
             18,
@@ -377,6 +352,29 @@
             "音乐",
             "科幻",
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1688390,
+        "title": "Cave Sounds",
+        "original_language": "en",
+        "original_title": "Cave Sounds",
+        "overview": "",
+        "popularity": 0.0357,
+        "poster_path": "/vDWapcqE7rjiHhL4zbzwBKAtnJm.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -501,31 +499,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9IhYC5CFQylh5fHiNTP931aUmR1.jpg",
-        "genre_ids": [
-            18,
-            14
-        ],
-        "id": 1579306,
-        "title": "Peter Has Something to Say",
-        "original_language": "en",
-        "original_title": "Peter Has Something to Say",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": null,
-        "release_date": "2026-05-06",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10749
@@ -612,6 +585,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/9IhYC5CFQylh5fHiNTP931aUmR1.jpg",
+        "genre_ids": [
+            18,
+            14
+        ],
+        "id": 1579306,
+        "title": "Peter Has Something to Say",
+        "original_language": "en",
+        "original_title": "Peter Has Something to Say",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             99,
@@ -678,6 +676,33 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 1689071,
+        "title": "The Gardener",
+        "original_language": "en",
+        "original_title": "The Gardener",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪",
+            "喜剧",
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -1003,6 +1028,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2aB9jU7iuQerzKt1IuxbXZEBUzl.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1688884,
+        "title": "Sienna",
+        "original_language": "fr",
+        "original_title": "Sienna",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/hl9vdkSunyzfgZeOBtl16bfT80P.jpg",
+        "release_date": "2026-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
             "喜剧"
         ],
         "original_language_zh": "法语"
