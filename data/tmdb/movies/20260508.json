@@ -606,6 +606,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/dZYI0DTtau9o5mpl9dFbWNuNhf4.jpg",
+        "genre_ids": [
+            53,
+            10770
+        ],
+        "id": 1687105,
+        "title": "Secrets of the Matriarch",
+        "original_language": "en",
+        "original_title": "Secrets of the Matriarch",
+        "overview": "",
+        "popularity": 0.1995,
+        "poster_path": "/jDChix3mI1CTWE27RBcAGgkszlP.jpg",
+        "release_date": "2026-05-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "电视电影"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/yto2RRvl3ogIDK5EuvwkF9NaFjT.jpg",
         "genre_ids": [
             35,
@@ -862,24 +887,30 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/dZYI0DTtau9o5mpl9dFbWNuNhf4.jpg",
+        "backdrop_path": "/7BwkFYxYHZohuMcAcewsEgF1JCx.jpg",
         "genre_ids": [
-            53
+            16,
+            35,
+            53,
+            18
         ],
-        "id": 1687105,
-        "title": "Secrets of the Matriarch",
+        "id": 1688927,
+        "title": "Fate Riders",
         "original_language": "en",
-        "original_title": "Secrets of the Matriarch",
+        "original_title": "Fate Riders",
         "overview": "",
-        "popularity": 0.1995,
-        "poster_path": "/jDChix3mI1CTWE27RBcAGgkszlP.jpg",
+        "popularity": 0.0429,
+        "poster_path": "/f9kvCW6UGf3LRWUkxxvIbSYeHVR.jpg",
         "release_date": "2026-05-08",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚"
+            "动画",
+            "喜剧",
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -1364,7 +1395,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vI7l9WIia4ObszpQDEslooNylqy.jpg",
         "genre_ids": [
             12,
             18,
@@ -1377,7 +1408,7 @@
         "original_title": "HIVEMIND",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": null,
+        "poster_path": "/t4AeAs5k2RHLYJx4XBOQ08yNret.jpg",
         "release_date": "2026-05-08",
         "softcore": false,
         "video": false,
