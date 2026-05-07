@@ -1,31 +1,6 @@
 [
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 320881,
-        "origin_country": [
-            "中国"
-        ],
-        "original_language": "zh",
-        "original_name": "平乐赋",
-        "overview": "讲述了亡国公主平乐为复兴母国与落魄皇子云川相遇，两人历经猜忌和磨难，相互治愈，共同成长，最终选择以大爱化解仇怨，成就了太平盛世。",
-        "popularity": 0.4214,
-        "poster_path": "/gfvg5KSAcwIUi06jCWXr6V8GwfC.jpg",
-        "first_air_date": "2026-05-07",
-        "softcore": false,
-        "name": "平乐赋",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/DeoQSF4s2tPwdGxH5kn0b4tmma.jpg",
         "genre_ids": [
             18
@@ -37,11 +12,36 @@
         "original_language": "zh",
         "original_name": "当我看向你",
         "overview": "一纸契约，让「掌控者」翟邱宇与「依附者」李佑恩强行绑定。原本只是一场带着交易意味的特殊服务，却在医务室的呼吸交错间悄然变质。当掌控变成了牵挂，当玩笑变成了守护，当我看见你，我也看见了真实的自己。",
-        "popularity": 0.374,
+        "popularity": 0.6034,
         "poster_path": "/fPrXZAkrxQfRi84aENhPbr1h5bO.jpg",
         "first_air_date": "2026-05-07",
         "softcore": false,
         "name": "当我看向你",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 320881,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "平乐赋",
+        "overview": "讲述了亡国公主平乐为复兴母国与落魄皇子云川相遇，两人历经猜忌和磨难，相互治愈，共同成长，最终选择以大爱化解仇怨，成就了太平盛世。",
+        "popularity": 0.5878,
+        "poster_path": "/gfvg5KSAcwIUi06jCWXr6V8GwfC.jpg",
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "name": "平乐赋",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -64,7 +64,7 @@
         "original_language": "en",
         "original_name": "Legends",
         "overview": "1990 年代初期，英国皇家海关在对抗非法毒品走私时节节败退，因而祭出高度机密的非常手段，派遣一小队海关人员卧底潜入英国数个危险贩毒集团。然而，他们并非训练有素的间谍，只是国内各地挑选出来的普通男女，经过基本训练就得换上新身份，游走于龙蛇杂处的犯罪世界，而这批人就叫“传奇”(Legends)。",
-        "popularity": 5.316,
+        "popularity": 5.4151,
         "poster_path": "/7O58r63W991xP55nzT3dY53hbMB.jpg",
         "first_air_date": "2026-05-07",
         "softcore": false,
@@ -92,7 +92,7 @@
         "original_language": "en",
         "original_name": "M.I.A.",
         "overview": "",
-        "popularity": 4.5258,
+        "popularity": 4.4463,
         "poster_path": "/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
         "first_air_date": "2026-05-07",
         "softcore": false,
@@ -118,7 +118,7 @@
         "original_language": "en",
         "original_name": "Mom's The Bride",
         "overview": "",
-        "popularity": 0.5828,
+        "popularity": 0.4757,
         "poster_path": null,
         "first_air_date": "2026-05-07",
         "softcore": false,
@@ -128,6 +128,69 @@
         "genre_ids_zh": [
             "真人秀"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321746,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Can you dispute a Kraken transaction? 【🚀 QUICK FIX FOR ACCOUNT ISSUES】",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "name": "Can you dispute a Kraken transaction? 【🚀 QUICK FIX FOR ACCOUNT ISSUES】",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321745,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Can you reverse a transaction on Kraken raken’s Policy on Transaction Reversals",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "name": "Can you reverse a transaction on Kraken raken’s Policy on Transaction Reversals",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321744,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why is Kraken holding my money? { Kraken 24/7 Instant }}",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "name": "Why is Kraken holding my money? { Kraken 24/7 Instant }}",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -195,7 +258,7 @@
         "original_language": "it",
         "original_name": "Buonvino — Misteri a Villa Borghese",
         "overview": "",
-        "popularity": 0.1218,
+        "popularity": 0.5786,
         "poster_path": "/maGumuJVG6v3hL8xInMDO7xTIhp.jpg",
         "first_air_date": "2026-05-07",
         "softcore": false,
@@ -218,7 +281,7 @@
         "original_language": "hi",
         "original_name": "Karna the Guardian",
         "overview": "",
-        "popularity": 1.0513,
+        "popularity": 0.8151,
         "poster_path": null,
         "first_air_date": "2026-05-07",
         "softcore": false,
