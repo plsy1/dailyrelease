@@ -10,7 +10,7 @@
         "original_language": "zh",
         "original_title": "皮皮马戏团",
         "overview": "",
-        "popularity": 0.0991,
+        "popularity": 0.1277,
         "poster_path": "/j13ntAF31uekBETcje4DWkvkp7Q.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -497,14 +497,41 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1665532,
-        "title": "Tasty Morsels",
+        "genre_ids": [
+            27,
+            53,
+            35
+        ],
+        "id": 1688191,
+        "title": "Is This Your First Time?",
         "original_language": "en",
-        "original_title": "Tasty Morsels",
+        "original_title": "Is This Your First Time?",
         "overview": "",
-        "popularity": 0.0071,
-        "poster_path": null,
+        "popularity": 0.0168,
+        "poster_path": "/6E6beyxa5eBdRNFgAc0JxoYPuSx.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1686670,
+        "title": "Green Unpleasant Land",
+        "original_language": "en",
+        "original_title": "Green Unpleasant Land",
+        "overview": "",
+        "popularity": 0.0658,
+        "poster_path": "/1k1sWn7nPZa8jfRHoHD9stOitI1.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
         "video": false,
@@ -524,7 +551,7 @@
         "original_language": "en",
         "original_title": "The Dating App Nightmare",
         "overview": "",
-        "popularity": 0.0071,
+        "popularity": 0.1557,
         "poster_path": "/1ALE5TwJ3aflufxUOKo1apVeiHL.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -533,6 +560,98 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1665532,
+        "title": "Tasty Morsels",
+        "original_language": "en",
+        "original_title": "Tasty Morsels",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": null,
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kvvRmKXzOf5QXBzMniDdxWmxYDu.jpg",
+        "genre_ids": [
+            35,
+            12
+        ],
+        "id": 1689700,
+        "title": "The Box",
+        "original_language": "en",
+        "original_title": "The Box",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/mn6DbRmNT5kzIZBxY7ER36pQFgb.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧",
+            "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/37rfexh4zq7fsEznupWriB5P4HG.jpg",
+        "genre_ids": [
+            27,
+            18
+        ],
+        "id": 1689645,
+        "title": "Metabolizer",
+        "original_language": "en",
+        "original_title": "Metabolizer",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/9YraFqZIn6oeiX9EmKyDLiB5bdK.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6yLRB6HnwJuzHtJO2lTPtYZKcrK.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1689581,
+        "title": "ROACH!",
+        "original_language": "en",
+        "original_title": "ROACH!",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/iQEfuuilfjVv9V1pXWVslheqPzE.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -572,7 +691,7 @@
         "original_language": "ko",
         "original_title": "할루시네이션",
         "overview": "",
-        "popularity": 0.4619,
+        "popularity": 0.5964,
         "poster_path": "/hGl8kTxKstxwugKU5NAlavwnx2d.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -595,7 +714,7 @@
         "original_language": "ko",
         "original_title": "최고의 관객",
         "overview": "",
-        "popularity": 0.4053,
+        "popularity": 0.3287,
         "poster_path": null,
         "release_date": "2026-05-07",
         "softcore": false,
@@ -641,7 +760,7 @@
         "original_language": "de",
         "original_title": "Der verlorene Mann",
         "overview": "",
-        "popularity": 2.4643,
+        "popularity": 2.2422,
         "poster_path": "/rGx8QTKwvsWLc1TUU82xya0DVvj.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -687,7 +806,7 @@
         "original_language": "de",
         "original_title": "Movement Unbound",
         "overview": "",
-        "popularity": 0.0362,
+        "popularity": 0.0338,
         "poster_path": "/uXyNAm9RdIE6VgZtzj1mJ3Pd9ii.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -735,7 +854,7 @@
         "original_language": "fr",
         "original_title": "Une Fugue",
         "overview": "",
-        "popularity": 0.2844,
+        "popularity": 0.2061,
         "poster_path": "/bGKXUlRzjvCwFu8CHVoAy0a0amR.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -758,7 +877,7 @@
         "original_language": "fr",
         "original_title": "Do You Love Me",
         "overview": "生于饱受战火摧残的黎巴嫩，要给首都贝鲁特写一封情书的话，可能会发现千头万绪不知从何说起。缺乏历史档案影片，导演Lana Daher就尝试来一次亲密对话，借用横跨七十年的黎巴嫩视听素材，包括电影及电视片段、家庭录像和照片，透过女性视角，重新剪辑及诠释，将集体创伤和个人记忆互相交织，重塑本来就支离破碎的历史。当中有女记者重返自己被空袭炸毁的家园实地报导，也有男子谈论游客观光来看战争遗迹，而在纷杂记忆里，既有毁灭与伤痕，更有欢笑和活力。",
-        "popularity": 0.223,
+        "popularity": 0.3054,
         "poster_path": "/5z8gemMLV6KkST1Frj1T7fzPCqw.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -767,6 +886,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gwHWokkm32UsindjOv8iuBM3uDc.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1688175,
+        "title": "Terminal",
+        "original_language": "fr",
+        "original_title": "Terminal",
+        "overview": "",
+        "popularity": 0.0552,
+        "poster_path": "/hyi5jcAhCPcow3SjSTybQ67MQR6.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "法语"
     },
@@ -781,31 +923,8 @@
         "original_language": "fr",
         "original_title": "Le Cocon",
         "overview": "",
-        "popularity": 0.0327,
+        "popularity": 0.0311,
         "poster_path": "/kJtgCSZvpKpE5NZ2gf2VE4XWkqK.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/vUboRudXPL77D8IckGHzV14NCs1.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1687777,
-        "title": "Einvala",
-        "original_language": "fr",
-        "original_title": "Einvala",
-        "overview": "",
-        "popularity": 0.0218,
-        "poster_path": "/m9OjwXgkzoqrfOO3MizcJDK9t1W.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
         "video": false,
@@ -827,7 +946,7 @@
         "original_language": "fr",
         "original_title": "Femminielli, les sirènes de Naples",
         "overview": "",
-        "popularity": 0.0256,
+        "popularity": 0.0327,
         "poster_path": "/y9vvaufJiQGJplddcpwQIdABl9Y.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -841,24 +960,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vUboRudXPL77D8IckGHzV14NCs1.jpg",
         "genre_ids": [
-            99
+            16
         ],
-        "id": 1247684,
-        "title": "L'Arche de Olaa",
+        "id": 1687777,
+        "title": "Einvala",
         "original_language": "fr",
-        "original_title": "L'Arche de Olaa",
+        "original_title": "Einvala",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/dMj2WXNLSpPrsTWFOsSoF1p7FoI.jpg",
+        "popularity": 0.0289,
+        "poster_path": "/m9OjwXgkzoqrfOO3MizcJDK9t1W.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "动画"
         ],
         "original_language_zh": "法语"
     },
@@ -873,7 +992,7 @@
         "original_language": "fr",
         "original_title": "Happy Meal",
         "overview": "",
-        "popularity": 0.0168,
+        "popularity": 0.0387,
         "poster_path": null,
         "release_date": "2026-05-07",
         "softcore": false,
@@ -887,24 +1006,47 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/gwHWokkm32UsindjOv8iuBM3uDc.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            16
+            99
         ],
-        "id": 1688175,
-        "title": "Terminal",
+        "id": 1247684,
+        "title": "L'Arche de Olaa",
         "original_language": "fr",
-        "original_title": "Terminal",
+        "original_title": "L'Arche de Olaa",
         "overview": "",
-        "popularity": 0.0639,
-        "poster_path": "/hyi5jcAhCPcow3SjSTybQ67MQR6.jpg",
+        "popularity": 0.0806,
+        "poster_path": "/dMj2WXNLSpPrsTWFOsSoF1p7FoI.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画"
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hOSU9iKZuE4cwxIVk8tHld1kimV.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1689527,
+        "title": "Fatale",
+        "original_language": "fr",
+        "original_title": "Fatale",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/tyI7pIhYWX0U6GkHSM8ZzxTDPm.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
         ],
         "original_language_zh": "法语"
     },
@@ -920,7 +1062,7 @@
         "original_language": "es",
         "original_title": "EL RITUAL DEL NAHUAL",
         "overview": "",
-        "popularity": 0.9927,
+        "popularity": 0.8563,
         "poster_path": "/z2K8tD7eUSajA3pjCL7zopTpkmh.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -949,7 +1091,7 @@
         "original_language": "es",
         "original_title": "Halcones",
         "overview": "",
-        "popularity": 0.271,
+        "popularity": 0.3568,
         "poster_path": "/xXHFiYfFAfgg6IDrSJq4kWzimR2.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -978,7 +1120,7 @@
         "original_language": "es",
         "original_title": "Pobre Marciano",
         "overview": "",
-        "popularity": 0.1251,
+        "popularity": 0.1095,
         "poster_path": "/wwPpz3ZLqR4bVE3VMutR2Ztkvep.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -988,125 +1130,6 @@
         "genre_ids_zh": [
             "动画",
             "喜剧"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/5aNwCAcFAgYa9bYdpP6hz1conPc.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1603350,
-        "title": "Las que sostienen",
-        "original_language": "es",
-        "original_title": "Las que sostienen",
-        "overview": "",
-        "popularity": 0.0495,
-        "poster_path": "/iXWWlrKq8Nh6q8GoKVmouyPnCbj.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35,
-            18
-        ],
-        "id": 1609830,
-        "title": "El que recibe el cachiporrazo",
-        "original_language": "es",
-        "original_title": "El que recibe el cachiporrazo",
-        "overview": "",
-        "popularity": 0.0847,
-        "poster_path": "/35wwuoTKdz1FN8AQ9VG45xWq3Dw.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧",
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1671553,
-        "title": "Elida",
-        "original_language": "es",
-        "original_title": "Elida",
-        "overview": "",
-        "popularity": 0.0404,
-        "poster_path": "/tmGmvmHDokMqJxA75Pl7oWiJKMe.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/taS81CrpPak95vgMHfmxkAAma5u.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1447567,
-        "title": "Niñxs",
-        "original_language": "es",
-        "original_title": "Niñxs",
-        "overview": "",
-        "popularity": 0.0338,
-        "poster_path": "/3CMuNTwcGL2PXOREItE6OQo60UJ.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1671565,
-        "title": "Nueva correspondencia francesa",
-        "original_language": "es",
-        "original_title": "Nueva correspondencia francesa",
-        "overview": "",
-        "popularity": 0.0387,
-        "poster_path": "/hMTtw8OZxSAxBiU5Y70X57WUfmZ.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1135,6 +1158,33 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35,
+            18
+        ],
+        "id": 1609830,
+        "title": "El que recibe el cachiporrazo",
+        "original_language": "es",
+        "original_title": "El que recibe el cachiporrazo",
+        "overview": "",
+        "popularity": 0.0704,
+        "poster_path": "/35wwuoTKdz1FN8AQ9VG45xWq3Dw.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "喜剧",
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/6lHWc1OqP5osWpZjz3VnsZj7Mv5.jpg",
         "genre_ids": [
             99
@@ -1144,7 +1194,7 @@
         "original_language": "es",
         "original_title": "Cine Doré",
         "overview": "",
-        "popularity": 0.051,
+        "popularity": 0.0725,
         "poster_path": "/36xEUftpu5YmTrBZYVDAJQSISVs.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1153,6 +1203,121 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5aNwCAcFAgYa9bYdpP6hz1conPc.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1603350,
+        "title": "Las que sostienen",
+        "original_language": "es",
+        "original_title": "Las que sostienen",
+        "overview": "",
+        "popularity": 0.0387,
+        "poster_path": "/iXWWlrKq8Nh6q8GoKVmouyPnCbj.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1671553,
+        "title": "Elida",
+        "original_language": "es",
+        "original_title": "Elida",
+        "overview": "",
+        "popularity": 0.0281,
+        "poster_path": "/tmGmvmHDokMqJxA75Pl7oWiJKMe.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1671565,
+        "title": "Nueva correspondencia francesa",
+        "original_language": "es",
+        "original_title": "Nueva correspondencia francesa",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/hMTtw8OZxSAxBiU5Y70X57WUfmZ.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/taS81CrpPak95vgMHfmxkAAma5u.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1447567,
+        "title": "Niñxs",
+        "original_language": "es",
+        "original_title": "Niñxs",
+        "overview": "",
+        "popularity": 0.1131,
+        "poster_path": "/3CMuNTwcGL2PXOREItE6OQo60UJ.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d9MIuMu08O9sAChHfmJdluXfCBJ.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1688818,
+        "title": "Leamos juntos",
+        "original_language": "es",
+        "original_title": "Leamos juntos",
+        "overview": "",
+        "popularity": 0.0546,
+        "poster_path": "/8hdddgk4fQukPhbJ8c6t93aUFci.jpg",
+        "release_date": "2026-05-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1169,7 +1334,7 @@
         "original_language": "es",
         "original_title": "La Niña",
         "overview": "",
-        "popularity": 0.0,
+        "popularity": 0.05,
         "poster_path": "/2XE6qkXiLnHTGw8oEb14TCJcJlg.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1180,29 +1345,6 @@
             "恐怖",
             "惊悚",
             "悬疑"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/d9MIuMu08O9sAChHfmJdluXfCBJ.jpg",
-        "genre_ids": [
-            16
-        ],
-        "id": 1688818,
-        "title": "Leamos juntos",
-        "original_language": "es",
-        "original_title": "Leamos juntos",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/8hdddgk4fQukPhbJ8c6t93aUFci.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1429,7 +1571,7 @@
         "original_language": "ru",
         "original_title": "Шурале",
         "overview": "",
-        "popularity": 1.1219,
+        "popularity": 0.9944,
         "poster_path": "/aNOAuYyXMrrfNtK6H048WziIXPi.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1454,7 +1596,7 @@
         "original_language": "ru",
         "original_title": "Отец",
         "overview": "",
-        "popularity": 0.9842,
+        "popularity": 0.8007,
         "poster_path": "/67QjGQYF69E3Rb1KH9sXqeHwNtn.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1479,7 +1621,7 @@
         "original_language": "it",
         "original_title": "Illusione",
         "overview": "",
-        "popularity": 1.6857,
+        "popularity": 1.5103,
         "poster_path": "/rxDFV66LmAtvz61JeFwdUJGG7dv.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1503,7 +1645,7 @@
         "original_language": "it",
         "original_title": "Averno Hotel",
         "overview": "",
-        "popularity": 0.0538,
+        "popularity": 0.0416,
         "poster_path": "/6Rgbm7FfPQowh8bEC4yqMZXx3d7.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1526,7 +1668,7 @@
         "original_language": "it",
         "original_title": "Un sogno italiano",
         "overview": "",
-        "popularity": 0.051,
+        "popularity": 0.0389,
         "poster_path": "/zbeqq1MsNv5vHV4XiBvvU5zmcM7.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1572,7 +1714,7 @@
         "original_language": "nl",
         "original_title": "Donkey Days",
         "overview": "",
-        "popularity": 0.2589,
+        "popularity": 0.2636,
         "poster_path": "/oG9itVxVBJux82MC1I9PNqIHhKS.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
@@ -1682,7 +1824,7 @@
         "original_language": "sv",
         "original_title": "The Noice Boys",
         "overview": "",
-        "popularity": 0.0379,
+        "popularity": 0.0445,
         "poster_path": "/v71n2qXl9YFlvhug81XKG1R6vP4.jpg",
         "release_date": "2026-05-07",
         "softcore": false,
