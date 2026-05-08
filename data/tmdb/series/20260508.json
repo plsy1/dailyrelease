@@ -54,7 +54,9 @@
     {
         "adult": false,
         "backdrop_path": "/7gBUX40eKfs47jpcSYen0nGLPYF.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 321043,
         "origin_country": [
             "中国"
@@ -63,13 +65,15 @@
         "original_name": "凌探未来",
         "overview": "跟随青年演员张凌赫回到其家乡江苏，深入探索“双碳”目标下中国低碳转型的科技创新与实践成果。",
         "popularity": 0.595,
-        "poster_path": "/glVyTQClPRcSO7t7lfO9m82gLvT.jpg",
+        "poster_path": "/jX0wvQZbwhqkKEEHgh0HTM82oNn.jpg",
         "first_air_date": "2026-05-08",
         "softcore": false,
         "name": "凌探未来",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "汉语"
     },
     {
@@ -99,7 +103,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/chZIYNsuGQCNnjX8jSnkd7fTo07.jpg",
         "genre_ids": [
             16,
             10762
@@ -116,8 +120,8 @@
         "first_air_date": "2026-05-08",
         "softcore": false,
         "name": "儿童英文动态绘本",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动画",
             "儿童"
@@ -126,7 +130,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/q3jufNu523T9swUJnNEQf2nn1A1.jpg",
         "genre_ids": [
             16,
             10762
@@ -143,34 +147,13 @@
         "first_air_date": "2026-05-08",
         "softcore": false,
         "name": "儿童中文动态绘本",
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "动画",
             "儿童"
         ],
         "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 321056,
-        "origin_country": [
-            "美国"
-        ],
-        "original_language": "en",
-        "original_name": "In Utero",
-        "overview": "",
-        "popularity": 0.6484,
-        "poster_path": null,
-        "first_air_date": "2026-05-08",
-        "softcore": false,
-        "name": "In Utero",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
     },
     {
         "adult": false,
@@ -188,6 +171,363 @@
         "first_air_date": "2026-05-08",
         "softcore": false,
         "name": "The Master Cutter",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321887,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "{{(((( Success Factors ))))}} Do I have to pay taxes if I withdraw from Robinhood?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "{{(((( Success Factors ))))}} Do I have to pay taxes if I withdraw from Robinhood?",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321875,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "The Palu Family: Under a Dark Spell",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "The Palu Family: Under a Dark Spell",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321866,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Can you reverse a transaction on Kraken?    [[ Instant➠➠Gobal HELP ]]",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Can you reverse a transaction on Kraken?    [[ Instant➠➠Gobal HELP ]]",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321863,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why is Kraken holding my money?{{Fastest=Withdraw in Kraken}}",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Why is Kraken holding my money?{{Fastest=Withdraw in Kraken}}",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321861,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why is it so hard to withdraw money from Kraken?  Avoiding Security Holds and Verification Delays",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Why is it so hard to withdraw money from Kraken?  Avoiding Security Holds and Verification Delays",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321860,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How to Fix Kraken transaction failed Step-by-Step Guide",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How to Fix Kraken transaction failed Step-by-Step Guide",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321859,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How do I reset my Kraken 2FA   (Fastest Method) to Reset",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How do I reset my Kraken 2FA   (Fastest Method) to Reset",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321857,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why is my Kraken login not working? [[~~Troubleshooting~~Guide~~]]",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Why is my Kraken login not working? [[~~Troubleshooting~~Guide~~]]",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321856,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How can I unrestrict my Kraken account? [[ FAST-Solver-Problem ]]",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How can I unrestrict my Kraken account? [[ FAST-Solver-Problem ]]",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321855,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How do I recover my Kraken account? How to Fix recover Issues and Accese",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How do I recover my Kraken account? How to Fix recover Issues and Accese",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321854,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How do I unfreeze my Kraken account 5 Common Triggers and How to Fix Them",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How do I unfreeze my Kraken account 5 Common Triggers and How to Fix Them",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321853,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How to get rid of Kraken hold?What Can (and Can't) Be Fast-Tracked",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How to get rid of Kraken hold?What Can (and Can't) Be Fast-Tracked",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321852,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why isn't Kraken letting me withdraw? Fix Verification & Security Hold Errors",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Why isn't Kraken letting me withdraw? Fix Verification & Security Hold Errors",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321851,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How to Avoid Kraken (Withdrawal) Holds {~The Best Deposit Method~}",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How to Avoid Kraken (Withdrawal) Holds {~The Best Deposit Method~}",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321850,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "How to Avoid Kraken (Withdrawal) Holds {~The Best Deposit Method~}",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "How to Avoid Kraken (Withdrawal) Holds {~The Best Deposit Method~}",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321849,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why isn't Kraken letting me withdraw? Fix Verification & Security Hold Errors",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Why isn't Kraken letting me withdraw? Fix Verification & Security Hold Errors",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321848,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "Why is my money pending on Kraken?  Pending'Deposit' (And How to Fix It Today)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "Why is my money pending on Kraken?  Pending'Deposit' (And How to Fix It Today)",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
@@ -270,6 +610,27 @@
         "genre_ids_zh": [
             "真人秀"
         ],
+        "original_language_zh": "韩语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321885,
+        "origin_country": [
+            "韩国"
+        ],
+        "original_language": "ko",
+        "original_name": "봉주르빵집",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6WH21oFaGpoTvtnKPY306g1W9Os.jpg",
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "봉주르빵집",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "韩语"
     },
     {
@@ -368,7 +729,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/7B3jeJJXo4suCZoWx2b89Qt3OqH.jpg",
         "genre_ids": [
             10759
         ],
@@ -377,18 +738,39 @@
             "意大利"
         ],
         "original_language": "it",
-        "original_name": "Rosa elettrica",
+        "original_name": "Rosa Elettrica - In fuga con il nemico",
         "overview": "",
         "popularity": 1.0697,
-        "poster_path": "/3vutVeN67KJlzLYtfYOkj6FWoo6.jpg",
+        "poster_path": "/6L8mWi31O2SwdX8b3oCLv0S6eJI.jpg",
         "first_air_date": "2026-05-08",
         "softcore": false,
-        "name": "Rosa elettrica",
+        "name": "Rosa Elettrica - In fuga con il nemico",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
             "动作与冒险"
         ],
+        "original_language_zh": "意大利语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 321056,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "it",
+        "original_name": "In Utero",
+        "overview": "",
+        "popularity": 0.6484,
+        "poster_path": "/jAhShjpkPkFnzD2v5A3c8WpowAX.jpg",
+        "first_air_date": "2026-05-08",
+        "softcore": false,
+        "name": "In Utero",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "意大利语"
     },
     {
@@ -439,11 +821,9 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mjKOEv4KOsNI1XErGIGkdninXja.jpg",
+        "backdrop_path": "/aedb0OOUOl1fzDlUpI75phjjzZb.jpg",
         "genre_ids": [
             99,
-            9648,
-            10764,
             80
         ],
         "id": 319804,
@@ -454,7 +834,7 @@
         "original_name": "Palu Ailesi: Karanlık Sarmal",
         "overview": "",
         "popularity": 0.7131,
-        "poster_path": "/ntNdPfaaavd8vxayse7ncsIaHmO.jpg",
+        "poster_path": "/gtUBpROmaGpB5rRjPIPqPalx6F6.jpg",
         "first_air_date": "2026-05-08",
         "softcore": false,
         "name": "Palu Ailesi: Karanlık Sarmal",
@@ -462,8 +842,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录",
-            "悬疑",
-            "真人秀",
             "犯罪"
         ],
         "original_language_zh": "土耳其语"
