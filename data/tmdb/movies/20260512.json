@@ -28,29 +28,6 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            18
-        ],
-        "id": 1688364,
-        "title": "碧蒂芭蒂",
-        "original_language": "zh",
-        "original_title": "碧蒂芭蒂",
-        "overview": "",
-        "popularity": 0.0683,
-        "poster_path": null,
-        "release_date": "2026-05-12",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
             16
         ],
         "id": 1689858,
@@ -67,6 +44,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "动画"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1688364,
+        "title": "碧蒂芭蒂",
+        "original_language": "zh",
+        "original_title": "碧蒂芭蒂",
+        "overview": "",
+        "popularity": 0.0683,
+        "poster_path": null,
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "汉语"
     },
@@ -1003,24 +1003,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/em1YcKlVL6bRfd3me2ZdvvJXR0l.jpg",
+        "backdrop_path": "/z1N8OFUDMWem0Io4tX52wIOJE7b.jpg",
         "genre_ids": [
-            16
+            18,
+            35
         ],
-        "id": 1687117,
-        "title": "Querida Alma",
+        "id": 1686969,
+        "title": "El odioso señor Gallardo",
         "original_language": "es",
-        "original_title": "Querida Alma",
+        "original_title": "El odioso señor Gallardo",
         "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/ePmrVTPTTwqSLmidhW36zBMoB8a.jpg",
+        "popularity": 0.0368,
+        "poster_path": "/tuAaNYynzTzTKhdQI1h78SmPZzz.jpg",
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画"
+            "剧情",
+            "喜剧"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1051,26 +1053,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/z1N8OFUDMWem0Io4tX52wIOJE7b.jpg",
+        "backdrop_path": "/em1YcKlVL6bRfd3me2ZdvvJXR0l.jpg",
         "genre_ids": [
-            18,
-            35
+            16
         ],
-        "id": 1686969,
-        "title": "El odioso señor Gallardo",
+        "id": 1687117,
+        "title": "Querida Alma",
         "original_language": "es",
-        "original_title": "El odioso señor Gallardo",
+        "original_title": "Querida Alma",
         "overview": "",
-        "popularity": 0.0368,
-        "poster_path": "/tuAaNYynzTzTKhdQI1h78SmPZzz.jpg",
+        "popularity": 0.0214,
+        "poster_path": "/ePmrVTPTTwqSLmidhW36zBMoB8a.jpg",
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "喜剧"
+            "动画"
         ],
         "original_language_zh": "西班牙语"
     },
