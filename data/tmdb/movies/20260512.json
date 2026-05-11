@@ -560,6 +560,33 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            18,
+            35,
+            10402
+        ],
+        "id": 1658011,
+        "title": "Home Entertainment",
+        "original_language": "en",
+        "original_title": "Home Entertainment",
+        "overview": "",
+        "popularity": 0.0387,
+        "poster_path": "/1DwxJOG6KPmhb3Kegcw2VdTYq6b.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             99
         ],
         "id": 1689575,
@@ -576,52 +603,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/cs8owvt7SwQKu7GM79fV7d47len.jpg",
-        "genre_ids": [
-            28
-        ],
-        "id": 1689625,
-        "title": "Let It Snow",
-        "original_language": "en",
-        "original_title": "Let It Snow",
-        "overview": "",
-        "popularity": 0.0306,
-        "poster_path": "/urjoiOwmnR6jD397WQYYyhWdWEY.jpg",
-        "release_date": "2026-05-12",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1662440,
-        "title": "Bloodthirsty",
-        "original_language": "en",
-        "original_title": "Bloodthirsty",
-        "overview": "",
-        "popularity": 0.0264,
-        "poster_path": null,
-        "release_date": "2026-05-12",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -671,47 +652,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/esIDrOv4l40jHeIfeBF6pVIWAMa.jpg",
-        "genre_ids": [],
-        "id": 1689666,
-        "title": "One Night Only",
-        "original_language": "en",
-        "original_title": "One Night Only",
-        "overview": "",
-        "popularity": 0.0733,
-        "poster_path": "/4acAp9fDdolmpEJOUqWtbqaw99k.jpg",
-        "release_date": "2026-05-12",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/cs8owvt7SwQKu7GM79fV7d47len.jpg",
         "genre_ids": [
-            18,
-            35,
-            10402
+            28
         ],
-        "id": 1658011,
-        "title": "Home Entertainment",
+        "id": 1689625,
+        "title": "Let It Snow",
         "original_language": "en",
-        "original_title": "Home Entertainment",
+        "original_title": "Let It Snow",
         "overview": "",
-        "popularity": 0.0387,
-        "poster_path": "/1DwxJOG6KPmhb3Kegcw2VdTYq6b.jpg",
+        "popularity": 0.0306,
+        "poster_path": "/urjoiOwmnR6jD397WQYYyhWdWEY.jpg",
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情",
-            "喜剧",
-            "音乐"
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -719,22 +677,45 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1691022,
-        "title": "The Hybrids",
+        "id": 1691716,
+        "title": "When They Clean the Streets",
         "original_language": "en",
-        "original_title": "The Hybrids",
+        "original_title": "When They Clean the Streets",
         "overview": "",
-        "popularity": 0.051,
-        "poster_path": "/iJsFiazqvfHDsT7tV4eaQA5zj38.jpg",
+        "popularity": 0.0286,
+        "poster_path": "/bzDbjMPPcFagbVV7ZwNu9RmKjY8.jpg",
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27
+        ],
+        "id": 1662440,
+        "title": "Bloodthirsty",
+        "original_language": "en",
+        "original_title": "Bloodthirsty",
+        "overview": "",
+        "popularity": 0.0264,
+        "poster_path": null,
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -763,24 +744,95 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/aA8zZOjFRSEC3T8uqwXVBBstuTu.jpg",
         "genre_ids": [
-            18
+            99,
+            35
         ],
-        "id": 1691716,
-        "title": "When They Clean the Streets",
+        "id": 1692658,
+        "title": "Fisherman Documentary",
         "original_language": "en",
-        "original_title": "When They Clean the Streets",
+        "original_title": "Fisherman Documentary",
         "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/bzDbjMPPcFagbVV7ZwNu9RmKjY8.jpg",
+        "popularity": 0.0,
+        "poster_path": "/zxq9wElt1X9LvCBhhZRa67oldH0.jpg",
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "纪录",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            14,
+            27
+        ],
+        "id": 1692656,
+        "title": "fih",
+        "original_language": "en",
+        "original_title": "fih",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/dwrSLAwG0p3o0tzPqgSAWY088LU.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1692642,
+        "title": "Toktok! Pwede po bang pumasok?",
+        "original_language": "en",
+        "original_title": "Toktok! Pwede po bang pumasok?",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/9x0kAJD881YBFlxQFOV0nhADZDw.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1692624,
+        "title": "Culishov",
+        "original_language": "en",
+        "original_title": "Culishov",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
