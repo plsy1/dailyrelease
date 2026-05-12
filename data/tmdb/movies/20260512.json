@@ -982,7 +982,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/vW6WS2Tv0iDAi2IW6de9P0EPncZ.jpg",
         "genre_ids": [
             80,
             53
@@ -993,7 +993,7 @@
         "original_title": "Alea Jacta Est",
         "overview": "",
         "popularity": 0.1319,
-        "poster_path": null,
+        "poster_path": "/A5fIpeukL5ywJGzrHgychZTCHG7.jpg",
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
@@ -1078,6 +1078,54 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/joTrQAFd7C65niGWn3Ydi9bsonI.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 1693194,
+        "title": "Redrum",
+        "original_language": "fr",
+        "original_title": "Redrum",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/1ODdV8sUBA8tAgP3YYHKsooS3ao.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "恐怖"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5jIiWCOoYmCIsHFy7Q2zfUlcQQf.jpg",
+        "genre_ids": [
+            16
+        ],
+        "id": 1693116,
+        "title": "Taupe Chef",
+        "original_language": "fr",
+        "original_title": "Taupe Chef",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/tWJEE1n2tq1AwAw0vxCXKK00Za.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/XAphapHperAeGl3Onsg8fPZ0nr.jpg",
         "genre_ids": [
             99
@@ -1124,29 +1172,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/wEAD50lvZii44NnRz8sakQ7RNz8.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1656064,
-        "title": "La plaza acuática",
-        "original_language": "es",
-        "original_title": "La plaza acuática",
-        "overview": "",
-        "popularity": 0.0336,
-        "poster_path": "/2l1Dp0YWKtwGStnIA9eRXbZsoeZ.jpg",
-        "release_date": "2026-05-12",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/z1N8OFUDMWem0Io4tX52wIOJE7b.jpg",
         "genre_ids": [
             18,
@@ -1167,6 +1192,29 @@
         "genre_ids_zh": [
             "剧情",
             "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wEAD50lvZii44NnRz8sakQ7RNz8.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1656064,
+        "title": "La plaza acuática",
+        "original_language": "es",
+        "original_title": "La plaza acuática",
+        "overview": "",
+        "popularity": 0.0336,
+        "poster_path": "/2l1Dp0YWKtwGStnIA9eRXbZsoeZ.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1216,6 +1264,25 @@
         "genre_ids_zh": [
             "动画"
         ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1692952,
+        "title": "En Bajo de 4 Puntas",
+        "original_language": "es",
+        "original_title": "En Bajo de 4 Puntas",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "西班牙语"
     },
     {
