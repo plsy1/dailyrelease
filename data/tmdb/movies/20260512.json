@@ -88,8 +88,8 @@
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
-        "vote_average": 8.5,
-        "vote_count": 2,
+        "vote_average": 9.0,
+        "vote_count": 4,
         "genre_ids_zh": [
             "动作",
             "犯罪",
@@ -200,10 +200,10 @@
             99
         ],
         "id": 1684240,
-        "title": "Untold UK: Jamie Vardy",
+        "title": "体坛秘史：英国篇：英超传奇杰米·瓦尔迪",
         "original_language": "en",
         "original_title": "Untold UK: Jamie Vardy",
-        "overview": "",
+        "overview": "从兼职球员到英超传奇，本片讲述了杰米·瓦尔迪前所未有的奋斗历程，以及他如何克服重重困难登上巅峰的故事。",
         "popularity": 0.752,
         "poster_path": "/fYfOS65DWjyLXZ0E37YckTAXMb.jpg",
         "release_date": "2026-05-12",
@@ -777,8 +777,8 @@
         "release_date": "2026-05-12",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 10.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "纪录"
         ],
@@ -1265,5 +1265,32 @@
             "纪录"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 1692815,
+        "title": "Debt, Cigarette and Two Collectors",
+        "original_language": "ru",
+        "original_title": "Debt, Cigarette and Two Collectors",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/b0NCmUT2nauOXaSJZ1nIyvcw4Jk.jpg",
+        "release_date": "2026-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "original_language_zh": "俄语"
     }
 ]
