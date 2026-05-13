@@ -480,6 +480,121 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1690415,
+        "title": "Red Planet 3009",
+        "original_language": "en",
+        "original_title": "Red Planet 3009",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": null,
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53
+        ],
+        "id": 1624821,
+        "title": "Where Are You Alice?",
+        "original_language": "en",
+        "original_title": "Where Are You Alice?",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/zdkYGK7gIrUIf44L97ZzN4P9m6l.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hfOnpGu0jTynLKZsDPIFB9gH5Yp.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1681420,
+        "title": "In the Jaws of Darkness",
+        "original_language": "en",
+        "original_title": "In the Jaws of Darkness",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/fxkrXbEeRlvqMBshICZ4phO7Lq4.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18
+        ],
+        "id": 1614144,
+        "title": "Ray of the Sun",
+        "original_language": "en",
+        "original_title": "Ray of the Sun",
+        "overview": "",
+        "popularity": 0.0071,
+        "poster_path": "/fmca4FQ96HmXEmmfFsI3rmCrJU2.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53
+        ],
+        "id": 1694056,
+        "title": "In Her Dreams",
+        "original_language": "en",
+        "original_title": "In Her Dreams",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/xfNKtYp0GFUFGRM1s8gu4OpBHUk.jpg",
+        "release_date": "2026-05-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/efdtxZrvhUpoukFScfhQnaslCJI.jpg",
         "genre_ids": [
             27,
@@ -520,31 +635,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hfOnpGu0jTynLKZsDPIFB9gH5Yp.jpg",
-        "genre_ids": [
-            27,
-            53
-        ],
-        "id": 1681420,
-        "title": "In the Jaws of Darkness",
-        "original_language": "en",
-        "original_title": "In the Jaws of Darkness",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/fxkrXbEeRlvqMBshICZ4phO7Lq4.jpg",
-        "release_date": "2026-05-14",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚"
-        ],
         "original_language_zh": "英语"
     },
     {
