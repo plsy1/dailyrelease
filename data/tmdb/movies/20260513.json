@@ -1294,6 +1294,29 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1693848,
+        "title": "ANOMALY- chapter bonus",
+        "original_language": "fr",
+        "original_title": "ANOMALY- chapter bonus",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             53,
             18
         ],
@@ -1399,6 +1422,29 @@
         "overview": "",
         "popularity": 0.0143,
         "poster_path": "/3ew2iY1rU4hGbuUUx4mDdfiuPvX.jpg",
+        "release_date": "2026-05-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/NOezDx61SJOahiMm5oGC60kDt7.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1693913,
+        "title": "MUDANDO",
+        "original_language": "es",
+        "original_title": "MUDANDO",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7pkdqUPdunS7xOoiGJJeMkLJ3sH.jpg",
         "release_date": "2026-05-13",
         "softcore": false,
         "video": false,
