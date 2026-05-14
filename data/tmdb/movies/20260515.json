@@ -72,29 +72,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/t7kCXtAsb6qjkZXsrtuhX5KYxv3.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 1650463,
-        "title": "飛吧！熊鷹",
-        "original_language": "zh",
-        "original_title": "飛吧！熊鷹",
-        "overview": "",
-        "popularity": 0.0937,
-        "poster_path": "/6PZhtkfnG5fqFBmwBdXklrnVyrd.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/mn3mIflKE7QxEFXlVzDjSBLWWL6.jpg",
         "genre_ids": [
             99
@@ -106,29 +83,6 @@
         "overview": "",
         "popularity": 0.1448,
         "poster_path": "/sRSZtTdedeWvnT9A1eBN4tfnbOo.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "汉语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1685129,
-        "title": "阿崴",
-        "original_language": "zh",
-        "original_title": "阿崴",
-        "overview": "",
-        "popularity": 0.1276,
-        "poster_path": "/bfOkYzzoFZGLCRVsTutuvJsr6HX.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
@@ -164,6 +118,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1685129,
+        "title": "阿崴",
+        "original_language": "zh",
+        "original_title": "阿崴",
+        "overview": "",
+        "popularity": 0.1276,
+        "poster_path": "/bfOkYzzoFZGLCRVsTutuvJsr6HX.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t7kCXtAsb6qjkZXsrtuhX5KYxv3.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1650463,
+        "title": "飛吧！熊鷹",
+        "original_language": "zh",
+        "original_title": "飛吧！熊鷹",
+        "overview": "",
+        "popularity": 0.0937,
+        "poster_path": "/6PZhtkfnG5fqFBmwBdXklrnVyrd.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/smTYZM6iSRwB9BJXFkOTQ0rG1VM.jpg",
         "genre_ids": [
             18
@@ -182,33 +182,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/e7NygxiX8rTsHWthLc4zvwLzson.jpg",
-        "genre_ids": [
-            18,
-            9648,
-            53
-        ],
-        "id": 1380316,
-        "title": "Is God Is",
-        "original_language": "en",
-        "original_title": "Is God Is",
-        "overview": "",
-        "popularity": 4.6504,
-        "poster_path": "/5rY8gGfI2TnncJLkb8z0YpMhzSV.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 3.25,
-        "vote_count": 4,
-        "genre_ids_zh": [
-            "剧情",
-            "悬疑",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -343,29 +316,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            99
-        ],
-        "id": 1510214,
-        "title": "Tokyo In 33 RPM",
-        "original_language": "en",
-        "original_title": "Tokyo In 33 RPM",
-        "overview": "",
-        "popularity": 0.8015,
-        "poster_path": "/4gPZddF7H2v3M0BSPkcqTBhrIQU.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/6wq5XKefVl4n8lHfvGe1sUnqv9m.jpg",
         "genre_ids": [
             18,
@@ -388,6 +338,29 @@
             "剧情",
             "悬疑",
             "爱情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1510214,
+        "title": "Tokyo In 33 RPM",
+        "original_language": "en",
+        "original_title": "Tokyo In 33 RPM",
+        "overview": "",
+        "popularity": 0.8015,
+        "poster_path": "/4gPZddF7H2v3M0BSPkcqTBhrIQU.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -416,21 +389,50 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/zW0vt5ck2DYMePwH2Y2GUQoF08V.jpg",
-        "genre_ids": [],
-        "id": 1660401,
-        "title": "Northern Soul: Still Burning",
+        "backdrop_path": "/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1662317,
+        "title": "致命撞击：青春情杀案",
         "original_language": "en",
-        "original_title": "Northern Soul: Still Burning",
-        "overview": "",
-        "popularity": 0.2988,
-        "poster_path": "/7YgiKgejyfGJXYItzDP7hFicCPb.jpg",
+        "original_title": "The Crash",
+        "overview": "一名少女开车撞上一栋大楼，导致她的男友和及其朋友死亡。在这部纪录片中，一场看似悲惨的事故，竟演变成了一桩谋杀案。",
+        "popularity": 0.5003,
+        "poster_path": "/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u01trOCexpBMXMbq0Qr1PldObYH.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1683175,
+        "title": "Behind the 8 Ball",
+        "original_language": "en",
+        "original_title": "Behind the 8 Ball",
+        "overview": "",
+        "popularity": 0.4646,
+        "poster_path": "/wpbdYoeAi3Et30ale7FHo58kOLN.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -462,27 +464,69 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hv0yEzibS6sZxHOwG8vKa6FNYq.jpg",
+        "backdrop_path": "/xPs2mKGLcU7FpYJsMxFCYN8lroH.jpg",
         "genre_ids": [
-            99,
-            80
+            35,
+            18
         ],
-        "id": 1662317,
-        "title": "The Crash",
+        "id": 1585239,
+        "title": "俱乐部儿子",
         "original_language": "en",
-        "original_title": "The Crash",
-        "overview": "",
-        "popularity": 0.5003,
-        "poster_path": "/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg",
+        "original_title": "Club Kid",
+        "overview": "一个事业失败的派对发起人被迫照顾一个他此前根本不知道自己有的儿子，人生面临大转折",
+        "popularity": 0.3505,
+        "poster_path": "/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "犯罪"
+            "喜剧",
+            "剧情"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35
+        ],
+        "id": 1665429,
+        "title": "Lisa Ann Walter: It Was an Accident",
+        "original_language": "en",
+        "original_title": "Lisa Ann Walter: It Was an Accident",
+        "overview": "",
+        "popularity": 0.3167,
+        "poster_path": null,
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zW0vt5ck2DYMePwH2Y2GUQoF08V.jpg",
+        "genre_ids": [],
+        "id": 1660401,
+        "title": "Northern Soul: Still Burning",
+        "original_language": "en",
+        "original_title": "Northern Soul: Still Burning",
+        "overview": "",
+        "popularity": 0.2988,
+        "poster_path": "/7YgiKgejyfGJXYItzDP7hFicCPb.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -514,26 +558,28 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/xPs2mKGLcU7FpYJsMxFCYN8lroH.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            35,
-            18
+            28,
+            12,
+            53
         ],
-        "id": 1585239,
-        "title": "俱乐部儿子",
+        "id": 1196831,
+        "title": "A Guardian's Heart",
         "original_language": "en",
-        "original_title": "Club Kid",
-        "overview": "一个事业失败的派对发起人被迫照顾一个他此前根本不知道自己有的儿子，人生面临大转折",
-        "popularity": 0.3505,
-        "poster_path": "/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg",
+        "original_title": "A Guardian's Heart",
+        "overview": "",
+        "popularity": 0.2916,
+        "poster_path": "/92fqrMUdywov1obRMsVna4cD8Tm.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "剧情"
+            "动作",
+            "冒险",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -582,56 +628,6 @@
         "genre_ids_zh": [
             "战争",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1665429,
-        "title": "Lisa Ann Walter: It Was an Accident",
-        "original_language": "en",
-        "original_title": "Lisa Ann Walter: It Was an Accident",
-        "overview": "",
-        "popularity": 0.3167,
-        "poster_path": null,
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            28,
-            12,
-            53
-        ],
-        "id": 1196831,
-        "title": "A Guardian's Heart",
-        "original_language": "en",
-        "original_title": "A Guardian's Heart",
-        "overview": "",
-        "popularity": 0.2916,
-        "poster_path": "/92fqrMUdywov1obRMsVna4cD8Tm.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "冒险",
-            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -1466,29 +1462,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/u01trOCexpBMXMbq0Qr1PldObYH.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1683175,
-        "title": "Behind the 8 Ball",
-        "original_language": "en",
-        "original_title": "Behind the 8 Ball",
-        "overview": "",
-        "popularity": 0.4646,
-        "poster_path": "/wpbdYoeAi3Et30ale7FHo58kOLN.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/y9kVO9ufUeg3eEGj9rPcbJwLzor.jpg",
         "genre_ids": [
             35,
@@ -1587,75 +1560,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/o7FPDdssQP2TbAuUeC3n3rT3Vn7.jpg",
-        "genre_ids": [
-            35,
-            878
-        ],
-        "id": 1694211,
-        "title": "Bug Behind Schedule",
-        "original_language": "en",
-        "original_title": "Bug Behind Schedule",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": "/uXCI1hLECKnL26m1qtWzvnpEZ6c.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/u9pAygFe3cfeh3O2yMGm3X41rgl.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1694164,
-        "title": "Death at the Dinner Party",
-        "original_language": "en",
-        "original_title": "Death at the Dinner Party",
-        "overview": "",
-        "popularity": 0.0071,
-        "poster_path": "/xBImJpDHty1ywGbUdTyEc8qdztn.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1694098,
-        "title": "Kubler",
-        "original_language": "en",
-        "original_title": "Kubler",
-        "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/1vfyMqwnKxFr2s1VVsGeyhyknRs.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10402,
@@ -1680,6 +1584,29 @@
             "历史",
             "奇幻",
             "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uUcc45VIjEatJhcky3WZ23C3fQs.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1694941,
+        "title": "The Right Way is the Wrong Way",
+        "original_language": "en",
+        "original_title": "The Right Way is the Wrong Way",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/91jqGyay5hlWYagkv5IUnVF8sE4.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -1762,25 +1689,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hi1psz6ov6bgXyHRUgcwFayBqd7.jpg",
-        "genre_ids": [],
-        "id": 1623867,
-        "title": "映画『正直不動産』",
-        "original_language": "ja",
-        "original_title": "映画『正直不動産』",
-        "overview": "",
-        "popularity": 0.4325,
-        "poster_path": "/nB0wv8Vict5aI5XS0T7pAfgmhTg.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/px9bLLgBE7H5LitieUyqTOpMJw3.jpg",
         "genre_ids": [
             10749,
@@ -1802,6 +1710,25 @@
             "爱情",
             "剧情"
         ],
+        "original_language_zh": "日语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hi1psz6ov6bgXyHRUgcwFayBqd7.jpg",
+        "genre_ids": [],
+        "id": 1623867,
+        "title": "映画『正直不動産』",
+        "original_language": "ja",
+        "original_title": "映画『正直不動産』",
+        "overview": "",
+        "popularity": 0.4325,
+        "poster_path": "/nB0wv8Vict5aI5XS0T7pAfgmhTg.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "日语"
     },
     {
@@ -1829,21 +1756,25 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1680559,
-        "title": "JOTARO",
+        "backdrop_path": "/vPylm4YZKAppVIIlbXPdrosZ27n.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1692376,
+        "title": "トランジット・イン・フラミンゴ",
         "original_language": "ja",
-        "original_title": "JOTARO",
+        "original_title": "トランジット・イン・フラミンゴ",
         "overview": "",
-        "popularity": 0.1301,
-        "poster_path": "/seWuej89xIGPDviAsbPIj8Sq3my.jpg",
+        "popularity": 0.1393,
+        "poster_path": "/bOMD92imvC3UWPmVylDOGUNtlWE.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "剧情"
+        ],
         "original_language_zh": "日语"
     },
     {
@@ -1875,49 +1806,22 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/vPylm4YZKAppVIIlbXPdrosZ27n.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1692376,
-        "title": "トランジット・イン・フラミンゴ",
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1680559,
+        "title": "JOTARO",
         "original_language": "ja",
-        "original_title": "トランジット・イン・フラミンゴ",
+        "original_title": "JOTARO",
         "overview": "",
-        "popularity": 0.1393,
-        "poster_path": "/bOMD92imvC3UWPmVylDOGUNtlWE.jpg",
+        "popularity": 0.1301,
+        "poster_path": "/seWuej89xIGPDviAsbPIj8Sq3my.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "日语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/p9cdAwkoPkmSC370arNTcDCpZYX.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1473148,
-        "title": "温柔的怪物",
-        "original_language": "fr",
-        "original_title": "Gentle Monster",
-        "overview": "知名钢琴家与携家人搬到乡下生活后，她意外发现一个颠覆人生的真相，迫使她直面爱情、信任与欺骗的复杂纠葛。",
-        "popularity": 1.6637,
-        "poster_path": "/vER7UcKarHai0vP9ocHIu1wxJL3.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "法语"
     },
     {
         "adult": false,
@@ -1932,6 +1836,29 @@
         "overview": "",
         "popularity": 2.4445,
         "poster_path": "/7Q9PLVXTDA1yKLs43OfeukY6W2f.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p9cdAwkoPkmSC370arNTcDCpZYX.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1473148,
+        "title": "温柔的怪物",
+        "original_language": "fr",
+        "original_title": "Gentle Monster",
+        "overview": "知名钢琴家与携家人搬到乡下生活后，她意外发现一个颠覆人生的真相，迫使她直面爱情、信任与欺骗的复杂纠葛。",
+        "popularity": 1.6637,
+        "poster_path": "/vER7UcKarHai0vP9ocHIu1wxJL3.jpg",
         "release_date": "2026-05-15",
         "softcore": false,
         "video": false,
@@ -2067,6 +1994,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16
+        ],
+        "id": 1679616,
+        "title": "Short Cuts: Mississipi Burning d'Alan Parker",
+        "original_language": "fr",
+        "original_title": "Short Cuts: Mississipi Burning d'Alan Parker",
+        "overview": "",
+        "popularity": 0.0379,
+        "poster_path": null,
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/AsGYX4rJz0h2r7KxkBg5QpRECJJ.jpg",
         "genre_ids": [
             99,
@@ -2087,29 +2037,6 @@
         "genre_ids_zh": [
             "纪录",
             "音乐"
-        ],
-        "original_language_zh": "法语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1679616,
-        "title": "Short Cuts: Mississipi Burning d'Alan Parker",
-        "original_language": "fr",
-        "original_title": "Short Cuts: Mississipi Burning d'Alan Parker",
-        "overview": "",
-        "popularity": 0.0379,
-        "poster_path": null,
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "法语"
     },
@@ -2505,10 +2432,10 @@
             53
         ],
         "id": 1628367,
-        "title": "कर्तव्य",
+        "title": "执法交叉点",
         "original_language": "hi",
         "original_title": "कर्तव्य",
-        "overview": "",
+        "overview": "家人面临危险，险恶威胁逼近，这名警官必须决定他愿意为履行职责付出多大的代价。",
         "popularity": 0.8742,
         "poster_path": "/9VQvX7a05FgDKAiSGg71MHTXsyF.jpg",
         "release_date": "2026-05-15",
