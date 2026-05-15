@@ -293,6 +293,33 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10751,
+            10749,
+            10770
+        ],
+        "id": 1690269,
+        "title": "Faith & Forgiveness: A Duck Dynasty Love Story",
+        "original_language": "en",
+        "original_title": "Faith & Forgiveness: A Duck Dynasty Love Story",
+        "overview": "",
+        "popularity": 0.1911,
+        "poster_path": "/zmpL1U4CtwfUzSzBpaNDXqz7NLe.jpg",
+        "release_date": "2026-05-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "家庭",
+            "爱情",
+            "电视电影"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/jPqbn66SyfqC1V8mWw3GomwRZrs.jpg",
         "genre_ids": [
             878,
@@ -455,31 +482,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10751,
-            10749
-        ],
-        "id": 1690269,
-        "title": "Faith & Forgiveness: A Duck Dynasty Love Story",
-        "original_language": "en",
-        "original_title": "Faith & Forgiveness: A Duck Dynasty Love Story",
-        "overview": "",
-        "popularity": 0.1911,
-        "poster_path": "/zmpL1U4CtwfUzSzBpaNDXqz7NLe.jpg",
-        "release_date": "2026-05-16",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "家庭",
-            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -727,31 +729,6 @@
         "genre_ids_zh": [
             "恐怖",
             "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402,
-            10751
-        ],
-        "id": 1692912,
-        "title": "The Eurovision Song Contest: Vienna 2026",
-        "original_language": "en",
-        "original_title": "The Eurovision Song Contest: Vienna 2026",
-        "overview": "",
-        "popularity": 0.0487,
-        "poster_path": "/p8Bu8k6Fyudxnu6kFuC6fy6LPiX.jpg",
-        "release_date": "2026-05-16",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "家庭"
         ],
         "original_language_zh": "英语"
     },
