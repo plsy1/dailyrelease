@@ -88,7 +88,7 @@
         "original_language": "en",
         "original_name": "Dutton Ranch",
         "overview": "",
-        "popularity": 11.005,
+        "popularity": 15.1682,
         "poster_path": "/dfFx1bPBf2FvpxZ6FWYkFF4hWJx.jpg",
         "first_air_date": "2026-05-15",
         "softcore": false,
@@ -114,7 +114,7 @@
         "original_language": "en",
         "original_name": "Friends Conversate",
         "overview": "",
-        "popularity": 0.3395,
+        "popularity": 0.2872,
         "poster_path": null,
         "first_air_date": "2026-05-15",
         "softcore": false,
@@ -262,7 +262,7 @@
         "original_language": "nl",
         "original_name": "Hitster",
         "overview": "",
-        "popularity": 2.3307,
+        "popularity": 1.508,
         "poster_path": null,
         "first_air_date": "2026-05-15",
         "softcore": false,
@@ -296,5 +296,32 @@
             "犯罪"
         ],
         "original_language_zh": "印地语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6HEPZCIdTOw2pQvagkZU3fnKyr6.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 322554,
+        "origin_country": [
+            "土耳其"
+        ],
+        "original_language": "tr",
+        "original_name": "Leyla Hâli",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/n72eZsKVqOFMlojmX7c7Et2fBal.jpg",
+        "first_air_date": "2026-05-15",
+        "softcore": false,
+        "name": "Leyla Hâli",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "土耳其语"
     }
 ]
