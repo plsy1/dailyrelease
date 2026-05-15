@@ -823,6 +823,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/u9pAygFe3cfeh3O2yMGm3X41rgl.jpg",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "id": 1694164,
+        "title": "Death at the Dinner Party",
+        "original_language": "en",
+        "original_title": "Death at the Dinner Party",
+        "overview": "",
+        "popularity": 0.1557,
+        "poster_path": "/xBImJpDHty1ywGbUdTyEc8qdztn.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -1112,31 +1137,6 @@
         "genre_ids_zh": [
             "喜剧",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            9648
-        ],
-        "id": 1664910,
-        "title": "You Are Here",
-        "original_language": "en",
-        "original_title": "You Are Here",
-        "overview": "",
-        "popularity": 0.0928,
-        "poster_path": "/s0ZSpEE9jQ4yh4GDgk16VaUfDjY.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "悬疑"
         ],
         "original_language_zh": "英语"
     },
@@ -1573,31 +1573,6 @@
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/u9pAygFe3cfeh3O2yMGm3X41rgl.jpg",
-        "genre_ids": [
-            53,
-            18
-        ],
-        "id": 1694164,
-        "title": "Death at the Dinner Party",
-        "original_language": "en",
-        "original_title": "Death at the Dinner Party",
-        "overview": "",
-        "popularity": 0.1557,
-        "poster_path": "/xBImJpDHty1ywGbUdTyEc8qdztn.jpg",
-        "release_date": "2026-05-15",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚",
             "剧情"
         ],
         "original_language_zh": "英语"
