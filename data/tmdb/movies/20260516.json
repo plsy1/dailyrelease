@@ -16,8 +16,8 @@
         "release_date": "2026-05-16",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "剧情",
             "爱情"
@@ -49,7 +49,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/z2qdtCA5EGszrs5Zgi61bXCJLRq.jpg",
         "genre_ids": [
             18
         ],
@@ -876,6 +876,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/aEoePeulebBO1zdxZTmwtmjxXHK.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1644228,
+        "title": "GREED",
+        "original_language": "en",
+        "original_title": "GREED",
+        "overview": "",
+        "popularity": 0.0168,
+        "poster_path": "/k7DLwgs7p6nJe1j3FPDBLJ1BAbB.jpg",
+        "release_date": "2026-05-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             18
@@ -945,6 +968,44 @@
         "genre_ids_zh": [
             "纪录"
         ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sEK47VQZPPkQENviKtal6tCFIo.jpg",
+        "genre_ids": [],
+        "id": 1696258,
+        "title": "Apropos of Acid Snow: A Modern Underground (Parts I-III)",
+        "original_language": "en",
+        "original_title": "Apropos of Acid Snow: A Modern Underground (Parts I-III)",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mSdrW6BpzRkl5NSTGNtE6nllIVU.jpg",
+        "release_date": "2026-05-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1696122,
+        "title": "if i could do anything",
+        "original_language": "en",
+        "original_title": "if i could do anything",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
