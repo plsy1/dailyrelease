@@ -606,31 +606,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1575615,
-        "title": "TRY ME",
-        "original_language": "en",
-        "original_title": "TRY ME",
-        "overview": "",
-        "popularity": 0.0398,
-        "poster_path": "/551P1xB033Zu2Qkt1fEGIUJxYTe.jpg",
-        "release_date": "2026-05-17",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [],
         "id": 1691144,
         "title": "I",
@@ -1026,6 +1001,29 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            99
+        ],
+        "id": 1696870,
+        "title": "Doppelback - Mut zum Brot",
+        "original_language": "de",
+        "original_title": "Doppelback - Mut zum Brot",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/8bR6p4lIFQyuVPCR7CgdxWP62vm.jpg",
+        "release_date": "2026-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "德语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             18,
             36
         ],
@@ -1163,6 +1161,25 @@
             "科幻"
         ],
         "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dQReJpMlyFblUThpITyGabw3ZSz.jpg",
+        "genre_ids": [],
+        "id": 1694765,
+        "title": "Apostasia",
+        "original_language": "pt",
+        "original_title": "Apostasia",
+        "overview": "",
+        "popularity": 0.0421,
+        "poster_path": "/dDVLUk4ugf6P3Mpkk2soBvBGKGj.jpg",
+        "release_date": "2026-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
