@@ -105,7 +105,8 @@
         "adult": false,
         "backdrop_path": "/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
         "genre_ids": [
-            27
+            27,
+            53
         ],
         "id": 1368314,
         "title": "鬼上车",
@@ -120,7 +121,8 @@
         "vote_average": 10.0,
         "vote_count": 1,
         "genre_ids_zh": [
-            "恐怖"
+            "恐怖",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
@@ -248,6 +250,29 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sjCoJiyrIrcSYPovWQj4qOcW8qe.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1620269,
+        "title": "looksMAXXING",
+        "original_language": "en",
+        "original_title": "looksMAXXING",
+        "overview": "",
+        "popularity": 0.475,
+        "poster_path": "/dnZ7z6pN4bLz7lV5zHZmgW9uw9c.jpg",
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -530,31 +555,6 @@
         "genre_ids_zh": [
             "家庭",
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            28
-        ],
-        "id": 1692761,
-        "title": "B.E.W.B",
-        "original_language": "en",
-        "original_title": "B.E.W.B",
-        "overview": "",
-        "popularity": 0.0214,
-        "poster_path": "/d6uEssehEuwHRkHFIsF6sBCMmfm.jpg",
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "动作"
         ],
         "original_language_zh": "英语"
     },
