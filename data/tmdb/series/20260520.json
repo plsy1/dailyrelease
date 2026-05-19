@@ -78,6 +78,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/s1maFKCti1sNj5edX4a9jA4Pzws.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 322975,
+        "origin_country": [
+            "中国"
+        ],
+        "original_language": "zh",
+        "original_name": "亲爱的，小熊先生",
+        "overview": "儿时的一场大火，改变了三个人的命运。原本活泼外向的林庆恩，因那场剧变一夕之间失去了对生命的热情。然而，他先后遇见了两个男孩——顾嘉楠，如朝阳般，试图驱散他心中的黑暗；杜之扬，如星辰般，在无止境的黑夜里散发着光芒。他们分别陪伴了林庆恩度过最难捱的时光，温暖了他冰冷的心房。但是，命运的齿轮从不停止转动，两人各自留下一只小熊玩偶后，便暂别了林庆恩的人生。多年过去，那两个男孩又重回到林庆恩的生命里，这一次，所有的离别与遗憾，能不能被满满的深情所填补？",
+        "popularity": 0.0,
+        "poster_path": "/zyH4De4uywTMVcAZcLB1PymNyog.jpg",
+        "first_air_date": "2026-05-20",
+        "softcore": false,
+        "name": "亲爱的，小熊先生",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "汉语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/wyPBV8grWYM5QJRj3C0imBk5BtE.jpg",
         "genre_ids": [
             99
@@ -104,7 +129,9 @@
     {
         "adult": false,
         "backdrop_path": "/bSFDGf7xr1K6o0s10UtS0gpEQtq.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+            10764
+        ],
         "id": 318748,
         "origin_country": [
             "美国"
@@ -119,7 +146,9 @@
         "name": "Hosted by Nabela Noor",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "真人秀"
+        ],
         "original_language_zh": "英语"
     },
     {
