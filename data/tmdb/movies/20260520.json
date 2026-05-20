@@ -41,8 +41,8 @@
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 6.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "喜剧",
             "爱情"
@@ -560,6 +560,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/w7xvtVCYVbv3OYHfr0Blp6uCDWy.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1698550,
+        "title": "Bound to Die Trying",
+        "original_language": "en",
+        "original_title": "Bound to Die Trying",
+        "overview": "",
+        "popularity": 0.0643,
+        "poster_path": "/8EgSg4jvy00Oe23tbcFd5Fe8joY.jpg",
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             10751,
@@ -585,24 +608,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/gHI1DiiIdAYt4bXpTcZscNqQ81X.jpg",
         "genre_ids": [
-            53
+            18
         ],
-        "id": 1695751,
-        "title": "21",
+        "id": 1697069,
+        "title": "The End Of The Rainbow",
         "original_language": "en",
-        "original_title": "21",
+        "original_title": "The End Of The Rainbow",
         "overview": "",
-        "popularity": 0.1095,
-        "poster_path": "/nFIJWydtHuHr3FC5YlSKMPpYXeb.jpg",
+        "popularity": 0.0445,
+        "poster_path": "/8Xu7wwwST5qk6oGAIFNIn6fhuy1.jpg",
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "惊悚"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -633,52 +656,21 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/9mwCESEB2GKczKZSMFEwDeiQ1Mr.jpg",
-        "genre_ids": [
-            18,
-            53,
-            10749
-        ],
-        "id": 1697730,
-        "title": "By The Horns",
-        "original_language": "en",
-        "original_title": "By The Horns",
-        "overview": "",
-        "popularity": 0.0739,
-        "poster_path": "/mjwxaQcLCB8tkz4OD4FkO9jBNJw.jpg",
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "惊悚",
-            "爱情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            18
-        ],
-        "id": 1678347,
-        "title": "Sunday’s Children",
+        "genre_ids": [],
+        "id": 1690411,
+        "title": "Yellowfin",
         "original_language": "en",
-        "original_title": "Sunday’s Children",
+        "original_title": "Yellowfin",
         "overview": "",
-        "popularity": 0.0676,
-        "poster_path": "/86e3qLrn6rPLCBiMHL6mR5tFN2H.jpg",
+        "popularity": 0.0327,
+        "poster_path": null,
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -692,67 +684,6 @@
         "overview": "",
         "popularity": 0.0311,
         "poster_path": "/aydyxyQlR6rNrx2IYnXIpeCRQ9J.jpg",
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/gHI1DiiIdAYt4bXpTcZscNqQ81X.jpg",
-        "genre_ids": [
-            18
-        ],
-        "id": 1697069,
-        "title": "The End Of The Rainbow",
-        "original_language": "en",
-        "original_title": "The End Of The Rainbow",
-        "overview": "",
-        "popularity": 0.0445,
-        "poster_path": "/8Xu7wwwST5qk6oGAIFNIn6fhuy1.jpg",
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1441574,
-        "title": "Cabinet",
-        "original_language": "en",
-        "original_title": "Cabinet",
-        "overview": "",
-        "popularity": 0.077,
-        "poster_path": null,
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1690411,
-        "title": "Yellowfin",
-        "original_language": "en",
-        "original_title": "Yellowfin",
-        "overview": "",
-        "popularity": 0.0327,
-        "poster_path": null,
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
@@ -788,6 +719,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1678785,
+        "title": "Aldrig Nok",
+        "original_language": "en",
+        "original_title": "Aldrig Nok",
+        "overview": "",
+        "popularity": 0.0286,
+        "poster_path": null,
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/vbtAsrl6ByFLjbC85QTXZMZPkcI.jpg",
         "genre_ids": [
             37,
@@ -815,6 +765,50 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1678780,
+        "title": "Growing Stones, Flying Papers",
+        "original_language": "en",
+        "original_title": "Growing Stones, Flying Papers",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": null,
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l6JRFhSIG3h0SoPywT7jRke2RgK.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1649812,
+        "title": "InvaZion!",
+        "original_language": "en",
+        "original_title": "InvaZion!",
+        "overview": "",
+        "popularity": 0.0261,
+        "poster_path": "/hQ2pP3guCULg9KszSuFyEZghc8x.jpg",
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/qT2CjY1PaMI5mPfez0I1jJB0w7M.jpg",
         "genre_ids": [
             18
@@ -834,50 +828,6 @@
         "genre_ids_zh": [
             "剧情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35,
-            28
-        ],
-        "id": 1692761,
-        "title": "B.E.W.B",
-        "original_language": "en",
-        "original_title": "B.E.W.B",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": "/d6uEssehEuwHRkHFIsF6sBCMmfm.jpg",
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧",
-            "动作"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1678785,
-        "title": "Aldrig Nok",
-        "original_language": "en",
-        "original_title": "Aldrig Nok",
-        "overview": "",
-        "popularity": 0.0286,
-        "poster_path": null,
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -928,50 +878,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/l6JRFhSIG3h0SoPywT7jRke2RgK.jpg",
-        "genre_ids": [
-            18,
-            35
-        ],
-        "id": 1649812,
-        "title": "InvaZion!",
-        "original_language": "en",
-        "original_title": "InvaZion!",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": "/hQ2pP3guCULg9KszSuFyEZghc8x.jpg",
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "喜剧"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1678780,
-        "title": "Growing Stones, Flying Papers",
-        "original_language": "en",
-        "original_title": "Growing Stones, Flying Papers",
-        "overview": "",
-        "popularity": 0.0261,
-        "poster_path": null,
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27
@@ -996,20 +902,57 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            18,
+            10402,
+            27
+        ],
+        "id": 1699103,
+        "title": "anorexia nervosa",
+        "original_language": "en",
+        "original_title": "anorexia nervosa",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "音乐",
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uymtq0sQS01ALu87lDZbTtZTITB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            878
+        ],
         "id": 1698914,
         "title": "The Boys: Finale",
         "original_language": "en",
         "original_title": "The Boys: Finale",
         "overview": "",
         "popularity": 0.0,
-        "poster_path": "/s3sOHO0x3LbQ4nILC6HqaxltYPy.jpg",
+        "poster_path": "/qc5aTGslwYvt3tq6QV1oKCspL6u.jpg",
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
+        "vote_average": 5.0,
+        "vote_count": 2,
+        "genre_ids_zh": [
+            "动作",
+            "喜剧",
+            "犯罪",
+            "科幻"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -1039,24 +982,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/w7xvtVCYVbv3OYHfr0Blp6uCDWy.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            18
+            35,
+            28
         ],
-        "id": 1698550,
-        "title": "Bound to Die Trying",
+        "id": 1692761,
+        "title": "B.E.W.B",
         "original_language": "en",
-        "original_title": "Bound to Die Trying",
+        "original_title": "B.E.W.B",
         "overview": "",
-        "popularity": 0.0643,
-        "poster_path": "/8EgSg4jvy00Oe23tbcFd5Fe8joY.jpg",
+        "popularity": 0.0,
+        "poster_path": "/d6uEssehEuwHRkHFIsF6sBCMmfm.jpg",
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "剧情"
+            "喜剧",
+            "动作"
         ],
         "original_language_zh": "英语"
     },
@@ -1331,24 +1276,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/pbeGbAZzOqWLIyLvjNe38O21Mqv.jpg",
+        "backdrop_path": "/erwlYu5zV2eZO4v1p6T5yQ8piq9.jpg",
         "genre_ids": [
-            99
+            99,
+            18
         ],
-        "id": 1677549,
-        "title": "Herencia",
+        "id": 1698745,
+        "title": "Acumulando Des-trozos",
         "original_language": "es",
-        "original_title": "Herencia",
+        "original_title": "Acumulando Des-trozos",
         "overview": "",
-        "popularity": 0.0475,
-        "poster_path": "/wfwYrK4vS0GaSpETgHlHjB9qUBV.jpg",
+        "popularity": 0.0714,
+        "poster_path": "/br4p7JJIY61kMSr1iE1yB1pRz0e.jpg",
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "纪录",
+            "剧情"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1365,6 +1312,29 @@
         "overview": "",
         "popularity": 0.0561,
         "poster_path": "/hMWCXtGDW7TTWtGBFkuSzC9RD2P.jpg",
+        "release_date": "2026-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pbeGbAZzOqWLIyLvjNe38O21Mqv.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1677549,
+        "title": "Herencia",
+        "original_language": "es",
+        "original_title": "Herencia",
+        "overview": "",
+        "popularity": 0.0475,
+        "poster_path": "/wfwYrK4vS0GaSpETgHlHjB9qUBV.jpg",
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
@@ -1404,28 +1374,30 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/erwlYu5zV2eZO4v1p6T5yQ8piq9.jpg",
+        "backdrop_path": "/hTVnxT8hrLp85dqclK8slmnxvVK.jpg",
         "genre_ids": [
-            99,
-            18
+            27,
+            35,
+            53
         ],
-        "id": 1698745,
-        "title": "Acumulando Des-trozos",
-        "original_language": "es",
-        "original_title": "Acumulando Des-trozos",
+        "id": 1444203,
+        "title": "TOTEM",
+        "original_language": "pt",
+        "original_title": "TOTEM",
         "overview": "",
-        "popularity": 0.0714,
-        "poster_path": "/br4p7JJIY61kMSr1iE1yB1pRz0e.jpg",
+        "popularity": 0.0814,
+        "poster_path": "/aB7c9xmHUgbAJnfk1pJFARTG9Ze.jpg",
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录",
-            "剧情"
+            "恐怖",
+            "喜剧",
+            "惊悚"
         ],
-        "original_language_zh": "西班牙语"
+        "original_language_zh": "葡萄牙语"
     },
     {
         "adult": false,
@@ -1477,28 +1449,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/hTVnxT8hrLp85dqclK8slmnxvVK.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            35,
-            53
+            16
         ],
-        "id": 1444203,
-        "title": "TOTEM",
+        "id": 1690421,
+        "title": "Lúcido",
         "original_language": "pt",
-        "original_title": "TOTEM",
+        "original_title": "Lúcido",
         "overview": "",
-        "popularity": 0.0814,
-        "poster_path": "/aB7c9xmHUgbAJnfk1pJFARTG9Ze.jpg",
+        "popularity": 0.0239,
+        "poster_path": null,
         "release_date": "2026-05-20",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "喜剧",
-            "惊悚"
+            "动画"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1522,29 +1490,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "剧情"
-        ],
-        "original_language_zh": "葡萄牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            16
-        ],
-        "id": 1690421,
-        "title": "Lúcido",
-        "original_language": "pt",
-        "original_title": "Lúcido",
-        "overview": "",
-        "popularity": 0.0239,
-        "poster_path": null,
-        "release_date": "2026-05-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动画"
         ],
         "original_language_zh": "葡萄牙语"
     },
