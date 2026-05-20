@@ -18,7 +18,7 @@
         "release_date": "2026-05-21",
         "softcore": false,
         "video": false,
-        "vote_average": 6.0,
+        "vote_average": 7.0,
         "vote_count": 2,
         "genre_ids_zh": [
             "犯罪",
@@ -1073,7 +1073,7 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/cLn4JYE6W0UWeaZrYwG4P7d4sQ0.jpg",
         "genre_ids": [
             99
         ],
@@ -1083,7 +1083,7 @@
         "original_title": "Mon Coluche à moi",
         "overview": "",
         "popularity": 0.1476,
-        "poster_path": "/1ahD9bzgJaqkK4ER8xdMN88I3nl.jpg",
+        "poster_path": "/6J6MC9JBmeyXNXIe8DQxCuK3zEK.jpg",
         "release_date": "2026-05-21",
         "softcore": false,
         "video": false,
@@ -1292,6 +1292,29 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
+            27
+        ],
+        "id": 1670540,
+        "title": "Madrugada",
+        "original_language": "es",
+        "original_title": "Madrugada",
+        "overview": "",
+        "popularity": 0.0693,
+        "poster_path": null,
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
             35,
             10770,
             10749
@@ -1312,29 +1335,6 @@
             "喜剧",
             "电视电影",
             "爱情"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27
-        ],
-        "id": 1670540,
-        "title": "Madrugada",
-        "original_language": "es",
-        "original_title": "Madrugada",
-        "overview": "",
-        "popularity": 0.0693,
-        "poster_path": null,
-        "release_date": "2026-05-21",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "西班牙语"
     },
@@ -1363,17 +1363,42 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mJ2f7fDt8RTZWqAUeQCOYRcWQor.jpg",
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1699324,
+        "title": "La Cámara",
+        "original_language": "es",
+        "original_title": "La Cámara",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "喜剧"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
         "genre_ids": [
             35
         ],
-        "id": 1639600,
-        "title": "Quem tem com que me pague, não me deve nada",
+        "id": 1186936,
+        "title": "Uma Babá Gloriosa",
         "original_language": "pt",
-        "original_title": "Quem tem com que me pague, não me deve nada",
+        "original_title": "Uma Babá Gloriosa",
         "overview": "",
-        "popularity": 0.7197,
-        "poster_path": "/qzPxmqR1mGwsnCLhBeM9Tbb5cJW.jpg",
+        "popularity": 0.9292,
+        "poster_path": null,
         "release_date": "2026-05-21",
         "softcore": false,
         "video": false,
@@ -1386,26 +1411,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/tD7TKsMp7FJR1QvCyMajO12o5i5.jpg",
+        "backdrop_path": "/mJ2f7fDt8RTZWqAUeQCOYRcWQor.jpg",
         "genre_ids": [
-            27,
-            10749
+            35
         ],
-        "id": 1481626,
-        "title": "Love Kills",
+        "id": 1639600,
+        "title": "Quem Tem com Que Me Pague, Não Me Deve Nada",
         "original_language": "pt",
-        "original_title": "Love Kills",
+        "original_title": "Quem Tem com Que Me Pague, Não Me Deve Nada",
         "overview": "",
-        "popularity": 0.6379,
-        "poster_path": "/3wNCGiGrkrWJ7YlnqWwxrVQJfxX.jpg",
+        "popularity": 0.7197,
+        "poster_path": "/qzPxmqR1mGwsnCLhBeM9Tbb5cJW.jpg",
         "release_date": "2026-05-21",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "爱情"
+            "喜剧"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1434,24 +1457,26 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/tD7TKsMp7FJR1QvCyMajO12o5i5.jpg",
         "genre_ids": [
-            35
+            27,
+            10749
         ],
-        "id": 1186936,
-        "title": "Uma Babá Gloriosa",
+        "id": 1481626,
+        "title": "Love Kills",
         "original_language": "pt",
-        "original_title": "Uma Babá Gloriosa",
+        "original_title": "Love Kills",
         "overview": "",
-        "popularity": 0.9292,
-        "poster_path": null,
+        "popularity": 0.6379,
+        "poster_path": "/3wNCGiGrkrWJ7YlnqWwxrVQJfxX.jpg",
         "release_date": "2026-05-21",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "恐怖",
+            "爱情"
         ],
         "original_language_zh": "葡萄牙语"
     },
@@ -1499,6 +1524,25 @@
         "genre_ids_zh": [
             "剧情"
         ],
+        "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1699253,
+        "title": "A Natureza do Fim",
+        "original_language": "pt",
+        "original_title": "A Natureza do Fim",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/7J8h1ypjctAYwVJmox6hkAgnOMU.jpg",
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
         "original_language_zh": "葡萄牙语"
     },
     {
