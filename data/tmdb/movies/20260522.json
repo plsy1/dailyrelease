@@ -1195,33 +1195,6 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/a0C0c0HJzNtDxhDRTM6hV473uUu.jpg",
-        "genre_ids": [
-            28,
-            16,
-            878
-        ],
-        "id": 1699217,
-        "title": "Shin Shinobi (Proof of Concept)",
-        "original_language": "en",
-        "original_title": "Shin Shinobi (Proof of Concept)",
-        "overview": "",
-        "popularity": 0.0429,
-        "poster_path": "/sxjAPXRFPkjBrOzRT7L6GYtw3VB.jpg",
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "动作",
-            "动画",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": "/yjIEIffpHUtWP05ROJke36wJkNA.jpg",
         "genre_ids": [],
         "id": 1699059,
@@ -1256,8 +1229,8 @@
         "release_date": "2026-05-22",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
+        "vote_average": 1.0,
+        "vote_count": 1,
         "genre_ids_zh": [
             "冒险",
             "科幻"
