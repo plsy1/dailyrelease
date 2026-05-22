@@ -53,6 +53,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 1368881,
+        "title": "女士优先",
+        "original_language": "en",
+        "original_title": "Ladies First",
+        "overview": "达米安看似拥有一切：金钱、权力，和源源不断的艳遇。但就在即将升任顶尖广告公司的首席执行官之际，人生突然遭逢剧变。他苏醒过来，发现竟置身于自己最害怕的恶梦：一个由女性主宰的平行世界。曾经他在董事会议室里呼风唤雨，如今却人微言轻，还和变得强悍大胆的同事艾莉克斯起了冲突。随着游戏规则改变，艾莉克斯大权在握，这两人激烈争斗，共同演绎出这部想象权力结构翻转的趣味讽刺喜剧。",
+        "popularity": 9.1879,
+        "poster_path": "/pxDXrDjNHeliyrUJGliXCzpcrv9.jpg",
+        "release_date": "2026-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.8,
+        "vote_count": 3,
+        "genre_ids_zh": [
+            "喜剧"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
         "genre_ids": [
             27
@@ -71,29 +94,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "恐怖"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/oXgqQBrM0yzDfekMczIPdiJKlUB.jpg",
-        "genre_ids": [
-            35
-        ],
-        "id": 1368881,
-        "title": "女士优先",
-        "original_language": "en",
-        "original_title": "Ladies First",
-        "overview": "达米安看似拥有一切：金钱、权力，和源源不断的艳遇。但就在即将升任顶尖广告公司的首席执行官之际，人生突然遭逢剧变。他苏醒过来，发现竟置身于自己最害怕的恶梦：一个由女性主宰的平行世界。曾经他在董事会议室里呼风唤雨，如今却人微言轻，还和变得强悍大胆的同事艾莉克斯起了冲突。随着游戏规则改变，艾莉克斯大权在握，这两人激烈争斗，共同演绎出这部想象权力结构翻转的趣味讽刺喜剧。",
-        "popularity": 9.1879,
-        "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -122,24 +122,24 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/rIl9zE9hM3rk53kjAxR1EcTSGvy.jpg",
+        "backdrop_path": "/vaNrHYAKjPMGiy3f4kS1udlWEFU.jpg",
         "genre_ids": [
-            99
+            18
         ],
-        "id": 1382575,
-        "title": "The Balloonists",
+        "id": 1565173,
+        "title": "Sleeppers",
         "original_language": "en",
-        "original_title": "The Balloonists",
+        "original_title": "Sleeppers",
         "overview": "",
-        "popularity": 0.3324,
-        "poster_path": "/qpKKyj1OygRqPNntP7Z3ov5KmRb.jpg",
+        "popularity": 0.6205,
+        "poster_path": "/rjoglqCimaCaFgPrr1J6btTrF5y.jpg",
         "release_date": "2026-05-22",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "纪录"
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
@@ -169,6 +169,54 @@
             "动作",
             "动画",
             "冒险"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ehozSQRKL0g0xU8NsiR1vHDudMn.jpg",
+        "genre_ids": [
+            12,
+            878
+        ],
+        "id": 1698856,
+        "title": "Master of the Universe",
+        "original_language": "en",
+        "original_title": "Master of the Universe",
+        "overview": "",
+        "popularity": 0.3682,
+        "poster_path": "/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
+        "release_date": "2026-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "冒险",
+            "科幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rIl9zE9hM3rk53kjAxR1EcTSGvy.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 1382575,
+        "title": "The Balloonists",
+        "original_language": "en",
+        "original_title": "The Balloonists",
+        "overview": "",
+        "popularity": 0.3324,
+        "poster_path": "/qpKKyj1OygRqPNntP7Z3ov5KmRb.jpg",
+        "release_date": "2026-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -216,26 +264,74 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/9I1m2w9ehc3cZwQlaxE89BSr2rc.jpg",
         "genre_ids": [
-            35,
-            28
+            27,
+            18
         ],
-        "id": 1694125,
-        "title": "Bert's Dilemma",
+        "id": 1579120,
+        "title": "She Won't Bite",
         "original_language": "en",
-        "original_title": "Bert's Dilemma",
+        "original_title": "She Won't Bite",
         "overview": "",
-        "popularity": 0.0907,
-        "poster_path": "/izh3gBQ73IZAkF5PTnWdf5C8suJ.jpg",
+        "popularity": 0.2574,
+        "poster_path": "/jrhWrEIZasxmD1thuxRo8NhFFBo.jpg",
         "release_date": "2026-05-22",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧",
-            "动作"
+            "恐怖",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6S1UvFjk0HURLp2mwzQAK63wkgL.jpg",
+        "genre_ids": [
+            53
+        ],
+        "id": 1698152,
+        "title": "Everyone Has Something to Hide",
+        "original_language": "en",
+        "original_title": "Everyone Has Something to Hide",
+        "overview": "",
+        "popularity": 0.1991,
+        "poster_path": "/44ziQ7ILxKKmXY8I1D14AhaVoca.jpg",
+        "release_date": "2026-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "惊悚"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lWx4Nu88NDrFGaMhUewVqQUeKC9.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1689592,
+        "title": "Hiatus",
+        "original_language": "en",
+        "original_title": "Hiatus",
+        "overview": "",
+        "popularity": 0.1971,
+        "poster_path": "/5tcdfqbtoWw8KH9dEFdBeDqIwUc.jpg",
+        "release_date": "2026-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情",
+            "爱情"
         ],
         "original_language_zh": "英语"
     },
@@ -268,74 +364,43 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/6S1UvFjk0HURLp2mwzQAK63wkgL.jpg",
-        "genre_ids": [
-            53
-        ],
-        "id": 1698152,
-        "title": "Everyone Has Something to Hide",
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1386907,
+        "title": "Dreamlink",
         "original_language": "en",
-        "original_title": "Everyone Has Something to Hide",
+        "original_title": "Dreamlink",
         "overview": "",
-        "popularity": 0.1991,
-        "poster_path": "/44ziQ7ILxKKmXY8I1D14AhaVoca.jpg",
+        "popularity": 0.1703,
+        "poster_path": "/zgaY4ddNjeTxnsMnZkLrHaUbPAJ.jpg",
         "release_date": "2026-05-22",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "惊悚"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/9I1m2w9ehc3cZwQlaxE89BSr2rc.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            27,
-            18
+            35
         ],
-        "id": 1579120,
-        "title": "She Won't Bite",
+        "id": 1682506,
+        "title": "How'd It Go?",
         "original_language": "en",
-        "original_title": "She Won't Bite",
+        "original_title": "How'd It Go?",
         "overview": "",
-        "popularity": 0.2574,
-        "poster_path": "/jrhWrEIZasxmD1thuxRo8NhFFBo.jpg",
+        "popularity": 0.1511,
+        "poster_path": "/gYpRJDrmJ11ebSAGuvTkjUaFTCt.jpg",
         "release_date": "2026-05-22",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "恐怖",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lWx4Nu88NDrFGaMhUewVqQUeKC9.jpg",
-        "genre_ids": [
-            18,
-            10749
-        ],
-        "id": 1689592,
-        "title": "Hiatus",
-        "original_language": "en",
-        "original_title": "Hiatus",
-        "overview": "",
-        "popularity": 0.1971,
-        "poster_path": "/5tcdfqbtoWw8KH9dEFdBeDqIwUc.jpg",
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情",
-            "爱情"
+            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -361,29 +426,6 @@
         "genre_ids_zh": [
             "动作",
             "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            35
-        ],
-        "id": 1682506,
-        "title": "How'd It Go?",
-        "original_language": "en",
-        "original_title": "How'd It Go?",
-        "overview": "",
-        "popularity": 0.1511,
-        "poster_path": "/gYpRJDrmJ11ebSAGuvTkjUaFTCt.jpg",
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "喜剧"
         ],
         "original_language_zh": "英语"
     },
@@ -437,52 +479,21 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/ehozSQRKL0g0xU8NsiR1vHDudMn.jpg",
-        "genre_ids": [
-            12,
-            878
-        ],
-        "id": 1698856,
-        "title": "Master Of The Universe",
-        "original_language": "en",
-        "original_title": "Master Of The Universe",
-        "overview": "",
-        "popularity": 0.3682,
-        "poster_path": "/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 1.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "冒险",
-            "科幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
         "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35
-        ],
-        "id": 1636276,
-        "title": "Keep Young and Beautiful",
+        "genre_ids": [],
+        "id": 1681497,
+        "title": "Le bain des sirènes",
         "original_language": "en",
-        "original_title": "Keep Young and Beautiful",
+        "original_title": "Le bain des sirènes",
         "overview": "",
-        "popularity": 0.1046,
-        "poster_path": "/mRI7bCQMOn0B8b2wOXDM33hZpeP.jpg",
+        "popularity": 0.1363,
+        "poster_path": null,
         "release_date": "2026-05-22",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -677,44 +688,6 @@
             "恐怖",
             "剧情"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1386907,
-        "title": "Dreamlink",
-        "original_language": "en",
-        "original_title": "Dreamlink",
-        "overview": "",
-        "popularity": 0.1703,
-        "poster_path": "/zgaY4ddNjeTxnsMnZkLrHaUbPAJ.jpg",
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1681497,
-        "title": "Le bain des sirènes",
-        "original_language": "en",
-        "original_title": "Le bain des sirènes",
-        "overview": "",
-        "popularity": 0.1363,
-        "poster_path": null,
-        "release_date": "2026-05-22",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -2230,6 +2203,25 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1700390,
+        "title": "1159",
+        "original_language": "ru",
+        "original_title": "1159",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/3W73ldfG9JYDyWQ6M0Zfg7bWBAx.jpg",
+        "release_date": "2026-05-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "俄语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/h2rGdUEEKr3S6Pe6DXW5WvAkkz8.jpg",
         "genre_ids": [
             35,
@@ -2287,10 +2279,10 @@
             53
         ],
         "id": 1431071,
-        "title": "सिस्टम",
+        "title": "体制",
         "original_language": "hi",
         "original_title": "सिस्टम",
-        "overview": "",
+        "overview": "身为特权阶层的年轻女检察官内哈为了摆脱身上“靠爹上位”的标签，试图走出位高权重、专门帮富豪洗脱罪名的精英律师父亲的阴影。在被挑战必须连续胜诉十场案件后，她与一位精明世故、在底层摸爬滚打的法庭速记员萨里卡联手，在男性主导的司法界中为弱者发声。然而随着代理的案件层层剥开，内哈震惊地发现，所有的罪恶线索最终都指向了自己那利用法律漏洞操纵“体制”、包庇权贵的亲生父亲，两人随即在法庭上展开了一场关于正义与血缘的终极对决。",
         "popularity": 1.7054,
         "poster_path": "/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
         "release_date": "2026-05-22",
