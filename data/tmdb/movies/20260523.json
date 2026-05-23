@@ -503,6 +503,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/lKwbzEjyRGIbmaLt7ZgW8Do8Rxd.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1700833,
+        "title": "Don't Use It",
+        "original_language": "en",
+        "original_title": "Don't Use It",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/6B8k4cQahcWTWgGOQpyHtTw8wRF.jpg",
+        "release_date": "2026-05-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/cXCxwY4WzdGtegoV0GUkRf61Myi.jpg",
         "genre_ids": [
             10749,
@@ -1014,6 +1037,37 @@
             "悬疑"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/icm8w8j0AcSAQnGPxn6agUOPiaY.jpg",
+        "genre_ids": [
+            12,
+            16,
+            35,
+            10751,
+            14
+        ],
+        "id": 679702,
+        "title": "Ryjówka przeznaczenia",
+        "original_language": "pl",
+        "original_title": "Ryjówka przeznaczenia",
+        "overview": "",
+        "popularity": 0.0589,
+        "poster_path": "/tBsAaiZCVs6yRR7gdBonHqWL5VC.jpg",
+        "release_date": "2026-05-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "冒险",
+            "动画",
+            "喜剧",
+            "家庭",
+            "奇幻"
+        ],
+        "original_language_zh": "波兰语"
     },
     {
         "adult": false,
