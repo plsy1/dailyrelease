@@ -17,8 +17,8 @@
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
-        "vote_average": 5.2,
-        "vote_count": 8,
+        "vote_average": 4.9,
+        "vote_count": 12,
         "genre_ids_zh": [
             "恐怖",
             "悬疑",
@@ -78,21 +78,27 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/mAbVQNYRZVu4jvWYg9kPZ5wguzP.jpg",
-        "genre_ids": [],
-        "id": 1662390,
-        "title": "Penny in the Sky",
+        "backdrop_path": null,
+        "genre_ids": [
+            10402,
+            99
+        ],
+        "id": 1535130,
+        "title": "Kylie: Tension Tour Live",
         "original_language": "en",
-        "original_title": "Penny in the Sky",
+        "original_title": "Kylie: Tension Tour Live",
         "overview": "",
-        "popularity": 0.4813,
-        "poster_path": "/A49bUnSkkpBrKbU6agyTm5aC7Pz.jpg",
+        "popularity": 0.6139,
+        "poster_path": "/nb8dG8v8ziY54QX4UqPz4c4Jlj8.jpg",
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "音乐",
+            "纪录"
+        ],
         "original_language_zh": "英语"
     },
     {
@@ -122,27 +128,21 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            10402,
-            99
-        ],
-        "id": 1535130,
-        "title": "Kylie: Tension Tour Live",
+        "backdrop_path": "/mAbVQNYRZVu4jvWYg9kPZ5wguzP.jpg",
+        "genre_ids": [],
+        "id": 1662390,
+        "title": "Penny in the Sky",
         "original_language": "en",
-        "original_title": "Kylie: Tension Tour Live",
+        "original_title": "Penny in the Sky",
         "overview": "",
-        "popularity": 0.6139,
-        "poster_path": "/aeC76wkbE7n2Jy3yjROAVBosnKz.jpg",
+        "popularity": 0.4813,
+        "poster_path": "/A49bUnSkkpBrKbU6agyTm5aC7Pz.jpg",
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [
-            "音乐",
-            "纪录"
-        ],
+        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -167,6 +167,100 @@
         "genre_ids_zh": [
             "喜剧",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hY1c5Q3SVmei0Gi0hxSYb98Z6yB.jpg",
+        "genre_ids": [
+            35,
+            16,
+            28,
+            14
+        ],
+        "id": 1700557,
+        "title": "Back to Bones",
+        "original_language": "en",
+        "original_title": "Back to Bones",
+        "overview": "",
+        "popularity": 0.2466,
+        "poster_path": "/kSrQUiORoTvtcZY3JiNIy1Xt9OT.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "喜剧",
+            "动画",
+            "动作",
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6pqjshyBWtaQgEVVpZoP2kCsoCP.jpg",
+        "genre_ids": [
+            14
+        ],
+        "id": 1700996,
+        "title": "Tukuy",
+        "original_language": "en",
+        "original_title": "Tukuy",
+        "overview": "",
+        "popularity": 0.2156,
+        "poster_path": "/hthx7Zb6ZEKvEt1CIivIRrWLqWj.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "奇幻"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tEVvrQv6qJOzY0GvOc8hvSKKjdZ.jpg",
+        "genre_ids": [],
+        "id": 1694433,
+        "title": "Loves Company",
+        "original_language": "en",
+        "original_title": "Loves Company",
+        "overview": "",
+        "popularity": 0.2142,
+        "poster_path": "/5DTn6L7C9fp3Ev81BkphDWEm1T0.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1661218,
+        "title": "Cold War in Philly",
+        "original_language": "en",
+        "original_title": "Cold War in Philly",
+        "overview": "",
+        "popularity": 0.2074,
+        "poster_path": "/q9cyTup1up4IvHH7pxzHyfzFRbj.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
         ],
         "original_language_zh": "英语"
     },
@@ -199,6 +293,102 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/snR7jiIHnoFiLyrYjmd2PEuOmK5.jpg",
+        "genre_ids": [
+            27,
+            53,
+            18
+        ],
+        "id": 1696456,
+        "title": "The Molding",
+        "original_language": "en",
+        "original_title": "The Molding",
+        "overview": "",
+        "popularity": 0.1819,
+        "poster_path": "/4gDx7lhXF5kErM1LO9hLKmH4vNh.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖",
+            "惊悚",
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hWUYiYYk4BtO7AJvooWJdH9gCdZ.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1700100,
+        "title": "Passage",
+        "original_language": "en",
+        "original_title": "Passage",
+        "overview": "",
+        "popularity": 0.1695,
+        "poster_path": "/agdFglGrpc1VuSwItVHi8nKVxkv.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1689814,
+        "title": "Next in Line",
+        "original_language": "en",
+        "original_title": "Next in Line",
+        "overview": "",
+        "popularity": 0.1384,
+        "poster_path": "/7YlqBumfZH294XoIsWKf9CyuC5o.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXzl16DXj7iTrt53pc7NS9qWrfx.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 1516242,
+        "title": "Red Herring",
+        "original_language": "en",
+        "original_title": "Red Herring",
+        "overview": "",
+        "popularity": 0.1346,
+        "poster_path": "/yxW8xUqzK0eqtoewft4lI3aTFdd.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             35,
@@ -219,35 +409,6 @@
         "genre_ids_zh": [
             "喜剧",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/hY1c5Q3SVmei0Gi0hxSYb98Z6yB.jpg",
-        "genre_ids": [
-            35,
-            16,
-            28,
-            14
-        ],
-        "id": 1700557,
-        "title": "Back to Bones",
-        "original_language": "en",
-        "original_title": "Back to Bones",
-        "overview": "",
-        "popularity": 0.2466,
-        "poster_path": "/kSrQUiORoTvtcZY3JiNIy1Xt9OT.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "喜剧",
-            "动画",
-            "动作",
-            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -303,88 +464,52 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            35
+            27,
+            35,
+            53
         ],
-        "id": 1470464,
-        "title": "Pee Pressure",
+        "id": 1627071,
+        "title": "Buyer Beware",
         "original_language": "en",
-        "original_title": "Pee Pressure",
+        "original_title": "Buyer Beware",
         "overview": "",
-        "popularity": 0.1625,
-        "poster_path": "/qLyvRkxMAG2lvhHMw2plViUrTu.jpg",
+        "popularity": 0.0973,
+        "poster_path": null,
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "喜剧"
+            "恐怖",
+            "喜剧",
+            "惊悚"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/hWUYiYYk4BtO7AJvooWJdH9gCdZ.jpg",
+        "backdrop_path": "/owTaDytWH8nJXEnadKroioPtifY.jpg",
         "genre_ids": [
-            18
-        ],
-        "id": 1700100,
-        "title": "Passage",
-        "original_language": "en",
-        "original_title": "Passage",
-        "overview": "",
-        "popularity": 0.1695,
-        "poster_path": "/agdFglGrpc1VuSwItVHi8nKVxkv.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
+            10402,
             99
         ],
-        "id": 1661218,
-        "title": "Cold War in Philly",
+        "id": 1702619,
+        "title": "Billions Club Live with Olivia Rodrigo: A Concert Film",
         "original_language": "en",
-        "original_title": "Cold War in Philly",
+        "original_title": "Billions Club Live with Olivia Rodrigo: A Concert Film",
         "overview": "",
-        "popularity": 0.2074,
-        "poster_path": "/q9cyTup1up4IvHH7pxzHyfzFRbj.jpg",
+        "popularity": 0.0857,
+        "poster_path": "/1tBAfhRPI9VP5igDDClbfGrXQDf.jpg",
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
+            "音乐",
             "纪录"
         ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/tEVvrQv6qJOzY0GvOc8hvSKKjdZ.jpg",
-        "genre_ids": [],
-        "id": 1694433,
-        "title": "Loves Company",
-        "original_language": "en",
-        "original_title": "Loves Company",
-        "overview": "",
-        "popularity": 0.2142,
-        "poster_path": "/5DTn6L7C9fp3Ev81BkphDWEm1T0.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
         "original_language_zh": "英语"
     },
     {
@@ -415,129 +540,6 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
-        "id": 1689814,
-        "title": "Next in Line",
-        "original_language": "en",
-        "original_title": "Next in Line",
-        "overview": "",
-        "popularity": 0.1384,
-        "poster_path": "/7YlqBumfZH294XoIsWKf9CyuC5o.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/6pqjshyBWtaQgEVVpZoP2kCsoCP.jpg",
-        "genre_ids": [
-            14
-        ],
-        "id": 1700996,
-        "title": "Tukuy",
-        "original_language": "en",
-        "original_title": "Tukuy",
-        "overview": "",
-        "popularity": 0.2156,
-        "poster_path": "/hthx7Zb6ZEKvEt1CIivIRrWLqWj.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "奇幻"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-            27,
-            35,
-            53
-        ],
-        "id": 1627071,
-        "title": "Buyer Beware",
-        "original_language": "en",
-        "original_title": "Buyer Beware",
-        "overview": "",
-        "popularity": 0.0973,
-        "poster_path": null,
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "喜剧",
-            "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/snR7jiIHnoFiLyrYjmd2PEuOmK5.jpg",
-        "genre_ids": [
-            27,
-            53,
-            18
-        ],
-        "id": 1696456,
-        "title": "The Molding",
-        "original_language": "en",
-        "original_title": "The Molding",
-        "overview": "",
-        "popularity": 0.1819,
-        "poster_path": "/4gDx7lhXF5kErM1LO9hLKmH4vNh.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖",
-            "惊悚",
-            "剧情"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/mXzl16DXj7iTrt53pc7NS9qWrfx.jpg",
-        "genre_ids": [
-            9648,
-            53,
-            80
-        ],
-        "id": 1516242,
-        "title": "Red Herring",
-        "original_language": "en",
-        "original_title": "Red Herring",
-        "overview": "",
-        "popularity": 0.1346,
-        "poster_path": "/yxW8xUqzK0eqtoewft4lI3aTFdd.jpg",
-        "release_date": "2026-05-27",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "悬疑",
-            "惊悚",
-            "犯罪"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": null,
         "genre_ids": [
             10749,
             18
@@ -557,6 +559,31 @@
         "genre_ids_zh": [
             "爱情",
             "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            14
+        ],
+        "id": 1702629,
+        "title": "Foam-Born",
+        "original_language": "en",
+        "original_title": "Foam-Born",
+        "overview": "",
+        "popularity": 0.0143,
+        "poster_path": "/fkGXV37vKhxqUAH93XC1KG3fWi4.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "动画",
+            "奇幻"
         ],
         "original_language_zh": "英语"
     },
@@ -589,49 +616,97 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-            16,
-            14
+            53,
+            18
         ],
-        "id": 1702629,
-        "title": "Foam-Born",
+        "id": 1703036,
+        "title": "Broken",
         "original_language": "en",
-        "original_title": "Foam-Born",
+        "original_title": "Broken",
         "overview": "",
-        "popularity": 0.0143,
-        "poster_path": "/fkGXV37vKhxqUAH93XC1KG3fWi4.jpg",
+        "popularity": 0.0,
+        "poster_path": "/klSjvgZHpc9VlZPBxN2xRHuGXKe.jpg",
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "动画",
-            "奇幻"
+            "惊悚",
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
     {
         "adult": false,
-        "backdrop_path": "/owTaDytWH8nJXEnadKroioPtifY.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-            10402,
-            99
+            18
         ],
-        "id": 1702619,
-        "title": "Billions Club Live with Olivia Rodrigo: A Concert Film",
+        "id": 1703000,
+        "title": "IBIU",
         "original_language": "en",
-        "original_title": "Billions Club Live with Olivia Rodrigo: A Concert Film",
+        "original_title": "IBIU",
         "overview": "",
-        "popularity": 0.0857,
-        "poster_path": "/1tBAfhRPI9VP5igDDClbfGrXQDf.jpg",
+        "popularity": 0.0,
+        "poster_path": "/h3d52sYW741WFBAjNRnfPZ5Z9eR.jpg",
         "release_date": "2026-05-27",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
-            "音乐",
-            "纪录"
+            "剧情"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            36,
+            99,
+            10402
+        ],
+        "id": 1702997,
+        "title": "Hound Dog’s Release",
+        "original_language": "en",
+        "original_title": "Hound Dog’s Release",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/mQ4SLSUmswWMmyW9krrXJ3IbfMr.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "历史",
+            "纪录",
+            "音乐"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ku1ngTsZtFbOsNL6nPeS7tgTKqg.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1702975,
+        "title": "IBIU",
+        "original_language": "en",
+        "original_title": "IBIU",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/l0WLPQNPADIYJ0vLR8c37hdiJLN.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
         ],
         "original_language_zh": "英语"
     },
