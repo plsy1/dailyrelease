@@ -105,24 +105,28 @@
     },
     {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 323853,
-        "origin_country": [
-            "法国"
+        "backdrop_path": "/vZpmSAH475yJdzqXzAt9FGnRp9a.jpg",
+        "genre_ids": [
+            18
         ],
-        "original_language": "fr",
-        "original_name": "Spider-Noir - Noir et Blanc",
-        "overview": "",
-        "popularity": 0.0,
-        "poster_path": null,
+        "id": 320671,
+        "origin_country": [
+            "韩国"
+        ],
+        "original_language": "ko",
+        "original_name": "폐업하겠습니다, 직원님",
+        "overview": "本剧是一部BL题材短剧。故事讲述了酒吧的热血员工河允迎来老板的孙子柳真作为新任老板，由于柳真计划关闭酒吧，河允在阻止他的过程中与之发生冲突，两人也因此逐渐走近。",
+        "popularity": 0.0735,
+        "poster_path": "/ziNtuMr7245e0qlfa4saHCLKDfF.jpg",
         "first_air_date": "2026-05-27",
         "softcore": false,
-        "name": "Spider-Noir - Noir et Blanc",
+        "name": "我要停业了，助理先生/小姐。",
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
-        "original_language_zh": "法语"
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "韩语"
     },
     {
         "adult": false,
@@ -152,30 +156,5 @@
             "剧情"
         ],
         "original_language_zh": "意大利语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/atn3CNyEsAXFrBBAaQZl3uqamhC.jpg",
-        "genre_ids": [
-            99
-        ],
-        "id": 322255,
-        "origin_country": [
-            "荷兰"
-        ],
-        "original_language": "nl",
-        "original_name": "Nachtkinderen",
-        "overview": "",
-        "popularity": 0.0416,
-        "poster_path": null,
-        "first_air_date": "2026-05-27",
-        "softcore": false,
-        "name": "Nachtkinderen",
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "纪录"
-        ],
-        "original_language_zh": "荷兰语"
     }
 ]
