@@ -103,6 +103,27 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [],
+        "id": 324004,
+        "origin_country": [
+            "美国"
+        ],
+        "original_language": "en",
+        "original_name": "もぎたて!",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-29",
+        "softcore": false,
+        "name": "もぎたて!",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
         "id": 321402,
         "origin_country": [
             "日本"
@@ -242,5 +263,30 @@
             "剧情"
         ],
         "original_language_zh": "葡萄牙语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10764
+        ],
+        "id": 324003,
+        "origin_country": [
+            "荷兰"
+        ],
+        "original_language": "nl",
+        "original_name": "De Selectie",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": null,
+        "first_air_date": "2026-05-29",
+        "softcore": false,
+        "name": "De Selectie",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "真人秀"
+        ],
+        "original_language_zh": "荷兰语"
     }
 ]
