@@ -91,7 +91,7 @@
         "poster_path": "/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
         "first_air_date": "2026-05-29",
         "softcore": false,
-        "name": "Rafa",
+        "name": "纳达尔",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -111,12 +111,12 @@
         ],
         "original_language": "en",
         "original_name": "Calabasas Confidential",
-        "overview": "",
+        "overview": "几十年来，真人秀节目的“皇室”们一直居住在加州洛杉矶郊区的卡拉巴萨斯。如今，新一代明星即将在《卡拉巴萨斯机密》中加入他们的行列。\n\n在Netflix的全新真人秀剧集《卡拉巴萨斯机密》中，镜头将跟随一群儿时好友、前任和对手，他们在阔别四年后重返卡拉巴萨斯的山坡豪宅。大学刚毕业，他们又陷入了他们以为已经告别的纷扰之中。随着旧情复燃，埋藏的矛盾再次浮现，这些年轻人被迫在养育他们的小镇上面对未竟的事业和不确定的未来。\n\n这群卡拉巴萨斯人分别于2020年和2021年高中毕业，之后都前往这片魅力四射的聚居地之外的大学就读。现在，他们必须规划未来的人生，同时还要处理那些仍然萦绕在家乡的记忆和人际关系。",
         "popularity": 0.5384,
         "poster_path": "/2kKpGTxUx7JMk4uUOd7mDdNM9gF.jpg",
         "first_air_date": "2026-05-29",
         "softcore": false,
-        "name": "Calabasas Confidential",
+        "name": "毕业贵族的绝密关系",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -266,6 +266,27 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 324050,
+        "origin_country": [
+            "西班牙"
+        ],
+        "original_language": "es",
+        "original_name": "Abandonados",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+        "first_air_date": "2026-05-29",
+        "softcore": false,
+        "name": "Abandonados",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/zmHbIGIgFN9zYK78ei7ZnpnrOEV.jpg",
         "genre_ids": [
             18
@@ -276,12 +297,12 @@
         ],
         "original_language": "pt",
         "original_name": "Brasil 70: A Saga do Tri",
-        "overview": "",
+        "overview": "足球巨星贝利、雅尔津霍和卡洛斯·阿尔贝托领衔巴西队向世界杯冠军发起冲击。他们的征程融合了球场上的辉煌与场外的挑战，展现了一个国家为赢得足球最高荣誉而奋斗的精神。",
         "popularity": 2.5525,
         "poster_path": "/gGVvMitZmPRo14FrttGAX7OHZo0.jpg",
         "first_air_date": "2026-05-29",
         "softcore": false,
-        "name": "Brasil 70: A Saga do Tri",
+        "name": "巴西1970：三冠传奇",
         "vote_average": 0.0,
         "vote_count": 0,
         "genre_ids_zh": [
@@ -313,5 +334,30 @@
             "真人秀"
         ],
         "original_language_zh": "荷兰语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a02tvXSwnqFfMz4obmA2zDEp1qZ.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 324055,
+        "origin_country": [
+            "挪威"
+        ],
+        "original_language": "no",
+        "original_name": "Fotballens Grønne Kriger",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/5P9UFBjnCz0kFEK9yeZuvPjtLUk.jpg",
+        "first_air_date": "2026-05-29",
+        "softcore": false,
+        "name": "Fotballens Grønne Kriger",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "挪威语"
     }
 ]
