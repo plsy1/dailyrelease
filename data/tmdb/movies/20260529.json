@@ -51,6 +51,29 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/5w39MGjAbDFdNmmXeuyUZeZWXxI.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1598802,
+        "title": "Primal Darkness",
+        "original_language": "en",
+        "original_title": "Primal Darkness",
+        "overview": "",
+        "popularity": 1.2348,
+        "poster_path": "/aIoX6NAilzbYD94tsqkLkigpQ1w.jpg",
+        "release_date": "2026-05-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "恐怖"
+        ],
+        "original_language_zh": "英语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/39V1TQtkFZb3Q0AnnfwjTwGyRmU.jpg",
         "genre_ids": [
             28,
@@ -73,29 +96,6 @@
             "动作",
             "恐怖",
             "惊悚"
-        ],
-        "original_language_zh": "英语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/5w39MGjAbDFdNmmXeuyUZeZWXxI.jpg",
-        "genre_ids": [
-            27
-        ],
-        "id": 1598802,
-        "title": "Primal Darkness",
-        "original_language": "en",
-        "original_title": "Primal Darkness",
-        "overview": "",
-        "popularity": 1.2348,
-        "poster_path": "/aIoX6NAilzbYD94tsqkLkigpQ1w.jpg",
-        "release_date": "2026-05-29",
-        "softcore": false,
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "genre_ids_zh": [
-            "恐怖"
         ],
         "original_language_zh": "英语"
     },
@@ -2308,20 +2308,24 @@
     {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+            99
+        ],
         "id": 1691435,
         "title": "Smack",
         "original_language": "it",
         "original_title": "Smack",
         "overview": "",
         "popularity": 0.2088,
-        "poster_path": null,
+        "poster_path": "/c0rAwJjn4iS7JpPVlDXOmXJdOye.jpg",
         "release_date": "2026-05-29",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0,
-        "genre_ids_zh": [],
+        "genre_ids_zh": [
+            "纪录"
+        ],
         "original_language_zh": "意大利语"
     },
     {
