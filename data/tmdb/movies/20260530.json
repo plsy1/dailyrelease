@@ -1610,6 +1610,31 @@
     },
     {
         "adult": false,
+        "backdrop_path": "/2Up9uH6hgico9J2YE9XraCGcZVz.jpg",
+        "genre_ids": [
+            99,
+            10751
+        ],
+        "id": 1704093,
+        "title": "Kairos",
+        "original_language": "es",
+        "original_title": "Kairos",
+        "overview": "",
+        "popularity": 0.1214,
+        "poster_path": "/4Cce1J8xXU35X0lx5rnWo8FIw8N.jpg",
+        "release_date": "2026-05-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1,
+        "genre_ids_zh": [
+            "纪录",
+            "家庭"
+        ],
+        "original_language_zh": "西班牙语"
+    },
+    {
+        "adult": false,
         "backdrop_path": null,
         "genre_ids": [
             27,
@@ -1653,31 +1678,6 @@
         "vote_count": 0,
         "genre_ids_zh": [
             "纪录"
-        ],
-        "original_language_zh": "西班牙语"
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/2Up9uH6hgico9J2YE9XraCGcZVz.jpg",
-        "genre_ids": [
-            99,
-            10751
-        ],
-        "id": 1704093,
-        "title": "Kairos",
-        "original_language": "es",
-        "original_title": "Kairos",
-        "overview": "",
-        "popularity": 0.1214,
-        "poster_path": "/4Cce1J8xXU35X0lx5rnWo8FIw8N.jpg",
-        "release_date": "2026-05-30",
-        "softcore": false,
-        "video": false,
-        "vote_average": 10.0,
-        "vote_count": 1,
-        "genre_ids_zh": [
-            "纪录",
-            "家庭"
         ],
         "original_language_zh": "西班牙语"
     },
