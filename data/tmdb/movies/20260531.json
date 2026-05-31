@@ -1162,6 +1162,52 @@
     },
     {
         "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 1705489,
+        "title": "Le pacte des Louves",
+        "original_language": "fr",
+        "original_title": "Le pacte des Louves",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/zEcX134wPnJJOWnChxrf3e4EpKy.jpg",
+        "release_date": "2026-05-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "纪录"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yINLlIy5SjQhsip6eLVzw8gjd75.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1705442,
+        "title": "Comme toi",
+        "original_language": "fr",
+        "original_title": "Comme toi",
+        "overview": "",
+        "popularity": 0.0,
+        "poster_path": "/bH2vzhkGb3wbgd951oNK81mJJMp.jpg",
+        "release_date": "2026-05-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "genre_ids_zh": [
+            "剧情"
+        ],
+        "original_language_zh": "法语"
+    },
+    {
+        "adult": false,
         "backdrop_path": "/uonO9NUJOsw6mg9iPWW3UCleFyh.jpg",
         "genre_ids": [
             27,
@@ -1433,7 +1479,7 @@
         "original_title": "Жужа",
         "overview": "",
         "popularity": 0.0387,
-        "poster_path": null,
+        "poster_path": "/vogVE9flOOOAquLCLvGjwQHPIvA.jpg",
         "release_date": "2026-05-31",
         "softcore": false,
         "video": false,
@@ -1456,7 +1502,7 @@
         "original_title": "Сёрф Животное",
         "overview": "",
         "popularity": 0.0956,
-        "poster_path": null,
+        "poster_path": "/1thXb8ToV9BcHYLKiIYInjTI5rG.jpg",
         "release_date": "2026-05-31",
         "softcore": false,
         "video": false,
